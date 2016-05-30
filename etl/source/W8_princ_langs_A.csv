@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+W8_princ_langs_A,PUBLISHED,2014,AFR,BEN,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,CPV,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,CAF,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,COD,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,ERI,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,GMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,RWA,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,STP,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,SEN,No,,,,Regulations are pending
+W8_princ_langs_A,PUBLISHED,2014,AFR,SWZ,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,ZMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,ZWE,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,BHS,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,SUR,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,MAR,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,TJK,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,BTN,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,PRK,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,MHL,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,PNG,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,TON,No,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,TUV,No,,,,Regulations are pending
+W8_princ_langs_A,PUBLISHED,2014,AFR,DZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,BFA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,CMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,TCD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,COM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,COG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,CIV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,ETH,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,GAB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,GHA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,GIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,KEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,MDG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,MLI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,MUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,MOZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,NAM,Yes,,,,Provision adopted but not implemented by 31 December 2014.
+W8_princ_langs_A,PUBLISHED,2014,AFR,NER,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,NGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,SYC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,ZAF,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,TGO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,UGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,TZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,ARG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,BLZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,BOL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,BRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,CAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,CHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,COL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,CRI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,CUB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,DOM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,ECU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,SLV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,GTM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,GUY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,HND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,JAM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,MEX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,NIC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,PAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,PRY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,PER,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,TTO,Yes,,,,Provision adopted but not implemented by 31 December 2014.
+W8_princ_langs_A,PUBLISHED,2014,AMR,USA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,URY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AMR,VEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,BHR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,DJI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,EGY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,IRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,IRQ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,JOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,KWT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,LBN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,LBY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,OMN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,PAK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,QAT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,SAU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,SDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,SYR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,TUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,ARE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EMR,YEM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ALB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ARM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,AUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,AZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,BLR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,BEL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,BGR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,HRV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,CYP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,CZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,DNK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,EST,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,FIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,FRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,GEO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,DEU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,GRC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,HUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ISL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,IRL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ISR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ITA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,KAZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,KGZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,LVA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,LTU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,LUX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,MLT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,MNE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,NLD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,NOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,POL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,PRT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,MDA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ROU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,RUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,SRB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,SVK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,SVN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,ESP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,SWE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,CHE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,MKD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,TUR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,TKM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,UKR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,GBR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,EUR,UZB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,BGD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,IND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,IDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,MDV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,MMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,NPL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,LKA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,THA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,SEAR,TLS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,AUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,BRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,KHM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,CHN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,COK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,FJI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,JPN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,KIR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,LAO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,MYS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,MNG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,NRU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,NZL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,PHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,KOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,WSM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,SGP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,SLB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,VUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,WPR,VNM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,BEN,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,CPV,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,CAF,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,COD,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,ERI,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,GMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,NAM,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,ZMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,ZWE,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,BHS,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,MAR,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,TJK,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,BTN,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,PRK,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,IDN,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,FJI,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,MHL,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,PNG,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,WSM,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,TON,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,TUV,No,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,DZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,BFA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,CMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,TCD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,COM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,COG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,CIV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,GAB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,GHA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,GIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,KEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,MDG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,MLI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,MUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,MOZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,NER,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,NGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,SEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,SYC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,ZAF,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,TGO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,UGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AFR,TZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,ARG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,BLZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,BOL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,BRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,CAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,CHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,COL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,CRI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,CUB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,DOM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,ECU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,SLV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,GTM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,GUY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,HND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,JAM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,MEX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,NIC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,PAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,PRY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,PER,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,TTO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,USA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,URY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,AMR,VEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,BHR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,DJI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,EGY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,IRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,IRQ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,JOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,KWT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,LBN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,LBY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,OMN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,PAK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,QAT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,SAU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,SDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,SYR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,TUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,ARE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EMR,YEM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ALB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ARM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,AUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,AZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,BLR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,BEL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,BGR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,HRV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,CYP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,CZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,DNK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,EST,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,FIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,FRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,GEO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,DEU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,GRC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,HUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ISL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,IRL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ISR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ITA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,KAZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,KGZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,LVA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,LTU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,LUX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,MLT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,MNE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,NLD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,NOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,POL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,PRT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,MDA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ROU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,RUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,SRB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,SVK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,SVN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,ESP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,SWE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,CHE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,MKD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,TUR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,TKM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,UKR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,GBR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,EUR,UZB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,BGD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,IND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,MDV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,MMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,NPL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,LKA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,THA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,SEAR,TLS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,AUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,BRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,KHM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,CHN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,COK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,JPN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,LAO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,MYS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,MNG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,NRU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,NZL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,PHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,KOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,SGP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,SLB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,VUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2012,WPR,VNM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,BEN,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,BFA,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,CPV,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,CAF,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,COD,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,ERI,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,GMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,GHA,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,NAM,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,NER,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,TGO,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,ZMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,ZWE,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,BHS,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,MAR,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,YEM,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,TJK,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,BTN,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,PRK,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,FJI,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,MHL,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,PNG,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,WSM,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,TON,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,TUV,No,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,DZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,CMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,TCD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,CIV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,GAB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,GIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,KEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,MDG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,MLI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,MUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,MOZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,NGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,SEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,SYC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,ZAF,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,UGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AFR,TZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,ARG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,BLZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,BOL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,BRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,CAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,CHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,COL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,CRI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,CUB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,DOM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,ECU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,SLV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,GTM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,GUY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,HND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,JAM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,MEX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,NIC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,PAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,PRY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,PER,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,TTO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,USA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,URY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,AMR,VEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,BHR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,DJI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,EGY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,IRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,IRQ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,JOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,KWT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,LBN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,LBY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,OMN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,PAK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,QAT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,SAU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,SDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,SYR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,TUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EMR,ARE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ALB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ARM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,AUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,AZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,BLR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,BEL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,BGR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,HRV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,CYP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,CZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,DNK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,EST,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,FIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,FRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,GEO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,DEU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,GRC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,HUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ISL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,IRL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ISR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ITA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,KAZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,KGZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,LVA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,LTU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,LUX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,MLT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,MNE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,NLD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,NOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,POL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,PRT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,MDA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ROU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,RUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,SRB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,SVK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,SVN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,ESP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,SWE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,CHE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,MKD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,TUR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,TKM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,UKR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,GBR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,EUR,UZB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,BGD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,IND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,IDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,MDV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,MMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,NPL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,LKA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,THA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,SEAR,TLS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,AUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,BRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,KHM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,CHN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,COK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,JPN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,LAO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,MYS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,MNG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,NRU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,NZL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,PHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,KOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,SGP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,SLB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,VUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2010,WPR,VNM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,BEN,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,BFA,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,CPV,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,CAF,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,COD,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,ERI,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,GHA,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,MUS,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,NER,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,ZMB,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,ZWE,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,BHS,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,PER,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,IRN,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,MAR,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,YEM,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,KAZ,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,UZB,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,COK,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,FJI,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,MHL,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,PNG,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,TON,No,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,DZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,CMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,TCD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,CIV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,GAB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,GIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,KEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,MDG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,MLI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,MOZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,NGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,SEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,ZAF,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,UGA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AFR,TZA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,ARG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,BLZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,BOL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,BRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,CAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,CHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,COL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,CRI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,CUB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,DOM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,ECU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,SLV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,GTM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,GUY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,HND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,JAM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,MEX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,NIC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,PAN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,PRY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,TTO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,USA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,URY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,AMR,VEN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,DJI,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,EGY,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,IRQ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,JOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,KWT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,LBN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,OMN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,PAK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,QAT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,SAU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,SDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,TUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EMR,ARE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ALB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ARM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,AUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,AZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,BLR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,BEL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,BGR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,HRV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,CYP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,CZE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,DNK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,EST,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,FIN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,FRA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,GEO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,DEU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,GRC,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,HUN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ISL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,IRL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ISR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ITA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,KGZ,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,LVA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,LTU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,LUX,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,MLT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,MNE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,NLD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,NOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,POL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,PRT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,MDA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ROU,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,RUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,SRB,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,SVK,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,SVN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,ESP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,SWE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,CHE,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,MKD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,TUR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,TKM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,UKR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,EUR,GBR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,BGD,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,IND,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,IDN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,MDV,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,MMR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,LKA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,THA,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,SEAR,TLS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,AUS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,BRN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,CHN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,JPN,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,LAO,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,MYS,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,MNG,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,NZL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,PHL,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,KOR,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,SGP,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,VUT,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2007,WPR,VNM,Yes,,,,
+W8_princ_langs_A,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,BRB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EUR,MCO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,BWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,SSD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EUR,BIH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EUR,AND,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AMR,VCT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EUR,MCO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,SSD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EUR,BIH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EUR,SMR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EUR,AND,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,BWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,SUR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,BRB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,BWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,VCT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EUR,AND,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,LSO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AMR,SUR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EUR,TJK,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EUR,MCO,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2012,AMR,VCT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,KIR,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
+W8_princ_langs_A,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable

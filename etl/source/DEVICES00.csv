@@ -1,0 +1,138 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+DEVICES00,PUBLISHED,2013,AFR,MLI,0.46,0.45747,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,MYS,0.47,0.46775,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,MDG,0.47,0.46674,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,SLV,0.47,0.47315,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,CAF,0.48,0.47656,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,ZMB,0.45,0.45396,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,COD,0.45,0.44584,,,Only public sector data
+DEVICES00,PUBLISHED,2013,SEAR,IDN,0.43,0.43183,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,BEN,0.41,0.40684,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,MWI,0.4,0.39725,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,UGA,0.4,0.40448,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,NPL,0.38,0.38133,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,AFG,0.37,0.36659,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,LBR,0.37,0.37261,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,GIN,0.37,0.37462,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,SUR,0.37,0.37087,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,HND,0.36,0.35813,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,ERI,0.36,0.36317,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,GTM,0.34,0.34264,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,ECU,0.33,0.33041,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,BFA,0.31,0.30706,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,HTI,0.24,0.24231,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,SWZ,0.8,0.8003100000000001,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,CRI,0.84,0.8415100000000001,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,PAN,0.91,0.90576,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,MLT,0.93,0.93239,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,POL,0.94,0.94461,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,GRD,0.94,0.94431,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,NIC,0.95,0.95387,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,IRQ,0.95,0.95068,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,MUS,0.96,0.96432,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,CPV,1.0,1.00221,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,DNK,1.01,1.0144,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,BIH,1.02,1.01846,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,HUN,1.02,1.02462,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,MRT,1.03,1.02831,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,CHL,1.04,1.04429,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,SAU,1.04,1.04062,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,BRB,1.05,1.05395,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,BHS,1.06,1.05996,,,
+DEVICES00,PUBLISHED,2013,AFR,ETH,0.22,0.21891,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,BGD,0.17,0.16667,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,SEN,0.16,0.15566,,,Only public sector data
+DEVICES00,PUBLISHED,2013,SEAR,LKA,0.1,0.09872,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,KIR,0.0,0.0,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,VCT,0.0,0.0,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,FJI,0.0,0.0,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,BDI,0.5,0.50184,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,SGP,0.5,0.49892,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,ZWE,0.52,0.52298,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,PAK,0.53,0.53035,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,NER,0.55,0.5496,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,ISR,0.56,0.55605,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,KHM,0.57,0.57482,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,TGO,0.6,0.60144,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,EGY,0.62,0.61665,,,Only public sector data
+DEVICES00,PUBLISHED,2013,SEAR,MMR,0.63,0.63463,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,TCD,0.65,0.65495,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,ZAF,0.67,0.67455,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,COM,0.68,0.68035,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,GMB,0.7,0.70297,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,JAM,0.75,0.75434,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,NLD,0.76,0.76376,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,CMR,0.79,0.79087,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,SDN,1.35,1.3459999999999999,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,PHL,1.81,1.81313,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,THA,1.84,1.84449,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,NAM,1.91,1.91029,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,JOR,1.94,1.93846,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,EST,1.94,1.94212,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,CUB,2.04,2.04161,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,ITA,2.08,2.07574,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,MNE,2.09,2.09211,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,BLZ,2.11,2.10907,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,OMN,1.35,1.34895,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,ALB,1.36,1.35507,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,GHA,1.36,1.36269,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,FIN,1.38,1.38215,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,BRN,1.44,1.43615,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,KEN,1.47,1.46549,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,SVK,1.54,1.54122,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,HRV,1.54,1.53856,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,TUR,1.55,1.54939,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,LVA,1.56,1.56073,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,PNG,1.57,1.57077,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,ESP,1.63,1.63445,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,LCA,1.65,1.64588,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,ROU,1.68,1.67753,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AFR,CIV,1.71,1.7080099999999998,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,BTN,1.72,1.72426,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,BOL,1.07,1.0683,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,SYC,1.08,1.07715,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,SRB,1.09,1.09353,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,ATG,1.11,1.1113,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,LUX,1.13,1.13126,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,SVN,1.25,1.25483,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,BWA,1.29,1.2864,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,CZE,1.29,1.28945,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,MDA,2.12,2.12204,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,WSM,4.2,4.2023,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,TJK,4.68,4.67846,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,FSM,4.83,4.82863,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,DMA,5.56,5.55532,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,MDV,6.67,6.66622,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,SEAR,PRK,6.86,6.86068,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,KNA,7.38,7.3813,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,BLR,7.45,7.44923,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,CYP,7.54,7.53615,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,LTU,2.15,2.15451,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,GEO,2.21,2.21153,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,LAO,2.25,2.24529,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,CAN,2.27,2.26822,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,TUN,2.33,2.32801,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,VUT,2.37,2.37377,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,PRY,2.43,2.42565,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,MNG,2.5,2.50082,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,KGZ,2.63,2.63179,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EMR,LBY,2.64,2.64451,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,YEM,2.97,2.97041,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EMR,LBN,3.09,3.09002,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,SMR,3.18,3.17985,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,GUY,3.38,3.3766300000000005,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,KOR,3.42,3.42044,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AMR,MEX,3.51,3.51256,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,KAZ,3.52,3.51569,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,GAB,3.53,3.52932,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,ISL,3.64,3.64149,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,MHL,3.8,3.799830000000001,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,WPR,TON,3.8,3.79784,,,Only public sector data
+DEVICES00,PUBLISHED,2013,AMR,URY,3.93,3.93301,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,ARM,4.03,4.03149,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,EUR,AZE,7.97,7.96735,,,Only public sector data
+DEVICES00,PUBLISHED,2013,WPR,NRU,9.95,9.94926,,,Only public sector data
+DEVICES00,PUBLISHED,2013,EUR,MCO,10.57,10.57334,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2013,AFR,GNB,56.45,56.44695,,,Both public sector data and private sector data
+DEVICES00,PUBLISHED,2014,WPR,TUV,0.02,0.01647,,,Only public sector data
+DEVICES00,PUBLISHED,2014,EUR,MKD,4.08,4.08133,,,

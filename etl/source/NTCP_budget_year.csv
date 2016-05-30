@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+NTCP_budget_year,PUBLISHED,2014,EUR,FRA,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,SVK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,BFA,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,CPV,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,CAF,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,COM,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,TGO,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,SYC,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,UGA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,BLZ,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,DJI,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,OMN,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,QAT,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,PLW,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,KEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,NGA,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,SEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,LBN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,YEM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,NZL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,PHL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,CMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,CIV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,MDG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,MLI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,NAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,TZA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,ZMB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,CUB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,JAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,MEX,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,VEN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,EGY,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,KWT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,SAU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,SDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,SYR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,ALB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,AUT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,BEL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,HRV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,CYP,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,FIN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,DEU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,HUN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,ISL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,KGZ,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,MLT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,NLD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,POL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,ROU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,SVN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,BGD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,IDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,MMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,NPL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,TLS,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,KHM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,CHN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,COK,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,FJI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,LAO,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,FSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,MNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,PNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,WSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,VNM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,LSO,2009,2009.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,DZA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,GHA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,NER,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,ARG,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,CAN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,GUY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,PRY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,BGR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,KAZ,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,MDA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,SRB,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,SWE,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,TUR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,JPN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,BDI,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,ECU,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,SLB,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,TUV,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,VUT,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,CRI,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,HND,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,SUR,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,IRN,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,PAK,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,ARM,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,LUX,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,NOR,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,BTN,2014,2014.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,TCD,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,AFR,MUS,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,BRA,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,AMR,CHL,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,EMR,JOR,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,EUR,ITA,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,IND,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,MDV,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,SEAR,THA,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,AUS,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,BRN,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2014,WPR,KOR,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,BRA,2003,2003.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,FRA,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,LTU,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,SVK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,BFA,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,CPV,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,CAF,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,COM,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,TGO,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,TCD,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,SYC,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,UGA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,BLZ,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,DJI,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,OMN,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,QAT,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,PLW,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,KEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,NGA,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,SEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,IRN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,LBN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,PAK,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,YEM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,ARM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,NZL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,PHL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,CMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,CIV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,MDG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,MLI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,NAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,TZA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,ZMB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,CUB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,JAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,MEX,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,VEN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,EGY,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,KWT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,SAU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,SDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,SYR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,ALB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,AUT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,BEL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,HRV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,CYP,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,FIN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,DEU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,HUN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,ISL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,KGZ,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,MLT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,NLD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,POL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,ROU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,SVN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,BGD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,IDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,MDV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,MMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,NPL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,TLS,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,BRN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,KHM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,CHN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,COK,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,FJI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,LAO,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,FSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,MNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,PNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,KOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,WSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,VNM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,LSO,2009,2009.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,DZA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,GHA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,NER,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,ARG,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,CAN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,GUY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,PRY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,BGR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,KAZ,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,MDA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,SRB,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,SWE,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,TUR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,IND,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,AUS,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,JPN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,BDI,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,ECU,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,HND,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,LUX,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,NOR,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,BTN,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,SLB,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,TUV,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,WPR,VUT,2012,2012.0,,,
+NTCP_budget_year,PUBLISHED,2012,AFR,MUS,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,AMR,CHL,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,EMR,JOR,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,DNK,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,EUR,ITA,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2012,SEAR,THA,2015,2015.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,BRA,2003,2003.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,DNK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,FRA,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,LTU,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,SVK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,BFA,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,CPV,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,CAF,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,COM,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,TGO,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,TCD,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,SYC,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,UGA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,BLZ,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,DJI,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,OMN,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,QAT,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,LVA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,PLW,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,KEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,NGA,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,SEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,IRN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,LBN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,PAK,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,YEM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,NZL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,PHL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,CMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,CIV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,MDG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,MLI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,NAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,TZA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,ZMB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,CUB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,GTM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,JAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,MEX,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,VEN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,EGY,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,JOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,KWT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,SAU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,SDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EMR,SYR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,ALB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,AUT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,BEL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,HRV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,CYP,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,FIN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,DEU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,ISL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,ITA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,KGZ,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,MLT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,NLD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,POL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,ROU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,SVN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,BGD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,BTN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,IDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,MDV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,MMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,NPL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,TLS,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,BRN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,KHM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,CHN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,COK,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,FJI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,LAO,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,FSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,MNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,PNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,KOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,WSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,VNM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,LSO,2009,2009.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,DZA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,BDI,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,GHA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,MUS,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,ZAF,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,ARG,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,CAN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,CHL,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,ECU,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,GUY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,PRY,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AMR,USA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,BGR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,KAZ,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,NOR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,MDA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,SRB,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,SWE,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,EUR,TUR,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,IND,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,SEAR,THA,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,AUS,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,JPN,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,WPR,SLB,2010,2010.0,,,
+NTCP_budget_year,PUBLISHED,2010,AFR,LBR,2011,2011.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,BRA,2003,2003.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,DNK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,FRA,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,LTU,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,SVK,2004,2004.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,BFA,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,CPV,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,CAF,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,COM,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,NER,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,TGO,2005,2005.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,TCD,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,GHA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,SYC,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,UGA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,BLZ,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,DJI,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,OMN,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,QAT,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,LVA,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,PLW,2006,2006.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,KEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,MUS,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,NGA,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,SEN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,ARG,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,CHL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,IRN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,LBN,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,PAK,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,YEM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,ARM,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,SRB,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,IND,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,NZL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,PHL,2007,2007.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,DZA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,CMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,CIV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,MDG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,MLI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,NAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,ZAF,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,TZA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,ZMB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,CAN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,CUB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,ECU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,GTM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,JAM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,MEX,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,PRY,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,USA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AMR,VEN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,EGY,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,JOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,KWT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,SAU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,SDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EMR,SYR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,ALB,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,AUT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,BEL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,BGR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,HRV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,CYP,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,FIN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,DEU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,ISL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,ITA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,KAZ,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,KGZ,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,MLT,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,NLD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,NOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,POL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,ROU,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,SVN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,SWE,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,EUR,TUR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,BGD,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,BTN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,IDN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,MDV,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,MMR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,NPL,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,THA,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,SEAR,TLS,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,AUS,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,BRN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,KHM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,CHN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,COK,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,FJI,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,JPN,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,LAO,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,FSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,MNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,PNG,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,KOR,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,WSM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,WPR,VNM,2008,2008.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,LSO,2009,2009.0,,,
+NTCP_budget_year,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
+NTCP_budget_year,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+NTCP_budget_year,PUBLISHED,2014,AMR,BHS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,BRB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,TTO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,DNK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,GRC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,IRL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,CHE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,TKM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,SEAR,PRK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,SEAR,LKA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,GMB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,MRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,RWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,STP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,GRD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,PAN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,GIN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,SLE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,ZAF,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,ZWE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,DMA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,GRD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,KNA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,USA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,ARE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,BLR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,GRC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,MNE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,PRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,UKR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,BHS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,IRQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,ERI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,ZAF,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,COL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,SLV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,LCA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,AFG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,AZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,ISR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,LTU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,PRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,UZB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,PER,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,COG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,GAB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,GMB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,AFG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,CZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,LVA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,UZB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,TON,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,SEAR,LKA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,COG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,ETH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,MWI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,ATG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,GTM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,URY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,TUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,LVA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,MNE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,UKR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,KNA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,IRQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,BWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,ETH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,GTM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,HTI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,NIC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,PER,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,IRL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,STP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,BHR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,LBY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,MAR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,CHE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,MYS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,SLE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,DOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,USA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,BIH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,CZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,GEO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,MKD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,NIU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,AGO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,DOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,COD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,LBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,ATG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,BRB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,BOL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,URY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,BIH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,RUS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,MKD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,LBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,DMA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,ARE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,RUS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,SMR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,MHL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,SGP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,TON,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,SLV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,BEN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,GNB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,MWI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,RWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,COL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,PAN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,SUR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,SOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,GEO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,ESP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,NIU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,MHL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,BEN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,COD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AFR,ZWE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,BOL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,LBY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,MAR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,EST,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,ESP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,GBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,KIR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,WPR,MYS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AFR,MRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,CRI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,TTO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EMR,TUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,AZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,EST,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,EUR,GBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,WPR,SGP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,RWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,GNQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,GAB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,MWI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,SWZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,DMA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,PRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,GRC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,NRU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,MCO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,MAR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,SOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,BLR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,SEAR,PRK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,TON,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,KNA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,IRQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,LBY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,BLR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,GEO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,ISR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,LUX,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,ESP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,AGO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,TUV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,ERI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,CRI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,PER,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,VCT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,CZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,MDA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,MKD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,GIN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,BOL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,BEN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,ERI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,GMB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,GNB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,ATG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,BHS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,COL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,DOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,HND,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,SUR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,URY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,IRQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,TUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,AND,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,HUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,LUX,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,RUS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,BWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,BDI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,GAB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,GNB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,STP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,TTO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,AND,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,BIH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,MCO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,MNE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,RUS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,CHE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,GBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,SGP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,SLB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,GIN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,NER,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,SLV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,PER,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,GBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,ESP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,TTO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,NIC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,SLE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,STP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,MRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,IRL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,MWI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,MRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,UKR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,ATG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,GRC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,TON,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,TJK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,UZB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,SLV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,BHR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,MAR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,SEAR,LKA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,NRU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,KNA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,AGO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,BWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,GRD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,LCA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,LBY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,ARE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,CZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,IRL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,ISR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,UZB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,SEAR,LKA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,MYS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,TUV,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,ETH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,DMA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,HTI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,LCA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,SOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,ARE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,AZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,TKM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,SLE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EMR,BHR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2014,EUR,BLR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2012,AMR,LCA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,BOL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,HTI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,AFG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,AZE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,EST,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,GEO,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,CHE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,MHL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,SGP,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,BEN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,COG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,COD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,MOZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,RWA,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,ZWE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,DOM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,URY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,AFG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,EST,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,HUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,PRT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,MYS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,NIU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,COG,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,COD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,BRB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EMR,BHR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,ARM,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,EUR,BIH,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,PAN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AMR,CRI,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,AFR,ZWE,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,VUT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2010,WPR,NIU,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,BHS,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,BRB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,COL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,GRD,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,GUY,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,GNQ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,GMB,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,LBR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AFR,SWZ,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,SUR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EMR,TUN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,NIC,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,PAN,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,EUR,SMR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,SEAR,PRK,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,KIR,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,VUT,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,WPR,MHL,Not available,,,,Data not reported/not available
+NTCP_budget_year,PUBLISHED,2008,AMR,HND,Not available,,,,Data not reported/not available

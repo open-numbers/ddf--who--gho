@@ -1,0 +1,583 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,SEX,Display Value,Numeric,Low,High,Comments
+M_Est_tob_curr,PUBLISHED,2013,AFR,COG,FMLE,1.7,1.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ARM,FMLE,1.7,1.7,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,CHN,FMLE,1.9,1.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,KEN,FMLE,2.2,2.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SWZ,FMLE,2.3,2.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,HND,FMLE,2.3,2.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,OMN,FMLE,1.0,1.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SEN,FMLE,0.8,0.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CMR,FMLE,0.9,0.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BGD,FMLE,0.9,0.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BEN,FMLE,1.0,1.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NGA,FMLE,1.2,1.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UZB,FMLE,1.3,1.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,VNM,FMLE,1.3,1.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MYS,FMLE,1.5,1.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,MAR,FMLE,1.6,1.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRB,FMLE,1.0,1.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRN,FMLE,1.0,1.0,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IND,FMLE,2.3,2.3,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,THA,FMLE,2.4,2.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,LBR,FMLE,2.6,2.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,HTI,FMLE,2.7,2.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PAN,FMLE,2.8,2.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,SAU,FMLE,3.0,3.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,UGA,FMLE,3.1,3.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KHM,FMLE,3.2,3.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MLI,FMLE,3.3,3.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,BRN,FMLE,3.3,3.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MUS,FMLE,3.4,3.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,PAK,FMLE,3.4,3.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ECU,FMLE,3.5,3.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CPV,FMLE,3.7,3.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KGZ,FMLE,3.7,3.7,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KOR,FMLE,4.3,4.3,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,ETH,BTSX,4.7,4.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZMB,FMLE,4.7,4.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BFA,FMLE,4.8,4.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NER,FMLE,0.2,0.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,LSO,FMLE,0.4,0.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,EGY,FMLE,0.4,0.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AZE,FMLE,0.4,0.4,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,LKA,FMLE,0.4,0.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ETH,FMLE,0.5,0.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,GHA,FMLE,0.5,0.5,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IDN,FMLE,3.8,3.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MRT,FMLE,3.9,3.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,TZA,FMLE,3.9,3.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,COM,FMLE,6.7,6.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZAF,FMLE,7.0,7.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRB,BTSX,7.0,7.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,BHR,FMLE,7.1,7.1,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MMR,FMLE,7.2,7.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,MEX,FMLE,7.3,7.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PAN,BTSX,7.4,7.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ALB,FMLE,8.0,8.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NER,BTSX,8.4,8.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,PHL,FMLE,8.9,8.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SYC,FMLE,9.0,9.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ECU,BTSX,9.0,9.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KAZ,FMLE,9.5,9.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PRY,FMLE,8.6,8.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BEN,BTSX,8.8,8.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ETH,MLE,8.9,8.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NGA,BTSX,8.9,8.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CRI,FMLE,8.9,8.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BLR,FMLE,10.9,10.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRA,FMLE,12.1,12.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CPV,BTSX,12.2,12.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,GHA,MLE,12.4,12.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,JPN,FMLE,11.0,11.0,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,SEN,BTSX,11.1,11.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,SGP,FMLE,5.2,5.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MDA,FMLE,5.4,5.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,RWA,FMLE,5.6,5.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,DOM,FMLE,10.0,10.0,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,LAO,FMLE,10.1,10.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SWZ,BTSX,10.2,10.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,JOR,FMLE,10.2,10.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,UGA,BTSX,10.3,10.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MNG,FMLE,5.6,5.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GEO,FMLE,5.8,5.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MOZ,FMLE,6.1,6.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,JAM,FMLE,6.2,6.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,GHA,BTSX,6.3,6.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PER,FMLE,6.3,6.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MWI,FMLE,6.4,6.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,COL,FMLE,6.6,6.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,COL,BTSX,11.6,11.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NAM,FMLE,11.7,11.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRN,BTSX,11.7,11.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,HTI,BTSX,11.8,11.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NIU,FMLE,11.8,11.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PAN,MLE,11.9,11.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IND,BTSX,12.4,12.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CAN,BTSX,16.2,16.2,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,SGP,BTSX,16.2,16.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MWI,BTSX,16.3,16.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,TZA,BTSX,16.3,16.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISL,FMLE,16.3,16.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NGA,MLE,16.4,16.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,BRN,BTSX,16.4,16.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NIU,BTSX,16.6,16.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NER,MLE,16.7,16.7,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NZL,FMLE,16.7,16.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,COL,MLE,16.8,16.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,FJI,FMLE,12.7,12.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SLE,FMLE,12.9,12.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,NPL,FMLE,12.9,12.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRB,MLE,13.1,13.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,TON,FMLE,13.1,13.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,TUR,FMLE,13.2,13.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UZB,BTSX,13.3,13.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,COM,BTSX,15.3,15.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZMB,BTSX,15.9,15.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,USA,FMLE,15.9,15.9,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,WPR,AUS,BTSX,16.0,16.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRA,BTSX,16.1,16.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ECU,MLE,14.7,14.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,OMN,BTSX,13.5,13.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,KEN,BTSX,13.6,13.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CAN,FMLE,13.6,13.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,PRT,FMLE,14.0,14.0,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,LKA,BTSX,14.1,14.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,LBR,BTSX,14.2,14.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CRI,BTSX,14.2,14.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UKR,FMLE,14.3,14.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,AUS,FMLE,14.3,14.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,DOM,BTSX,14.5,14.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,MEX,BTSX,14.5,14.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BEN,MLE,16.9,16.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CRI,MLE,19.3,19.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FIN,FMLE,19.3,19.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PRY,BTSX,19.5,19.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,OMN,MLE,19.5,19.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GBR,FMLE,19.5,19.5,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISR,FMLE,19.8,19.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,SAU,BTSX,17.1,17.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,UGA,MLE,17.5,17.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MLI,BTSX,18.6,18.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISL,BTSX,17.5,17.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,JAM,BTSX,17.6,17.6,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NZL,BTSX,17.6,17.6,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,AUS,MLE,17.8,17.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DNK,FMLE,18.0,18.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISL,MLE,18.6,18.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVN,FMLE,18.7,18.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CMR,BTSX,18.8,18.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVK,FMLE,18.0,18.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,USA,BTSX,18.1,18.1,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,MOZ,BTSX,18.8,18.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZAF,BTSX,18.9,18.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CAN,MLE,18.9,18.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,HND,BTSX,18.9,18.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DNK,BTSX,18.9,18.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,DOM,MLE,19.0,19.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BFA,BTSX,19.1,19.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CUB,FMLE,19.1,19.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SWZ,MLE,18.4,18.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,COG,BTSX,18.5,18.5,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NZL,MLE,18.5,18.5,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,WSM,FMLE,19.8,19.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ARG,FMLE,19.9,19.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DNK,MLE,19.9,19.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ITA,FMLE,19.9,19.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MMR,BTSX,20.0,20.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,BRA,MLE,20.3,20.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,USA,MLE,20.3,20.3,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,EUR,GBR,BTSX,20.3,20.3,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,EUR,BEL,FMLE,20.5,20.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LUX,FMLE,22.0,22.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,PRT,BTSX,22.6,22.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,RUS,FMLE,22.7,22.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SWE,FMLE,22.1,22.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LTU,FMLE,22.2,22.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MRT,BTSX,22.3,22.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MYS,BTSX,22.3,22.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SEN,MLE,22.4,22.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRN,MLE,22.4,22.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,MEX,MLE,22.5,22.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,PAK,BTSX,22.6,22.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CHE,FMLE,20.6,20.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CPV,MLE,20.8,20.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MLT,FMLE,20.9,20.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVN,BTSX,20.9,20.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,URY,FMLE,21.1,21.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GBR,MLE,21.1,21.1,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AMR,HTI,MLE,21.5,21.5,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,THA,BTSX,21.5,21.5,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NIU,MLE,21.5,21.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SWE,MLE,21.7,21.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FIN,BTSX,21.8,21.8,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BGD,BTSX,21.8,21.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MUS,BTSX,21.9,21.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SWE,BTSX,21.9,21.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IND,MLE,21.9,21.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,MAR,BTSX,22.0,22.0,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,JPN,BTSX,22.8,22.8,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,KEN,MLE,25.1,25.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,IRL,FMLE,22.9,22.9,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,WPR,KHM,BTSX,23.0,23.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ROU,FMLE,23.1,23.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,IRL,BTSX,23.2,23.2,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVN,MLE,23.2,23.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AZE,BTSX,23.5,23.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,IRL,MLE,23.6,23.6,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,WPR,VNM,BTSX,23.7,23.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,COM,MLE,23.8,23.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NAM,BTSX,23.8,23.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,EGY,BTSX,23.8,23.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MDA,BTSX,23.8,23.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BEL,BTSX,23.9,23.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NOR,FMLE,23.9,23.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NOR,BTSX,24.1,24.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CHE,BTSX,24.1,24.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ITA,BTSX,24.2,24.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NLD,FMLE,24.2,24.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NOR,MLE,24.3,24.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LVA,FMLE,24.4,24.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LUX,BTSX,24.4,24.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FIN,MLE,24.6,24.6,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,NPL,BTSX,24.6,24.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,URY,BTSX,24.8,24.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,POL,FMLE,25.2,25.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ARG,BTSX,25.3,25.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,EST,FMLE,25.3,25.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,LSO,BTSX,25.4,25.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UZB,MLE,25.6,25.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NLD,BTSX,25.7,25.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FRA,FMLE,25.8,25.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,LBR,MLE,25.9,25.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MLT,BTSX,25.9,25.9,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,CHN,BTSX,25.9,25.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HUN,FMLE,26.0,26.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MWI,MLE,26.3,26.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KAZ,BTSX,26.3,26.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KGZ,BTSX,26.4,26.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,FJI,BTSX,26.5,26.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SYC,BTSX,26.7,26.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CHE,MLE,27.7,27.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ESP,FMLE,27.8,27.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,SGP,MLE,27.8,27.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BLR,BTSX,27.9,27.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ARM,BTSX,28.0,28.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AND,FMLE,28.1,28.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,PHL,BTSX,26.7,26.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,SAU,MLE,26.8,26.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LUX,MLE,26.8,26.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MNG,BTSX,26.8,26.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,TUR,BTSX,27.0,27.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZMB,MLE,27.1,27.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,NLD,MLE,27.3,27.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KOR,BTSX,27.4,27.4,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,EUR,BEL,MLE,27.5,27.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HUN,BTSX,29.6,29.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UKR,BTSX,30.7,30.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BIH,FMLE,30.8,30.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MLT,MLE,30.9,30.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,ARG,MLE,31.0,31.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZAF,MLE,31.9,31.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,PRT,MLE,31.9,31.9,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,WSM,BTSX,32.0,32.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,JAM,MLE,29.7,29.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ALB,BTSX,29.7,29.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BGR,FMLE,29.8,29.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBN,FMLE,29.9,29.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GEO,BTSX,30.0,30.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FRA,BTSX,28.1,28.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DEU,FMLE,28.5,28.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,TZA,MLE,28.8,28.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,URY,MLE,28.8,28.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ITA,MLE,28.8,28.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVK,BTSX,28.8,28.8,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,LKA,MLE,28.8,28.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CZE,FMLE,29.2,29.2,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,BRN,MLE,29.2,29.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,POL,BTSX,29.4,29.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LTU,BTSX,30.1,30.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,TON,BTSX,30.2,30.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,PRY,MLE,30.3,30.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,BHR,BTSX,30.3,30.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ESP,BTSX,30.3,30.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISR,BTSX,30.4,30.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ROU,BTSX,30.5,30.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,FRA,MLE,30.6,30.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DEU,BTSX,30.7,30.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MOZ,MLE,32.7,32.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBN,BTSX,37.0,37.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CZE,MLE,37.8,37.8,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,NPL,MLE,37.9,37.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AND,MLE,38.1,38.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,JOR,BTSX,38.4,38.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HRV,FMLE,32.7,32.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ESP,MLE,33.0,33.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AND,BTSX,33.1,33.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,DEU,MLE,33.1,33.1,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,EST,BTSX,33.2,33.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,CZE,BTSX,33.4,33.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GRC,FMLE,33.5,33.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HUN,MLE,33.6,33.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MLI,MLE,33.9,33.9,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MMR,MLE,33.9,33.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,POL,MLE,34.0,34.0,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,LAO,BTSX,34.0,34.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,BFA,MLE,34.1,34.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SLE,BTSX,34.4,34.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,JPN,MLE,35.4,35.4,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,COG,MLE,35.5,35.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,HND,MLE,35.9,35.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LVA,BTSX,35.9,35.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HRV,BTSX,36.0,36.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CUB,BTSX,36.1,36.1,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CHL,FMLE,36.8,36.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BGR,BTSX,36.8,36.8,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,CMR,MLE,36.9,36.9,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,NAM,MLE,37.0,37.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ROU,MLE,38.5,38.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SYC,MLE,43.7,43.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBN,MLE,43.9,43.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BGR,MLE,44.3,44.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NRU,MLE,44.3,44.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MYS,MLE,44.4,44.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SRB,MLE,44.6,44.6,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KHM,MLE,44.7,44.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,MDA,MLE,44.8,44.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,PHL,MLE,44.8,44.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KAZ,MLE,45.3,45.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,VNM,MLE,47.3,47.3,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,EGY,MLE,47.5,47.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,AZE,MLE,47.8,47.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,TON,MLE,47.9,47.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BLR,MLE,48.2,48.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BIH,MLE,48.3,48.3,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,CHN,MLE,48.7,48.7,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,MNG,MLE,48.7,48.7,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NRU,BTSX,48.9,48.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LVA,MLE,50.0,50.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,KGZ,MLE,50.5,50.5,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IDN,BTSX,38.5,38.5,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CHL,BTSX,38.9,38.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,BIH,BTSX,39.2,39.2,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,HRV,MLE,39.5,39.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,RUS,BTSX,39.5,39.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SRB,FMLE,39.7,39.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,LTU,MLE,39.8,39.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,FJI,MLE,40.0,40.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SVK,MLE,40.4,40.4,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MRT,MLE,40.6,40.6,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,MUS,MLE,41.0,41.0,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CHL,MLE,41.0,41.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,PAK,MLE,41.0,41.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ISR,MLE,41.5,41.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,TUR,MLE,41.6,41.6,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,THA,MLE,41.9,41.9,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,SRB,BTSX,42.1,42.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KIR,FMLE,42.2,42.2,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BGD,MLE,42.4,42.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,BHR,MLE,42.7,42.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,EST,MLE,42.8,42.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GRC,BTSX,43.4,43.4,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,WSM,MLE,43.5,43.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,MAR,MLE,43.6,43.6,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,UKR,MLE,50.6,50.6,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KOR,MLE,51.1,51.1,,,Rates are cigarette smoking and not tobacco smoking
+M_Est_tob_curr,PUBLISHED,2013,AFR,LSO,MLE,51.7,51.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ALB,MLE,51.7,51.7,,,
+M_Est_tob_curr,PUBLISHED,2013,AMR,CUB,MLE,53.1,53.1,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,NRU,FMLE,53.5,53.5,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GRC,MLE,53.8,53.8,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KIR,BTSX,54.0,54.0,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,ARM,MLE,54.2,54.2,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,SLE,MLE,56.4,56.4,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,GEO,MLE,58.5,58.5,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,LAO,MLE,58.7,58.7,,,
+M_Est_tob_curr,PUBLISHED,2013,EUR,RUS,MLE,59.8,59.8,,,
+M_Est_tob_curr,PUBLISHED,2013,EMR,JOR,MLE,65.5,65.5,,,
+M_Est_tob_curr,PUBLISHED,2013,WPR,KIR,MLE,66.2,66.2,,,
+M_Est_tob_curr,PUBLISHED,2013,SEAR,IDN,MLE,73.3,73.3,,,
+M_Est_tob_curr,PUBLISHED,2013,AFR,DZA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,DZA,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,DZA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,AGO,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BDI,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BDI,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BDI,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,AGO,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,AGO,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BWA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BWA,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,BWA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ERI,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CAF,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CAF,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CAF,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TCD,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TCD,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TCD,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CIV,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CIV,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,CIV,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,COD,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,COD,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,COD,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNQ,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNQ,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNQ,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ERI,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ERI,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GIN,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TGO,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZWE,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZWE,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,ZWE,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,ATG,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,ATG,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,ATG,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GAB,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GAB,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GIN,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNB,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNB,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GNB,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,MDG,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,MDG,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,MDG,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TGO,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,TGO,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GAB,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GMB,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GMB,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GMB,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,GIN,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,RWA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,RWA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,STP,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,STP,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,STP,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,SSD,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,SSD,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AFR,SSD,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BHS,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,NIC,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,NIC,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,PER,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,PER,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,KNA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,KNA,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,KNA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BHS,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BHS,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BLZ,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BLZ,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BLZ,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BOL,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BOL,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,BOL,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,DMA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GRD,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GTM,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GTM,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GTM,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GUY,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GUY,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GUY,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,NIC,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,DMA,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,DMA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SLV,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SLV,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SLV,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GRD,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,GRD,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,LCA,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,KWT,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,KWT,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,LCA,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,LCA,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VCT,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VCT,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VCT,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SUR,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SUR,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,SUR,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,TTO,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,TTO,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,TTO,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VEN,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VEN,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,AMR,VEN,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,AFG,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,AFG,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,AFG,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,DJI,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,DJI,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,DJI,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRQ,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRQ,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,IRQ,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,KWT,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBY,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBY,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,LBY,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,QAT,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,QAT,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,QAT,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,AUT,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MCO,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MCO,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MNE,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MNE,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MNE,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,AUT,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,CYP,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,CYP,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,CYP,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SOM,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SOM,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SOM,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SDN,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SDN,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SDN,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SYR,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SYR,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,SYR,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,TUN,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,TUN,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,TUN,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,ARE,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,ARE,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,ARE,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,YEM,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,YEM,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EMR,YEM,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,AUT,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MCO,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,SMR,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,COK,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,COK,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,SMR,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,SMR,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TJK,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TJK,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TJK,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MKD,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MKD,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,MKD,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,COK,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TKM,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TKM,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,EUR,TKM,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BTN,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BTN,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,BTN,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,PRK,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,PRK,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,PRK,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MDV,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MDV,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,MDV,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,TLS,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,TLS,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,SEAR,TLS,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,MHL,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,MHL,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,MHL,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,FSM,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,FSM,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,FSM,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PNG,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PLW,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PLW,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PLW,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PNG,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,PNG,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,SLB,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,SLB,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,SLB,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,TUV,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,TUV,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,TUV,BTSX,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,VUT,MLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,VUT,FMLE,Not available,,,,Data not reported / not available
+M_Est_tob_curr,PUBLISHED,2013,WPR,VUT,BTSX,Not available,,,,Data not reported / not available

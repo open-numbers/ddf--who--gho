@@ -1,0 +1,613 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,AGEGROUP,SEX,Display Value,Numeric,Low,High,Comments
+CHOL_05,PUBLISHED,2008,AFR,,AGE25-PLUS,MLE,3.7 [2.4-5.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,,AGE25-PLUS,MLE,11.2 [8.6-14.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,,AGE25-PLUS,MLE,7.6 [5.8-9.9],,,,
+CHOL_05,PUBLISHED,2008,EUR,,AGE25-PLUS,MLE,16.3 [12.5-20.9],,,,
+CHOL_05,PUBLISHED,2008,SEAR,,AGE25-PLUS,MLE,5.2 [3.6-7.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,,AGE25-PLUS,MLE,7.1 [5.1-9.9],,,,
+CHOL_05,PUBLISHED,2008,GLOBAL,,AGE25-PLUS,MLE,8.6 [7.3-10.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,,AGE25-PLUS,FMLE,5.2 [3.3-7.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,,AGE25-PLUS,FMLE,13.7 [10.0-18.1],,,,
+CHOL_05,PUBLISHED,2008,EMR,,AGE25-PLUS,FMLE,10.3 [7.6-13.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,,AGE25-PLUS,FMLE,17.0 [12.5-22.6],,,,
+CHOL_05,PUBLISHED,2008,SEAR,,AGE25-PLUS,FMLE,7.1 [4.6-10.3],,,,
+CHOL_05,PUBLISHED,2008,WPR,,AGE25-PLUS,FMLE,9.5 [6.3-14.1],,,,
+CHOL_05,PUBLISHED,2008,GLOBAL,,AGE25-PLUS,FMLE,10.9 [8.9-13.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,,AGE25-PLUS,BTSX,4.5 [3.3-6.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,,AGE25-PLUS,BTSX,12.6 [10.1-15.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,,AGE25-PLUS,BTSX,9.0 [7.3-11.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,,AGE25-PLUS,BTSX,16.8 [13.7-20.4],,,,
+CHOL_05,PUBLISHED,2008,SEAR,,AGE25-PLUS,BTSX,6.2 [4.6-8.1],,,,
+CHOL_05,PUBLISHED,2008,WPR,,AGE25-PLUS,BTSX,8.4 [6.3-11.0],,,,
+CHOL_05,PUBLISHED,2008,GLOBAL,,AGE25-PLUS,BTSX,9.8 [8.6-11.2],,,,
+CHOL_05,PUBLISHED,2008,WB_LI,,AGE25-PLUS,MLE,4.2 [2.8-6.3],,,,
+CHOL_05,PUBLISHED,2008,WB_LMI,,AGE25-PLUS,MLE,5.9 [4.5-7.8],,,,
+CHOL_05,PUBLISHED,2008,WB_UMI,,AGE25-PLUS,MLE,10.7 [7.8-14.7],,,,
+CHOL_05,PUBLISHED,2008,WB_HI,,AGE25-PLUS,MLE,16.5 [13.6-19.8],,,,
+CHOL_05,PUBLISHED,2008,WB_LI,,AGE25-PLUS,FMLE,5.7 [3.7-8.5],,,,
+CHOL_05,PUBLISHED,2008,WB_LMI,,AGE25-PLUS,FMLE,8.3 [5.9-11.3],,,,
+CHOL_05,PUBLISHED,2008,WB_UMI,,AGE25-PLUS,FMLE,13.9 [9.5-19.6],,,,
+CHOL_05,PUBLISHED,2008,WB_HI,,AGE25-PLUS,FMLE,17.0 [13.7-20.9],,,,
+CHOL_05,PUBLISHED,2008,WB_LI,,AGE25-PLUS,BTSX,5.0 [3.7-6.7],,,,
+CHOL_05,PUBLISHED,2008,WB_LMI,,AGE25-PLUS,BTSX,7.1 [5.7-8.9],,,,
+CHOL_05,PUBLISHED,2008,WB_UMI,,AGE25-PLUS,BTSX,12.6 [9.7-16.1],,,,
+CHOL_05,PUBLISHED,2008,WB_HI,,AGE25-PLUS,BTSX,16.9 [14.6-19.5],,,,
+CHOL_05,PUBLISHED,2008,EMR,AFG,AGE25-PLUS,MLE,3.5 [1.0-8.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ALB,AGE25-PLUS,MLE,11.3 [4.2-23.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,DZA,AGE25-PLUS,MLE,7.6 [3.3-14.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,AND,AGE25-PLUS,MLE,26.7 [11.3-48.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,AGO,AGE25-PLUS,MLE,5.8 [1.4-15.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,ATG,AGE25-PLUS,MLE,9.3 [2.6-22.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,ARG,AGE25-PLUS,MLE,13.8 [4.3-30.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ARM,AGE25-PLUS,MLE,8.9 [2.7-21.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,AUS,AGE25-PLUS,MLE,14.8 [8.0-23.9],,,,
+CHOL_05,PUBLISHED,2008,EUR,AUT,AGE25-PLUS,MLE,19.6 [7.6-38.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,AZE,AGE25-PLUS,MLE,6.7 [2.0-16.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BHS,AGE25-PLUS,MLE,13.1 [4.2-29.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,BHR,AGE25-PLUS,MLE,14.6 [5.2-29.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,BGD,AGE25-PLUS,MLE,4.4 [1.3-10.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRB,AGE25-PLUS,MLE,8.9 [2.6-20.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BLR,AGE25-PLUS,MLE,13.9 [4.1-32.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BEL,AGE25-PLUS,MLE,22.2 [8.3-42.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BLZ,AGE25-PLUS,MLE,5.9 [1.8-13.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BEN,AGE25-PLUS,MLE,2.9 [1.6-4.8],,,,
+CHOL_05,PUBLISHED,2008,SEAR,BTN,AGE25-PLUS,MLE,6.0 [2.9-10.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,BOL,AGE25-PLUS,MLE,7.1 [2.1-17.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BIH,AGE25-PLUS,MLE,8.5 [2.6-20.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BWA,AGE25-PLUS,MLE,7.8 [2.1-19.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRA,AGE25-PLUS,MLE,10.6 [4.2-21.9],,,,
+CHOL_05,PUBLISHED,2008,WPR,BRN,AGE25-PLUS,MLE,15.7 [5.5-33.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BGR,AGE25-PLUS,MLE,13.5 [4.4-29.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BFA,AGE25-PLUS,MLE,2.5 [0.8-6.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BDI,AGE25-PLUS,MLE,2.7 [0.7-7.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KHM,AGE25-PLUS,MLE,4.6 [2.7-7.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,CMR,AGE25-PLUS,MLE,3.2 [1.0-7.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CAN,AGE25-PLUS,MLE,14.8 [5.2-31.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,CPV,AGE25-PLUS,MLE,3.9 [2.1-6.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,CAF,AGE25-PLUS,MLE,3.4 [0.7-9.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,TCD,AGE25-PLUS,MLE,2.5 [0.7-6.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CHL,AGE25-PLUS,MLE,12.1 [5.6-22.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,CHN,AGE25-PLUS,MLE,5.9 [3.5-9.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,COL,AGE25-PLUS,MLE,8.7 [5.2-13.6],,,,
+CHOL_05,PUBLISHED,2008,AFR,COM,AGE25-PLUS,MLE,3.9 [1.1-9.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COG,AGE25-PLUS,MLE,5.0 [1.1-13.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,COK,AGE25-PLUS,MLE,19.0 [6.9-38.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,CRI,AGE25-PLUS,MLE,8.1 [2.6-18.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,CIV,AGE25-PLUS,MLE,3.1 [1.0-7.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,HRV,AGE25-PLUS,MLE,13.1 [4.3-29.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CUB,AGE25-PLUS,MLE,5.2 [1.6-12.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CYP,AGE25-PLUS,MLE,17.8 [6.8-35.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CZE,AGE25-PLUS,MLE,14.7 [8.7-22.8],,,,
+CHOL_05,PUBLISHED,2008,SEAR,PRK,AGE25-PLUS,MLE,4.2 [1.1-10.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COD,AGE25-PLUS,MLE,2.2 [0.5-6.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DNK,AGE25-PLUS,MLE,26.0 [11.3-45.7],,,,
+CHOL_05,PUBLISHED,2008,EMR,DJI,AGE25-PLUS,MLE,7.9 [2.3-19.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,DMA,AGE25-PLUS,MLE,6.0 [2.9-10.8],,,,
+CHOL_05,PUBLISHED,2008,AMR,DOM,AGE25-PLUS,MLE,5.2 [1.8-12.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,ECU,AGE25-PLUS,MLE,8.4 [2.4-20.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,EGY,AGE25-PLUS,MLE,6.5 [3.6-10.6],,,,
+CHOL_05,PUBLISHED,2008,AMR,SLV,AGE25-PLUS,MLE,6.1 [1.9-13.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNQ,AGE25-PLUS,MLE,9.4 [2.1-25.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ERI,AGE25-PLUS,MLE,3.5 [1.0-8.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,EST,AGE25-PLUS,MLE,17.0 [5.4-36.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,ETH,AGE25-PLUS,MLE,3.5 [1.0-8.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,FJI,AGE25-PLUS,MLE,16.3 [7.1-30.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,FIN,AGE25-PLUS,MLE,16.4 [10.2-24.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,FRA,AGE25-PLUS,MLE,20.2 [12.7-30.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,GAB,AGE25-PLUS,MLE,9.5 [2.3-25.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GMB,AGE25-PLUS,MLE,2.8 [0.9-6.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,GEO,AGE25-PLUS,MLE,7.5 [2.2-18.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DEU,AGE25-PLUS,MLE,27.1 [11.5-47.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,GHA,AGE25-PLUS,MLE,2.4 [0.7-6.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,GRC,AGE25-PLUS,MLE,12.7 [5.7-23.3],,,,
+CHOL_05,PUBLISHED,2008,AMR,GRD,AGE25-PLUS,MLE,5.9 [1.7-14.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GTM,AGE25-PLUS,MLE,3.9 [1.6-8.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,GIN,AGE25-PLUS,MLE,2.5 [0.8-6.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNB,AGE25-PLUS,MLE,2.3 [0.7-5.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GUY,AGE25-PLUS,MLE,3.3 [0.9-8.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,HTI,AGE25-PLUS,MLE,3.1 [0.9-7.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,HND,AGE25-PLUS,MLE,4.8 [1.4-11.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,HUN,AGE25-PLUS,MLE,16.5 [5.3-36.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,ISL,AGE25-PLUS,MLE,30.2 [13.3-52.1],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IND,AGE25-PLUS,MLE,4.5 [2.6-7.1],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IDN,AGE25-PLUS,MLE,6.4 [2.4-13.3],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRN,AGE25-PLUS,MLE,12.2 [8.1-17.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRQ,AGE25-PLUS,MLE,9.8 [5.3-16.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,IRL,AGE25-PLUS,MLE,22.9 [9.0-43.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ISR,AGE25-PLUS,MLE,13.3 [5.7-25.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,ITA,AGE25-PLUS,MLE,19.0 [12.1-28.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,JAM,AGE25-PLUS,MLE,4.7 [2.7-7.5],,,,
+CHOL_05,PUBLISHED,2008,WPR,JPN,AGE25-PLUS,MLE,15.7 [11.4-20.8],,,,
+CHOL_05,PUBLISHED,2008,EMR,JOR,AGE25-PLUS,MLE,11.4 [6.7-17.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,KAZ,AGE25-PLUS,MLE,11.0 [3.5-25.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,KEN,AGE25-PLUS,MLE,4.7 [1.4-11.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KIR,AGE25-PLUS,MLE,6.2 [2.9-11.6],,,,
+CHOL_05,PUBLISHED,2008,EMR,KWT,AGE25-PLUS,MLE,15.5 [8.9-24.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,KGZ,AGE25-PLUS,MLE,5.3 [1.5-13.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,LAO,AGE25-PLUS,MLE,5.4 [1.7-12.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,LVA,AGE25-PLUS,MLE,16.6 [5.1-36.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBN,AGE25-PLUS,MLE,9.4 [3.1-21.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LSO,AGE25-PLUS,MLE,3.6 [0.9-9.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LBR,AGE25-PLUS,MLE,2.1 [0.6-5.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBY,AGE25-PLUS,MLE,6.7 [4.2-10.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,LTU,AGE25-PLUS,MLE,16.1 [4.9-34.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,LUX,AGE25-PLUS,MLE,26.5 [11.1-47.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,MDG,AGE25-PLUS,MLE,4.1 [1.2-10.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MWI,AGE25-PLUS,MLE,3.7 [2.2-6.0],,,,
+CHOL_05,PUBLISHED,2008,WPR,MYS,AGE25-PLUS,MLE,13.3 [4.4-28.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,MDV,AGE25-PLUS,MLE,8.2 [2.2-19.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MLI,AGE25-PLUS,MLE,2.8 [0.9-7.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,MLT,AGE25-PLUS,MLE,19.2 [7.2-37.6],,,,
+CHOL_05,PUBLISHED,2008,WPR,MHL,AGE25-PLUS,MLE,9.9 [4.1-19.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,MRT,AGE25-PLUS,MLE,3.4 [1.6-6.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,MUS,AGE25-PLUS,MLE,12.5 [3.7-29.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,MEX,AGE25-PLUS,MLE,11.3 [6.2-18.5],,,,
+CHOL_05,PUBLISHED,2008,WPR,FSM,AGE25-PLUS,MLE,12.4 [5.3-23.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,MCO,AGE25-PLUS,MLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,WPR,MNG,AGE25-PLUS,MLE,7.5 [3.7-13.1],,,,
+CHOL_05,PUBLISHED,2008,EUR,MNE,AGE25-PLUS,MLE,12.6 [4.0-28.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,MAR,AGE25-PLUS,MLE,7.2 [2.8-14.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,MOZ,AGE25-PLUS,MLE,4.5 [2.2-8.1],,,,
+CHOL_05,PUBLISHED,2008,SEAR,MMR,AGE25-PLUS,MLE,5.1 [1.6-12.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NAM,AGE25-PLUS,MLE,6.2 [1.5-16.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NRU,AGE25-PLUS,MLE,9.0 [4.3-16.0],,,,
+CHOL_05,PUBLISHED,2008,SEAR,NPL,AGE25-PLUS,MLE,3.7 [1.1-9.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,NLD,AGE25-PLUS,MLE,20.4 [8.1-39.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NZL,AGE25-PLUS,MLE,16.6 [5.6-34.8],,,,
+CHOL_05,PUBLISHED,2008,AMR,NIC,AGE25-PLUS,MLE,4.9 [1.5-11.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NER,AGE25-PLUS,MLE,2.1 [0.6-5.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NGA,AGE25-PLUS,MLE,2.1 [0.7-5.1],,,,
+CHOL_05,PUBLISHED,2008,WPR,NIU,AGE25-PLUS,MLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,EUR,NOR,AGE25-PLUS,MLE,21.8 [8.7-40.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,OMN,AGE25-PLUS,MLE,12.5 [4.3-26.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,PAK,AGE25-PLUS,MLE,5.7 [2.4-11.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,PLW,AGE25-PLUS,MLE,15.9 [5.5-33.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PAN,AGE25-PLUS,MLE,9.0 [2.9-20.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,PNG,AGE25-PLUS,MLE,7.6 [2.6-17.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,PRY,AGE25-PLUS,MLE,7.8 [2.2-19.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PER,AGE25-PLUS,MLE,7.7 [4.2-12.5],,,,
+CHOL_05,PUBLISHED,2008,WPR,PHL,AGE25-PLUS,MLE,8.2 [4.0-14.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,POL,AGE25-PLUS,MLE,18.3 [9.9-29.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,PRT,AGE25-PLUS,MLE,16.7 [7.3-31.2],,,,
+CHOL_05,PUBLISHED,2008,EMR,QAT,AGE25-PLUS,MLE,17.2 [6.1-35.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KOR,AGE25-PLUS,MLE,8.6 [5.1-13.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,MDA,AGE25-PLUS,MLE,7.5 [1.9-18.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ROU,AGE25-PLUS,MLE,11.4 [3.6-24.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,RUS,AGE25-PLUS,MLE,12.3 [3.8-27.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,RWA,AGE25-PLUS,MLE,3.5 [0.9-9.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,KNA,AGE25-PLUS,MLE,8.8 [2.6-21.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,LCA,AGE25-PLUS,MLE,7.2 [2.1-17.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,VCT,AGE25-PLUS,MLE,6.6 [2.0-16.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,WSM,AGE25-PLUS,MLE,6.1 [2.5-12.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,SMR,AGE25-PLUS,MLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,AFR,STP,AGE25-PLUS,MLE,2.3 [1.3-3.9],,,,
+CHOL_05,PUBLISHED,2008,EMR,SAU,AGE25-PLUS,MLE,7.3 [3.7-12.8],,,,
+CHOL_05,PUBLISHED,2008,AFR,SEN,AGE25-PLUS,MLE,3.2 [1.0-8.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SRB,AGE25-PLUS,MLE,11.9 [3.7-28.3],,,,
+CHOL_05,PUBLISHED,2008,AFR,SYC,AGE25-PLUS,MLE,17.5 [8.9-29.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,SLE,AGE25-PLUS,MLE,2.1 [0.6-5.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SGP,AGE25-PLUS,MLE,15.2 [8.9-23.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,SVK,AGE25-PLUS,MLE,14.8 [4.9-31.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SVN,AGE25-PLUS,MLE,17.3 [5.9-36.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SLB,AGE25-PLUS,MLE,5.5 [2.5-10.3],,,,
+CHOL_05,PUBLISHED,2008,EMR,SOM,AGE25-PLUS,MLE,4.1 [1.3-9.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ZAF,AGE25-PLUS,MLE,6.0 [2.1-13.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,ESP,AGE25-PLUS,MLE,17.1 [9.8-26.4],,,,
+CHOL_05,PUBLISHED,2008,SEAR,LKA,AGE25-PLUS,MLE,6.6 [2.1-15.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,SDN,AGE25-PLUS,MLE,6.7 [1.9-15.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,SUR,AGE25-PLUS,MLE,6.3 [2.0-15.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,SWZ,AGE25-PLUS,MLE,5.6 [1.4-14.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SWE,AGE25-PLUS,MLE,16.3 [8.0-27.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,CHE,AGE25-PLUS,MLE,18.7 [9.6-31.0],,,,
+CHOL_05,PUBLISHED,2008,EMR,SYR,AGE25-PLUS,MLE,8.3 [2.9-18.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,TJK,AGE25-PLUS,MLE,3.8 [1.0-9.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,THA,AGE25-PLUS,MLE,14.4 [9.7-20.1],,,,
+CHOL_05,PUBLISHED,2008,EUR,MKD,AGE25-PLUS,MLE,10.0 [3.1-23.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,TLS,AGE25-PLUS,MLE,4.2 [1.2-10.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,TGO,AGE25-PLUS,MLE,2.3 [0.7-5.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TON,AGE25-PLUS,MLE,14.2 [6.8-26.1],,,,
+CHOL_05,PUBLISHED,2008,AMR,TTO,AGE25-PLUS,MLE,7.9 [2.1-20.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,TUN,AGE25-PLUS,MLE,8.1 [2.6-18.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,TUR,AGE25-PLUS,MLE,7.8 [4.8-11.9],,,,
+CHOL_05,PUBLISHED,2008,EUR,TKM,AGE25-PLUS,MLE,6.9 [2.0-16.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TUV,AGE25-PLUS,MLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,AFR,UGA,AGE25-PLUS,MLE,3.3 [0.8-8.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,UKR,AGE25-PLUS,MLE,10.4 [2.8-25.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,ARE,AGE25-PLUS,MLE,17.1 [6.3-34.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,GBR,AGE25-PLUS,MLE,21.6 [10.9-36.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,TZA,AGE25-PLUS,MLE,3.7 [1.1-9.1],,,,
+CHOL_05,PUBLISHED,2008,AMR,USA,AGE25-PLUS,MLE,13.1 [9.2-17.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,URY,AGE25-PLUS,MLE,9.7 [4.9-17.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,UZB,AGE25-PLUS,MLE,4.1 [1.7-8.6],,,,
+CHOL_05,PUBLISHED,2008,WPR,VUT,AGE25-PLUS,MLE,7.6 [2.4-17.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,VEN,AGE25-PLUS,MLE,6.7 [2.4-14.3],,,,
+CHOL_05,PUBLISHED,2008,WPR,VNM,AGE25-PLUS,MLE,6.8 [2.2-15.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,YEM,AGE25-PLUS,MLE,5.9 [1.8-13.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ZMB,AGE25-PLUS,MLE,4.6 [2.2-8.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,ZWE,AGE25-PLUS,MLE,3.7 [1.0-10.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,AFG,AGE25-PLUS,FMLE,4.5 [1.2-11.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ALB,AGE25-PLUS,FMLE,12.6 [4.0-27.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,DZA,AGE25-PLUS,FMLE,9.6 [3.7-20.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,AND,AGE25-PLUS,FMLE,24.1 [9.3-43.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,AGO,AGE25-PLUS,FMLE,7.3 [1.7-19.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,ATG,AGE25-PLUS,FMLE,12.7 [3.5-29.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,ARG,AGE25-PLUS,FMLE,15.1 [4.7-33.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ARM,AGE25-PLUS,FMLE,11.0 [3.0-26.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,AUS,AGE25-PLUS,FMLE,17.3 [7.9-30.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,AUT,AGE25-PLUS,FMLE,18.9 [6.8-37.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,AZE,AGE25-PLUS,FMLE,8.7 [2.3-21.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BHS,AGE25-PLUS,FMLE,17.2 [5.6-36.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,BHR,AGE25-PLUS,FMLE,17.3 [6.0-34.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,BGD,AGE25-PLUS,FMLE,5.5 [1.5-14.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRB,AGE25-PLUS,FMLE,12.5 [3.7-28.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BLR,AGE25-PLUS,FMLE,15.8 [4.2-35.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BEL,AGE25-PLUS,FMLE,20.8 [7.6-39.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BLZ,AGE25-PLUS,FMLE,9.1 [2.6-21.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BEN,AGE25-PLUS,FMLE,3.9 [1.9-7.0],,,,
+CHOL_05,PUBLISHED,2008,SEAR,BTN,AGE25-PLUS,FMLE,6.3 [2.8-11.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,BOL,AGE25-PLUS,FMLE,9.3 [2.5-22.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BIH,AGE25-PLUS,FMLE,10.1 [2.8-24.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BWA,AGE25-PLUS,FMLE,10.0 [2.5-25.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRA,AGE25-PLUS,FMLE,13.0 [4.3-27.3],,,,
+CHOL_05,PUBLISHED,2008,WPR,BRN,AGE25-PLUS,FMLE,18.1 [6.0-36.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BGR,AGE25-PLUS,FMLE,14.5 [4.4-31.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BFA,AGE25-PLUS,FMLE,3.5 [1.0-9.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BDI,AGE25-PLUS,FMLE,3.9 [1.0-10.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KHM,AGE25-PLUS,FMLE,6.6 [3.5-11.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,CMR,AGE25-PLUS,FMLE,4.8 [1.4-12.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CAN,AGE25-PLUS,FMLE,17.3 [5.7-35.3],,,,
+CHOL_05,PUBLISHED,2008,AFR,CPV,AGE25-PLUS,FMLE,4.8 [2.2-9.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,CAF,AGE25-PLUS,FMLE,4.8 [1.1-13.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,TCD,AGE25-PLUS,FMLE,3.6 [1.0-9.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CHL,AGE25-PLUS,FMLE,13.4 [5.1-26.5],,,,
+CHOL_05,PUBLISHED,2008,WPR,CHN,AGE25-PLUS,FMLE,8.4 [4.4-14.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,COL,AGE25-PLUS,FMLE,11.1 [5.5-19.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,COM,AGE25-PLUS,FMLE,5.1 [1.4-13.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COG,AGE25-PLUS,FMLE,6.9 [1.7-18.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,COK,AGE25-PLUS,FMLE,20.6 [7.1-39.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,CRI,AGE25-PLUS,FMLE,12.2 [3.8-27.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,CIV,AGE25-PLUS,FMLE,4.5 [1.3-11.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,HRV,AGE25-PLUS,FMLE,14.9 [4.4-33.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CUB,AGE25-PLUS,FMLE,8.5 [2.4-21.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CYP,AGE25-PLUS,FMLE,17.7 [6.3-34.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CZE,AGE25-PLUS,FMLE,15.7 [8.5-25.2],,,,
+CHOL_05,PUBLISHED,2008,SEAR,PRK,AGE25-PLUS,FMLE,6.1 [1.5-16.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COD,AGE25-PLUS,FMLE,3.4 [0.7-9.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DNK,AGE25-PLUS,FMLE,24.6 [10.5-42.1],,,,
+CHOL_05,PUBLISHED,2008,EMR,DJI,AGE25-PLUS,FMLE,8.8 [2.4-20.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,DMA,AGE25-PLUS,FMLE,12.2 [5.5-22.5],,,,
+CHOL_05,PUBLISHED,2008,AMR,DOM,AGE25-PLUS,FMLE,8.9 [2.5-20.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,ECU,AGE25-PLUS,FMLE,10.8 [2.9-25.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,EGY,AGE25-PLUS,FMLE,11.7 [6.2-19.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,SLV,AGE25-PLUS,FMLE,9.2 [2.8-21.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNQ,AGE25-PLUS,FMLE,11.4 [2.6-29.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ERI,AGE25-PLUS,FMLE,4.2 [1.1-11.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,EST,AGE25-PLUS,FMLE,19.3 [5.5-40.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,ETH,AGE25-PLUS,FMLE,4.2 [1.2-10.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,FJI,AGE25-PLUS,FMLE,14.3 [5.1-29.9],,,,
+CHOL_05,PUBLISHED,2008,EUR,FIN,AGE25-PLUS,FMLE,21.7 [13.4-31.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,FRA,AGE25-PLUS,FMLE,20.7 [11.7-31.9],,,,
+CHOL_05,PUBLISHED,2008,AFR,GAB,AGE25-PLUS,FMLE,12.4 [3.1-30.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GMB,AGE25-PLUS,FMLE,4.3 [1.3-11.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,GEO,AGE25-PLUS,FMLE,9.5 [2.7-23.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DEU,AGE25-PLUS,FMLE,21.9 [8.5-39.9],,,,
+CHOL_05,PUBLISHED,2008,AFR,GHA,AGE25-PLUS,FMLE,3.8 [1.3-8.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,GRC,AGE25-PLUS,FMLE,12.8 [4.7-25.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,GRD,AGE25-PLUS,FMLE,9.1 [2.7-21.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GTM,AGE25-PLUS,FMLE,7.0 [2.3-15.8],,,,
+CHOL_05,PUBLISHED,2008,AFR,GIN,AGE25-PLUS,FMLE,4.0 [1.1-10.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNB,AGE25-PLUS,FMLE,3.5 [1.0-9.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GUY,AGE25-PLUS,FMLE,5.6 [1.5-14.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,HTI,AGE25-PLUS,FMLE,5.2 [1.4-13.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,HND,AGE25-PLUS,FMLE,7.7 [2.1-19.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,HUN,AGE25-PLUS,FMLE,18.5 [5.5-39.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,ISL,AGE25-PLUS,FMLE,27.7 [11.1-47.7],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IND,AGE25-PLUS,FMLE,6.0 [3.2-9.9],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IDN,AGE25-PLUS,FMLE,8.9 [2.9-19.9],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRN,AGE25-PLUS,FMLE,18.2 [10.8-27.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRQ,AGE25-PLUS,FMLE,11.0 [5.1-19.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,IRL,AGE25-PLUS,FMLE,20.4 [7.3-38.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ISR,AGE25-PLUS,FMLE,15.5 [6.0-30.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,ITA,AGE25-PLUS,FMLE,20.8 [12.6-31.2],,,,
+CHOL_05,PUBLISHED,2008,AMR,JAM,AGE25-PLUS,FMLE,7.1 [3.7-12.1],,,,
+CHOL_05,PUBLISHED,2008,WPR,JPN,AGE25-PLUS,FMLE,15.8 [10.4-22.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,JOR,AGE25-PLUS,FMLE,12.9 [7.0-21.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,KAZ,AGE25-PLUS,FMLE,12.9 [3.7-30.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,KEN,AGE25-PLUS,FMLE,5.7 [1.6-14.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KIR,AGE25-PLUS,FMLE,8.9 [3.4-19.0],,,,
+CHOL_05,PUBLISHED,2008,EMR,KWT,AGE25-PLUS,FMLE,16.5 [8.2-27.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,KGZ,AGE25-PLUS,FMLE,7.0 [1.8-18.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,LAO,AGE25-PLUS,FMLE,7.8 [2.1-18.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,LVA,AGE25-PLUS,FMLE,18.6 [5.1-40.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBN,AGE25-PLUS,FMLE,13.3 [4.2-29.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LSO,AGE25-PLUS,FMLE,5.0 [1.2-14.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LBR,AGE25-PLUS,FMLE,3.3 [0.9-8.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBY,AGE25-PLUS,FMLE,8.1 [4.4-13.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,LTU,AGE25-PLUS,FMLE,17.2 [4.3-38.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,LUX,AGE25-PLUS,FMLE,24.3 [9.4-44.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,MDG,AGE25-PLUS,FMLE,5.1 [1.5-12.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MWI,AGE25-PLUS,FMLE,4.7 [2.5-8.0],,,,
+CHOL_05,PUBLISHED,2008,WPR,MYS,AGE25-PLUS,FMLE,17.4 [5.6-35.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,MDV,AGE25-PLUS,FMLE,13.1 [3.8-30.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MLI,AGE25-PLUS,FMLE,3.9 [1.1-10.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,MLT,AGE25-PLUS,FMLE,18.9 [6.5-37.2],,,,
+CHOL_05,PUBLISHED,2008,WPR,MHL,AGE25-PLUS,FMLE,14.7 [5.3-30.3],,,,
+CHOL_05,PUBLISHED,2008,AFR,MRT,AGE25-PLUS,FMLE,4.3 [1.8-8.6],,,,
+CHOL_05,PUBLISHED,2008,AFR,MUS,AGE25-PLUS,FMLE,13.0 [3.8-29.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,MEX,AGE25-PLUS,FMLE,16.2 [8.0-27.7],,,,
+CHOL_05,PUBLISHED,2008,WPR,FSM,AGE25-PLUS,FMLE,13.7 [5.0-28.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,MCO,AGE25-PLUS,FMLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,WPR,MNG,AGE25-PLUS,FMLE,8.3 [3.4-16.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,MNE,AGE25-PLUS,FMLE,13.9 [4.0-30.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,MAR,AGE25-PLUS,FMLE,9.6 [3.3-21.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,MOZ,AGE25-PLUS,FMLE,5.1 [2.1-10.3],,,,
+CHOL_05,PUBLISHED,2008,SEAR,MMR,AGE25-PLUS,FMLE,7.5 [2.1-18.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NAM,AGE25-PLUS,FMLE,8.2 [2.0-21.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NRU,AGE25-PLUS,FMLE,15.2 [6.1-29.4],,,,
+CHOL_05,PUBLISHED,2008,SEAR,NPL,AGE25-PLUS,FMLE,4.9 [1.3-12.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,NLD,AGE25-PLUS,FMLE,19.6 [7.1-38.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NZL,AGE25-PLUS,FMLE,17.3 [5.2-37.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,NIC,AGE25-PLUS,FMLE,7.5 [2.1-17.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NER,AGE25-PLUS,FMLE,3.0 [0.8-8.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NGA,AGE25-PLUS,FMLE,3.6 [1.0-9.2],,,,
+CHOL_05,PUBLISHED,2008,WPR,NIU,AGE25-PLUS,FMLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,EUR,NOR,AGE25-PLUS,FMLE,20.3 [7.4-38.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,OMN,AGE25-PLUS,FMLE,15.2 [4.9-31.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,PAK,AGE25-PLUS,FMLE,6.6 [2.5-13.7],,,,
+CHOL_05,PUBLISHED,2008,WPR,PLW,AGE25-PLUS,FMLE,17.9 [5.8-36.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PAN,AGE25-PLUS,FMLE,12.6 [3.7-28.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,PNG,AGE25-PLUS,FMLE,9.7 [2.9-24.2],,,,
+CHOL_05,PUBLISHED,2008,AMR,PRY,AGE25-PLUS,FMLE,10.3 [2.8-25.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PER,AGE25-PLUS,FMLE,9.4 [4.9-15.7],,,,
+CHOL_05,PUBLISHED,2008,WPR,PHL,AGE25-PLUS,FMLE,12.5 [5.2-24.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,POL,AGE25-PLUS,FMLE,16.5 [7.6-29.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,PRT,AGE25-PLUS,FMLE,16.5 [6.1-32.6],,,,
+CHOL_05,PUBLISHED,2008,EMR,QAT,AGE25-PLUS,FMLE,19.6 [6.7-38.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KOR,AGE25-PLUS,FMLE,10.2 [5.3-17.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,MDA,AGE25-PLUS,FMLE,9.3 [2.2-24.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ROU,AGE25-PLUS,FMLE,12.6 [3.7-28.3],,,,
+CHOL_05,PUBLISHED,2008,AFR,ZAF,AGE25-PLUS,FMLE,9.5 [3.0-22.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,ESP,AGE25-PLUS,FMLE,15.4 [7.6-26.3],,,,
+CHOL_05,PUBLISHED,2008,SEAR,LKA,AGE25-PLUS,FMLE,9.5 [2.8-22.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,SDN,AGE25-PLUS,FMLE,7.5 [2.1-17.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,SUR,AGE25-PLUS,FMLE,9.6 [2.8-22.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,SWZ,AGE25-PLUS,FMLE,7.6 [1.8-20.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SWE,AGE25-PLUS,FMLE,13.2 [6.4-23.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,CHE,AGE25-PLUS,FMLE,18.5 [8.8-31.7],,,,
+CHOL_05,PUBLISHED,2008,EMR,SYR,AGE25-PLUS,FMLE,11.1 [3.5-24.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,TJK,AGE25-PLUS,FMLE,5.3 [1.3-14.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,THA,AGE25-PLUS,FMLE,16.7 [10.4-24.7],,,,
+CHOL_05,PUBLISHED,2008,EMR,SOM,AGE25-PLUS,FMLE,5.3 [1.5-13.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SLB,AGE25-PLUS,FMLE,8.0 [3.2-16.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,SVN,AGE25-PLUS,FMLE,18.4 [5.6-38.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SVK,AGE25-PLUS,FMLE,16.1 [4.7-35.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SGP,AGE25-PLUS,FMLE,19.4 [9.5-32.9],,,,
+CHOL_05,PUBLISHED,2008,AFR,SLE,AGE25-PLUS,FMLE,3.3 [1.0-8.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,GBR,AGE25-PLUS,FMLE,21.3 [9.2-37.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,TZA,AGE25-PLUS,FMLE,5.1 [1.5-12.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,USA,AGE25-PLUS,FMLE,14.9 [9.4-21.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,URY,AGE25-PLUS,FMLE,10.3 [4.4-19.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,UZB,AGE25-PLUS,FMLE,6.5 [1.9-15.6],,,,
+CHOL_05,PUBLISHED,2008,WPR,VUT,AGE25-PLUS,FMLE,9.9 [2.9-23.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,VEN,AGE25-PLUS,FMLE,11.9 [3.7-25.8],,,,
+CHOL_05,PUBLISHED,2008,WPR,VNM,AGE25-PLUS,FMLE,9.4 [2.7-22.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,YEM,AGE25-PLUS,FMLE,7.7 [2.2-18.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ZMB,AGE25-PLUS,FMLE,5.7 [2.7-10.8],,,,
+CHOL_05,PUBLISHED,2008,AFR,ZWE,AGE25-PLUS,FMLE,5.3 [1.3-14.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,AFG,AGE25-PLUS,BTSX,4.0 [1.7-8.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ALB,AGE25-PLUS,BTSX,12.0 [5.9-21.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,DZA,AGE25-PLUS,BTSX,8.6 [4.7-14.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,AND,AGE25-PLUS,BTSX,25.5 [14.2-39.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,AGO,AGE25-PLUS,BTSX,6.6 [2.4-14.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,SYC,AGE25-PLUS,FMLE,17.5 [7.1-32.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,SRB,AGE25-PLUS,FMLE,14.9 [4.0-38.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,SEN,AGE25-PLUS,FMLE,4.5 [1.3-11.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,SAU,AGE25-PLUS,FMLE,10.3 [4.4-19.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,STP,AGE25-PLUS,FMLE,3.6 [1.8-6.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,SMR,AGE25-PLUS,FMLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,WPR,WSM,AGE25-PLUS,FMLE,9.4 [2.9-21.3],,,,
+CHOL_05,PUBLISHED,2008,AMR,VCT,AGE25-PLUS,FMLE,9.8 [2.9-23.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,LCA,AGE25-PLUS,FMLE,10.4 [2.9-24.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,KNA,AGE25-PLUS,FMLE,12.1 [3.4-28.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,RWA,AGE25-PLUS,FMLE,5.1 [1.2-13.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,RUS,AGE25-PLUS,FMLE,17.1 [4.8-36.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,TUR,AGE25-PLUS,FMLE,10.0 [5.5-16.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,BEN,AGE25-PLUS,BTSX,3.5 [2.2-5.3],,,,
+CHOL_05,PUBLISHED,2008,SEAR,BTN,AGE25-PLUS,BTSX,6.2 [3.6-9.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,BOL,AGE25-PLUS,BTSX,8.3 [3.4-16.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BIH,AGE25-PLUS,BTSX,9.4 [4.0-18.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BWA,AGE25-PLUS,BTSX,9.1 [3.5-18.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRA,AGE25-PLUS,BTSX,12.0 [6.0-20.7],,,,
+CHOL_05,PUBLISHED,2008,WPR,BRN,AGE25-PLUS,BTSX,16.7 [8.1-28.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BGR,AGE25-PLUS,BTSX,14.2 [6.5-25.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BFA,AGE25-PLUS,BTSX,3.1 [1.3-6.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,BDI,AGE25-PLUS,BTSX,3.4 [1.3-7.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KHM,AGE25-PLUS,BTSX,5.8 [3.7-8.6],,,,
+CHOL_05,PUBLISHED,2008,EMR,TUN,AGE25-PLUS,FMLE,11.9 [3.8-26.1],,,,
+CHOL_05,PUBLISHED,2008,AMR,TTO,AGE25-PLUS,FMLE,11.0 [2.7-27.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TON,AGE25-PLUS,FMLE,12.3 [4.8-24.8],,,,
+CHOL_05,PUBLISHED,2008,AFR,TGO,AGE25-PLUS,FMLE,3.5 [1.0-8.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,TLS,AGE25-PLUS,FMLE,6.3 [1.7-15.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,MKD,AGE25-PLUS,FMLE,11.8 [3.3-27.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,TKM,AGE25-PLUS,FMLE,8.7 [2.3-21.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TUV,AGE25-PLUS,FMLE,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,AFR,UGA,AGE25-PLUS,FMLE,4.9 [1.3-13.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,UKR,AGE25-PLUS,FMLE,12.7 [3.0-30.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,ARE,AGE25-PLUS,FMLE,20.1 [7.2-39.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,ATG,AGE25-PLUS,BTSX,11.1 [4.6-21.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,CIV,AGE25-PLUS,BTSX,3.8 [1.7-7.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,HRV,AGE25-PLUS,BTSX,14.3 [6.4-26.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CUB,AGE25-PLUS,BTSX,6.9 [2.9-14.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CYP,AGE25-PLUS,BTSX,17.7 [9.1-29.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,CZE,AGE25-PLUS,BTSX,15.5 [10.3-21.5],,,,
+CHOL_05,PUBLISHED,2008,SEAR,PRK,AGE25-PLUS,BTSX,5.3 [2.0-11.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COD,AGE25-PLUS,BTSX,2.8 [0.9-6.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DNK,AGE25-PLUS,BTSX,25.5 [14.9-38.1],,,,
+CHOL_05,PUBLISHED,2008,EMR,DJI,AGE25-PLUS,BTSX,8.4 [3.5-16.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,DMA,AGE25-PLUS,BTSX,9.3 [5.2-15.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,DOM,AGE25-PLUS,BTSX,7.1 [3.1-13.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,ECU,AGE25-PLUS,BTSX,9.6 [4.1-18.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,EGY,AGE25-PLUS,BTSX,9.2 [5.8-13.6],,,,
+CHOL_05,PUBLISHED,2008,AMR,SLV,AGE25-PLUS,BTSX,7.8 [3.3-15.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNQ,AGE25-PLUS,BTSX,10.5 [3.8-22.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ERI,AGE25-PLUS,BTSX,3.9 [1.6-8.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,EST,AGE25-PLUS,BTSX,18.5 [8.2-33.0],,,,
+CHOL_05,PUBLISHED,2008,AMR,ARG,AGE25-PLUS,BTSX,14.6 [6.8-26.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ARM,AGE25-PLUS,BTSX,10.1 [4.2-20.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,AUS,AGE25-PLUS,BTSX,16.1 [10.0-23.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,AUT,AGE25-PLUS,BTSX,19.4 [10.1-31.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,AZE,AGE25-PLUS,BTSX,7.8 [3.2-15.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BHS,AGE25-PLUS,BTSX,15.4 [7.0-27.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,BHR,AGE25-PLUS,BTSX,15.8 [7.9-27.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,BGD,AGE25-PLUS,BTSX,5.0 [2.1-10.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BRB,AGE25-PLUS,BTSX,10.9 [4.7-20.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BLR,AGE25-PLUS,BTSX,15.3 [6.2-28.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,BEL,AGE25-PLUS,BTSX,21.6 [11.4-35.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,BLZ,AGE25-PLUS,BTSX,7.5 [3.2-14.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,CMR,AGE25-PLUS,BTSX,4.0 [1.7-8.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CAN,AGE25-PLUS,BTSX,16.2 [8.0-27.8],,,,
+CHOL_05,PUBLISHED,2008,AFR,CPV,AGE25-PLUS,BTSX,4.5 [2.7-7.1],,,,
+CHOL_05,PUBLISHED,2008,AMR,HTI,AGE25-PLUS,BTSX,4.3 [1.7-9.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,HND,AGE25-PLUS,BTSX,6.3 [2.7-12.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,HUN,AGE25-PLUS,BTSX,17.9 [8.0-31.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,ISL,AGE25-PLUS,BTSX,29.1 [16.1-43.6],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IND,AGE25-PLUS,BTSX,5.3 [3.5-7.6],,,,
+CHOL_05,PUBLISHED,2008,SEAR,IDN,AGE25-PLUS,BTSX,7.7 [3.6-14.1],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRN,AGE25-PLUS,BTSX,15.3 [10.9-20.7],,,,
+CHOL_05,PUBLISHED,2008,EMR,IRQ,AGE25-PLUS,BTSX,10.5 [6.5-15.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,IRL,AGE25-PLUS,BTSX,21.7 [11.3-34.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ISR,AGE25-PLUS,BTSX,14.5 [7.9-23.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,ITA,AGE25-PLUS,BTSX,20.1 [14.5-26.8],,,,
+CHOL_05,PUBLISHED,2008,AMR,JAM,AGE25-PLUS,BTSX,5.9 [3.8-8.9],,,,
+CHOL_05,PUBLISHED,2008,WPR,JPN,AGE25-PLUS,BTSX,15.8 [12.0-20.1],,,,
+CHOL_05,PUBLISHED,2008,EMR,JOR,AGE25-PLUS,BTSX,12.2 [8.2-17.1],,,,
+CHOL_05,PUBLISHED,2008,EUR,KAZ,AGE25-PLUS,BTSX,12.3 [5.2-23.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,KEN,AGE25-PLUS,BTSX,5.3 [2.2-10.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KIR,AGE25-PLUS,BTSX,7.6 [4.0-13.0],,,,
+CHOL_05,PUBLISHED,2008,EMR,KWT,AGE25-PLUS,BTSX,16.0 [10.4-22.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,CAF,AGE25-PLUS,BTSX,4.2 [1.5-9.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,TCD,AGE25-PLUS,BTSX,3.1 [1.3-6.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,CHL,AGE25-PLUS,BTSX,12.9 [6.9-21.1],,,,
+CHOL_05,PUBLISHED,2008,WPR,CHN,AGE25-PLUS,BTSX,7.2 [4.7-10.5],,,,
+CHOL_05,PUBLISHED,2008,AMR,COL,AGE25-PLUS,BTSX,10.0 [6.5-14.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,COM,AGE25-PLUS,BTSX,4.5 [1.9-9.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,COG,AGE25-PLUS,BTSX,6.1 [2.2-13.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,COK,AGE25-PLUS,BTSX,19.9 [10.1-32.6],,,,
+CHOL_05,PUBLISHED,2008,AMR,CRI,AGE25-PLUS,BTSX,10.2 [4.6-19.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GNB,AGE25-PLUS,BTSX,2.9 [1.2-6.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GUY,AGE25-PLUS,BTSX,4.4 [1.8-9.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ETH,AGE25-PLUS,BTSX,3.9 [1.6-7.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,FJI,AGE25-PLUS,BTSX,15.4 [8.2-25.5],,,,
+CHOL_05,PUBLISHED,2008,EUR,FIN,AGE25-PLUS,BTSX,19.7 [14.3-25.9],,,,
+CHOL_05,PUBLISHED,2008,EUR,FRA,AGE25-PLUS,BTSX,20.6 [14.5-28.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,GAB,AGE25-PLUS,BTSX,11.0 [4.3-22.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MRT,AGE25-PLUS,BTSX,3.9 [2.2-6.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,MUS,AGE25-PLUS,BTSX,12.9 [5.7-24.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,MEX,AGE25-PLUS,BTSX,13.9 [8.8-20.8],,,,
+CHOL_05,PUBLISHED,2008,WPR,FSM,AGE25-PLUS,BTSX,13.1 [6.8-21.8],,,,
+CHOL_05,PUBLISHED,2008,EUR,MCO,AGE25-PLUS,BTSX,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,WPR,MNG,AGE25-PLUS,BTSX,7.9 [4.5-13.0],,,,
+CHOL_05,PUBLISHED,2008,EUR,MNE,AGE25-PLUS,BTSX,13.4 [5.9-24.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,MAR,AGE25-PLUS,BTSX,8.5 [4.2-15.1],,,,
+CHOL_05,PUBLISHED,2008,AFR,MOZ,AGE25-PLUS,BTSX,4.8 [2.7-7.9],,,,
+CHOL_05,PUBLISHED,2008,SEAR,MMR,AGE25-PLUS,BTSX,6.4 [2.7-12.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NAM,AGE25-PLUS,BTSX,7.3 [2.8-15.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NRU,AGE25-PLUS,BTSX,12.2 [6.6-20.1],,,,
+CHOL_05,PUBLISHED,2008,SEAR,NPL,AGE25-PLUS,BTSX,4.4 [1.8-8.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,GMB,AGE25-PLUS,BTSX,3.6 [1.6-7.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,GEO,AGE25-PLUS,BTSX,8.7 [3.5-16.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,DEU,AGE25-PLUS,BTSX,24.6 [13.7-37.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,GHA,AGE25-PLUS,BTSX,3.1 [1.4-6.1],,,,
+CHOL_05,PUBLISHED,2008,EUR,GRC,AGE25-PLUS,BTSX,12.8 [7.0-20.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,GRD,AGE25-PLUS,BTSX,7.7 [3.2-15.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,GTM,AGE25-PLUS,BTSX,5.6 [2.7-10.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,GIN,AGE25-PLUS,BTSX,3.3 [1.4-7.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MWI,AGE25-PLUS,BTSX,4.2 [2.8-6.2],,,,
+CHOL_05,PUBLISHED,2008,WPR,MYS,AGE25-PLUS,BTSX,15.4 [7.3-26.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,KGZ,AGE25-PLUS,BTSX,6.3 [2.5-12.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,PNG,AGE25-PLUS,BTSX,8.7 [3.9-17.1],,,,
+CHOL_05,PUBLISHED,2008,AMR,PRY,AGE25-PLUS,BTSX,9.1 [3.7-17.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PER,AGE25-PLUS,BTSX,8.6 [5.5-12.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,PHL,AGE25-PLUS,BTSX,10.5 [5.9-17.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,POL,AGE25-PLUS,BTSX,17.6 [10.9-25.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,PRT,AGE25-PLUS,BTSX,16.7 [9.1-27.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,QAT,AGE25-PLUS,BTSX,17.9 [8.6-31.5],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,KOR,AGE25-PLUS,BTSX,9.5 [6.4-13.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,MDA,AGE25-PLUS,BTSX,8.6 [3.2-18.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,ROU,AGE25-PLUS,BTSX,12.1 [5.5-22.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,RUS,AGE25-PLUS,BTSX,15.4 [6.6-27.7],,,,
+CHOL_05,PUBLISHED,2008,AFR,RWA,AGE25-PLUS,BTSX,4.4 [1.5-9.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,KNA,AGE25-PLUS,BTSX,10.6 [4.3-20.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,LCA,AGE25-PLUS,BTSX,8.9 [3.7-17.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,VCT,AGE25-PLUS,BTSX,8.4 [3.6-16.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,WSM,AGE25-PLUS,BTSX,7.8 [3.6-14.4],,,,
+CHOL_05,PUBLISHED,2008,EUR,SMR,AGE25-PLUS,BTSX,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,AFR,STP,AGE25-PLUS,BTSX,3.1 [1.9-4.8],,,,
+CHOL_05,PUBLISHED,2008,EMR,SAU,AGE25-PLUS,BTSX,8.7 [5.1-13.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,LAO,AGE25-PLUS,BTSX,6.7 [2.9-13.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,LVA,AGE25-PLUS,BTSX,18.0 [7.9-32.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBN,AGE25-PLUS,BTSX,11.5 [5.2-21.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LSO,AGE25-PLUS,BTSX,4.4 [1.6-10.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,LBR,AGE25-PLUS,BTSX,2.7 [1.1-5.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,LBY,AGE25-PLUS,BTSX,7.4 [5.0-10.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,LTU,AGE25-PLUS,BTSX,17.0 [7.1-31.3],,,,
+CHOL_05,PUBLISHED,2008,EUR,LUX,AGE25-PLUS,BTSX,25.6 [14.0-39.4],,,,
+CHOL_05,PUBLISHED,2008,AFR,MDG,AGE25-PLUS,BTSX,4.6 [2.0-9.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,MDV,AGE25-PLUS,BTSX,10.6 [4.4-20.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,MLI,AGE25-PLUS,BTSX,3.5 [1.4-7.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,MLT,AGE25-PLUS,BTSX,19.2 [9.7-31.8],,,,
+CHOL_05,PUBLISHED,2008,WPR,MHL,AGE25-PLUS,BTSX,12.4 [6.3-21.4],,,,
+CHOL_05,PUBLISHED,2008,WPR,PLW,AGE25-PLUS,BTSX,17.0 [8.2-29.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,SWZ,AGE25-PLUS,BTSX,6.8 [2.5-14.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SWE,AGE25-PLUS,BTSX,14.8 [9.1-22.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,CHE,AGE25-PLUS,BTSX,18.8 [11.5-27.5],,,,
+CHOL_05,PUBLISHED,2008,EMR,SYR,AGE25-PLUS,BTSX,9.8 [4.5-17.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,TJK,AGE25-PLUS,BTSX,4.6 [1.8-9.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,THA,AGE25-PLUS,BTSX,15.7 [11.5-20.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,MKD,AGE25-PLUS,BTSX,11.0 [4.7-20.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,SEAR,TLS,AGE25-PLUS,BTSX,5.3 [2.1-10.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,TGO,AGE25-PLUS,BTSX,2.9 [1.2-6.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TON,AGE25-PLUS,BTSX,13.4 [7.5-21.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,TTO,AGE25-PLUS,BTSX,9.6 [3.7-19.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,TUN,AGE25-PLUS,BTSX,10.1 [4.6-18.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,TUR,AGE25-PLUS,BTSX,9.0 [6.1-12.7],,,,
+CHOL_05,PUBLISHED,2008,EUR,TKM,AGE25-PLUS,BTSX,7.9 [3.2-16.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,PAN,AGE25-PLUS,BTSX,10.8 [4.8-20.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,NLD,AGE25-PLUS,BTSX,20.1 [10.5-32.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,NZL,AGE25-PLUS,BTSX,17.0 [8.1-29.7],,,,
+CHOL_05,PUBLISHED,2008,AMR,NIC,AGE25-PLUS,BTSX,6.3 [2.6-12.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NER,AGE25-PLUS,BTSX,2.5 [1.0-5.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,NGA,AGE25-PLUS,BTSX,2.9 [1.2-6.2],,,,
+CHOL_05,PUBLISHED,2008,WPR,NIU,AGE25-PLUS,BTSX,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,EUR,NOR,AGE25-PLUS,BTSX,21.2 [11.4-34.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,OMN,AGE25-PLUS,BTSX,13.8 [6.8-24.3],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,PAK,AGE25-PLUS,BTSX,6.1 [3.2-10.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,SEN,AGE25-PLUS,BTSX,3.9 [1.7-8.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SRB,AGE25-PLUS,BTSX,13.5 [5.7-26.8],,,,
+CHOL_05,PUBLISHED,2008,EMR,YEM,AGE25-PLUS,BTSX,6.9 [2.9-13.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ZMB,AGE25-PLUS,BTSX,5.2 [3.1-8.2],,,,
+CHOL_05,PUBLISHED,2008,AFR,ZWE,AGE25-PLUS,BTSX,4.6 [1.8-10.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,SYC,AGE25-PLUS,BTSX,17.8 [10.4-27.0],,,,
+CHOL_05,PUBLISHED,2008,AFR,SLE,AGE25-PLUS,BTSX,2.7 [1.2-5.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SGP,AGE25-PLUS,BTSX,17.4 [11.0-25.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,SVK,AGE25-PLUS,BTSX,15.7 [7.1-28.2],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,SVN,AGE25-PLUS,BTSX,18.1 [8.5-31.1],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,SLB,AGE25-PLUS,BTSX,6.7 [3.7-11.4],,,,
+CHOL_05,PUBLISHED,2008,EMR,SOM,AGE25-PLUS,BTSX,4.7 [2.0-9.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AFR,ZAF,AGE25-PLUS,BTSX,8.0 [3.7-15.6],,,,
+CHOL_05,PUBLISHED,2008,EUR,ESP,AGE25-PLUS,BTSX,16.4 [10.7-23.4],,,,
+CHOL_05,PUBLISHED,2008,SEAR,LKA,AGE25-PLUS,BTSX,8.1 [3.5-16.0],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,SDN,AGE25-PLUS,BTSX,7.1 [3.0-13.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,SUR,AGE25-PLUS,BTSX,8.1 [3.6-15.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,TUV,AGE25-PLUS,BTSX,...,,,,No data available.  Estimate could not be calculated due to lack of covariate data.
+CHOL_05,PUBLISHED,2008,AFR,UGA,AGE25-PLUS,BTSX,4.2 [1.6-8.9],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,WPR,VNM,AGE25-PLUS,BTSX,8.2 [3.7-15.6],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,UKR,AGE25-PLUS,BTSX,11.9 [4.6-23.4],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EMR,ARE,AGE25-PLUS,BTSX,18.2 [9.1-31.8],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,EUR,GBR,AGE25-PLUS,BTSX,21.7 [13.1-32.5],,,,
+CHOL_05,PUBLISHED,2008,AFR,TZA,AGE25-PLUS,BTSX,4.5 [1.9-8.9],,,,
+CHOL_05,PUBLISHED,2008,AMR,USA,AGE25-PLUS,BTSX,14.2 [10.6-18.4],,,,
+CHOL_05,PUBLISHED,2008,AMR,URY,AGE25-PLUS,BTSX,10.2 [5.9-16.2],,,,
+CHOL_05,PUBLISHED,2008,EUR,UZB,AGE25-PLUS,BTSX,5.4 [2.5-10.6],,,,
+CHOL_05,PUBLISHED,2008,WPR,VUT,AGE25-PLUS,BTSX,8.7 [3.8-16.7],,,,No country data available.  Estimate modeled using data from other countries and specific country characteristics.
+CHOL_05,PUBLISHED,2008,AMR,VEN,AGE25-PLUS,BTSX,9.4 [4.2-17.0],,,,

@@ -1,0 +1,195 @@
+GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+R_afford_tax_auto_adjust,PUBLISHED,AFR,DZA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,BDI,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,COG,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MOZ,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,SYC,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,UGA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,TZA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,ZWE,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,BRA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,SLV,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,JAM,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,VCT,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,SUR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,TTO,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,USA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EMR,EGY,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EMR,JOR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EMR,MAR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EMR,PAK,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,AND,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ARM,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,BLR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,BIH,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,CZE,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,DNK,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,EST,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,GEO,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,HUN,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ISL,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ITA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,KAZ,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,KGZ,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,MNE,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,NOR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,POL,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,PRT,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,MDA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,RUS,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,CHE,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,MKD,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,UKR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,UZB,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,IND,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,IDN,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,LKA,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,BRN,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,CHN,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,JPN,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,KIR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,LAO,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,MYS,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,KOR,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,WSM,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,SGP,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,TON,No,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,LSO,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,ZAF,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,CAN,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,COL,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,CRI,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,ECU,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AMR,HND,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,NLD,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,SRB,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,SWE,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,EUR,TUR,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,AUS,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,NZL,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,WPR,PHL,Yes,,,,
+R_afford_tax_auto_adjust,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,BEN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,BFA,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,CPV,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,CMR,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,CAF,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,TCD,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,COM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,CIV,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,ERI,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,ETH,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GAB,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GHA,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GNB,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,KEN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,LBR,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MDG,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MLI,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MRT,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,NER,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,NGA,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,RWA,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,STP,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,SEN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,SLE,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,TGO,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,ZMB,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,ARG,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,BOL,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,GRD,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,GTM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,GUY,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,PAN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,PRY,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,KNA,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AMR,VEN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,DJI,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,IRN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,KWT,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,LBN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,LBY,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,SDN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EMR,ARE,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EUR,SMR,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,EUR,TKM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,KHM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,TUV,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,WPR,VNM,Not applicable,,,,Data not required/not applicable
+R_afford_tax_auto_adjust,PUBLISHED,AFR,BWA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,COD,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GMB,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MWI,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,MUS,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,NAM,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AFR,SWZ,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,BHS,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,BRB,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,CHL,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,DMA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,DOM,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,MEX,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,NIC,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,PER,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,LCA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,AMR,URY,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EMR,TUN,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EMR,YEM,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ALB,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,AUT,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,AZE,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,BEL,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,BGR,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,HRV,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,CYP,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,FIN,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,FRA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,DEU,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,GRC,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,IRL,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ISR,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,LVA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,LTU,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,LUX,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,MLT,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ROU,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,SVK,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,SVN,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,ESP,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,TJK,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,EUR,GBR,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,NPL,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,THA,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,SEAR,TLS,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,COK,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,FJI,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,MNG,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,PLW,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,PNG,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,SLB,Not available,,,,Data not reported/not available
+R_afford_tax_auto_adjust,PUBLISHED,WPR,VUT,Not available,,,,Data not reported/not available

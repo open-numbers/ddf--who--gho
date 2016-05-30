@@ -1,0 +1,195 @@
+GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+R_excise_retail_price_base,PUBLISHED,AFR,BEN,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,BWA,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,BFA,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,CPV,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,CMR,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,CAF,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,COM,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,COG,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,CIV,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,COD,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,GNQ,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,ERI,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,ETH,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,GAB,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,GHA,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,GNB,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,LBR,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,MDG,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,MLI,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,MRT,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,NER,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,NGA,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,RWA,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,STP,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,SEN,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,SLE,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,TGO,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,ZMB,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,ZWE,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,ARG,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,BOL,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,CRI,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,SLV,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,GRD,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,GTM,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,GUY,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,MEX,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,PAN,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,PRY,No,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,KNA,No,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,DJI,No,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,LBN,No,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,MAR,No,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,SDN,No,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,TUN,No,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,ISR,No,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,SMR,No,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,TKM,No,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,IND,No,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,IDN,No,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,MMR,No,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,THA,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,KHM,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,CHN,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,LAO,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,MYS,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,TUV,No,,,,
+R_excise_retail_price_base,PUBLISHED,WPR,VNM,No,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,TCD,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,KEN,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,BRA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,CHL,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,COL,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,DOM,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AMR,VEN,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EMR,EGY,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,AUT,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,BEL,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,BIH,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,BGR,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,HRV,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,CYP,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,CZE,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,DNK,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,EST,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,FIN,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,FRA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,DEU,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,GRC,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,HUN,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,IRL,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,ITA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,KGZ,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,LVA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,LTU,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,LUX,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,MLT,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,MNE,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,NLD,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,POL,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,PRT,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,MDA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,ROU,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,RUS,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,SRB,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,SVK,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,SVN,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,ESP,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,SWE,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,CHE,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,MKD,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,TUR,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,UKR,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,EUR,GBR,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,BGD,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,SEAR,LKA,Yes,,,,
+R_excise_retail_price_base,PUBLISHED,AFR,DZA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,BDI,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,GMB,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,LSO,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,MWI,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,MUS,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,NAM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,SYC,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,ZAF,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,UGA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,TZA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,BHS,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,BRB,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,CAN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,DMA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,ECU,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,HND,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,JAM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,NIC,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,PER,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,LCA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,VCT,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,SUR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,TTO,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,USA,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AMR,URY,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,IRN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,JOR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,KWT,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,LBY,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,PAK,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,ARE,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EMR,YEM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,ALB,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,AND,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,ARM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,AZE,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,BLR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,GEO,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,ISL,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,KAZ,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,NOR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,TJK,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,EUR,UZB,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,AUS,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,BRN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,COK,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,FJI,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,JPN,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,KIR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,MNG,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,NZL,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,PLW,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,PNG,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,PHL,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,KOR,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,WSM,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,SGP,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,SLB,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,TON,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,WPR,VUT,Not applicable,,,,Data not required/not applicable
+R_excise_retail_price_base,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
+R_excise_retail_price_base,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available

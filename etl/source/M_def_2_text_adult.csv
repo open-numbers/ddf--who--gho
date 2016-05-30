@@ -1,0 +1,195 @@
+GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+M_def_2_text_adult,PUBLISHED,AFR,BDI,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,CIV,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,GHA,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MUS,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,JOR,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,LBN,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,RUS,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,JPN,Current cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MDG,Current tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,BEN,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,CMR,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,COG,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,ETH,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,GAB,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,GIN,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MWI,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MLI,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MOZ,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,NAM,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,NER,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,SEN,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,ZAF,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,ZMB,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,ZWE,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,CUB,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,DOM,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,SLV,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,GUY,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,HTI,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,HND,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,NIC,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,VEN,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ALB,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,AUT,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,CYP,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ISR,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,POL,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,TJK,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,UZB,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,TLS,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,FSM,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,KOR,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,SGP,Daily cigarette smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,DZA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,BWA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,BFA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,CPV,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,TCD,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,COM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,ERI,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,GMB,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,KEN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,LSO,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,LBR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,MRT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,NGA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,RWA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,STP,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,SYC,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,SLE,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,SWZ,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,TGO,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,UGA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,TZA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,ARG,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,BHS,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,BRB,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,BRA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,CAN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,CHL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,DMA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,ECU,Daily tobacco smoking,,,,The daily smoking indicator is defined as the proportion of current smokers who are daily smokers.
+M_def_2_text_adult,PUBLISHED,AMR,GRD,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,GTM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,MEX,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,PAN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,PRY,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,KNA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,VCT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,TTO,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AMR,URY,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,BHR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,EGY,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,IRN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,KWT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,LBY,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,MAR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,OMN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,PAK,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,QAT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,TUN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EMR,ARE,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,AND,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ARM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,BLR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,BEL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,BIH,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,BGR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,HRV,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,CZE,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,DNK,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,EST,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,FIN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,FRA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,GEO,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,DEU,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,GRC,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,HUN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ISL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,KAZ,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,KGZ,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,LTU,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,LUX,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,MLT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,NLD,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,NOR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,MDA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ROU,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,SRB,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,ESP,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,SWE,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,CHE,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,TUR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,TKM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,EUR,UKR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,BGD,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,BTN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,PRK,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,IND,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,IDN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,MDV,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,MMR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,NPL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,LKA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,SEAR,THA,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,AUS,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,KHM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,CHN,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,COK,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,FJI,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,KIR,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,LAO,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,MYS,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,MHL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,MNG,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,NRU,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,NZL,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,NIU,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,PLW,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,WSM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,SLB,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,TON,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,VUT,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,WPR,VNM,Daily tobacco smoking,,,,
+M_def_2_text_adult,PUBLISHED,AFR,GNB,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AFR,SSD,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,JAM,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,SUR,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,ITA,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,SMR,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AFR,COD,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,SAU,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,LVA,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,MCO,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,PRT,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,MKD,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,GBR,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,BLZ,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,LCA,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,SDN,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,IRL,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,SVK,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AFR,AGO,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AFR,CAF,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AFR,GNQ,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,BOL,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,USA,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,AFG,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,IRQ,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,YEM,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,ATG,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,COL,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,CRI,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,SYR,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,AZE,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,SVN,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,WPR,PHL,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,WPR,TUV,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,AMR,PER,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,DJI,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EMR,SOM,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,EUR,MNE,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,WPR,BRN,Not available,,,,Data not reported / not available
+M_def_2_text_adult,PUBLISHED,WPR,PNG,Not available,,,,Data not reported / not available

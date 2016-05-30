@@ -1,0 +1,176 @@
+GHO,PUBLISHSTATE,YEAR,REGION,WORLDBANKINCOMEGROUP,COUNTRY,Display Value,Numeric,Low,High,Comments
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,GAB,0.7,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,SLV,0.8,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,CHL,0.9,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,ECU,1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,CHN,1.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,EGY,0.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,DOM,0.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,BOL,0.6,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,DZA,0.5,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,COG,0.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,ALB,0.3,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,CMR,0.2,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LI,KHM,0.1,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LI,BGD,0.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,AGO,0.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,GMB,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_UMI,FJI,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,ERI,0,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,DMA,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,CIV,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,COM,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,CAF,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,CPV,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,BDI,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,BFA,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,BWA,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,BEN,0,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,BLZ,0,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_LI,AFG,0,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,CUB,1.2,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,ETH,<0.05,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,ARM,1.3,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,COL,1.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,BRA,1.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,GEO,1.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,BIH,1.6,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,AZE,1.7,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,BGR,1.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,CRI,1.7,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,ARG,2.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,EST,2.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_HI,BHS,2.9,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,HRV,2.9,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,BLR,3,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,CYP,3.8,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_HI,BRB,3.9,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,CZE,5,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,AUT,5.5,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_HI,AUS,6.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,FRA,6.5,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,BEL,7.3,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,FIN,7.5,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_HI,CAN,7.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,DNK,9.9,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,COD,<0.05,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,GRD,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,GIN,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,GNB,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,KIR,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LI,LAO,0,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,MDV,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,FSM,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,NER,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,GHA,0.1,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,IDN,0.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,MDG,0.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,MLI,0.1,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LI,MMR,0.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,IRQ,0.2,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LI,NPL,0.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,PAK,0.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,MRT,0.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,HND,0.8,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,LTU,4.3,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,MLT,4.9,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,ISL,6.2,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,ITA,6.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,DEU,6.5,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_HI,NZL,6.6,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,NLD,6.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_HI,JPN,7.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,NOR,7.9,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,MCO,30.5,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,KEN,<0.05,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,NGA,<0.05,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,JOR,0.9,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_UMI,LBY,0.9,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,MEX,0.9,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,JAM,1.1,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,GUY,1.3,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_HI,KWT,1.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_UMI,MYS,1.7,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,HUN,1.8,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_UMI,LBN,2.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,MUS,2.3,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,KAZ,2.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,ISR,3.6,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,IRL,4,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,LVA,4,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,LUX,4.1,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,GRC,4.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,NIC,0.3,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,IND,0.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,IRN,0.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,MAR,0.4,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,NAM,0.5,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_LI,KGZ,0.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,MNG,0.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_HI,OMN,0.7,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,KNA,0,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,TLS,0.9,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,PER,1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,TUN,1.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_HI,ARE,1.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,PAN,1.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,ROU,1.2,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_HI,QAT,1.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,MKD,1.5,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,MNE,1.6,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,SRB,1.9,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,TUR,2,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,UKR,2.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,VEN,2.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_HI,KOR,2.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,RUS,2.2,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_HI,SGP,2.5,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_UMI,POL,2.7,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,SVN,3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,LCA,0,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,VCT,0,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,SMR,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,SYC,0,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LMI,SWZ,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,TON,0,,,,
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,PNG,0.1,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_HI,SAU,0.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,SEN,0.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,UGA,0.1,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,TZA,0.1,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_LMI,PHL,0.2,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,SDN,0.2,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,ZMB,0.2,,,,
+WHS6_100,PUBLISHED,2010,EMR,WB_LMI,SYR,0.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_LI,TJK,0.3,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,WPR,WB_LI,VNM,0.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AFR,WB_LI,ZWE,0.5,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_LMI,PRY,0.6,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_LMI,MDA,0.6,,,,
+WHS6_100,PUBLISHED,2010,AFR,WB_UMI,ZAF,0.6,,,,
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,LKA,0.6,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_LI,UZB,0.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,SEAR,WB_LMI,THA,0.9,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_HI,TTO,3,,,,
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,SUR,3.8,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,PRT,4,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,ESP,4.3,,,,
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,SVK,4.6,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,GBR,5.4,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_UMI,URY,5.7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,CHE,7,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EUR,WB_HI,SWE,7.9,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,AMR,WB_HI,USA,11.8,,,,Data derived from the Directory of Radiotherapy Centres (DIRAC) from the International Atomic Energy Agency (IAEA).
+WHS6_100,PUBLISHED,2010,EMR,WB_LI,YEM,<0.05,,,,
+WHS6_100,PUBLISHED,2010,AFR,,,0.1,,,,
+WHS6_100,PUBLISHED,2010,SEAR,,,0.3,,,,
+WHS6_100,PUBLISHED,2010,EMR,,,0.4,,,,
+WHS6_100,PUBLISHED,2010,WPR,,,1.5,,,,
+WHS6_100,PUBLISHED,2010,EUR,,,3.9,,,,
+WHS6_100,PUBLISHED,2010,AMR,,,5.2,,,,
+WHS6_100,PUBLISHED,2010,NOTSPEC,WB_LI,,0.1,,,,
+WHS6_100,PUBLISHED,2010,NOTSPEC,WB_LMI,,0.6,,,,
+WHS6_100,PUBLISHED,2010,NOTSPEC,WB_UMI,,1.4,,,,
+WHS6_100,PUBLISHED,2010,NOTSPEC,WB_WORLD_INCOME,,1.8,,,,
+WHS6_100,PUBLISHED,2010,NOTSPEC,WB_HI,,7.3,,,,
+WHS6_100,PUBLISHED,2010,GLOBAL,,,1.8,,,,

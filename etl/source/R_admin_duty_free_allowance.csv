@@ -1,0 +1,195 @@
+GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+R_admin_duty_free_allowance,PUBLISHED,AMR,ATG,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,BLZ,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,DMA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,SLV,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,JAM,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,MEX,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,SUR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,TTO,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,EGY,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,IRN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,TUN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,ARE,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ALB,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,AUT,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,BLR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,BEL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,BGR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,HRV,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,CYP,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,CZE,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,EST,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,FIN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,FRA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,GEO,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,DEU,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,ZAF,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,SYC,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,MUS,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,ERI,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,CPV,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,BFA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,DZA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,GTM,80,80.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,AUS,50,50.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,SLB,25,25.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,GRC,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,GBR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,BGD,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,BTN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,IDN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,LKA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,THA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,COK,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,FJI,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,KIR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,LAO,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,MYS,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,MHL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,NZL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,NIU,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,KOR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,TUV,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,KEN,250,250.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,CHE,250,250.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,PNG,250,250.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,TON,250,250.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,VUT,250,250.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,AND,300,300.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,BOL,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,BRA,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,HUN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ISL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,IRL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ITA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,KAZ,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,KGZ,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,LVA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,LTU,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,LUX,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,MLT,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,NLD,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,NOR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,POL,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,PRT,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,MDA,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ROU,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,RUS,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,SRB,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,SVK,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,SVN,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ESP,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,SWE,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,TKM,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,UKR,200,200.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,ECU,400,400.0,,,Applies to cigarettes entering by air. Cigarettes entering by land are limited to 60.
+R_admin_duty_free_allowance,PUBLISHED,AFR,COM,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,COG,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,CIV,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,COD,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GNQ,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,ETH,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GAB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GMB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GHA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,GNB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,LSO,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,LBR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,MDG,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,PER,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,BHR,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,LBN,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,LBY,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,OMN,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,ARM,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,TJK,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,TUR,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,UZB,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,SEAR,MMR,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,KHM,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,MNG,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,VNM,400,400.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EMR,YEM,600,600.0,,,
+R_admin_duty_free_allowance,PUBLISHED,EUR,AZE,600,600.0,,,
+R_admin_duty_free_allowance,PUBLISHED,WPR,FSM,600,600.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AMR,URY,800,800.0,,,
+R_admin_duty_free_allowance,PUBLISHED,AFR,AGO,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,BEN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,BWA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,BDI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,CMR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,CAF,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,TCD,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,MWI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,DOM,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,GRD,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,GUY,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,HND,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,NIC,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,PAN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,MLI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,MRT,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,MOZ,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,NAM,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,NER,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,NGA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,RWA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,STP,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,SEN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,SLE,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,SWZ,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,TGO,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,UGA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,TZA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,ZMB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AFR,ZWE,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,ARG,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,BHS,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,BRB,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,CAN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,CHL,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,COL,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,CRI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,PRY,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,SEAR,PRK,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,SEAR,IND,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,SEAR,MDV,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,SEAR,NPL,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,SEAR,TLS,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,BRN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,CHN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,KNA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,LCA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,VCT,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,USA,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,AMR,VEN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,AFG,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,DJI,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,IRQ,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,JOR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,KWT,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,MAR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,PAK,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,QAT,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,SAU,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,SDN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,BIH,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,DNK,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,ISR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,MNE,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,SMR,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,EUR,MKD,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,JPN,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,PLW,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,PHL,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,WSM,Not available,,,,Data not reported/not available
+R_admin_duty_free_allowance,PUBLISHED,WPR,SGP,Not available,,,,Data not reported/not available

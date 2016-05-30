@@ -1,0 +1,195 @@
+GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+R_admin_tax_stamps,PUBLISHED,AFR,DZA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,BEN,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,BFA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,TCD,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,COM,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,COG,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,GNQ,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,ERI,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,ETH,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,GMB,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,GHA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,LSO,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,MDG,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,MWI,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,MRT,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,MOZ,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,NAM,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,NER,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,NGA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,STP,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,SEN,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,SYC,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,SLE,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,TGO,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,UGA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,ZMB,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,ZWE,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,BRB,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,CHL,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,COL,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,CRI,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,DMA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,DOM,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,ECU,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,SLV,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,GTM,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,GUY,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,HND,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,JAM,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,MEX,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,PAN,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,PER,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,KNA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,LCA,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,VCT,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,TTO,No,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,URY,No,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,JOR,No,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,LBN,No,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,PAK,No,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,SDN,No,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,TUN,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,AND,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,AUT,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,CYP,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,FRA,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,ISL,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,NOR,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,SMR,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,SWE,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,CHE,No,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,GBR,No,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,LKA,No,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,TLS,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,AUS,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,BRN,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,CHN,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,COK,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,FJI,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,JPN,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,KIR,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,LAO,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,NZL,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,PNG,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,KOR,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,SGP,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,SLB,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,TON,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,TUV,No,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,VUT,No,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,BWA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,BDI,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,CPV,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,CMR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,CIV,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,COD,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,GAB,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,KEN,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,AFR,MLI,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,MUS,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,RWA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,TZA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,ARG,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,BHS,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,BOL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,BRA,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,AMR,CAN,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,AMR,SUR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AMR,USA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,EGY,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EMR,MAR,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,EMR,YEM,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,ALB,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,EUR,ARM,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,AZE,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,BLR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,BEL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,BIH,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,BGR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,HRV,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,CZE,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,DNK,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,EST,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,FIN,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,GEO,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,DEU,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,GRC,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,HUN,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,IRL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,ITA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,KAZ,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,KGZ,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,LVA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,LTU,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,LUX,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,MLT,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,MNE,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,NLD,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,POL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,PRT,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,MDA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,ROU,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,RUS,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,SRB,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,SVK,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,SVN,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,ESP,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,TJK,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,TUR,Yes,,,,The country implements a system of encrypted tax stamps which include unique identification markings that are machine-readable only and are used for tracking and tracing and enforcement work.
+R_admin_tax_stamps,PUBLISHED,EUR,TKM,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,UKR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,EUR,UZB,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,BGD,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,IND,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,IDN,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,MMR,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,NPL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,SEAR,THA,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,KHM,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,MNG,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,PHL,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,WPR,VNM,Yes,,,,
+R_admin_tax_stamps,PUBLISHED,AFR,AGO,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,CAF,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,GNB,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,LBR,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,ZAF,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AFR,SWZ,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,ATG,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,BLZ,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,GRD,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,NIC,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,PRY,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,AMR,VEN,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,AFG,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,BHR,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,DJI,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,IRN,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,IRQ,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,KWT,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,LBY,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,OMN,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,QAT,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,SAU,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EMR,ARE,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EUR,ISR,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,EUR,MKD,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,SEAR,BTN,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,SEAR,PRK,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,SEAR,MDV,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,MYS,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,MHL,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,FSM,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,NIU,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,PLW,Not available,,,,Data not reported/not available
+R_admin_tax_stamps,PUBLISHED,WPR,WSM,Not available,,,,Data not reported/not available

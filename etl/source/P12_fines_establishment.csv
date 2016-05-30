@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+P12_fines_establishment,PUBLISHED,2014,AFR,DZA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,DZA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,DZA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,DZA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,CMR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,CMR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,CMR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,CMR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,CAF,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,CAF,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,CAF,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,TCD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,CIV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,CIV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,ETH,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,GAB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,GAB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,GHA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,GIN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,GIN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,LSO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,MDG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,MDG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,MDG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,RWA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,SSD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,SSD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,ARG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,ARG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,BHS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,BHS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,BHS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,COL,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,CUB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,CUB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,CUB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,CUB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,SLV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,SLV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,GUY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,GUY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,GUY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,GUY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,HND,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,JAM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,JAM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,JAM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,MEX,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,PAN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,PER,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,VCT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,VCT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,VCT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,SUR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,SUR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,TTO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AMR,USA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,AMR,USA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AMR,USA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,AMR,USA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,JOR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,BEL,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EUR,AZE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EUR,AZE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,AUT,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,ALB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EUR,ALB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EUR,ALB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,ARE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,OMN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EMR,OMN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EMR,OMN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,LBY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EMR,LBY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EMR,LBY,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EMR,LBN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EMR,LBN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,GRC,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,MCO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,MDA,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EUR,RUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EUR,RUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,AUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,AUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,AUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,KHM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,KHM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,KHM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,CHN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,CHN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,AUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,RUS,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,EUR,SWE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,EUR,SWE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,EUR,SWE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,SWE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,CHE,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,TJK,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,TUR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,GBR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,EUR,UZB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,CHN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,AFR,BFA,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,BFA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,BFA,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,BFA,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,CPV,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,CPV,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,CPV,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,CPV,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,COM,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,COM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,COM,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,COG,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,COG,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,COD,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,COD,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,COD,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,COD,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,GMB,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,GMB,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,GMB,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,GMB,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,GIN,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,GIN,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,KEN,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,KEN,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,KEN,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,LBR,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,LBR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,LBR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,MDG,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,MLI,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,MLI,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,CHN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,JPN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,JPN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,JPN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,JPN,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,KIR,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,LAO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,LAO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
+P12_fines_establishment,PUBLISHED,2010,AFR,MLI,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,MLI,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,MUS,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,MOZ,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,MOZ,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,MOZ,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,MOZ,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,NER,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,NGA,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,NGA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,NGA,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,NGA,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,STP,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,SEN,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,SEN,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,SEN,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,TGO,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,ZMB,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,ZMB,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,ZMB,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,ZMB,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,ZWE,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,ZWE,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,ZWE,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,ZWE,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,ECU,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,ECU,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,SLV,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,SLV,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,GTM,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,PRY,No,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,PRY,No,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,PRY,No,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,PRY,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,IRQ,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,IRQ,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,KWT,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,KWT,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,KWT,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,MAR,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,MAR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,MAR,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,MAR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,PAK,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,PAK,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,PAK,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,PAK,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,SAU,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,SAU,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,SAU,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,SAU,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,SYR,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,SYR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,SYR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,TUN,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,TUN,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,TUN,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,TUN,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,YEM,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,YEM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,YEM,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,YEM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,AND,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,AND,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ARM,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ARM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ARM,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ARM,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,BLR,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,BLR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,BLR,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,BLR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,BGR,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,BGR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,BGR,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,BGR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,DEU,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,DEU,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,DEU,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,DEU,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ISL,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ISL,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ISL,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ISL,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,KGZ,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,KGZ,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,KGZ,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,KGZ,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,LVA,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,LVA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,LVA,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,LVA,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,POL,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,POL,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,POL,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,MDA,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,MDA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,MDA,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ROU,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ROU,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ROU,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ROU,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,SRB,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,CHE,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,CHE,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,CHE,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,TKM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,TKM,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,TKM,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,UKR,No,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,UKR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,UZB,No,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,UZB,No,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,UZB,No,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,BGD,No,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,BGD,No,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,BGD,No,,,,
+P12_fines_establishment,PUBLISHED,2007,SEAR,BGD,No,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,IDN,No,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,IDN,No,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,IDN,No,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,NPL,No,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,NPL,No,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,THA,No,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,THA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,THA,No,,,,
+P12_fines_establishment,PUBLISHED,2007,SEAR,THA,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,MNG,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,MNG,No,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,PLW,No,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,PLW,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,PLW,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,PLW,No,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,PNG,No,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,PNG,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,PNG,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,PNG,No,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,PHL,No,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,PHL,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,PHL,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,PHL,No,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,KOR,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,KOR,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,KOR,No,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,SLB,No,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,SLB,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,SLB,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,VUT,No,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,VNM,No,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,VNM,No,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,BEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,BEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,BEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,BEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,BWA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,BWA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,BWA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,BWA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,TCD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,TCD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,TCD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,CIV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,CIV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,ERI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,ERI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,ERI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,ERI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,GAB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,GHA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,GHA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,KEN,Yes,,,,Provision adopted but not implemented by 31 December 2014.
+P12_fines_establishment,PUBLISHED,2014,AFR,MUS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,MUS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,MUS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,NAM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,NAM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,NAM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,NER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,NER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,NER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,SEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,SYC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,SYC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,SYC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,ZAF,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,ZAF,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,ZAF,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,ZAF,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,TGO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,TGO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,UGA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,UGA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,UGA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,UGA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AFR,TZA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AFR,TZA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AFR,TZA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AFR,TZA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,ARG,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,ARG,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,BRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,BRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,BRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,BOL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,BOL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,BOL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,BOL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,BRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,BRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,BRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,BRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,CAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,CAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,CAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,CAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,CHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,CHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,CHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,CHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,COL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,COL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,COL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,CRI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,CRI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,CRI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,CRI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,DOM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,DOM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,DOM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,DOM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,ECU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,ECU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,GTM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,GTM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,GTM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,HND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,HND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,HND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,JAM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,MEX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,MEX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,MEX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,NIC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,NIC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,NIC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,NIC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,PAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,PAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,PAN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,PER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,PER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,PER,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,SUR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,TTO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,TTO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,TTO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,URY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,URY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,URY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,URY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,AMR,VEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,AMR,VEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,AMR,VEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,AMR,VEN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,BHR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,BHR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,BHR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,DJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,DJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,DJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,DJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,EGY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,EGY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,EGY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,EGY,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,IRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,IRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,IRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,IRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,JOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,JOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,JOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,KWT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,LBN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,LBN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,QAT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,QAT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,QAT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,QAT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,SDN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,SDN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,SDN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EMR,SDN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EMR,ARE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EMR,ARE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EMR,ARE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ALB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,AND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,AND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,AUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,AUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,AUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,BEL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,BEL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,BEL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,BIH,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,BIH,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,BIH,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,BIH,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,HRV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,HRV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,HRV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,HRV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,CYP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,CYP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,CYP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,CYP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,CZE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,CZE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,CZE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,CZE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,DNK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,DNK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,DNK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,DNK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,EST,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,EST,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,EST,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,EST,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,FIN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,FIN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,FIN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,FIN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,FRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,FRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,FRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,FRA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,GEO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,GEO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,GEO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,GEO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,GRC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,GRC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,GRC,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,HUN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,HUN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,HUN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,HUN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,IRL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,IRL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,IRL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,IRL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ISR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ISR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ISR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ISR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ITA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ITA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ITA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ITA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,KAZ,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,KAZ,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,KAZ,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,KAZ,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,LTU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,LTU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,LTU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,LTU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,LUX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,LUX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,LUX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,LUX,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,MLT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,MLT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,MLT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,MLT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,MCO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,MCO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,MCO,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,MNE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,MNE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,MNE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,MNE,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,NLD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,NLD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,NLD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,NLD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,NOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,NOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,NOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,NOR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,POL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,PRT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,PRT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,PRT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,PRT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,RUS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,SMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,SMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,SMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,SRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,SRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,SRB,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,SVK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,SVK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,SVK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,SVK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,SVN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,SVN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,SVN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,SVN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,ESP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,ESP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,ESP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,ESP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,TJK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,TJK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,TJK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,MKD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,MKD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,MKD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,EUR,MKD,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,TUR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,TUR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,TUR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,TKM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,UKR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,UKR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,EUR,GBR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,EUR,GBR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,EUR,GBR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,BTN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,BTN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,BTN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,IND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,IND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,IND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,SEAR,IND,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,MDV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,MDV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,MDV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,MMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,MMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,MMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,SEAR,MMR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,SEAR,LKA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,SEAR,LKA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,SEAR,LKA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,SEAR,LKA,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,BRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,BRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,BRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,BRN,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,COK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,COK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,COK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,COK,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,FJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,FJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,FJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,FJI,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,KIR,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,MYS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,MYS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,MYS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,MYS,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,MHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,MHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,MHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,MHL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,MNG,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,MNG,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,NRU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,NRU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,NRU,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,NZL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,NZL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,NZL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,NZL,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,KOR,Yes,,,,Provision adopted but not implemented by 31 December 2014.
+P12_fines_establishment,PUBLISHED,2014,WPR,WSM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,WSM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,WSM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,SGP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,SGP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,SGP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,SGP,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,TON,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,TON,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,TON,Yes,,,,
+P12_fines_establishment,PUBLISHED,2007,WPR,TON,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,TUV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,TUV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,TUV,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,VUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,VUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2010,WPR,VUT,Yes,,,,
+P12_fines_establishment,PUBLISHED,2014,WPR,VNM,Yes,,,,
+P12_fines_establishment,PUBLISHED,2012,WPR,VNM,Yes,,,,

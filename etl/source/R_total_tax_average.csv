@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+R_total_tax_average,PUBLISHED,2014,AFR,LBR,17.20,17.2,,,
+R_total_tax_average,PUBLISHED,2014,EUR,AZE,17.60,17.6,,,
+R_total_tax_average,PUBLISHED,2014,AFR,SLE,19.70,19.7,,,
+R_total_tax_average,PUBLISHED,2012,EUR,AZE,19.80,19.8,,,
+R_total_tax_average,PUBLISHED,2014,AFR,RWA,24.10,24.1,,,
+R_total_tax_average,PUBLISHED,2012,EUR,KAZ,27.00,27.0,,,
+R_total_tax_average,PUBLISHED,2012,AFR,SEN,29.00,29.0,,,
+R_total_tax_average,PUBLISHED,2012,WPR,PHL,34.20,34.2,,,
+R_total_tax_average,PUBLISHED,2014,EUR,KAZ,39.70,39.7,,,
+R_total_tax_average,PUBLISHED,2014,AFR,UGA,40.20,40.2,,,
+R_total_tax_average,PUBLISHED,2014,AFR,DZA,40.90,40.9,,,
+R_total_tax_average,PUBLISHED,2014,AFR,BDI,41.20,41.2,,,
+R_total_tax_average,PUBLISHED,2012,AMR,JAM,46.10,46.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,GEO,47.50,47.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,GTM,49.00,49.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,RUS,50.50,50.5,,,
+R_total_tax_average,PUBLISHED,2014,AMR,DOM,57.70,57.7,,,
+R_total_tax_average,PUBLISHED,2012,EUR,UKR,59.70,59.7,,,
+R_total_tax_average,PUBLISHED,2012,EMR,PAK,61.60,61.6,,,
+R_total_tax_average,PUBLISHED,2014,AMR,ECU,62.70,62.7,,,
+R_total_tax_average,PUBLISHED,2012,WPR,TON,64.30,64.3,,,
+R_total_tax_average,PUBLISHED,2012,WPR,KOR,65.30,65.3,,,
+R_total_tax_average,PUBLISHED,2012,WPR,SGP,70.40,70.4,,,
+R_total_tax_average,PUBLISHED,2014,AMR,CRI,71.80,71.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,NOR,72.80,72.8,,,
+R_total_tax_average,PUBLISHED,2014,WPR,SGP,73.80,73.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,BIH,75.20,75.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,SRB,75.40,75.4,,,
+R_total_tax_average,PUBLISHED,2012,EUR,CYP,75.80,75.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,LVA,77.30,77.3,,,
+R_total_tax_average,PUBLISHED,2014,EUR,LTU,77.60,77.6,,,
+R_total_tax_average,PUBLISHED,2012,EUR,IRL,78.80,78.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,CZE,80.00,80.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,FRA,80.60,80.6,,,
+R_total_tax_average,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,GIN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,NAM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,NIC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,USA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,HUN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,STP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,SYR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,AZE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,DEU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,PRT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,ZMB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,GUY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,HND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,FIN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ISR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,NLD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,NZL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,WSM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,CHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,SUR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,VEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,TZA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,ARG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,BOL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,PER,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GMB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,EMR,OMN,22.10,22.1,,,
+R_total_tax_average,PUBLISHED,2012,EMR,ARE,24.50,24.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,NIC,30.50,30.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,HND,36.20,36.2,,,
+R_total_tax_average,PUBLISHED,2014,AMR,USA,42.90,42.9,,,
+R_total_tax_average,PUBLISHED,2014,WPR,MNG,44.20,44.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,MDA,44.60,44.6,,,
+R_total_tax_average,PUBLISHED,2014,AFR,ZAF,48.10,48.1,,,
+R_total_tax_average,PUBLISHED,2014,WPR,PHL,53.00,53.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ISL,56.40,56.4,,,
+R_total_tax_average,PUBLISHED,2012,WPR,WSM,59.50,59.5,,,
+R_total_tax_average,PUBLISHED,2014,AFR,ZWE,59.80,59.8,,,
+R_total_tax_average,PUBLISHED,2014,EMR,PAK,60.70,60.7,,,
+R_total_tax_average,PUBLISHED,2012,WPR,AUS,63.10,63.1,,,
+R_total_tax_average,PUBLISHED,2012,EMR,MAR,68.00,68.0,,,
+R_total_tax_average,PUBLISHED,2012,AMR,ARG,69.90,69.9,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,THA,70.20,70.2,,,
+R_total_tax_average,PUBLISHED,2014,EMR,EGY,72.00,72.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,AUT,75.00,75.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,ROU,75.30,75.3,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ITA,76.10,76.1,,,
+R_total_tax_average,PUBLISHED,2012,EUR,PRT,76.30,76.3,,,
+R_total_tax_average,PUBLISHED,2014,EUR,HUN,77.40,77.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,IRL,77.80,77.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,ESP,79.20,79.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,FRA,80.00,80.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,TUR,80.30,80.3,,,
+R_total_tax_average,PUBLISHED,2012,AMR,CHL,82.00,82.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,TUR,82.20,82.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,SVK,83.10,83.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ISR,85.00,85.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,BIH,86.00,86.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,BGR,86.40,86.4,,,
+R_total_tax_average,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,UKR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,BWA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,COD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,COL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,OMN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,DOM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,ARE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,MKD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,BEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,ERI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,ATG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,SLV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,TUV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,SYC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,MNE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,NRU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,COG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,EMR,IRN,2.70,2.7,,,
+R_total_tax_average,PUBLISHED,2014,EMR,IRN,4.30,4.3,,,
+R_total_tax_average,PUBLISHED,2014,AFR,CMR,17.90,17.9,,,
+R_total_tax_average,PUBLISHED,2014,AFR,ETH,18.70,18.7,,,
+R_total_tax_average,PUBLISHED,2012,AMR,KNA,19.90,19.9,,,
+R_total_tax_average,PUBLISHED,2012,AFR,NGA,21.70,21.7,,,
+R_total_tax_average,PUBLISHED,2014,WPR,KHM,22.20,22.2,,,
+R_total_tax_average,PUBLISHED,2012,AFR,ZMB,25.80,25.8,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,IDN,35.50,35.5,,,
+R_total_tax_average,PUBLISHED,2014,AFR,SEN,37.90,37.9,,,
+R_total_tax_average,PUBLISHED,2012,WPR,FJI,40.60,40.6,,,
+R_total_tax_average,PUBLISHED,2012,AMR,PER,44.90,44.9,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,NPL,46.60,46.6,,,
+R_total_tax_average,PUBLISHED,2012,AFR,DZA,47.00,47.0,,,
+R_total_tax_average,PUBLISHED,2014,AFR,COM,50.80,50.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,MDA,51.60,51.6,,,
+R_total_tax_average,PUBLISHED,2014,EUR,BLR,52.70,52.7,,,
+R_total_tax_average,PUBLISHED,2012,EMR,YEM,52.90,52.9,,,
+R_total_tax_average,PUBLISHED,2012,EUR,ISL,56.90,56.9,,,
+R_total_tax_average,PUBLISHED,2014,WPR,AUS,58.40,58.4,,,
+R_total_tax_average,PUBLISHED,2014,WPR,KOR,60.30,60.3,,,
+R_total_tax_average,PUBLISHED,2014,EUR,CHE,61.90,61.9,,,
+R_total_tax_average,PUBLISHED,2012,WPR,JPN,63.20,63.2,,,
+R_total_tax_average,PUBLISHED,2012,AMR,CAN,64.50,64.5,,,
+R_total_tax_average,PUBLISHED,2014,AMR,MEX,65.80,65.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,NLD,73.10,73.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,AUT,74.90,74.9,,,
+R_total_tax_average,PUBLISHED,2014,WPR,NZL,75.00,75.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,BEL,76.40,76.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ROU,77.30,77.3,,,
+R_total_tax_average,PUBLISHED,2012,EUR,DNK,78.70,78.7,,,
+R_total_tax_average,PUBLISHED,2012,EUR,POL,79.70,79.7,,,
+R_total_tax_average,PUBLISHED,2012,EUR,FIN,79.80,79.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,GRC,81.60,81.6,,,
+R_total_tax_average,PUBLISHED,2014,EUR,FIN,81.70,81.7,,,
+R_total_tax_average,PUBLISHED,2010,AFR,DZA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,CMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,VEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,NER,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,GBR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,SLB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,SAU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,MHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MLI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,LCA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,VCT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,BEL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,SRB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,MHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,FSM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,PAN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,IRN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,PAK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,LVA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,TUV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,BDI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,PRY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,WPR,MNG,0.00,0.0,,,
+R_total_tax_average,PUBLISHED,2012,AFR,CMR,21.50,21.5,,,
+R_total_tax_average,PUBLISHED,2014,EMR,OMN,22.10,22.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,UZB,31.10,31.1,,,
+R_total_tax_average,PUBLISHED,2012,EUR,UZB,32.70,32.7,,,
+R_total_tax_average,PUBLISHED,2014,AMR,HND,38.10,38.1,,,
+R_total_tax_average,PUBLISHED,2014,AMR,PER,39.50,39.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,BOL,40.40,40.4,,,
+R_total_tax_average,PUBLISHED,2014,AMR,BOL,40.40,40.4,,,
+R_total_tax_average,PUBLISHED,2014,WPR,VNM,41.60,41.6,,,
+R_total_tax_average,PUBLISHED,2014,AMR,JAM,42.90,42.9,,,
+R_total_tax_average,PUBLISHED,2014,WPR,FJI,44.00,44.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,RUS,45.00,45.0,,,
+R_total_tax_average,PUBLISHED,2012,AFR,ZAF,47.60,47.6,,,
+R_total_tax_average,PUBLISHED,2014,EMR,LBN,48.30,48.3,,,
+R_total_tax_average,PUBLISHED,2014,AMR,COL,49.50,49.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,COL,50.90,50.9,,,
+R_total_tax_average,PUBLISHED,2012,EUR,GEO,54.90,54.9,,,
+R_total_tax_average,PUBLISHED,2012,WPR,MYS,58.40,58.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,UKR,62.40,62.4,,,
+R_total_tax_average,PUBLISHED,2012,EUR,CHE,63.60,63.6,,,
+R_total_tax_average,PUBLISHED,2014,AMR,BRA,64.30,64.3,,,
+R_total_tax_average,PUBLISHED,2014,EUR,NOR,67.20,67.2,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,THA,68.70,68.7,,,
+R_total_tax_average,PUBLISHED,2014,EUR,SWE,68.80,68.8,,,
+R_total_tax_average,PUBLISHED,2012,AMR,URY,69.00,69.0,,,
+R_total_tax_average,PUBLISHED,2014,EUR,LUX,70.70,70.7,,,
+R_total_tax_average,PUBLISHED,2012,WPR,NZL,73.30,73.3,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,LKA,73.50,73.5,,,
+R_total_tax_average,PUBLISHED,2014,EUR,HRV,74.80,74.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,NLD,74.80,74.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,ITA,75.50,75.5,,,
+R_total_tax_average,PUBLISHED,2014,EUR,CZE,75.60,75.6,,,
+R_total_tax_average,PUBLISHED,2012,EUR,BEL,76.40,76.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,CYP,77.30,77.3,,,
+R_total_tax_average,PUBLISHED,2012,EUR,SVN,78.40,78.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,SVN,79.40,79.4,,,
+R_total_tax_average,PUBLISHED,2014,EUR,GBR,81.30,81.3,,,
+R_total_tax_average,PUBLISHED,2014,AMR,CHL,81.60,81.6,,,
+R_total_tax_average,PUBLISHED,2012,EUR,GRC,83.20,83.2,,,
+R_total_tax_average,PUBLISHED,2010,AFR,BEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,BFA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,KEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,DEU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,ZMB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,YEM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,NLD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,GRC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,MDA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,SVK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,NGA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,BLR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,THA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,COK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,PLW,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,NGA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,FRA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ISL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,UZB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,MAR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,TJK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,AFR,MLI,38.10,38.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ARM,44.10,44.1,,,
+R_total_tax_average,PUBLISHED,2012,WPR,CHN,47.70,47.7,,,
+R_total_tax_average,PUBLISHED,2014,AFR,GMB,34.40,34.4,,,
+R_total_tax_average,PUBLISHED,2012,AFR,KEN,48.80,48.8,,,
+R_total_tax_average,PUBLISHED,2014,AMR,GTM,49.00,49.0,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,IDN,50.80,50.8,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,NPL,32.90,32.9,,,
+R_total_tax_average,PUBLISHED,2014,AFR,GHA,28.30,28.3,,,
+R_total_tax_average,PUBLISHED,2012,AFR,GHA,23.10,23.1,,,
+R_total_tax_average,PUBLISHED,2012,EMR,SAU,22.90,22.9,,,
+R_total_tax_average,PUBLISHED,2014,EMR,ARE,21.10,21.1,,,
+R_total_tax_average,PUBLISHED,2014,AMR,BHS,41.60,41.6,,,
+R_total_tax_average,PUBLISHED,2012,WPR,VNM,41.60,41.6,,,
+R_total_tax_average,PUBLISHED,2014,WPR,CHN,47.80,47.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,LTU,75.80,75.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,HUN,84.10,84.1,,,
+R_total_tax_average,PUBLISHED,2012,EMR,TUN,84.50,84.5,,,
+R_total_tax_average,PUBLISHED,2014,EMR,TUN,78.10,78.1,,,
+R_total_tax_average,PUBLISHED,2012,EUR,LVA,78.70,78.7,,,
+R_total_tax_average,PUBLISHED,2014,EUR,ESP,78.80,78.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,PRT,79.60,79.6,,,
+R_total_tax_average,PUBLISHED,2014,EUR,BGR,84.00,84.0,,,
+R_total_tax_average,PUBLISHED,2014,AMR,PAN,56.50,56.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,PAN,56.50,56.5,,,
+R_total_tax_average,PUBLISHED,2012,AFR,ZWE,57.60,57.6,,,
+R_total_tax_average,PUBLISHED,2014,WPR,MYS,59.80,59.8,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,BGD,63.80,63.8,,,
+R_total_tax_average,PUBLISHED,2014,AMR,CAN,64.50,64.5,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,IND,66.10,66.1,,,
+R_total_tax_average,PUBLISHED,2010,AFR,SEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,AMR,MEX,66.50,66.5,,,
+R_total_tax_average,PUBLISHED,2014,AMR,ARG,69.70,69.7,,,
+R_total_tax_average,PUBLISHED,2014,EUR,MKD,69.80,69.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,MKD,70.80,70.8,,,
+R_total_tax_average,PUBLISHED,2012,AMR,VEN,71.00,71.0,,,
+R_total_tax_average,PUBLISHED,2012,EUR,LUX,71.10,71.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,DEU,73.50,73.5,,,
+R_total_tax_average,PUBLISHED,2012,EUR,DEU,74.50,74.5,,,
+R_total_tax_average,PUBLISHED,2014,SEAR,BGD,75.60,75.6,,,
+R_total_tax_average,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,SLB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,ZAF,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,CAN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,CIV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ITA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ROU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,GUY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,KWT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,SAU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,LUX,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,PHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,SVK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,SVN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,TON,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,EGY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,MLT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,NER,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,VUT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,CAF,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,BRA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,NAM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,SEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,SWE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,AUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,KGZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,PRT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,MDA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,GBR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,IND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,NIC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,WPR,KHM,17.10,17.1,,,
+R_total_tax_average,PUBLISHED,2014,AFR,ZMB,21.30,21.3,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,IND,33.20,33.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,ARM,38.40,38.4,,,
+R_total_tax_average,PUBLISHED,2012,EUR,BLR,41.20,41.2,,,
+R_total_tax_average,PUBLISHED,2014,AMR,BLZ,42.50,42.5,,,
+R_total_tax_average,PUBLISHED,2012,AMR,USA,42.90,42.9,,,
+R_total_tax_average,PUBLISHED,2012,AFR,UGA,44.20,44.2,,,
+R_total_tax_average,PUBLISHED,2012,EMR,LBN,44.40,44.4,,,
+R_total_tax_average,PUBLISHED,2014,AFR,KEN,49.30,49.3,,,
+R_total_tax_average,PUBLISHED,2014,EMR,YEM,53.70,53.7,,,
+R_total_tax_average,PUBLISHED,2012,AMR,DOM,58.30,58.3,,,
+R_total_tax_average,PUBLISHED,2012,AMR,BRA,62.60,62.6,,,
+R_total_tax_average,PUBLISHED,2014,WPR,JPN,62.90,62.9,,,
+R_total_tax_average,PUBLISHED,2012,AMR,ECU,64.20,64.2,,,
+R_total_tax_average,PUBLISHED,2014,AMR,URY,65.60,65.6,,,
+R_total_tax_average,PUBLISHED,2014,EMR,MAR,68.40,68.4,,,
+R_total_tax_average,PUBLISHED,2012,EUR,HRV,70.40,70.4,,,
+R_total_tax_average,PUBLISHED,2012,EMR,EGY,71.50,71.5,,,
+R_total_tax_average,PUBLISHED,2012,EUR,SWE,73.80,73.8,,,
+R_total_tax_average,PUBLISHED,2014,EUR,SRB,73.80,73.8,,,
+R_total_tax_average,PUBLISHED,2012,SEAR,LKA,74.20,74.2,,,
+R_total_tax_average,PUBLISHED,2012,EUR,GBR,76.10,76.1,,,
+R_total_tax_average,PUBLISHED,2014,EUR,DNK,78.80,78.8,,,
+R_total_tax_average,PUBLISHED,2012,EUR,EST,79.20,79.2,,,
+R_total_tax_average,PUBLISHED,2014,EUR,EST,81.70,81.7,,,
+R_total_tax_average,PUBLISHED,2014,EUR,POL,82.60,82.6,,,
+R_total_tax_average,PUBLISHED,2014,EUR,SVK,84.60,84.6,,,
+R_total_tax_average,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,TGO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,KWT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,RUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,USA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,AFG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,LBY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,LUX,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,LAO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,PNG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,ZAF,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,SGP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,AUT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,UKR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,VNM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,CRI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,JOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,AGO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,COM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GAB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ISR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,RUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,SMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,SWE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,CPV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,DNK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,JPN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,TGO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,TZA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,GTM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,ARG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,BHR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,JOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,AND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,UGA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,CAN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,JAM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,KOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,CIV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ARM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,NOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,KHM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,CHN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,JPN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,WSM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,DJI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,TUN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ALB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,MLT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,POL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,CZE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,EST,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,FRA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,KAZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ESP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,CHE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,UZB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MDG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,MEX,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,CPV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,CMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,LBN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,GEO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,TUR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,IND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,NIU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,AFR,TZA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,KGZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,BRN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,NIU,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,SEAR,MDV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,WSM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MDG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,TUV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,FSM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,CPV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,CRI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,STP,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,TTO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,ALB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,NAM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,COG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,DJI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,MHL,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,BFA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,VUT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,SYC,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,KNA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,SAU,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,TGO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,NGA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,NIU,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,LBY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2008,EMR,PAK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,FIN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,HUN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,LTU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,SLV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,MAR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,BEL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,BRN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,LSO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,LBR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,IRL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,FJI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,BLR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,SVN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ESP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,TON,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GIN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GNB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,BGR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,PHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,SGP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,NOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MWI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,UGA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,SOM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ITA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,KOR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,EMR,BHR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,SYR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,SOM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,SLB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,SDN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,SEAR,TLS,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,PLW,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,COM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,AGO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,BWA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,LAO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,NAM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,TKM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,GNB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,SLE,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,PNG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,DMA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MRT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,SUR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,DJI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,MWI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,COD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,LBR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,COK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2008,WPR,AUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,NZL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,CUB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,PRY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,CYP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,CHE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,BFA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,SLE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ISL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,POL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ROU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,MNG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,COL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,TTO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,URY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,GEO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,TKM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,SYC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,URY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,DJI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,EGY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,BGR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,COK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,TCD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,GHA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,RWA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,BHS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,GRD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,QAT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,KIR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,AMR,PRY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,LCA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,SEAR,BTN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,TCD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,BRB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,JOR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,TON,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,IRQ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,LAO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,LSO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,MHL,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,SEAR,BTN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,KIR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,SLV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,SEAR,PRK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,TZA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,IRQ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,KGZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,MLT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,LBY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,ATG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,SEAR,MDV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,PLW,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2008,AMR,JAM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,DNK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,ARM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,HRV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,TJK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,BRA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,CRI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,HTI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,HND,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,PER,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,KNA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,IRN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,KGZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,TKM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,CHL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,GTM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,SRB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,MYS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,ECU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,BIH,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,MNE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,WPR,COK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,PNG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,ETH,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,HTI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,PRY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,BHR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,ALB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,GRD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,LCA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,MLT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,BDI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,GRD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,LSO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,TCD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,BLZ,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,ERI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,MRT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,RWA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,SEAR,MMR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,CIV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,ATG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,CUB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MWI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,JOR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2008,AMR,MEX,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,ALB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,HRV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,VUT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,MLI,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,ECU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,LBN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,QAT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,SYR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,CZE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,MNG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,DZA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MDG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,CYP,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,BRN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,NRU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,BHR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EMR,LBY,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,CHN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,KEN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,CUB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,SDN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,WPR,MYS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,EST,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,KAZ,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,ETH,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MUS,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,DOM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,PAN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,TTO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,LVA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,TTO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,SEAR,TLS,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,FSM,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,COG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,GUY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,KWT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,AFG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,SLB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,GIN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,SYR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,SUR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,BEN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,BHS,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,VUT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,SMR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,SYC,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,GUY,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,MNE,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,WPR,TUV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,TGO,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,BRN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,BRB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,TUN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,MKD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,SEAR,THA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,BOL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EMR,ARE,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,EUR,MCO,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,AUT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AMR,DMA,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,AFR,COD,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,IRL,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,LTU,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,EUR,TUR,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2010,WPR,KHM,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2008,AFR,MRT,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2012,AFR,CIV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,GMB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2008,EUR,GRC,Not applicable,,,,Data not required/not applicable
+R_total_tax_average,PUBLISHED,2014,AFR,BEN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,COD,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,NER,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,KWT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,MDG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,CAF,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,QAT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,CAF,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,NER,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MUS,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,BFA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,AFG,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,DMA,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,SLV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EMR,SDN,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,SEAR,MMR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,CUB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,GAB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AMR,BRB,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EMR,QAT,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,EUR,MNE,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,STP,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2012,AFR,MLI,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AFR,MUS,Not available,,,,Data not reported/not available
+R_total_tax_average,PUBLISHED,2014,AMR,VEN,Not available,,,,Data not reported/not available

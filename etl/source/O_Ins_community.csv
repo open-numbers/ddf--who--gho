@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+O_Ins_community,PUBLISHED,2014,AMR,CRI,Fully,,,,
+O_Ins_community,PUBLISHED,2014,AMR,CUB,Fully,,,,
+O_Ins_community,PUBLISHED,2014,EUR,DNK,Fully,,,,
+O_Ins_community,PUBLISHED,2014,EUR,MLT,Fully,,,,
+O_Ins_community,PUBLISHED,2014,EUR,GBR,Fully,,,,
+O_Ins_community,PUBLISHED,2014,WPR,BRN,Fully,,,,
+O_Ins_community,PUBLISHED,2014,AFR,BWA,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,TCD,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,COG,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,CIV,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,LSO,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,SEN,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,ZAF,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,TZA,No,,,,
+O_Ins_community,PUBLISHED,2014,AFR,ZMB,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,BRA,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,CAN,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,JAM,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,SUR,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,URY,No,,,,
+O_Ins_community,PUBLISHED,2014,EMR,IRN,No,,,,
+O_Ins_community,PUBLISHED,2014,EMR,SAU,No,,,,
+O_Ins_community,PUBLISHED,2014,EMR,YEM,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,ITA,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,KAZ,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,KGZ,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,LVA,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,NOR,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,POL,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,ROU,No,,,,
+O_Ins_community,PUBLISHED,2014,EUR,CHE,No,,,,
+O_Ins_community,PUBLISHED,2014,SEAR,BGD,No,,,,
+O_Ins_community,PUBLISHED,2014,SEAR,MMR,No,,,,
+O_Ins_community,PUBLISHED,2014,WPR,KHM,No,,,,
+O_Ins_community,PUBLISHED,2014,WPR,CHN,No,,,,
+O_Ins_community,PUBLISHED,2014,WPR,MYS,No,,,,
+O_Ins_community,PUBLISHED,2014,WPR,FSM,No,,,,
+O_Ins_community,PUBLISHED,2014,WPR,TUV,No,,,,
+O_Ins_community,PUBLISHED,2014,AMR,ARG,Partially,,,,
+O_Ins_community,PUBLISHED,2014,AMR,MEX,Partially,,,,
+O_Ins_community,PUBLISHED,2014,AMR,PRY,Partially,,,,
+O_Ins_community,PUBLISHED,2014,AMR,USA,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,JOR,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,KWT,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,LBN,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,PAK,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,SYR,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EMR,ARE,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,BGR,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,DEU,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,IRL,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,ISR,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,SVN,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,ESP,Partially,,,,
+O_Ins_community,PUBLISHED,2014,EUR,TUR,Partially,,,,
+O_Ins_community,PUBLISHED,2014,SEAR,PRK,Partially,,,,
+O_Ins_community,PUBLISHED,2014,SEAR,THA,Partially,,,,
+O_Ins_community,PUBLISHED,2014,WPR,COK,Partially,,,,
+O_Ins_community,PUBLISHED,2014,WPR,JPN,Partially,,,,
+O_Ins_community,PUBLISHED,2014,WPR,NZL,Partially,,,,
+O_Ins_community,PUBLISHED,2014,WPR,SGP,Partially,,,,
+O_Ins_community,PUBLISHED,2012,AMR,CRI,Fully,,,,
+O_Ins_community,PUBLISHED,2012,AMR,CUB,Fully,,,,
+O_Ins_community,PUBLISHED,2012,EUR,DNK,Fully,,,,
+O_Ins_community,PUBLISHED,2012,EUR,GBR,Fully,,,,
+O_Ins_community,PUBLISHED,2012,WPR,BRN,Fully,,,,
+O_Ins_community,PUBLISHED,2012,AFR,BWA,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,TCD,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,COG,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,CIV,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,LSO,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,SEN,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,ZAF,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,TZA,No,,,,
+O_Ins_community,PUBLISHED,2012,AFR,ZMB,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,ARG,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,BRA,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,CAN,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,SLV,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,JAM,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,SUR,No,,,,
+O_Ins_community,PUBLISHED,2012,EMR,IRN,No,,,,
+O_Ins_community,PUBLISHED,2012,EMR,PAK,No,,,,
+O_Ins_community,PUBLISHED,2012,EMR,SAU,No,,,,
+O_Ins_community,PUBLISHED,2012,EMR,YEM,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,ITA,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,KAZ,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,KGZ,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,LVA,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,NOR,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,POL,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,ROU,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,CHE,No,,,,
+O_Ins_community,PUBLISHED,2012,SEAR,BGD,No,,,,
+O_Ins_community,PUBLISHED,2012,SEAR,MDV,No,,,,
+O_Ins_community,PUBLISHED,2012,SEAR,MMR,No,,,,
+O_Ins_community,PUBLISHED,2012,WPR,KHM,No,,,,
+O_Ins_community,PUBLISHED,2012,WPR,CHN,No,,,,
+O_Ins_community,PUBLISHED,2012,WPR,MYS,No,,,,
+O_Ins_community,PUBLISHED,2012,WPR,FSM,No,,,,
+O_Ins_community,PUBLISHED,2012,WPR,TUV,No,,,,
+O_Ins_community,PUBLISHED,2012,AMR,MEX,Partially,,,,
+O_Ins_community,PUBLISHED,2012,AMR,PRY,Partially,,,,
+O_Ins_community,PUBLISHED,2012,AMR,USA,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EMR,JOR,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EMR,KWT,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EMR,LBN,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EMR,SYR,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EMR,ARE,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,BGR,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,DEU,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,IRL,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,ISR,Partially,,,,
+O_Ins_community,PUBLISHED,2012,AMR,URY,No,,,,
+O_Ins_community,PUBLISHED,2012,EUR,SVN,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,ESP,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,SWE,Partially,,,,
+O_Ins_community,PUBLISHED,2012,EUR,TUR,Partially,,,,
+O_Ins_community,PUBLISHED,2012,SEAR,PRK,Partially,,,,
+O_Ins_community,PUBLISHED,2012,SEAR,THA,Partially,,,,
+O_Ins_community,PUBLISHED,2012,WPR,COK,Partially,,,,
+O_Ins_community,PUBLISHED,2012,WPR,JPN,Partially,,,,
+O_Ins_community,PUBLISHED,2012,WPR,NZL,Partially,,,,
+O_Ins_community,PUBLISHED,2012,WPR,SGP,Partially,,,,
+O_Ins_community,PUBLISHED,2010,AMR,CUB,Fully,,,,
+O_Ins_community,PUBLISHED,2010,EUR,DNK,Fully,,,,
+O_Ins_community,PUBLISHED,2010,EUR,GBR,Fully,,,,
+O_Ins_community,PUBLISHED,2010,WPR,BRN,Fully,,,,
+O_Ins_community,PUBLISHED,2010,AFR,BWA,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,COG,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,CIV,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,LSO,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,SEN,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,ZAF,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,TZA,No,,,,
+O_Ins_community,PUBLISHED,2010,AFR,ZMB,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,ARG,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,BRA,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,CAN,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,SLV,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,JAM,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,SUR,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,URY,No,,,,
+O_Ins_community,PUBLISHED,2010,EMR,IRN,No,,,,
+O_Ins_community,PUBLISHED,2010,EMR,PAK,No,,,,
+O_Ins_community,PUBLISHED,2010,EMR,SAU,No,,,,
+O_Ins_community,PUBLISHED,2010,EMR,TUN,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,ITA,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,KAZ,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,KGZ,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,LVA,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,NOR,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,ROU,No,,,,
+O_Ins_community,PUBLISHED,2010,EUR,CHE,No,,,,
+O_Ins_community,PUBLISHED,2010,SEAR,BGD,No,,,,
+O_Ins_community,PUBLISHED,2010,SEAR,MDV,No,,,,
+O_Ins_community,PUBLISHED,2010,SEAR,MMR,No,,,,
+O_Ins_community,PUBLISHED,2010,WPR,KHM,No,,,,
+O_Ins_community,PUBLISHED,2010,WPR,CHN,No,,,,
+O_Ins_community,PUBLISHED,2010,WPR,MYS,No,,,,
+O_Ins_community,PUBLISHED,2010,WPR,FSM,No,,,,
+O_Ins_community,PUBLISHED,2010,WPR,TUV,No,,,,
+O_Ins_community,PUBLISHED,2010,AMR,MEX,Partially,,,,
+O_Ins_community,PUBLISHED,2010,AMR,PRY,Partially,,,,
+O_Ins_community,PUBLISHED,2010,AMR,USA,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EMR,KWT,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EMR,LBN,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EMR,SYR,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EMR,ARE,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,BGR,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,DEU,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,IRL,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,ISR,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,SVN,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,ESP,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,SWE,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,TUR,Partially,,,,
+O_Ins_community,PUBLISHED,2010,SEAR,PRK,Partially,,,,
+O_Ins_community,PUBLISHED,2010,SEAR,THA,Partially,,,,
+O_Ins_community,PUBLISHED,2010,WPR,COK,Partially,,,,
+O_Ins_community,PUBLISHED,2010,WPR,JPN,Partially,,,,
+O_Ins_community,PUBLISHED,2010,WPR,NZL,Partially,,,,
+O_Ins_community,PUBLISHED,2010,WPR,SGP,Partially,,,,
+O_Ins_community,PUBLISHED,2010,EUR,POL,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,CUB,Fully,,,,
+O_Ins_community,PUBLISHED,2007,EUR,DNK,Fully,,,,
+O_Ins_community,PUBLISHED,2007,WPR,BRN,Fully,,,,
+O_Ins_community,PUBLISHED,2007,AFR,BWA,No,,,,
+O_Ins_community,PUBLISHED,2007,AFR,LSO,No,,,,
+O_Ins_community,PUBLISHED,2007,AFR,SEN,No,,,,
+O_Ins_community,PUBLISHED,2007,AFR,ZMB,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,ARG,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,BRA,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,CAN,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,SLV,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,JAM,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,SUR,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,USA,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,URY,No,,,,
+O_Ins_community,PUBLISHED,2007,EMR,IRN,No,,,,
+O_Ins_community,PUBLISHED,2007,EMR,SAU,No,,,,
+O_Ins_community,PUBLISHED,2007,EMR,TUN,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,GRC,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,ITA,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,KAZ,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,KGZ,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,LVA,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,NOR,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,POL,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,ROU,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,CHE,No,,,,
+O_Ins_community,PUBLISHED,2007,EUR,TUR,No,,,,
+O_Ins_community,PUBLISHED,2007,SEAR,BGD,No,,,,
+O_Ins_community,PUBLISHED,2007,SEAR,MDV,No,,,,
+O_Ins_community,PUBLISHED,2007,SEAR,MMR,No,,,,
+O_Ins_community,PUBLISHED,2007,WPR,KHM,No,,,,
+O_Ins_community,PUBLISHED,2007,WPR,CHN,No,,,,
+O_Ins_community,PUBLISHED,2007,WPR,MYS,No,,,,
+O_Ins_community,PUBLISHED,2007,WPR,FSM,No,,,,
+O_Ins_community,PUBLISHED,2007,AMR,MEX,Partially,,,,
+O_Ins_community,PUBLISHED,2007,AMR,PRY,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EMR,KWT,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EMR,SYR,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,BGR,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,DEU,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,IRL,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,ISR,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,SVN,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,ESP,Partially,,,,
+O_Ins_community,PUBLISHED,2007,EUR,SWE,Partially,,,,
+O_Ins_community,PUBLISHED,2007,SEAR,PRK,Partially,,,,
+O_Ins_community,PUBLISHED,2007,SEAR,THA,Partially,,,,
+O_Ins_community,PUBLISHED,2007,WPR,COK,Partially,,,,
+O_Ins_community,PUBLISHED,2007,WPR,JPN,Partially,,,,
+O_Ins_community,PUBLISHED,2007,WPR,NZL,Partially,,,,
+O_Ins_community,PUBLISHED,2007,WPR,SGP,Partially,,,,
+O_Ins_community,PUBLISHED,2014,AFR,DZA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,COD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GAB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,CHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,MAR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,HRV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,MKD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,MHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,WSM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,VUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,NER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,NGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,UGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,BHS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,COL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,DOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,HND,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,TTO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,VEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,OMN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,ALB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,BIH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,SRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,SVK,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,UKR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,KIR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,PHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,SYC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,BOL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,SLV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,GTM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,NIC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,BEL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,UZB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,BEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,MUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,NAM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,BRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,PER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,DJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,EGY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,TUN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,AZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,CYP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,SWE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,CMR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,GIN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,MLI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,PAN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,BHR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,CZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,EST,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,GRC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,RUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,TKM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,MNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,MDG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,TGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,LBY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EMR,QAT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,BLR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,EUR,GEO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,SLB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GIN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,BOL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,PER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,BHR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,BIH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,PHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,BEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,CMR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,NGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,COL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,HND,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,VEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,DJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,EGY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,LBY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,AZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,CZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,MHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,MNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,CMR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,NGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,COL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,DOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,MDG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,SYC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,BHS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,PAN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,OMN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,QAT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,TUN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,BEL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,HRV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,RUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,WSM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,SLB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,GAB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,MLI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,NAM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,UGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,BRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,DOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,GTM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,NIC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,TTO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,VUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,BFA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,MUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,NER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,TGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,BLR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,CYP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,EST,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,GRC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,MLT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,SRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,SVK,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,UZB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,BFA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,COD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,SYC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,CHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,NIC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,TTO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,BHR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,HRV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,CZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,EST,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,SVK,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,VUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GIN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,TZA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,BHS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,CRI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,TTO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,BEL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,CYP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,EST,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,MLT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,RUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,MHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,BEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,BFA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,CMR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GAB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,HND,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,NIC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,AUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,BLR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,SRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,VUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,DZA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,MLI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,MUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,NAM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,NER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,ZWE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,PER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,DJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,LBY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,QAT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,DZA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,PAK,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,QAT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,CZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,TKM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,MNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,KOR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,SVK,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,MHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,MDG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,TGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,UGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,BOL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,CRI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,PAN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,EGY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,MAR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,AUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,GRC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,COD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,MDG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,NGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,CHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,COL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,DJI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,LBN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,YEM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,HRV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,GTM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,BLR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,BEL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,CYP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,MLT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,MNG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,SLB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,CIV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,MLI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,UGA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,BOL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,GTM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,EGY,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,MAR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,OMN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,ARE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,DZA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AFR,COD,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,BLZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,AMR,CHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,IRQ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,MAR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,AUT,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,EUR,TKM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2012,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,BEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,GIN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,HND,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,AMR,VEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,SRB,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,EUR,TKM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,PHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,KOR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2010,WPR,WSM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,MUS,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,NER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,DOM,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,PAN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,PER,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,AMR,VEN,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,PHL,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
+O_Ins_community,PUBLISHED,2014,AFR,BFA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AFR,KEN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,HUN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,LUX,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,NLD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,FIN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,ISL,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,SEAR,IND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AFR,COM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,ARM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,FRA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,PRT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,SMR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,WPR,AUS,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,WPR,KOR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,MDA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,AUT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2014,EUR,LTU,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AFR,KEN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,FIN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,FRA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,HUN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,LTU,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,PRT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,MKD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,ALB,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,ARM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,GEO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,UKR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,WPR,KOR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AFR,CPV,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,NLD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,ISL,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,LUX,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,EUR,MDA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,SEAR,IND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,AFR,CPV,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,HUN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,ISL,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,MDA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,SEAR,IND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,AND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,FRA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,NLD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,UZB,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AFR,COM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AMR,VCT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,ISL,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,GBR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,PRT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AFR,CPV,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AFR,ZAF,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EMR,JOR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,AND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,FIN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,MCO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,PRT,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,UZB,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,AFR,COM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,AFR,KEN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,GEO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EMR,JOR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,ALB,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,ARM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,MCO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,GEO,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,HUN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,LTU,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,LUX,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,NLD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,MDA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,MKD,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,UKR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,SEAR,IND,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,WPR,KIR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AFR,KEN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,AFR,MOZ,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,ARM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,RUS,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,SMR,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,TJK,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AFR,COM,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2012,WPR,AUS,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,FIN,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,LTU,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,EUR,LUX,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2010,WPR,AUS,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,ALB,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,EUR,FRA,Not available,,,,Data not reported/not available
+O_Ins_community,PUBLISHED,2007,WPR,AUS,Not available,,,,Data not reported/not available

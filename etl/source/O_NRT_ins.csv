@@ -1,0 +1,777 @@
+GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+O_NRT_ins,PUBLISHED,2014,AFR,DZA,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,BFA,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,CMR,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,COG,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,MUS,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,BRA,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,SLV,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,PAN,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,SUR,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,URY,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,VEN,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,IRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,IRQ,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,JOR,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,QAT,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,TUN,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,CYP,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,NLD,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,TUR,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,GBR,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,BRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,MYS,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,NZL,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,NIU,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,PLW,Fully,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,BWA,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,CPV,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,COD,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,GAB,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,GIN,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,KEN,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,MDG,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,MLI,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,NAM,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,NER,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,SEN,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,SYC,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,ZAF,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,UGA,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,ZMB,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,ZWE,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,ATG,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,BHS,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,BRB,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,BLZ,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,BOL,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,CHL,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,COL,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,CRI,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,DMA,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,DOM,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,GTM,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,HTI,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,HND,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,JAM,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,NIC,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,PER,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,KNA,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,VCT,No,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,TTO,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,AFG,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,DJI,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,EGY,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,LBN,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,LBY,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,MAR,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,OMN,No,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,YEM,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,AND,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ARM,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,AUT,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,AZE,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,BLR,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,BIH,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,BGR,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,HRV,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,CZE,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,EST,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,FIN,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,DEU,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,GRC,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,HUN,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ISL,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ITA,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,KAZ,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,LVA,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,LTU,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,MCO,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,NOR,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,POL,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,PRT,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,MDA,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ROU,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,RUS,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,SRB,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,SVK,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,SVN,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ESP,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,SWE,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,CHE,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,MKD,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,TKM,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,UKR,No,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,UZB,No,,,,
+O_NRT_ins,PUBLISHED,2014,SEAR,IND,No,,,,
+O_NRT_ins,PUBLISHED,2014,SEAR,IDN,No,,,,
+O_NRT_ins,PUBLISHED,2014,SEAR,THA,No,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,KHM,No,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,CHN,No,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,FJI,No,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,WSM,No,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,VUT,No,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,BEN,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,CIV,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,NGA,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,SWZ,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AFR,TZA,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,ARG,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,CAN,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,MEX,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,AMR,USA,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,BHR,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,KWT,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,SAU,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EMR,ARE,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,BEL,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,DNK,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,FRA,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,IRL,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,ISR,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,LUX,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,EUR,MLT,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,AUS,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,JPN,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,MHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,MNG,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,PHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,KOR,Partially,,,,
+O_NRT_ins,PUBLISHED,2014,WPR,SGP,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,COG,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,MUS,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,BRA,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,PAN,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,URY,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,VEN,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,IRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,QAT,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,CYP,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ROU,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,TUR,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,GBR,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,BRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,MYS,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,NZL,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,NIU,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,PLW,Fully,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,DZA,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,BEN,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,BWA,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,CPV,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,CMR,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,CIV,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,COD,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,GAB,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,GIN,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,KEN,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,MDG,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,MLI,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,NAM,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,NER,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,SEN,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,SYC,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,ZAF,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,TGO,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,UGA,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,ZMB,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,ZWE,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,ATG,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,ARG,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,BHS,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,BRB,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,BLZ,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,BOL,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,CHL,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,COL,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,CRI,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,DMA,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,DOM,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,GTM,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,HTI,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,HND,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,JAM,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,MEX,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,NIC,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,PER,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,KNA,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,VCT,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,SUR,No,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,TTO,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,AFG,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,BHR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,DJI,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,EGY,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,IRQ,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,LBN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,LBY,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,MAR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,OMN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,PAK,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,TUN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,YEM,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,AND,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ARM,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,AUT,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,AZE,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,BLR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,BEL,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,BIH,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,BGR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,HRV,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,CZE,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,EST,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,FIN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,GEO,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,DEU,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,HUN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ISL,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ITA,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,KAZ,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,LVA,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,LTU,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,MLT,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,MCO,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,NLD,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,NOR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,POL,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,PRT,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,MDA,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,RUS,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,SMR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,SRB,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,SVK,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,SVN,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ESP,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,SWE,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,CHE,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,MKD,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,UKR,No,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,UZB,No,,,,
+O_NRT_ins,PUBLISHED,2012,SEAR,IND,No,,,,
+O_NRT_ins,PUBLISHED,2012,SEAR,IDN,No,,,,
+O_NRT_ins,PUBLISHED,2012,SEAR,THA,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,KHM,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,CHN,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,FJI,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,WSM,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,SLB,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,TON,No,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,VUT,No,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,NGA,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,AFR,SWZ,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,CAN,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,SLV,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,AMR,USA,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,JOR,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,KWT,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,SAU,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EMR,ARE,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,DNK,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,FRA,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,GRC,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,IRL,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,ISR,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,EUR,LUX,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,AUS,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,JPN,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,MHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,MNG,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,PHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,KOR,Partially,,,,
+O_NRT_ins,PUBLISHED,2012,WPR,SGP,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,MUS,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,BRA,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,PAN,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,URY,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,VEN,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,BHR,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,IRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,JOR,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,QAT,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ROU,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,TUR,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,GBR,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,BRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,NZL,Fully,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,DZA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,BEN,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,BWA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,BFA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,CPV,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,CMR,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,COG,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,CIV,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,COD,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,GAB,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,GIN,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,KEN,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,MDG,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,MLI,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,NAM,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,NER,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,SEN,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,SYC,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,ZAF,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,TGO,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,UGA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,ZMB,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,ZWE,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,ATG,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,ARG,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,BHS,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,BRB,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,BLZ,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,BOL,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,CHL,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,COL,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,CRI,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,DMA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,DOM,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,GTM,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,GUY,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,HTI,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,HND,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,JAM,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,MEX,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,NIC,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,PER,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,KNA,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,VCT,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,SUR,No,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,TTO,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,AFG,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,DJI,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,EGY,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,IRQ,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,LBN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,LBY,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,MAR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,OMN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,PAK,No,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,TUN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,AND,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ARM,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,AUT,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,AZE,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,BLR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,BEL,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,BIH,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,BGR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,HRV,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,CZE,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,DNK,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,EST,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,FIN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,GEO,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,DEU,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,GRC,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,HUN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ISL,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ITA,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,KAZ,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,KGZ,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,LVA,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,LTU,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,LUX,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,MLT,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,MCO,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,NLD,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,NOR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,POL,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,PRT,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,MDA,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,RUS,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,SMR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,SRB,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,SVK,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,SVN,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ESP,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,SWE,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,CHE,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,MKD,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,UKR,No,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,UZB,No,,,,
+O_NRT_ins,PUBLISHED,2010,SEAR,IND,No,,,,
+O_NRT_ins,PUBLISHED,2010,SEAR,THA,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,KHM,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,CHN,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,MNG,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,NIU,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,PLW,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,WSM,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,SLB,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,TON,No,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,VUT,No,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,NGA,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,AFR,SWZ,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,CAN,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,SLV,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,AMR,USA,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,KWT,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,SAU,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EMR,ARE,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,CYP,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,FRA,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,IRL,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,EUR,ISR,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,AUS,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,JPN,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,MYS,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,MHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,PHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,KOR,Partially,,,,
+O_NRT_ins,PUBLISHED,2010,WPR,SGP,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,BRA,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,URY,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,VEN,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,BHR,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,IRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,JOR,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,QAT,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,GBR,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,BRN,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,NZL,Fully,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,DZA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,BEN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,BWA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,BFA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,CPV,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,CMR,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,COG,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,CIV,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,COD,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,GAB,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,GIN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,KEN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,LSO,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,MDG,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,MLI,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,MUS,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,NAM,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,NER,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,SEN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,ZAF,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,TGO,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,UGA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,ZMB,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,ZWE,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,ATG,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,ARG,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,BHS,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,BRB,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,BLZ,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,BOL,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,CAN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,CHL,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,COL,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,CRI,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,DMA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,DOM,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,GTM,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,GUY,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,HTI,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,HND,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,JAM,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,MEX,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,NIC,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,PAN,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,PER,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,KNA,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,VCT,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,SUR,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,TTO,No,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,USA,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,AFG,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,DJI,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,EGY,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,IRQ,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,LBN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,MAR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,OMN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,TUN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,ARE,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,AND,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ARM,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,AUT,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,BLR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,BIH,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,BGR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,HRV,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,CZE,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,DNK,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,EST,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,FIN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,GEO,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,DEU,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,GRC,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,HUN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ISL,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ITA,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,KAZ,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,KGZ,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,LVA,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,LTU,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,MLT,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,NLD,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,NOR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,POL,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,PRT,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,MDA,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ROU,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,RUS,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,SMR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,SRB,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,SVK,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,SVN,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ESP,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,SWE,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,CHE,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,MKD,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,TUR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,UKR,No,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,UZB,No,,,,
+O_NRT_ins,PUBLISHED,2007,SEAR,IND,No,,,,
+O_NRT_ins,PUBLISHED,2007,SEAR,THA,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,CHN,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,MYS,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,MNG,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,PLW,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,WSM,No,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,SLB,No,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,NGA,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,SWZ,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,AMR,SLV,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,KWT,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EMR,SAU,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,BEL,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,CYP,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,FRA,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,IRL,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,EUR,ISR,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,AUS,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,JPN,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,MHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,PHL,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,KOR,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,WPR,SGP,Partially,,,,
+O_NRT_ins,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,KIR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,TZA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,COK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EMR,PAK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,VUT,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,COM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,COM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,TZA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EUR,KGZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,GEO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,SLB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,GUY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,FJI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,EMR,SYR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,CUB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,KGZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,COK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,ERI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,PRY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,TGO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,TUV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AMR,PRY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AMR,PRY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,BGD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AMR,CUB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,TON,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,BFA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EMR,SYR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EMR,YEM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,ALB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,TUV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,PRY,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,ECU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,NPL,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,TZA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EUR,ALB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,CUB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,LKA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,COK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,MNE,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EMR,SYR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,STP,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,TCD,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,MMR,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,TUV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,GHA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,CAF,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,SEAR,MDV,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,WPR,PNG,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2007,AMR,CUB,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,LAO,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2012,WPR,NRU,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,WPR,COK,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2010,AFR,MOZ,Not applicable,,,,Data not required/not applicable
+O_NRT_ins,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,ALB,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,WPR,KIR,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,MCO,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,MNE,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,EUR,ALB,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,TKM,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,LUX,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EUR,TJK,Not available,,,,Data not reported/not available
+O_NRT_ins,PUBLISHED,2007,EMR,PAK,Not available,,,,Data not reported/not available

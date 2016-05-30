@@ -1,0 +1,74 @@
+GHO,DATASOURCE,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
+RateCS,ECDC,PUBLISHED,2012.0,EUR,SVN,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2012.0,AMR,VCT,0.0,0.0,,,"Note the denominator is taken from 2009, as the most recent UNPD total live births for St Vincents"
+RateCS,GARPR,PUBLISHED,2013.0,WPR,TUV,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,GBR,0.0,0.0,,,"Note the denominator is taken from 2013, as the closest UNPD total live births for United Kingdom"
+RateCS,ECDC,PUBLISHED,2012.0,EUR,ESP,0.2,0.2,,,
+RateCS,GARPR,PUBLISHED,2013.0,EUR,TJK,0.4,0.4,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,DEU,0.6,0.6,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,ITA,0.6,0.6,,,"Note the denominator is taken from 2013, as the closest UNPD total live births for Italy"
+RateCS,GARPR,PUBLISHED,2013.0,AMR,NIC,0.7,0.7,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,MYS,0.8,0.8,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,CZE,0.9,0.9,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,SWE,0.9,0.9,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,CUB,2.4,2.4,,,
+RateCS,GARPR,PUBLISHED,2013.0,AFR,GAB,2.4,2.4,,,
+RateCS,GARPR,PUBLISHED,2011.0,EMR,ARE,2.4,2.4,,,"  Data from MoH, Health Authority of Abu Dhabi (HAAD) and Medical Services Corps (MSC)"
+RateCS,GARPR,PUBLISHED,2013.0,SEAR,LKA,2.8,2.8,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,ROU,3.0,3.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,LTU,3.3,3.3,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,MEX,3.3,3.3,,,"Note the denominator is taken from 2011, as the most recent UNPD total live births for Mexico."
+RateCS,GARPR,PUBLISHED,2013.0,EUR,KAZ,4.4,4.4,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,VEN,4.6,4.6,,,"Note the denominator is taken from 2011, as the most recent UNPD total live births for Venezuela."
+RateCS,GARPR,PUBLISHED,2013.0,AMR,SLV,4.7,4.7,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,LVA,5.0,5.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,EUR,ALB,5.6,5.6,,,
+RateCS,GARPR,PUBLISHED,2013.0,EMR,ARE,7.2,7.2,,,"Note the denominator is taken from 2011, as the most recent UNPD total live births for United Arab Emirates"
+RateCS,GARPR,PUBLISHED,2013.0,AMR,DOM,8.3,8.3,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,POL,8.3,8.3,,,
+RateCS,GARPR,PUBLISHED,2013.0,EUR,KGZ,10.9,10.9,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,PRT,13.4,13.4,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,HND,14.7,14.7,,,Data do not include stillbirths. Spanish translation: Los datos no incluyen mortinatos.
+RateCS,GARPR,PUBLISHED,2011.0,AMR,BOL,15.5,15.5,,,"Note the denominator is taken from 2007, as the most recent UNPD total live births for Bolivia.  The report presented corresponds to a surveillance study (baseline) made?in the year 2011, in five major reference maternal and child hospitals in regions of the country including a capital city with high concentration of rural population. The study was conducted on 6,200 women expecting and in labor. In this study a total of 15 children born with syphilis was found.  Spanish translation: El reporte presentado corresponde a un estudio de vigilancia (linea de base) realizado en el ano 2011, en cinco hospitales materno infantiles de mayor referencia en el pais de los despartamentos del eje troncal incluida una ciudad capital con alta concentracion de poblacion rural. El estudio fue realizado en 6.200 mujeres parturientes y puereras. En este estudio se encontro un total de 15 ninos nacidos con sifilis"
+RateCS,GARPR,PUBLISHED,2013.0,EUR,MDA,20.3,20.3,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,CHL,22.1,22.1,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,SVK,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AFR,SYC,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,EMR,SAU,0.0,0.0,,,"Note the denominator is taken from 2009, as the most recent UNPD total live births for Saudi Arabia"
+RateCS,GARPR,PUBLISHED,2013.0,EMR,OMN,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,NOR,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AFR,MUS,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,MLT,0.0,0.0,,,"Note the denominator is taken from 2013, as the closest UNPD total live births for Malta"
+RateCS,ECDC,PUBLISHED,2012.0,EUR,LUX,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,IRL,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2010.0,EUR,ISL,0.0,0.0,,,"Note there was no denominator availabile, but as the numerator was 0, the rate is 0 as well. "
+RateCS,ECDC,PUBLISHED,2012.0,EUR,HUN,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,GUY,0.0,0.0,,,"Note there was no denominator availabile, but as the numerator was 0, the rate is 0 as well."
+RateCS,ECDC,PUBLISHED,2012.0,EUR,GRC,0.0,0.0,,,"Note the denominator is taken from 2013, as the closest UNPD total live births for Greece"
+RateCS,ECDC,PUBLISHED,2012.0,EUR,EST,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,DMA,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2008.0,EUR,DNK,0.0,0.0,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,CYP,0.0,0.0,,,"Note there was no denominator availabile, but as the numerator was 0, the rate is 0 as well."
+RateCS,ECDC,PUBLISHED,2012.0,EUR,HRV,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,BLZ,0.0,0.0,,,"Note the denominator is taken from 2005, as the most recent UNPD total live births for Belize"
+RateCS,GARPR,PUBLISHED,2013.0,EUR,BLR,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,BHS,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,AUS,0.0,0.0,,,"Note the denominator is taken from 2012, as the most recent UNPD total live births for Australia"
+RateCS,GARPR,PUBLISHED,2013.0,EUR,ARM,0.0,0.0,,,
+RateCS,GARPR,PUBLISHED,2012.0,AMR,ATG,0.0,0.0,,,All data is based on STI clinic reports
+RateCS,GARPR,PUBLISHED,2012.0,EMR,BHR,26.2,26.2,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,MNG,28.8,28.8,,,
+RateCS,ECDC,PUBLISHED,2012.0,EUR,BGR,42.0,42.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AFR,MOZ,85.5,85.5,,,"Note the denominator is taken from 2001, as the most recent UNPD total live births for Mozambique"
+RateCS,GARPR,PUBLISHED,2013.0,AMR,ARG,99.0,99.0,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,CRI,113.2,113.2,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,FJI,138.8,138.8,,,Note the total births for the year of 2013 are a proxy from the 2012 data
+RateCS,GARPR,PUBLISHED,2013.0,AMR,PAN,149.7,149.7,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,URY,156.2,156.2,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,NRU,272.5,272.5,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,COL,287.3,287.3,,,
+RateCS,GARPR,PUBLISHED,2013.0,AMR,BRA,388.4,388.4,,,
+RateCS,GARPR,PUBLISHED,2013.0,WPR,FSM,419.0,419.0,,,"Note the denominator is taken from 2006, as the most recent UNPD total live births for Micronesia"
+RateCS,GARPR,PUBLISHED,2013.0,AMR,GRD,490.5,490.5,,,
+RateCS,GARPR,PUBLISHED,,AMR,PER,770.1,770.1,,,"Reported cases Source: General Directorate of Epidemiology.  Spanish translation: Casos notificados, Fuente: Direccion General de Epidemiologia"
+RateCS,GARPR,PUBLISHED,2012.0,AMR,GTM,3.1,3.1,,,"Note the denominator is taken from 2012, as the most recent UNPD total live births for Guatemala"
