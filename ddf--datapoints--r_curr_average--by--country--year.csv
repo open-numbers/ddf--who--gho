@@ -1,0 +1,777 @@
+country,year,r_curr_average
+AFG,2008,Not applicable
+AFG,2010,Not applicable
+AFG,2012,Not available
+AFG,2014,Not available
+AGO,2008,Not applicable
+AGO,2010,Not applicable
+AGO,2012,Not available
+AGO,2014,Not available
+ALB,2008,Not applicable
+ALB,2010,Not applicable
+ALB,2012,Not available
+ALB,2014,Not available
+AND,2008,Not applicable
+AND,2010,Not applicable
+AND,2012,Not available
+AND,2014,Not available
+ARE,2008,Not applicable
+ARE,2010,Not applicable
+ARE,2012,AED
+ARE,2014,AED
+ARG,2008,Not applicable
+ARG,2010,Not applicable
+ARG,2012,ARS
+ARG,2014,ARS
+ARM,2008,Not applicable
+ARM,2010,Not applicable
+ARM,2012,AMD
+ARM,2014,AMD
+ATG,2008,Not applicable
+ATG,2010,Not applicable
+ATG,2012,Not available
+ATG,2014,Not available
+AUS,2008,Not applicable
+AUS,2010,Not applicable
+AUS,2012,AUD
+AUS,2014,AUD
+AUT,2008,Not applicable
+AUT,2010,Not applicable
+AUT,2012,EUR
+AUT,2014,EUR
+AZE,2008,Not applicable
+AZE,2010,Not applicable
+AZE,2012,AZN
+AZE,2014,AZN
+BDI,2008,Not applicable
+BDI,2010,Not applicable
+BDI,2012,Not available
+BDI,2014,BIF
+BEL,2008,Not applicable
+BEL,2010,Not applicable
+BEL,2012,EUR
+BEL,2014,EUR
+BEN,2008,Not applicable
+BEN,2010,Not applicable
+BEN,2012,Not available
+BEN,2014,Not available
+BFA,2008,Not applicable
+BFA,2010,Not applicable
+BFA,2012,Not available
+BFA,2014,Not available
+BGD,2008,Not applicable
+BGD,2010,Not applicable
+BGD,2012,BDT
+BGD,2014,BDT
+BGR,2008,Not applicable
+BGR,2010,Not applicable
+BGR,2012,BGN
+BGR,2014,BGN
+BHR,2008,Not applicable
+BHR,2010,Not applicable
+BHR,2012,Not available
+BHR,2014,Not available
+BHS,2008,Not applicable
+BHS,2010,Not applicable
+BHS,2012,Not available
+BHS,2014,BSD
+BIH,2008,Not applicable
+BIH,2010,Not applicable
+BIH,2012,BAM
+BIH,2014,BAM
+BLR,2008,Not applicable
+BLR,2010,Not applicable
+BLR,2012,BYR
+BLR,2014,BYR
+BLZ,2008,Not applicable
+BLZ,2010,Not applicable
+BLZ,2012,Not available
+BLZ,2014,BZD
+BOL,2008,Not applicable
+BOL,2010,Not applicable
+BOL,2012,BOB
+BOL,2014,BOB
+BRA,2008,Not applicable
+BRA,2010,Not applicable
+BRA,2012,BRL
+BRA,2014,BRL
+BRB,2008,Not applicable
+BRB,2010,Not applicable
+BRB,2012,Not available
+BRB,2014,Not available
+BRN,2008,Not applicable
+BRN,2010,Not applicable
+BRN,2012,Not available
+BRN,2014,Not available
+BTN,2008,Not applicable
+BTN,2010,Not applicable
+BTN,2012,Not applicable
+BTN,2014,Not applicable
+BWA,2008,Not applicable
+BWA,2010,Not applicable
+BWA,2012,Not available
+BWA,2014,Not available
+CAF,2008,Not applicable
+CAF,2010,Not applicable
+CAF,2012,Not available
+CAF,2014,Not available
+CAN,2008,Not applicable
+CAN,2010,Not applicable
+CAN,2012,CAD
+CAN,2014,CAD
+CHE,2008,Not applicable
+CHE,2010,Not applicable
+CHE,2012,CHF
+CHE,2014,CHF
+CHL,2008,Not applicable
+CHL,2010,Not applicable
+CHL,2012,CLP
+CHL,2014,CLP
+CHN,2008,Not applicable
+CHN,2010,Not applicable
+CHN,2012,CNY
+CHN,2014,CNY
+CIV,2008,Not applicable
+CIV,2010,Not applicable
+CIV,2012,Not available
+CIV,2014,Not available
+CMR,2008,Not applicable
+CMR,2010,Not applicable
+CMR,2012,XAF
+CMR,2014,XAF
+COD,2008,Not applicable
+COD,2010,Not applicable
+COD,2012,Not available
+COD,2014,Not available
+COG,2008,Not applicable
+COG,2010,Not applicable
+COG,2012,Not available
+COG,2014,Not available
+COK,2008,Not applicable
+COK,2010,Not applicable
+COK,2012,Not available
+COK,2014,Not available
+COL,2008,Not applicable
+COL,2010,Not applicable
+COL,2012,COP
+COL,2014,COP
+COM,2008,Not applicable
+COM,2010,Not applicable
+COM,2012,Not available
+COM,2014,KMF
+CPV,2008,Not applicable
+CPV,2010,Not applicable
+CPV,2012,Not available
+CPV,2014,Not available
+CRI,2008,Not applicable
+CRI,2010,Not applicable
+CRI,2012,Not available
+CRI,2014,CRC
+CUB,2008,Not applicable
+CUB,2010,Not applicable
+CUB,2012,Not available
+CUB,2014,Not available
+CYP,2008,Not applicable
+CYP,2010,Not applicable
+CYP,2012,EUR
+CYP,2014,EUR
+CZE,2008,Not applicable
+CZE,2010,Not applicable
+CZE,2012,CZK
+CZE,2014,CZK
+DEU,2008,Not applicable
+DEU,2010,Not applicable
+DEU,2012,EUR
+DEU,2014,EUR
+DJI,2008,Not applicable
+DJI,2010,Not applicable
+DJI,2012,Not available
+DJI,2014,Not available
+DMA,2008,Not applicable
+DMA,2010,Not applicable
+DMA,2012,Not available
+DMA,2014,Not available
+DNK,2008,Not applicable
+DNK,2010,Not applicable
+DNK,2012,DKK
+DNK,2014,DKK
+DOM,2008,Not applicable
+DOM,2010,Not applicable
+DOM,2012,DOP
+DOM,2014,DOP
+DZA,2008,Not applicable
+DZA,2010,Not applicable
+DZA,2012,DZD
+DZA,2014,DZD
+ECU,2008,Not applicable
+ECU,2010,Not applicable
+ECU,2012,USD
+ECU,2014,USD
+EGY,2008,Not applicable
+EGY,2010,Not applicable
+EGY,2012,EGP
+EGY,2014,EGP
+ERI,2008,Not applicable
+ERI,2010,Not applicable
+ERI,2012,Not available
+ERI,2014,Not available
+ESP,2008,Not applicable
+ESP,2010,Not applicable
+ESP,2012,EUR
+ESP,2014,EUR
+EST,2008,Not applicable
+EST,2010,Not applicable
+EST,2012,EUR
+EST,2014,EUR
+ETH,2008,Not applicable
+ETH,2010,Not applicable
+ETH,2012,Not available
+ETH,2014,ETB
+FIN,2008,Not applicable
+FIN,2010,Not applicable
+FIN,2012,EUR
+FIN,2014,EUR
+FJI,2008,Not applicable
+FJI,2010,Not applicable
+FJI,2012,FJD
+FJI,2014,FJD
+FRA,2008,Not applicable
+FRA,2010,Not applicable
+FRA,2012,EUR
+FRA,2014,EUR
+FSM,2008,Not applicable
+FSM,2010,Not applicable
+FSM,2012,Not available
+FSM,2014,Not available
+GAB,2008,Not applicable
+GAB,2010,Not applicable
+GAB,2012,Not available
+GAB,2014,Not available
+GBR,2008,Not applicable
+GBR,2010,Not applicable
+GBR,2012,GBP
+GBR,2014,GBP
+GEO,2008,Not applicable
+GEO,2010,Not applicable
+GEO,2012,GEL
+GEO,2014,GEL
+GHA,2008,Not applicable
+GHA,2010,Not applicable
+GHA,2012,GHS
+GHA,2014,GHS
+GIN,2008,Not applicable
+GIN,2010,Not applicable
+GIN,2012,Not available
+GIN,2014,Not available
+GMB,2008,Not applicable
+GMB,2010,Not applicable
+GMB,2012,Not available
+GMB,2014,GMD
+GNB,2008,Not applicable
+GNB,2010,Not applicable
+GNB,2012,Not available
+GNB,2014,Not available
+GNQ,2008,Not applicable
+GNQ,2010,Not applicable
+GNQ,2012,Not available
+GNQ,2014,Not available
+GRC,2008,Not applicable
+GRC,2010,Not applicable
+GRC,2012,EUR
+GRC,2014,EUR
+GRD,2008,Not applicable
+GRD,2010,Not applicable
+GRD,2012,Not available
+GRD,2014,Not available
+GTM,2008,Not applicable
+GTM,2010,Not applicable
+GTM,2012,GTQ
+GTM,2014,GTQ
+GUY,2008,Not applicable
+GUY,2010,Not applicable
+GUY,2012,Not available
+GUY,2014,Not available
+HND,2008,Not applicable
+HND,2010,Not applicable
+HND,2012,HNL
+HND,2014,HNL
+HRV,2008,Not applicable
+HRV,2010,Not applicable
+HRV,2012,HRK
+HRV,2014,HRK
+HTI,2008,Not applicable
+HTI,2010,Not applicable
+HTI,2012,Not available
+HTI,2014,Not available
+HUN,2008,Not applicable
+HUN,2010,Not applicable
+HUN,2012,HUF
+HUN,2014,HUF
+IDN,2008,Not applicable
+IDN,2010,Not applicable
+IDN,2012,IDR
+IDN,2014,IDR
+IND,2008,Not applicable
+IND,2010,Not applicable
+IND,2012,INR
+IND,2014,INR
+IRL,2008,Not applicable
+IRL,2010,Not applicable
+IRL,2012,EUR
+IRL,2014,EUR
+IRN,2008,Not applicable
+IRN,2010,Not applicable
+IRN,2012,IRR
+IRN,2014,IRR
+IRQ,2008,Not applicable
+IRQ,2010,Not applicable
+IRQ,2012,Not available
+IRQ,2014,Not available
+ISL,2008,Not applicable
+ISL,2010,Not applicable
+ISL,2012,ISK
+ISL,2014,ISK
+ISR,2008,Not applicable
+ISR,2010,Not applicable
+ISR,2012,Not available
+ISR,2014,ILS
+ITA,2008,Not applicable
+ITA,2010,Not applicable
+ITA,2012,EUR
+ITA,2014,EUR
+JAM,2008,Not applicable
+JAM,2010,Not applicable
+JAM,2012,JMD
+JAM,2014,JMD
+JOR,2008,Not applicable
+JOR,2010,Not applicable
+JOR,2012,Not available
+JOR,2014,Not available
+JPN,2008,Not applicable
+JPN,2010,Not applicable
+JPN,2012,JPY
+JPN,2014,JPY
+KAZ,2008,Not applicable
+KAZ,2010,Not applicable
+KAZ,2012,KZT
+KAZ,2014,KZT
+KEN,2008,Not applicable
+KEN,2010,Not applicable
+KEN,2012,KES
+KEN,2014,KES
+KGZ,2008,Not applicable
+KGZ,2010,Not applicable
+KGZ,2012,Not available
+KGZ,2014,Not available
+KHM,2008,Not applicable
+KHM,2010,Not applicable
+KHM,2012,KHR
+KHM,2014,KHR
+KIR,2008,Not applicable
+KIR,2010,Not applicable
+KIR,2012,Not available
+KIR,2014,Not available
+KNA,2008,Not applicable
+KNA,2010,Not applicable
+KNA,2012,XCD
+KNA,2014,Not available
+KOR,2008,Not applicable
+KOR,2010,Not applicable
+KOR,2012,KRW
+KOR,2014,KRW
+KWT,2008,Not applicable
+KWT,2010,Not applicable
+KWT,2012,Not available
+KWT,2014,Not available
+LAO,2008,Not applicable
+LAO,2010,Not applicable
+LAO,2012,Not available
+LAO,2014,Not available
+LBN,2008,Not applicable
+LBN,2010,Not applicable
+LBN,2012,LBP
+LBN,2014,LBP
+LBR,2008,Not applicable
+LBR,2010,Not applicable
+LBR,2012,Not available
+LBR,2014,LRD
+LBY,2008,Not applicable
+LBY,2010,Not applicable
+LBY,2012,Not available
+LBY,2014,Not available
+LCA,2008,Not applicable
+LCA,2010,Not applicable
+LCA,2012,Not available
+LCA,2014,Not available
+LKA,2008,Not applicable
+LKA,2010,Not applicable
+LKA,2012,LKR
+LKA,2014,LKR
+LSO,2008,Not applicable
+LSO,2010,Not applicable
+LSO,2012,Not available
+LSO,2014,Not available
+LTU,2008,Not applicable
+LTU,2010,Not applicable
+LTU,2012,LTL
+LTU,2014,LTL
+LUX,2008,Not applicable
+LUX,2010,Not applicable
+LUX,2012,EUR
+LUX,2014,EUR
+LVA,2008,Not applicable
+LVA,2010,Not applicable
+LVA,2012,LVL
+LVA,2014,EUR
+MAR,2008,Not applicable
+MAR,2010,Not applicable
+MAR,2012,MAD
+MAR,2014,MAD
+MCO,2008,Not applicable
+MCO,2010,Not applicable
+MCO,2012,Not available
+MCO,2014,Not available
+MDA,2008,Not applicable
+MDA,2010,Not applicable
+MDA,2012,MDL
+MDA,2014,MDL
+MDG,2008,Not applicable
+MDG,2010,Not applicable
+MDG,2012,Not available
+MDG,2014,Not available
+MDV,2008,Not applicable
+MDV,2010,Not applicable
+MDV,2012,Not available
+MDV,2014,Not available
+MEX,2008,Not applicable
+MEX,2010,Not applicable
+MEX,2012,MXN
+MEX,2014,MXN
+MHL,2008,Not applicable
+MHL,2010,Not applicable
+MHL,2012,Not available
+MHL,2014,Not available
+MKD,2008,Not applicable
+MKD,2010,Not applicable
+MKD,2012,MKD
+MKD,2014,MKD
+MLI,2008,Not applicable
+MLI,2010,Not applicable
+MLI,2012,Not available
+MLI,2014,XOF
+MLT,2008,Not applicable
+MLT,2010,Not applicable
+MLT,2012,Not available
+MLT,2014,Not available
+MMR,2008,Not applicable
+MMR,2010,Not applicable
+MMR,2012,Not available
+MMR,2014,Not available
+MNE,2008,Not applicable
+MNE,2010,Not applicable
+MNE,2012,Not available
+MNE,2014,Not available
+MNG,2008,Not applicable
+MNG,2010,Not applicable
+MNG,2012,MNT
+MNG,2014,MNT
+MOZ,2008,Not applicable
+MOZ,2010,Not applicable
+MOZ,2012,Not available
+MOZ,2014,Not available
+MRT,2008,Not applicable
+MRT,2010,Not applicable
+MRT,2012,Not available
+MRT,2014,Not available
+MUS,2008,Not applicable
+MUS,2010,Not applicable
+MUS,2012,Not available
+MUS,2014,Not available
+MWI,2008,Not applicable
+MWI,2010,Not applicable
+MWI,2012,Not available
+MWI,2014,Not available
+MYS,2008,Not applicable
+MYS,2010,Not applicable
+MYS,2012,MYR
+MYS,2014,MYR
+NAM,2008,Not applicable
+NAM,2010,Not applicable
+NAM,2012,Not available
+NAM,2014,Not available
+NER,2008,Not applicable
+NER,2010,Not applicable
+NER,2012,Not available
+NER,2014,Not available
+NGA,2008,Not applicable
+NGA,2010,Not applicable
+NGA,2012,NGN
+NGA,2014,Not available
+NIC,2008,Not applicable
+NIC,2010,Not applicable
+NIC,2012,NIO
+NIC,2014,Not available
+NIU,2008,Not applicable
+NIU,2010,Not applicable
+NIU,2012,Not available
+NIU,2014,Not available
+NLD,2008,Not applicable
+NLD,2010,Not applicable
+NLD,2012,EUR
+NLD,2014,EUR
+NOR,2008,Not applicable
+NOR,2010,Not applicable
+NOR,2012,NOK
+NOR,2014,NOK
+NPL,2008,Not applicable
+NPL,2010,Not applicable
+NPL,2012,NPR
+NPL,2014,NPR
+NRU,2008,Not applicable
+NRU,2010,Not applicable
+NRU,2012,Not available
+NRU,2014,Not available
+NZL,2008,Not applicable
+NZL,2010,Not applicable
+NZL,2012,NZD
+NZL,2014,NZD
+OMN,2008,Not applicable
+OMN,2010,Not applicable
+OMN,2012,OMR
+OMN,2014,OMR
+PAK,2008,Not applicable
+PAK,2010,Not applicable
+PAK,2012,PKR
+PAK,2014,PKR
+PAN,2008,Not applicable
+PAN,2010,Not applicable
+PAN,2012,PAB
+PAN,2014,PAB
+PER,2008,Not applicable
+PER,2010,Not applicable
+PER,2012,PEN
+PER,2014,PEN
+PHL,2008,Not applicable
+PHL,2010,Not applicable
+PHL,2012,PHP
+PHL,2014,PHP
+PLW,2008,Not applicable
+PLW,2010,Not applicable
+PLW,2012,Not available
+PLW,2014,Not available
+PNG,2008,Not applicable
+PNG,2010,Not applicable
+PNG,2012,Not available
+PNG,2014,Not available
+POL,2008,Not applicable
+POL,2010,Not applicable
+POL,2012,PLN
+POL,2014,PLN
+PRK,2008,Not applicable
+PRK,2010,Not applicable
+PRK,2012,Not available
+PRK,2014,Not available
+PRT,2008,Not applicable
+PRT,2010,Not applicable
+PRT,2012,EUR
+PRT,2014,EUR
+PRY,2008,Not applicable
+PRY,2010,Not applicable
+PRY,2012,Not available
+PRY,2014,Not available
+QAT,2008,Not applicable
+QAT,2010,Not applicable
+QAT,2012,Not available
+QAT,2014,Not available
+ROU,2008,Not applicable
+ROU,2010,Not applicable
+ROU,2012,RON
+ROU,2014,RON
+RUS,2008,Not applicable
+RUS,2010,Not applicable
+RUS,2012,RUB
+RUS,2014,RUB
+RWA,2008,Not applicable
+RWA,2010,Not applicable
+RWA,2012,Not available
+RWA,2014,RWF
+SAU,2008,Not applicable
+SAU,2010,Not applicable
+SAU,2012,SAR
+SAU,2014,Not available
+SDN,2008,Not applicable
+SDN,2010,Not applicable
+SDN,2012,Not available
+SDN,2014,Not available
+SEN,2008,Not applicable
+SEN,2010,Not applicable
+SEN,2012,XOF
+SEN,2014,XOF
+SGP,2008,Not applicable
+SGP,2010,Not applicable
+SGP,2012,SGD
+SGP,2014,SGD
+SLB,2008,Not applicable
+SLB,2010,Not applicable
+SLB,2012,Not available
+SLB,2014,Not available
+SLE,2008,Not applicable
+SLE,2010,Not applicable
+SLE,2012,Not available
+SLE,2014,SLL
+SLV,2008,Not applicable
+SLV,2010,Not applicable
+SLV,2012,Not available
+SLV,2014,Not available
+SMR,2008,Not applicable
+SMR,2010,Not applicable
+SMR,2012,Not available
+SMR,2014,Not available
+SOM,2008,Not applicable
+SOM,2010,Not applicable
+SOM,2012,Not available
+SOM,2014,Not available
+SRB,2008,Not applicable
+SRB,2010,Not applicable
+SRB,2012,RSD
+SRB,2014,RSD
+SSD,2008,Not applicable
+SSD,2010,Not applicable
+SSD,2012,Not available
+SSD,2014,Not available
+STP,2008,Not applicable
+STP,2010,Not applicable
+STP,2012,Not available
+STP,2014,Not available
+SUR,2008,Not applicable
+SUR,2010,Not applicable
+SUR,2012,Not available
+SUR,2014,Not available
+SVK,2008,Not applicable
+SVK,2010,Not applicable
+SVK,2012,EUR
+SVK,2014,EUR
+SVN,2008,Not applicable
+SVN,2010,Not applicable
+SVN,2012,EUR
+SVN,2014,EUR
+SWE,2008,Not applicable
+SWE,2010,Not applicable
+SWE,2012,SEK
+SWE,2014,SEK
+SWZ,2008,Not applicable
+SWZ,2010,Not applicable
+SWZ,2012,Not available
+SWZ,2014,Not available
+SYC,2008,Not applicable
+SYC,2010,Not applicable
+SYC,2012,Not available
+SYC,2014,Not available
+SYR,2008,Not applicable
+SYR,2010,Not applicable
+SYR,2012,Not available
+SYR,2014,Not available
+TCD,2008,Not applicable
+TCD,2010,Not applicable
+TCD,2012,Not available
+TCD,2014,Not available
+TGO,2008,Not applicable
+TGO,2010,Not applicable
+TGO,2012,Not available
+TGO,2014,Not available
+THA,2008,Not applicable
+THA,2010,Not applicable
+THA,2012,THB
+THA,2014,THB
+TJK,2008,Not applicable
+TJK,2010,Not applicable
+TJK,2012,Not available
+TJK,2014,Not available
+TKM,2008,Not applicable
+TKM,2010,Not applicable
+TKM,2012,Not available
+TKM,2014,Not available
+TLS,2008,Not applicable
+TLS,2010,Not applicable
+TLS,2012,Not available
+TLS,2014,Not available
+TON,2008,Not applicable
+TON,2010,Not applicable
+TON,2012,TOP
+TON,2014,Not available
+TTO,2008,Not applicable
+TTO,2010,Not applicable
+TTO,2012,Not available
+TTO,2014,Not available
+TUN,2008,Not applicable
+TUN,2010,Not applicable
+TUN,2012,TND
+TUN,2014,TND
+TUR,2008,Not applicable
+TUR,2010,Not applicable
+TUR,2012,TRY
+TUR,2014,TRY
+TUV,2008,Not applicable
+TUV,2010,Not applicable
+TUV,2012,Not available
+TUV,2014,Not available
+TZA,2008,Not applicable
+TZA,2010,Not applicable
+TZA,2012,Not available
+TZA,2014,Not available
+UGA,2008,Not applicable
+UGA,2010,Not applicable
+UGA,2012,UGX
+UGA,2014,UGX
+UKR,2008,Not applicable
+UKR,2010,Not applicable
+UKR,2012,UAH
+UKR,2014,UAH
+URY,2008,Not applicable
+URY,2010,Not applicable
+URY,2012,UYU
+URY,2014,UYU
+USA,2008,Not applicable
+USA,2010,Not applicable
+USA,2012,USD
+USA,2014,USD
+UZB,2008,Not applicable
+UZB,2010,Not applicable
+UZB,2012,UZS
+UZB,2014,UZS
+VCT,2008,Not applicable
+VCT,2010,Not applicable
+VCT,2012,Not available
+VCT,2014,Not available
+VEN,2008,Not applicable
+VEN,2010,Not applicable
+VEN,2012,VEF
+VEN,2014,Not available
+VNM,2008,Not applicable
+VNM,2010,Not applicable
+VNM,2012,VND
+VNM,2014,VND
+VUT,2008,Not applicable
+VUT,2010,Not applicable
+VUT,2012,Not available
+VUT,2014,Not available
+WSM,2008,Not applicable
+WSM,2010,Not applicable
+WSM,2012,WST
+WSM,2014,Not available
+YEM,2008,Not applicable
+YEM,2010,Not applicable
+YEM,2012,YER
+YEM,2014,YER
+ZAF,2008,Not applicable
+ZAF,2010,Not applicable
+ZAF,2012,ZAR
+ZAF,2014,ZAR
+ZMB,2008,Not applicable
+ZMB,2010,Not applicable
+ZMB,2012,ZMK
+ZMB,2014,ZMW
+ZWE,2008,Not applicable
+ZWE,2010,Not applicable
+ZWE,2012,USD
+ZWE,2014,USD

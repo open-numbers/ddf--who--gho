@@ -1,0 +1,777 @@
+country,year,w8_princ_langs_a
+AFG,2007,Not applicable
+AFG,2010,Not applicable
+AFG,2012,Not applicable
+AFG,2014,Not applicable
+AGO,2007,Not applicable
+AGO,2010,Not applicable
+AGO,2012,Not applicable
+AGO,2014,Not applicable
+ALB,2007,Yes
+ALB,2010,Yes
+ALB,2012,Yes
+ALB,2014,Yes
+AND,2007,Not applicable
+AND,2010,Not applicable
+AND,2012,Not applicable
+AND,2014,Not applicable
+ARE,2007,Yes
+ARE,2010,Yes
+ARE,2012,Yes
+ARE,2014,Yes
+ARG,2007,Yes
+ARG,2010,Yes
+ARG,2012,Yes
+ARG,2014,Yes
+ARM,2007,Yes
+ARM,2010,Yes
+ARM,2012,Yes
+ARM,2014,Yes
+ATG,2007,Not applicable
+ATG,2010,Not applicable
+ATG,2012,Not applicable
+ATG,2014,Not applicable
+AUS,2007,Yes
+AUS,2010,Yes
+AUS,2012,Yes
+AUS,2014,Yes
+AUT,2007,Yes
+AUT,2010,Yes
+AUT,2012,Yes
+AUT,2014,Yes
+AZE,2007,Yes
+AZE,2010,Yes
+AZE,2012,Yes
+AZE,2014,Yes
+BDI,2007,Not applicable
+BDI,2010,Not applicable
+BDI,2012,Not applicable
+BDI,2014,Not applicable
+BEL,2007,Yes
+BEL,2010,Yes
+BEL,2012,Yes
+BEL,2014,Yes
+BEN,2007,No
+BEN,2010,No
+BEN,2012,No
+BEN,2014,No
+BFA,2007,No
+BFA,2010,No
+BFA,2012,Yes
+BFA,2014,Yes
+BGD,2007,Yes
+BGD,2010,Yes
+BGD,2012,Yes
+BGD,2014,Yes
+BGR,2007,Yes
+BGR,2010,Yes
+BGR,2012,Yes
+BGR,2014,Yes
+BHR,2007,Not applicable
+BHR,2010,Yes
+BHR,2012,Yes
+BHR,2014,Yes
+BHS,2007,No
+BHS,2010,No
+BHS,2012,No
+BHS,2014,No
+BIH,2007,Not applicable
+BIH,2010,Not applicable
+BIH,2012,Not applicable
+BIH,2014,Not applicable
+BLR,2007,Yes
+BLR,2010,Yes
+BLR,2012,Yes
+BLR,2014,Yes
+BLZ,2007,Yes
+BLZ,2010,Yes
+BLZ,2012,Yes
+BLZ,2014,Yes
+BOL,2007,Yes
+BOL,2010,Yes
+BOL,2012,Yes
+BOL,2014,Yes
+BRA,2007,Yes
+BRA,2010,Yes
+BRA,2012,Yes
+BRA,2014,Yes
+BRB,2007,Not applicable
+BRB,2010,Not applicable
+BRB,2012,Not applicable
+BRB,2014,Not applicable
+BRN,2007,Yes
+BRN,2010,Yes
+BRN,2012,Yes
+BRN,2014,Yes
+BTN,2007,Not applicable
+BTN,2010,No
+BTN,2012,No
+BTN,2014,No
+BWA,2007,Not applicable
+BWA,2010,Not applicable
+BWA,2012,Not applicable
+BWA,2014,Not applicable
+CAF,2007,No
+CAF,2010,No
+CAF,2012,No
+CAF,2014,No
+CAN,2007,Yes
+CAN,2010,Yes
+CAN,2012,Yes
+CAN,2014,Yes
+CHE,2007,Yes
+CHE,2010,Yes
+CHE,2012,Yes
+CHE,2014,Yes
+CHL,2007,Yes
+CHL,2010,Yes
+CHL,2012,Yes
+CHL,2014,Yes
+CHN,2007,Yes
+CHN,2010,Yes
+CHN,2012,Yes
+CHN,2014,Yes
+CIV,2007,Yes
+CIV,2010,Yes
+CIV,2012,Yes
+CIV,2014,Yes
+CMR,2007,Yes
+CMR,2010,Yes
+CMR,2012,Yes
+CMR,2014,Yes
+COD,2007,No
+COD,2010,No
+COD,2012,No
+COD,2014,No
+COG,2007,Not applicable
+COG,2010,Not applicable
+COG,2012,Yes
+COG,2014,Yes
+COK,2007,No
+COK,2010,Yes
+COK,2012,Yes
+COK,2014,Yes
+COL,2007,Yes
+COL,2010,Yes
+COL,2012,Yes
+COL,2014,Yes
+COM,2007,Not applicable
+COM,2010,Not applicable
+COM,2012,Yes
+COM,2014,Yes
+CPV,2007,No
+CPV,2010,No
+CPV,2012,No
+CPV,2014,No
+CRI,2007,Yes
+CRI,2010,Yes
+CRI,2012,Yes
+CRI,2014,Yes
+CUB,2007,Yes
+CUB,2010,Yes
+CUB,2012,Yes
+CUB,2014,Yes
+CYP,2007,Yes
+CYP,2010,Yes
+CYP,2012,Yes
+CYP,2014,Yes
+CZE,2007,Yes
+CZE,2010,Yes
+CZE,2012,Yes
+CZE,2014,Yes
+DEU,2007,Yes
+DEU,2010,Yes
+DEU,2012,Yes
+DEU,2014,Yes
+DJI,2007,Yes
+DJI,2010,Yes
+DJI,2012,Yes
+DJI,2014,Yes
+DMA,2007,Not applicable
+DMA,2010,Not applicable
+DMA,2012,Not applicable
+DMA,2014,Not applicable
+DNK,2007,Yes
+DNK,2010,Yes
+DNK,2012,Yes
+DNK,2014,Yes
+DOM,2007,Yes
+DOM,2010,Yes
+DOM,2012,Yes
+DOM,2014,Yes
+DZA,2007,Yes
+DZA,2010,Yes
+DZA,2012,Yes
+DZA,2014,Yes
+ECU,2007,Yes
+ECU,2010,Yes
+ECU,2012,Yes
+ECU,2014,Yes
+EGY,2007,Yes
+EGY,2010,Yes
+EGY,2012,Yes
+EGY,2014,Yes
+ERI,2007,No
+ERI,2010,No
+ERI,2012,No
+ERI,2014,No
+ESP,2007,Yes
+ESP,2010,Yes
+ESP,2012,Yes
+ESP,2014,Yes
+EST,2007,Yes
+EST,2010,Yes
+EST,2012,Yes
+EST,2014,Yes
+ETH,2007,Not applicable
+ETH,2010,Not applicable
+ETH,2012,Not applicable
+ETH,2014,Yes
+FIN,2007,Yes
+FIN,2010,Yes
+FIN,2012,Yes
+FIN,2014,Yes
+FJI,2007,No
+FJI,2010,No
+FJI,2012,No
+FJI,2014,Yes
+FRA,2007,Yes
+FRA,2010,Yes
+FRA,2012,Yes
+FRA,2014,Yes
+FSM,2007,Not applicable
+FSM,2010,Not applicable
+FSM,2012,Not applicable
+FSM,2014,Not applicable
+GAB,2007,Yes
+GAB,2010,Yes
+GAB,2012,Yes
+GAB,2014,Yes
+GBR,2007,Yes
+GBR,2010,Yes
+GBR,2012,Yes
+GBR,2014,Yes
+GEO,2007,Yes
+GEO,2010,Yes
+GEO,2012,Yes
+GEO,2014,Yes
+GHA,2007,No
+GHA,2010,No
+GHA,2012,Yes
+GHA,2014,Yes
+GIN,2007,Yes
+GIN,2010,Yes
+GIN,2012,Yes
+GIN,2014,Yes
+GMB,2007,Not applicable
+GMB,2010,No
+GMB,2012,No
+GMB,2014,No
+GNB,2007,Not applicable
+GNB,2010,Not applicable
+GNB,2012,Not applicable
+GNB,2014,Not applicable
+GNQ,2007,Not applicable
+GNQ,2010,Not applicable
+GNQ,2012,Not applicable
+GNQ,2014,Not applicable
+GRC,2007,Yes
+GRC,2010,Yes
+GRC,2012,Yes
+GRC,2014,Yes
+GRD,2007,Not applicable
+GRD,2010,Not applicable
+GRD,2012,Not applicable
+GRD,2014,Not applicable
+GTM,2007,Yes
+GTM,2010,Yes
+GTM,2012,Yes
+GTM,2014,Yes
+GUY,2007,Yes
+GUY,2010,Yes
+GUY,2012,Yes
+GUY,2014,Yes
+HND,2007,Yes
+HND,2010,Yes
+HND,2012,Yes
+HND,2014,Yes
+HRV,2007,Yes
+HRV,2010,Yes
+HRV,2012,Yes
+HRV,2014,Yes
+HTI,2007,Not applicable
+HTI,2010,Not applicable
+HTI,2012,Not applicable
+HTI,2014,Not applicable
+HUN,2007,Yes
+HUN,2010,Yes
+HUN,2012,Yes
+HUN,2014,Yes
+IDN,2007,Yes
+IDN,2010,Yes
+IDN,2012,No
+IDN,2014,Yes
+IND,2007,Yes
+IND,2010,Yes
+IND,2012,Yes
+IND,2014,Yes
+IRL,2007,Yes
+IRL,2010,Yes
+IRL,2012,Yes
+IRL,2014,Yes
+IRN,2007,No
+IRN,2010,Yes
+IRN,2012,Yes
+IRN,2014,Yes
+IRQ,2007,Yes
+IRQ,2010,Yes
+IRQ,2012,Yes
+IRQ,2014,Yes
+ISL,2007,Yes
+ISL,2010,Yes
+ISL,2012,Yes
+ISL,2014,Yes
+ISR,2007,Yes
+ISR,2010,Yes
+ISR,2012,Yes
+ISR,2014,Yes
+ITA,2007,Yes
+ITA,2010,Yes
+ITA,2012,Yes
+ITA,2014,Yes
+JAM,2007,Yes
+JAM,2010,Yes
+JAM,2012,Yes
+JAM,2014,Yes
+JOR,2007,Yes
+JOR,2010,Yes
+JOR,2012,Yes
+JOR,2014,Yes
+JPN,2007,Yes
+JPN,2010,Yes
+JPN,2012,Yes
+JPN,2014,Yes
+KAZ,2007,No
+KAZ,2010,Yes
+KAZ,2012,Yes
+KAZ,2014,Yes
+KEN,2007,Yes
+KEN,2010,Yes
+KEN,2012,Yes
+KEN,2014,Yes
+KGZ,2007,Yes
+KGZ,2010,Yes
+KGZ,2012,Yes
+KGZ,2014,Yes
+KHM,2007,Not applicable
+KHM,2010,Yes
+KHM,2012,Yes
+KHM,2014,Yes
+KIR,2007,Not applicable
+KIR,2010,Not applicable
+KIR,2012,Not applicable
+KIR,2014,Yes
+KNA,2007,Not applicable
+KNA,2010,Not applicable
+KNA,2012,Not applicable
+KNA,2014,Not applicable
+KOR,2007,Yes
+KOR,2010,Yes
+KOR,2012,Yes
+KOR,2014,Yes
+KWT,2007,Yes
+KWT,2010,Yes
+KWT,2012,Yes
+KWT,2014,Yes
+LAO,2007,Yes
+LAO,2010,Yes
+LAO,2012,Yes
+LAO,2014,Yes
+LBN,2007,Yes
+LBN,2010,Yes
+LBN,2012,Yes
+LBN,2014,Yes
+LBR,2007,Not applicable
+LBR,2010,Not applicable
+LBR,2012,Not applicable
+LBR,2014,Not applicable
+LBY,2007,Not applicable
+LBY,2010,Yes
+LBY,2012,Yes
+LBY,2014,Yes
+LCA,2007,Not applicable
+LCA,2010,Not applicable
+LCA,2012,Not applicable
+LCA,2014,Not applicable
+LKA,2007,Yes
+LKA,2010,Yes
+LKA,2012,Yes
+LKA,2014,Yes
+LSO,2007,Not applicable
+LSO,2010,Not applicable
+LSO,2012,Not applicable
+LSO,2014,Not applicable
+LTU,2007,Yes
+LTU,2010,Yes
+LTU,2012,Yes
+LTU,2014,Yes
+LUX,2007,Yes
+LUX,2010,Yes
+LUX,2012,Yes
+LUX,2014,Yes
+LVA,2007,Yes
+LVA,2010,Yes
+LVA,2012,Yes
+LVA,2014,Yes
+MAR,2007,No
+MAR,2010,No
+MAR,2012,No
+MAR,2014,No
+MCO,2007,Not applicable
+MCO,2010,Not applicable
+MCO,2012,Not applicable
+MCO,2014,Not applicable
+MDA,2007,Yes
+MDA,2010,Yes
+MDA,2012,Yes
+MDA,2014,Yes
+MDG,2007,Yes
+MDG,2010,Yes
+MDG,2012,Yes
+MDG,2014,Yes
+MDV,2007,Yes
+MDV,2010,Yes
+MDV,2012,Yes
+MDV,2014,Yes
+MEX,2007,Yes
+MEX,2010,Yes
+MEX,2012,Yes
+MEX,2014,Yes
+MHL,2007,No
+MHL,2010,No
+MHL,2012,No
+MHL,2014,No
+MKD,2007,Yes
+MKD,2010,Yes
+MKD,2012,Yes
+MKD,2014,Yes
+MLI,2007,Yes
+MLI,2010,Yes
+MLI,2012,Yes
+MLI,2014,Yes
+MLT,2007,Yes
+MLT,2010,Yes
+MLT,2012,Yes
+MLT,2014,Yes
+MMR,2007,Yes
+MMR,2010,Yes
+MMR,2012,Yes
+MMR,2014,Yes
+MNE,2007,Yes
+MNE,2010,Yes
+MNE,2012,Yes
+MNE,2014,Yes
+MNG,2007,Yes
+MNG,2010,Yes
+MNG,2012,Yes
+MNG,2014,Yes
+MOZ,2007,Yes
+MOZ,2010,Yes
+MOZ,2012,Yes
+MOZ,2014,Yes
+MRT,2007,Not applicable
+MRT,2010,Not applicable
+MRT,2012,Not applicable
+MRT,2014,Not applicable
+MUS,2007,No
+MUS,2010,Yes
+MUS,2012,Yes
+MUS,2014,Yes
+MWI,2007,Not applicable
+MWI,2010,Not applicable
+MWI,2012,Not applicable
+MWI,2014,Not applicable
+MYS,2007,Yes
+MYS,2010,Yes
+MYS,2012,Yes
+MYS,2014,Yes
+NAM,2007,Not applicable
+NAM,2010,No
+NAM,2012,No
+NAM,2014,Yes
+NER,2007,No
+NER,2010,No
+NER,2012,Yes
+NER,2014,Yes
+NGA,2007,Yes
+NGA,2010,Yes
+NGA,2012,Yes
+NGA,2014,Yes
+NIC,2007,Yes
+NIC,2010,Yes
+NIC,2012,Yes
+NIC,2014,Yes
+NIU,2007,Not applicable
+NIU,2010,Not applicable
+NIU,2012,Not applicable
+NIU,2014,Not applicable
+NLD,2007,Yes
+NLD,2010,Yes
+NLD,2012,Yes
+NLD,2014,Yes
+NOR,2007,Yes
+NOR,2010,Yes
+NOR,2012,Yes
+NOR,2014,Yes
+NPL,2007,Not applicable
+NPL,2010,Yes
+NPL,2012,Yes
+NPL,2014,Yes
+NRU,2007,Not applicable
+NRU,2010,Yes
+NRU,2012,Yes
+NRU,2014,Yes
+NZL,2007,Yes
+NZL,2010,Yes
+NZL,2012,Yes
+NZL,2014,Yes
+OMN,2007,Yes
+OMN,2010,Yes
+OMN,2012,Yes
+OMN,2014,Yes
+PAK,2007,Yes
+PAK,2010,Yes
+PAK,2012,Yes
+PAK,2014,Yes
+PAN,2007,Yes
+PAN,2010,Yes
+PAN,2012,Yes
+PAN,2014,Yes
+PER,2007,No
+PER,2010,Yes
+PER,2012,Yes
+PER,2014,Yes
+PHL,2007,Yes
+PHL,2010,Yes
+PHL,2012,Yes
+PHL,2014,Yes
+PLW,2007,Not applicable
+PLW,2010,Not applicable
+PLW,2012,Not applicable
+PLW,2014,Not applicable
+PNG,2007,No
+PNG,2010,No
+PNG,2012,No
+PNG,2014,No
+POL,2007,Yes
+POL,2010,Yes
+POL,2012,Yes
+POL,2014,Yes
+PRK,2007,Not applicable
+PRK,2010,No
+PRK,2012,No
+PRK,2014,No
+PRT,2007,Yes
+PRT,2010,Yes
+PRT,2012,Yes
+PRT,2014,Yes
+PRY,2007,Yes
+PRY,2010,Yes
+PRY,2012,Yes
+PRY,2014,Yes
+QAT,2007,Yes
+QAT,2010,Yes
+QAT,2012,Yes
+QAT,2014,Yes
+ROU,2007,Yes
+ROU,2010,Yes
+ROU,2012,Yes
+ROU,2014,Yes
+RUS,2007,Yes
+RUS,2010,Yes
+RUS,2012,Yes
+RUS,2014,Yes
+RWA,2007,Not applicable
+RWA,2010,Not applicable
+RWA,2012,Not applicable
+RWA,2014,No
+SAU,2007,Yes
+SAU,2010,Yes
+SAU,2012,Yes
+SAU,2014,Yes
+SDN,2007,Yes
+SDN,2010,Yes
+SDN,2012,Yes
+SDN,2014,Yes
+SEN,2007,Yes
+SEN,2010,Yes
+SEN,2012,Yes
+SEN,2014,No
+SGP,2007,Yes
+SGP,2010,Yes
+SGP,2012,Yes
+SGP,2014,Yes
+SLB,2007,Not applicable
+SLB,2010,Yes
+SLB,2012,Yes
+SLB,2014,Yes
+SLE,2007,Not applicable
+SLE,2010,Not applicable
+SLE,2012,Not applicable
+SLE,2014,Not applicable
+SLV,2007,Yes
+SLV,2010,Yes
+SLV,2012,Yes
+SLV,2014,Yes
+SMR,2007,Not applicable
+SMR,2010,Not applicable
+SMR,2012,Not applicable
+SMR,2014,Not applicable
+SOM,2007,Not applicable
+SOM,2010,Not applicable
+SOM,2012,Not applicable
+SOM,2014,Not applicable
+SRB,2007,Yes
+SRB,2010,Yes
+SRB,2012,Yes
+SRB,2014,Yes
+SSD,2007,Not applicable
+SSD,2010,Not applicable
+SSD,2012,Not applicable
+SSD,2014,Not applicable
+STP,2007,Not applicable
+STP,2010,Not applicable
+STP,2012,Not applicable
+STP,2014,No
+SUR,2007,Not applicable
+SUR,2010,Not applicable
+SUR,2012,Not applicable
+SUR,2014,No
+SVK,2007,Yes
+SVK,2010,Yes
+SVK,2012,Yes
+SVK,2014,Yes
+SVN,2007,Yes
+SVN,2010,Yes
+SVN,2012,Yes
+SVN,2014,Yes
+SWE,2007,Yes
+SWE,2010,Yes
+SWE,2012,Yes
+SWE,2014,Yes
+SWZ,2007,Not applicable
+SWZ,2010,Not applicable
+SWZ,2012,Not applicable
+SWZ,2014,No
+SYC,2007,Not applicable
+SYC,2010,Yes
+SYC,2012,Yes
+SYC,2014,Yes
+SYR,2007,Not applicable
+SYR,2010,Yes
+SYR,2012,Yes
+SYR,2014,Yes
+TCD,2007,Yes
+TCD,2010,Yes
+TCD,2012,Yes
+TCD,2014,Yes
+TGO,2007,Not applicable
+TGO,2010,No
+TGO,2012,Yes
+TGO,2014,Yes
+THA,2007,Yes
+THA,2010,Yes
+THA,2012,Yes
+THA,2014,Yes
+TJK,2007,Not applicable
+TJK,2010,No
+TJK,2012,No
+TJK,2014,No
+TKM,2007,Yes
+TKM,2010,Yes
+TKM,2012,Yes
+TKM,2014,Yes
+TLS,2007,Yes
+TLS,2010,Yes
+TLS,2012,Yes
+TLS,2014,Yes
+TON,2007,No
+TON,2010,No
+TON,2012,No
+TON,2014,No
+TTO,2007,Yes
+TTO,2010,Yes
+TTO,2012,Yes
+TTO,2014,Yes
+TUN,2007,Yes
+TUN,2010,Yes
+TUN,2012,Yes
+TUN,2014,Yes
+TUR,2007,Yes
+TUR,2010,Yes
+TUR,2012,Yes
+TUR,2014,Yes
+TUV,2007,Not applicable
+TUV,2010,No
+TUV,2012,No
+TUV,2014,No
+TZA,2007,Yes
+TZA,2010,Yes
+TZA,2012,Yes
+TZA,2014,Yes
+UGA,2007,Yes
+UGA,2010,Yes
+UGA,2012,Yes
+UGA,2014,Yes
+UKR,2007,Yes
+UKR,2010,Yes
+UKR,2012,Yes
+UKR,2014,Yes
+URY,2007,Yes
+URY,2010,Yes
+URY,2012,Yes
+URY,2014,Yes
+USA,2007,Yes
+USA,2010,Yes
+USA,2012,Yes
+USA,2014,Yes
+UZB,2007,No
+UZB,2010,Yes
+UZB,2012,Yes
+UZB,2014,Yes
+VCT,2007,Not applicable
+VCT,2010,Not applicable
+VCT,2012,Not applicable
+VCT,2014,Not applicable
+VEN,2007,Yes
+VEN,2010,Yes
+VEN,2012,Yes
+VEN,2014,Yes
+VNM,2007,Yes
+VNM,2010,Yes
+VNM,2012,Yes
+VNM,2014,Yes
+VUT,2007,Yes
+VUT,2010,Yes
+VUT,2012,Yes
+VUT,2014,Yes
+WSM,2007,Not applicable
+WSM,2010,No
+WSM,2012,No
+WSM,2014,Yes
+YEM,2007,No
+YEM,2010,No
+YEM,2012,Yes
+YEM,2014,Yes
+ZAF,2007,Yes
+ZAF,2010,Yes
+ZAF,2012,Yes
+ZAF,2014,Yes
+ZMB,2007,No
+ZMB,2010,No
+ZMB,2012,No
+ZMB,2014,No
+ZWE,2007,No
+ZWE,2010,No
+ZWE,2012,No
+ZWE,2014,No
