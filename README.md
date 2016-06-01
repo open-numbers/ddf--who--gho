@@ -1,6 +1,11 @@
 # Global Health Observatory (GHO)
 
+source: [data query api from WHO](http://apps.who.int/gho/data/node.resources.api?lang=en)
+
+
 ## files with malformed csv format
+
+When we update the source files, remember to check these files.
 
 * NCD_CCS_CRDPlan.csv
 * NCD_CCS_CancerPlan.csv
@@ -20,6 +25,8 @@
 
 
 ## below indicators are not time series
+
+so they are not included in DDF
 
 * m_survey_title_adult
 * m_svy_national_adult
