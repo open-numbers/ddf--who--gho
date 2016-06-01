@@ -2,6 +2,9 @@
 
 source: [data query api from WHO](http://apps.who.int/gho/data/node.resources.api?lang=en)
 
+the file `etl/all_indicators.csv` contians all available indicators from the API.
+
+the file `etl/all_countries.csv` contains all abailable countries from the API.
 
 ## files with malformed csv format
 
