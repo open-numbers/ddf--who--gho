@@ -71,7 +71,9 @@ def extract_entities():
     cdf = pd.DataFrame.from_dict(c, orient='index')
     cdf.index.name = 'country'
 
-    return cdf.reset_index()
+    cdf = cdf.reset_index()
+    cdf = cdf[['country', 'SHORTNAMEES']].rename(columns={'SHORTNAMEES': 'name'})
+    return cdf
 
 
 def extract_datapoints(conc):
