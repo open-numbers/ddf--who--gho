@@ -11,13 +11,9 @@ mdg_0000000014,measure,Children aged <5 years with fever who received treatment 
 mdg_0000000015,measure,Prevalence of condom use by adults during higher-risk sex (15-49) (%)
 mdg_0000000016,measure,Deaths due to malaria (per 100 000 population)
 mdg_0000000017,measure,Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
-mdg_0000000018,measure,Deaths due to tuberculosis among HIV-positive people (per 100 000 population)
-mdg_0000000019,measure,Prevalence of HIV among adults aged >=15 years (per 100 000 population)
 mdg_0000000020,measure,Incidence of tuberculosis (per 100 000 population per year)
 mdg_0000000021,measure,Population aged 15-24 years with comprehensive correct knowledge of HIV/AIDS (%)
-mdg_0000000022,measure,Tuberculosis detection rate under DOTS (%)
 mdg_0000000023,measure,Prevalence of tuberculosis (per 100 000 population)
-mdg_0000000024,measure,Tuberculosis treatment success under DOTS (%)
 mdg_0000000025,measure,Births attended by skilled health personnel (%)
 mdg_0000000026,measure,Maternal mortality ratio (per 100 000 live births)
 mdg_0000000027,measure,Children aged <5 years stunted (%)
@@ -28,7 +24,6 @@ life_0000000032,measure,ndx - number of people dying between ages x and x+n
 life_0000000033,measure,nLx - person-years lived between ages x and x+n
 life_0000000034,measure,Tx - person-years lived above age x
 life_0000000035,measure,ex - expectation of life at age x
-gbd_0000000036,measure,Number of deaths
 whs3_40,measure,Cholera - number of reported cases
 whs3_41,measure,Diphtheria - number of reported cases
 whs3_42,measure,Japanese encephalitis - number of reported cases
@@ -72,7 +67,6 @@ whs9_94,measure,Civil registration coverage of causes of deaths (%)
 whs9_95,measure,Total fertility rate (per woman)
 whs9_96,measure,Population living in urban areas (%)
 whs9_97,measure,Annual population growth rate (%)
-whs4_99,measure,Antiretroviral therapy coverage among HIV-infected pregnant women for PMTCT (%)
 whs4_100,measure,Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
 whs6_101,measure,Median availability of selected generic medicines (%) - Private
 whs6_102,measure,Hospital beds (per 10 000 population)
@@ -108,12 +102,9 @@ whs7_147,measure,Private expenditure on health as a percentage of total expendit
 whs6_148,measure,Nursing and midwifery personnel density (per 10 000 population)
 whs7_149,measure,General government expenditure on health as a percentage of total expenditure on health
 whs6_150,measure,Community health workers density (per 10 000 population)
-whs2_152,measure,Deaths due to malaria (per 100 000 population)
 whs4_154,measure,Antenatal care coverage - at least four visits (%)
 whs7_156,measure,Per capita total expenditure on health at average exchange rate (US$)
 whs5_158,measure,Population using improved sanitation facilities (%)
-whs2_160,measure,Age-standardized mortality rate by cause (per 100 000 population) - Cancer
-whs2_161,measure,Age-standardized mortality rate by cause (per 100 000 population) - Cardiovascular
 whs2_164,measure,Distribution of causes of death among children aged <5 years (%) - Malaria
 whs2_165,measure,Distribution of causes of death among children aged <5 years (%) - Pneumonia
 whs2_166,measure,Distribution of causes of death among children aged <5 years (%) - Injuries
@@ -242,7 +233,6 @@ whs6_518,measure,Number of environment and public health workers
 whs6_519,measure,Density of pharmaceutical personnel (per 10 000 population)
 whs6_520,measure,Density of environment and public health workers (per 10 000 population)
 mdg_0000000032,measure,Maternal mortality ratio (per 100 000 live births) - Country reported estimates
-whs3_522,measure,Number of reported cases of tuberculosis
 whs2_523,measure,Distribution of causes of death among children aged <5 years (%) - Birth asphyxia
 nutrition_564,measure,Children aged <5 years wasted for age (%)
 nutrition_570,measure,Early initiation of breastfeeding (%)
@@ -350,27 +340,6 @@ sa_0000001502,measure,Adopted written national policy on alcohol
 sa_0000001503,measure,Alcoholic beverage legally defined
 sa_0000001504,measure,Alcohol use is banned
 sa_0000001506,measure,National legislation to prevent illegal alcohol
-lead_1,measure,Percentage of the children under 15 years with blood lead levels above 5ug/dl
-lead_2,measure,Percentage of the children under 15 years with blood lead levels above 10ug/dl
-lead_3,measure,Percentage of the adults (15+ years) with blood lead levels above 5ug/dl
-lead_4,measure,Percentage of the adults (15+ years) with blood lead levels above 10ug/dl
-lead_5,measure,Lead attributable deaths
-lead_6,measure,Lead attributable DALYs ('000)
-lead_7,measure,Lead attributable deaths per 100'000 capita
-lead_8,measure,Lead attributable DALYs per 100'000 capita
-lead_9,measure,Lead attributable DALYs ('000) in children under 5 years
-lead_10,measure,Lead attributable DALYs per 100'000 children under 5 years
-shs_1,measure,Percentage of children under 15 years exposed to second-hand smoke
-shs_2,measure,Percentage of women (15+ years) exposed to second-hand smoke
-shs_3,measure,Percentage of men (15+ years) exposed to second-hand smoke
-shs_4,measure,Second-hand smoke attributable deaths
-shs_5,measure,Second-hand smoke attributable DALYs ('000)
-shs_6,measure,Second-hand smoke attributable deaths per 100'000 capita
-shs_7,measure,Second-hand smoke attributable DALYs per 100'000 capita
-shs_8,measure,Second-hand smoke attributable deaths ('000) in children under 5 years
-shs_9,measure,Second-hand smoke  attributable deaths per 100'000 children under 5 years
-shs_10,measure,Second-hand smoke attributable DALYs ('000) in children under 5 years
-shs_11,measure,Second-hand smoke  attributable DALYs per 100'000 children under 5 years
 wsh_1,measure,"Water, sanitation and hygiene attributable deaths"
 wsh_2,measure,"Water, sanitation and hygiene attributable deaths ('000) in children under 5 years"
 wsh_3,measure,"Water, sanitation and hygiene attributable deaths per 100'000 capita"
@@ -498,30 +467,12 @@ ncd_bmi_30c,measure,BMI >= 30 (crude estimate)
 ncd_bmi_mean,measure,Mean BMI (kg/m2) (age-standardized estimate)
 ncd_paa,measure,Insufficiently active (age-standardized estimate)
 ncd_pac,measure,Insufficiently active (crude estimate)
-cc_1,measure,Climate change attributable deaths
-cc_2,measure,Climate change attributable DALYs ('000)
-cc_3,measure,Climate change attributable deaths per 100'000 capita
-cc_4,measure,Climate change attributable DALYs per 100'000 capita
-cc_5,measure,Climate change attributable deaths ('000) in children under 5 years
-cc_6,measure,Climate change  attributable deaths per 100'000 children under 5 years
-cc_7,measure,Climate change attributable DALYs ('000) in children under 5 years
-cc_8,measure,Climate change  attributable DALYs per 100'000 children under 5 years
-occ_1,measure,Occupational risk factors attributable deaths
-occ_2,measure,Occupational risk factors attributable DALYs ('000)
-occ_3,measure,Occupational risk factors attributable deaths per 100'000 capita
-occ_4,measure,Occupational risk factors attributable DALYs per 100'000 capita
 totenv_1,measure,Deaths attributable to the environment
 totenv_2,measure,Age-standardized deaths attributable to the environment (per 100 000 population)
 totenv_3,measure,Disability-adjusted life years (DALYs) attributable to the environment
 totenv_4,measure,Age-standardized DALYs attributable to the environment (per 100 000 population)
 totenv_5,measure,Deaths attributable to the environment (%)
 totenv_6,measure,Disability-adjusted life years (DALYs) attributable to the environment (%)
-totenv_7,measure,Total environment attributable deaths ('000) in children under 5 years
-totenv_8,measure,Total environment  attributable deaths per 100'000 children under 5 years
-totenv_9,measure,Total environment attributable DALYs ('000) in children under 5 years
-totenv_10,measure,Total environment  attributable DALYs per 100'000 children under 5 years
-totenv_11,measure,Deaths attributable to the environment in children under 5 years (%)
-totenv_12,measure,DALYs attributable to the environment in children under 5 years (%)
 uv_1,measure,UV radiation
 uv_2,measure,UV radiation attributable deaths
 uv_3,measure,UV radiation attributable DALYs ('000)
@@ -551,24 +502,6 @@ ncd_ccs_statins,measure,General availability of statins in the public health sec
 ncd_ccs_oralmorph,measure,General availability of oral morphine in the public health sector
 ncd_ccs_nicotine,measure,General availability of nicotine replacement therapy in the public health sector
 ncd_ccs_steroid,measure,General availability of steroid inhalers in the public health sector
-occ_5,measure,Occupational airborne particulates attributable deaths
-occ_6,measure,Occupational airborne particulates attributable DALYs ('000)
-occ_7,measure,Occupational airborne particulates attributable deaths per 100'000 capita
-occ_8,measure,Occupational airborne particulates attributable DALYs per 100'000 capita
-occ_9,measure,Occupational carcinogens attributable deaths
-occ_10,measure,Occupational carcinogens attributable DALYs ('000)
-occ_11,measure,Occupational carcinogens attributable deaths per 100'000 capita
-occ_12,measure,Occupational carcinogens attributable DALYs per 100'000 capita
-occ_13,measure,Occupational noise attributable DALYs ('000)
-occ_14,measure,Occupational noise attributable DALYs per 100'000 capita
-occ_15,measure,Occupational ergonomic stressors attributable deaths
-occ_16,measure,Occupational ergonomic stressors attributable DALYs ('000)
-occ_17,measure,Occupational ergonomic stressors attributable deaths per 100'000 capita
-occ_18,measure,Occupational ergonomic stressors attributable DALYs per 100'000 capita
-occ_19,measure,Occupational injuries attributable deaths
-occ_20,measure,Occupational injuries attributable DALYs ('000)
-occ_21,measure,Occupational injuries attributable deaths per 100'000 capita
-occ_22,measure,Occupational injuries attributable DALYs per 100'000 capita
 hrh_01,measure,Number of nursing personnel
 hrh_02,measure,Number of physicians
 hrh_03,measure,Number of midwifery personnel
@@ -909,23 +842,9 @@ rs_240,measure,Training in medical emergency - available for doctors
 rs_241,measure,Training in medical emergency - available for nurses
 malaria005,measure,Malaria incidence per 100 000 population
 whs_pbr,measure,Preterm birth rate (per 100 live births)
-mort_500,measure,Number of deaths
-mort_400,measure,Deaths per 100 000 population
 cco_1,measure,Poverty headcount ratio at $1.25 a day (PPP) (% of population)
 cco_2,measure,Human development index rank
 cco_3,measure,Gender inequality index rank
-nutoverweightprev,measure,Overweight prevalence
-nutoverweightnum,measure,Overweight numbers (in millions)
-nutsevwastingprev,measure,Severe wasting prevalence
-nutsevwastingnum,measure,Severe wasting  numbers (in millions)
-nutstuntingprev,measure,Stunting prevalence
-nutstuntingnum,measure,Stunting  numbers (in millions)
-nutunderweightprev,measure,Underweight prevalence
-nutunderweightnum,measure,Underweight  numbers (in millions)
-nutwastingprev,measure,Wasting prevalence
-nutwastingnum,measure,Wasting  numbers (in millions)
-rhr_ipv,measure,Intimate partner violence prevalence among ever partnered women (%)
-rhr_npsv,measure,Non-partner sexual violence prevalence (%)
 m_group,measure,Monitor
 p_group,measure,Protect from tobacco smoke
 o_group,measure,Offer help to quit tobacco use
@@ -1103,11 +1022,9 @@ tb_c_mdr_tsr,measure,Treatment success rate for patients treated for MDR-TB (%)
 tb_c_notified,measure,Total number of notified TB cases
 o_avail_hlth_clin,measure,Treatment for tobacco dependence available in health clinics or other primary care facilities
 o_ins_hlth_clin,measure,Treatment for tobacco dependence in health clinics or other primary care facilities cost covered
-mort_600,measure,Projection of number of deaths
 itu_idi,measure,ICT Development Index (IDI)
 itu_idi_rank,measure,ICT Development Index (IDI) rank
 itu_ict_1,measure,Percentage of individuals using the Internet
-ghe_dalyrate,measure,Disability-adjusted life years (DALYs) (per 100 000 population)
 itu_ict_2,measure,Mobile-cellular telephone subscriptions per 100 inhabitants
 ntd_leishcend,measure,Status of endemicity of cutaneous leishmaniasis
 ntd_leishvend,measure,Status of endemicity of visceral leishmaniasis
@@ -1155,14 +1072,11 @@ obesewm,measure,"Prevalence of obesity in non-pregnant women aged 15-49 years, B
 anc4,measure,Antenatal care coverage - at least four visits (in the two or three years preceding the survey) (%)
 pncall,measure,Postnatal care visit within two days of birth (in the x years preceding the survey) (%)
 pnchome,measure,Postnatal care visit within two days of birth - born outside a health facility (in the x years preceding the survey) (%)
-sa_0000001737,measure,Regional alcohol per capita (15+) consumption (in litres of pure alcohol)
 sa_0000001739,measure,Age-standardized heavy episodic drinking (population) past 30 days with 95%CI
 sa_0000001740,measure,Alcohol-attributable Years of Life Lost (YLL) score
 sa_0000001741,measure,"Alcohol attributable fractions, liver cirrhosis deaths (%)"
 sa_0000001742,measure,"Alcohol attributable fractions, road traffic accident deaths (%)"
 sa_0000001743,measure,"Alcohol attributable fractions, all causes deaths (%)"
-sa_0000001744,measure,Regional prevalence of alcohol dependence (%)
-sa_0000001745,measure,Regional prevalence of alcohol use disorders (%)
 sa_0000001746,measure,"Total alcohol per capita (15+) consumption, projections to 2025"
 sa_0000001747,measure,"Recorded alcohol per capita (15+) consumption (in litres of pure alcohol), 3-year average with 95%CI"
 sa_0000001748,measure,Unrecorded alcohol per capita (15+) consumption (in litres of pure alcohol) with 95%CI
@@ -1229,10 +1143,6 @@ violence_extentimp_eldercaregiver,measure,Elder abuse: Extent of implementation 
 violence_extentimp_alltypes,measure,Extent of implementation of  mental health services for victims of all types of violence
 violence_extentimp_childprotection,measure,Extent of implementation of child protection services
 violence_extentimp_victimsmedicolegal,measure,Extent of implementation of medico-legal services for victims of sexual violence
-violence_child_physical,measure,Lifetime prevalence of child physical abuse (%)
-violence_child_emotional,measure,Lifetime prevalence of child emotional abuse (%)
-violence_child_sexual,measure,Lifetime prevalence of child sexual abuse (%)
-violence_child_neglect,measure,Lifetime prevalence of child physical neglect (%)
 violence_homicidenum,measure,Estimates of number of homicides
 violence_homiciderate,measure,Estimates of rates of homicides per 100 000 population
 hiv_artcoverage,measure,Estimated antiretroviral therapy coverage among people living with HIV (%)
