@@ -116,6 +116,11 @@ if __name__ == '__main__':
     for k, df in dps.items():
         path = os.path.join(out_dir,
                             'ddf--datapoints--{}--by--country--year.csv'.format(k))
+        try:
+            df['year'] = df['year'].map(int)
+        except:
+            print(k, ': can not convert the year column to int')
+
         df.to_csv(path, index=False)
 
     create_index_file(out_dir)

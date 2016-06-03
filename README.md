@@ -27,6 +27,13 @@ When we update the source files, remember to check these files.
 * PerctreatedANC.csv
 
 
+## below indicators use a range of year in the year column
+
+example: the datapoint for mdg_0000000013. the year column shows a range of years.
+
+they are imported as it is for now, we may need to change this later.
+
+
 ## below indicators are not time series
 
 so they are not included in DDF
