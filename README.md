@@ -34,6 +34,11 @@ example: the datapoint for mdg_0000000013. the year column shows a range of year
 they are imported as it is for now, we may need to change this later.
 
 
+## some of indicators are not measure type
+
+for now all indicator concepts are measure, which is wrong. should fix that.
+
+
 ## below indicators are not time series
 
 so they are not included in DDF
