@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-O_NRT_where,PUBLISHED,2014,EUR,NOR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,SWE,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,GBR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,SEAR,IND,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,AUS,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,NZL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,BWA,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,BFA,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,CPV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,GIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,USA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,FIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ISL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,IRL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,SEN,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,SWZ,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,ZMB,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,ZWE,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,MUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,SYC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,ZAF,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,UGA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,ATG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,ARG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,BHS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,BRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,BLZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,BOL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,BRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,CAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,CHL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,COL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,CRI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,DMA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,DOM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,GTM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,NAM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,NER,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,NGA,in a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,BEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,CMR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,COG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,CIV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,COD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,GAB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,KEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,MDG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,MLI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,HTI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,EGY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,IRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,IRQ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,JOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,KWT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,LBN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,LBY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,OMN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,SAU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,ARE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,YEM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,AND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ARM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,AUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,AZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,BLR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,BEL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,HND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,MEX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,PAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,KNA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,VCT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,SUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,TTO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,URY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,VEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,AFG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,BHR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,DJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,BIH,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,KAZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,LVA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,LTU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,LUX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,MLT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,MCO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,NLD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,POL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,PRT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,MDA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ROU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,RUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,SRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,SVK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,SVN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ESP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,BGR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,HRV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,CYP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,CZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,DNK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,EST,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,FRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,DEU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,GRC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,HUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ISR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,ITA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,SLV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,JAM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,NIC,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AMR,PER,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,MAR,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,QAT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EMR,TUN,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,CHE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,MKD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,TUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,TKM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,UKR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,SEAR,IDN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,SEAR,THA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,BRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,KHM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,CHN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,FJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,JPN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,MYS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,MHL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,MNG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,NIU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,KOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,WSM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,SGP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,VUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2014,EUR,UZB,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,PLW,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,WPR,PHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2014,AFR,DZA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,GIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,USA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,FIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ISL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,NOR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,SWE,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,GBR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,SEAR,IND,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,AUS,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,NZL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,PLW,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,BWA,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,CPV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,SWZ,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,TGO,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,ZMB,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,ZWE,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,JAM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,NIC,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,PER,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,MAR,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,QAT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,TUN,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,SMR,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,PHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,DZA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,BEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,CMR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,COG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,CIV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,COD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,GAB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,KEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,MDG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,MLI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,MUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,NAM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,NER,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,NGA,in a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,SEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,SYC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,ZAF,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AFR,UGA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,ATG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,ARG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,BHS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,BRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,BLZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,BOL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,BRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,CAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,CHL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,COL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,CRI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,DMA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,DOM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,SLV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,GTM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,HTI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,HND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,MEX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,PAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,KNA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,VCT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,SUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,TTO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,URY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,AMR,VEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,AFG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,BHR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,DJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,EGY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,IRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,IRQ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,JOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,KWT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,LBN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,LBY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,OMN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,PAK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,SAU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,ARE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EMR,YEM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,AND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ARM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,AUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,AZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,BLR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,BEL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,BIH,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,BGR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,HRV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,CYP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,CZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,DNK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,EST,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,FRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,GEO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,DEU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,GRC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,HUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,IRL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ISR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ITA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,KAZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,LVA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,LTU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,LUX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,MLT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,MCO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,NLD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,POL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,PRT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,MDA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ROU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,RUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,SRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,SVK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,SVN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,ESP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,CHE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,MKD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,TUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,UKR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,EUR,UZB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,SEAR,IDN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,SEAR,THA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,BRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,KHM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,CHN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,FJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,JPN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,MYS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,MHL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,MNG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,NIU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,KOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,WSM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,SGP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,SLB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,TON,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2012,WPR,VUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,GIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,NGA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,USA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,FIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ISL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,NOR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,SWE,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,GBR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,SEAR,IND,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,AUS,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,NZL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,PLW,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,BWA,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,CPV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,SWZ,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,TGO,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,ZMB,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,ZWE,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,CHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,DOM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,GTM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,HTI,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,JAM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,NIC,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,PER,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,VCT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,MAR,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,QAT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,GRC,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,MHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,PHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,VUT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,DZA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,BEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,BFA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,CMR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,COG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,CIV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,COD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,GAB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,KEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,MDG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,MLI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,MUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,NAM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,NER,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,SEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,SYC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,ZAF,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AFR,UGA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,ATG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,ARG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,BHS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,BRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,BLZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,BOL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,BRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,CAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,COL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,CRI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,DMA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,SLV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,GUY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,HND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,MEX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,PAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,KNA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,SUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,TTO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,URY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,AMR,VEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,AFG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,BHR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,DJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,EGY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,IRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,IRQ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,JOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,KWT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,LBN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,LBY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,OMN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,PAK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,SAU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,TUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,ARE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,AND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ARM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,AUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,AZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,BLR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,BEL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,BIH,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,BGR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,HRV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,CYP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,CZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,DNK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,EST,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,FRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,GEO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,DEU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,HUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,IRL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,SEAR,THA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,BRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,KHM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,UZB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,UKR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,TUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,MKD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,CHE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ESP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,SVN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,SVK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,SRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,RUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ROU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,MDA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,PRT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,POL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,NLD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,MCO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,MLT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,LUX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,LTU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,LVA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,KGZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,KAZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ITA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EUR,ISR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,CHN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,JPN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,MYS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,MNG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,NIU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,KOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,WSM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,SGP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,SLB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,WPR,TON,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,GIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,MLI,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,NGA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,USA,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,FIN,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,NOR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,GBR,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,SEAR,IND,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,NZL,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,PLW,In a general store without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,BWA,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,CPV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,SWZ,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,TGO,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,ZMB,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,ZWE,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,CHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,DOM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,SLV,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,GTM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,HTI,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,JAM,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,NIC,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,PER,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,VCT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,IRQ,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,MAR,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,QAT,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,MHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,PHL,In a pharmacy with a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,DZA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,BEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,BFA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,CMR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,COG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,CIV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,COD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,GAB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,KEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,LSO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,MDG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,MUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,NAM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,NER,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,SEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,ZAF,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AFR,UGA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,ATG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,ARG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,BHS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,BRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,BLZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,BOL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,BRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,CAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,COL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,CRI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,DMA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,GUY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,HND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,MEX,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,PAN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,KNA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,SUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,TTO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,URY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,DNK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,EST,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,CZE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,CYP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,HRV,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,BGR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,BIH,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,BEL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,BLR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,AUT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ARM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,AND,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,ARE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,TUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,SAU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,PAK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,OMN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,LBN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,KWT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,JOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,IRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,EGY,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,DJI,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,BHR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EMR,AFG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,AMR,VEN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,FRA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,CHE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,MKD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,TUR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,UKR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,UZB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,GEO,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,DEU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,GRC,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,HUN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ISL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,IRL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ISR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ITA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,KAZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,KGZ,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,LVA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,LTU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,MLT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,NLD,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,POL,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,PRT,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,MDA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ROU,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,RUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,SRB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,SVK,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,SVN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,ESP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,EUR,SWE,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,SEAR,THA,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,AUS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,BRN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,CHN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,JPN,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,MYS,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,MNG,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,KOR,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,WSM,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,SGP,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2007,WPR,SLB,In a pharmacy without a prescription,,,,
-O_NRT_where,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AMR,CUB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EMR,PAK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,GHA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,TGO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,TZA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,COK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EMR,SYR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,COK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,CUB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AMR,PRY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,EMR,SYR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EMR,SYR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AMR,PRY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,KIR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,GHA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AMR,ECU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,SLB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,GHA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,PRY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,TZA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AMR,ECU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,BFA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,NRU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,NRU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,VUT,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AMR,CUB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EUR,GEO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,COK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,NRU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AMR,CUB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AMR,ECU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,ECU,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2014,AFR,TZA,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,ALB,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,AFR,TZA,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,COK,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EUR,SMR,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,MNE,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,EUR,ALB,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2014,AMR,GUY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,LUX,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,MCO,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,AMR,GUY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AMR,PRY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,TJK,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,WPR,KIR,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2007,EUR,TKM,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
-O_NRT_where,PUBLISHED,2014,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_NRT_where,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"O_NRT_where","PUBLISHED","2014","AFR","GIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","USA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","FIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ISL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","IRL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","NOR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","SWE","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","GBR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","SEAR","IND","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","AUS","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","NZL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","BWA","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","BFA","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","CPV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","SEN","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","SWZ","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","ZMB","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","ZWE","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","SLV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","JAM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","NIC","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","PER","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","MAR","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","QAT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","TUN","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","UZB","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","PLW","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","PHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","DZA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","BEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","CMR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","COG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","CIV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","COD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","GAB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","KEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","MDG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","MLI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","MUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","NAM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","NER","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","NGA","in a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","SYC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","ZAF","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AFR","UGA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","ATG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","ARG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","BHS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","BRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","BLZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","BOL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","BRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","CAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","CHL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","COL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","CRI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","DMA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","DOM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","GTM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","HTI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","HND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","MEX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","PAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","KNA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","VCT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","SUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","TTO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","URY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","AMR","VEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","AFG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","BHR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","DJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","EGY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","IRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","IRQ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","JOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","KWT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","LBN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","LBY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","OMN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","SAU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","ARE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EMR","YEM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","AND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ARM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","AUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","AZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","BLR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","BEL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","BIH","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","BGR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","HRV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","CYP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","CZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","DNK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","EST","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","FRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","DEU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","GRC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","HUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ISR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ITA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","KAZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","LVA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","LTU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","LUX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","MLT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","MCO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","NLD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","POL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","PRT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","MDA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ROU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","RUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","SRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","SVK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","SVN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","ESP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","CHE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","MKD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","TUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","TKM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","EUR","UKR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","SEAR","IDN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","SEAR","THA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","BRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","KHM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","CHN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","FJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","JPN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","MYS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","MHL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","MNG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","NIU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","KOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","WSM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","SGP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2014","WPR","VUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","GIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","USA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","FIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ISL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","NOR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","SWE","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","GBR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","SEAR","IND","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","AUS","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","NZL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","PLW","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","BWA","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","CPV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","SWZ","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","TGO","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","ZMB","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","ZWE","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","JAM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","NIC","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","PER","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","MAR","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","QAT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","TUN","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","SMR","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","PHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","DZA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","BEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","CMR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","COG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","CIV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","COD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","GAB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","KEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","MDG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","MLI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","MUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","NAM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","NER","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","NGA","in a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","SEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","SYC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","ZAF","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AFR","UGA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","ATG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","ARG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","BHS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","BRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","BLZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","BOL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","BRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","CAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","CHL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","COL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","CRI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","DMA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","DOM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","SLV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","GTM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","HTI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","HND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","MEX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","PAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","KNA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","VCT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","SUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","TTO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","URY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","AMR","VEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","AFG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","BHR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","DJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","EGY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","IRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","IRQ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","JOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","KWT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","LBN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","LBY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","OMN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","PAK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","SAU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","ARE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EMR","YEM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","AND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ARM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","AUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","AZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","BLR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","BEL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","BIH","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","BGR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","HRV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","CYP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","CZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","DNK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","EST","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","FRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","GEO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","DEU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","GRC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","HUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","IRL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ISR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ITA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","KAZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","LVA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","LTU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","LUX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","MLT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","MCO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","NLD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","POL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","PRT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","MDA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ROU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","RUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","SRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","SVK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","SVN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","ESP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","CHE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","MKD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","TUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","UKR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","EUR","UZB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","SEAR","IDN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","SEAR","THA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","BRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","KHM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","CHN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","FJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","JPN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","MYS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","MHL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","MNG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","NIU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","KOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","WSM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","SGP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","SLB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","TON","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2012","WPR","VUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","GIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","NGA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","USA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","FIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ISL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","NOR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","SWE","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","GBR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","SEAR","IND","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","AUS","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","NZL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","PLW","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","BWA","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","CPV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","SWZ","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","TGO","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","ZMB","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","ZWE","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","CHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","DOM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","GTM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","HTI","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","JAM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","NIC","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","PER","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","VCT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","MAR","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","QAT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","GRC","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","MHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","PHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","VUT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","DZA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","BEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","BFA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","CMR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","COG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","CIV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","COD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","GAB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","KEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","MDG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","MLI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","MUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","NAM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","NER","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","SEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","SYC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","ZAF","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AFR","UGA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","ATG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","ARG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","BHS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","BRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","BLZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","BOL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","BRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","CAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","COL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","CRI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","DMA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","SLV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","GUY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","HND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","MEX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","PAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","KNA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","SUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","TTO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","URY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","AMR","VEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","AFG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","BHR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","DJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","EGY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","IRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","IRQ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","JOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","KWT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","LBN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","LBY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","OMN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","PAK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","SAU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","TUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","ARE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","AND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ARM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","AUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","AZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","BLR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","BEL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","BIH","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","BGR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","HRV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","CYP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","CZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","DNK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","EST","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","FRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","GEO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","DEU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","HUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","IRL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ISR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ITA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","KAZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","KGZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","LVA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","LTU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","LUX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","MLT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","MCO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","NLD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","POL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","PRT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","MDA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ROU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","RUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","SRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","SVK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","SVN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","ESP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","CHE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","MKD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","TUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","UKR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EUR","UZB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","SEAR","THA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","BRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","KHM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","CHN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","JPN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","MYS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","MNG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","NIU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","KOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","WSM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","SGP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","SLB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","WPR","TON","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","GIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","MLI","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","NGA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","USA","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","FIN","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","NOR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","GBR","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","SEAR","IND","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","NZL","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","PLW","In a general store without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","BWA","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","CPV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","SWZ","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","TGO","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","ZMB","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","ZWE","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","CHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","DOM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","SLV","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","GTM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","HTI","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","JAM","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","NIC","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","PER","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","VCT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","IRQ","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","MAR","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","QAT","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","MHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","PHL","In a pharmacy with a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","DZA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","BEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","BFA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","CMR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","COG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","CIV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","COD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","GAB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","KEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","LSO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","MDG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","MUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","NAM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","NER","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","SEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","ZAF","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AFR","UGA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","ATG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","ARG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","BHS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","BRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","BLZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","BOL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","BRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","CAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","COL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","CRI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","DMA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","GUY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","HND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","MEX","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","PAN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","KNA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","SUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","TTO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","URY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","AMR","VEN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","AFG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","BHR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","DJI","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","EGY","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","IRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","JOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","KWT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","LBN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","OMN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","PAK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","SAU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","TUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EMR","ARE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","AND","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ARM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","AUT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","BLR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","BEL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","BIH","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","BGR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","HRV","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","CYP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","CZE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","DNK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","EST","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","FRA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","GEO","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","DEU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","GRC","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","HUN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ISL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","IRL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ISR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ITA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","KAZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","KGZ","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","LVA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","LTU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","MLT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","NLD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","POL","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","PRT","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","MDA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ROU","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","RUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","SRB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","SVK","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","SVN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","ESP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","SWE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","CHE","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","MKD","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","TUR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","UKR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","EUR","UZB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","SEAR","THA","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","AUS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","BRN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","CHN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","JPN","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","MYS","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","MNG","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","KOR","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","WSM","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","SGP","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2007","WPR","SLB","In a pharmacy without a prescription","","","",""
+"O_NRT_where","PUBLISHED","2010","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","BFA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2012","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2007","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2014","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"O_NRT_where","PUBLISHED","2010","EUR","TKM","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2014","AFR","TZA","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2014","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","ALB","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","SMR","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","AFR","ETH","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","EUR","SMR","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","MNE","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","EUR","ALB","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","WPR","KIR","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","TKM","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","WPR","KIR","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2010","EUR","MNE","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","LUX","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2007","EUR","MCO","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2012","WPR","KIR","Not available","","","","Data not reported/not available"
+"O_NRT_where","PUBLISHED","2012","EUR","TKM","Not available","","","","Data not reported/not available"

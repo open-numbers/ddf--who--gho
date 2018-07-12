@@ -1,58 +1,58 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-RSUD_52,PUBLISHED,2008,EUR,ALB,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AFR,AGO,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,AUS,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,AUT,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,AZE,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EMR,BHR,Detoxification,,,,
-RSUD_52,PUBLISHED,2008,EUR,BLR,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,BEL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,BGR,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AMR,CAN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,CHN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AMR,COL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,HRV,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,CYP,Detoxification,,,,
-RSUD_52,PUBLISHED,2008,EUR,DNK,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,EST,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,FIN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,FRA,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AFR,GMB,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,GEO,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,DEU,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,GRC,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,HUN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,ISL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,SEAR,IDN,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EMR,IRN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,IRL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,ISR,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,ITA,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,KGZ,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,LVA,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,LTU,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,LUX,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,MYS,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,MLT,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AFR,MUS,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,AMR,MEX,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,SEAR,MMR,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,SEAR,NPL,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,NLD,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,NZL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,NOR,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EMR,OMN,Detoxification,,,,
-RSUD_52,PUBLISHED,2008,EUR,POL,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,MDA,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,SRB,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,SGP,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,SVK,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,SVN,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,AFR,ZAF,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,ESP,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,SWE,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,CHE,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,SEAR,THA,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,UKR,Maintenance,,,,
-RSUD_52,PUBLISHED,2008,EUR,MNE,Detoxification and maintenance,,,,
-RSUD_52,PUBLISHED,2008,WPR,VNM,Maintenance,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"RSUD_52","PUBLISHED","2008","EUR","ALB","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AFR","AGO","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","AUS","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","AUT","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","AZE","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EMR","BHR","Detoxification","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","BLR","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","BEL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","BGR","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AMR","CAN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","CHN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AMR","COL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","HRV","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","CYP","Detoxification","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","DNK","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","EST","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","FIN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","FRA","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AFR","GMB","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","GEO","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","DEU","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","GRC","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","HUN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","ISL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","SEAR","IDN","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EMR","IRN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","IRL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","ISR","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","ITA","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","KGZ","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","LVA","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","LTU","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","LUX","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","MYS","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","MLT","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AFR","MUS","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AMR","MEX","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","SEAR","MMR","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","SEAR","NPL","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","NLD","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","NZL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","NOR","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EMR","OMN","Detoxification","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","POL","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","MDA","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","SRB","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","SGP","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","SVK","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","SVN","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","AFR","ZAF","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","ESP","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","SWE","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","CHE","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","SEAR","THA","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","UKR","Maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","EUR","MNE","Detoxification and maintenance","","","",""
+"RSUD_52","PUBLISHED","2008","WPR","VNM","Maintenance","","","",""

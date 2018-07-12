@@ -1,183 +1,175 @@
-GHO,PUBLISHSTATE,YEAR,REGION,UNREGION,Display Value,Numeric,Low,High,Comments
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Africa,4.9 [4.1-5.8],4.91389,4.05446,5.77332,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Africa,5.0 [4.2-5.9],5.0347300000000015,4.2117900000000015,5.85767,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Africa,5.1 [4.3-5.9],5.14095,4.33234,5.94957,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Africa,5.3 [4.4-6.1],5.26403,4.3971300000000015,6.13094,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Africa,5.5 [4.4-6.5],5.46378,4.44835,6.47921,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Africa,5.7 [4.5-6.9],5.65324,4.45386,6.85263,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Africa,5.7 [4.4-6.9],5.69241,4.44911,6.93572,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Asia,4.0 [3.1-5.0],4.00893,3.06365,4.9542199999999985,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Asia,4.0 [3.2-4.8],3.98877,3.18095,4.7965800000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Asia,4.1 [3.5-4.6],4.0557,3.4626300000000003,4.64878,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Asia,4.4 [4.0-4.8],4.39564,3.98284,4.80844,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Asia,4.9 [4.1-5.7],4.90194,4.12164,5.68224,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Asia,5.4 [4.1-6.8],5.41479,4.06601,6.76357,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Asia,5.6 [4.0-7.1],5.5513,4.03589,7.0667100000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Caribbean,4.3 [3.6-5.1],4.2606,3.5581,5.09448,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Caribbean,4.7 [3.8-5.8],4.68345,3.77267,5.80085,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Caribbean,5.1 [3.9-6.8],5.146,3.8899,6.7791,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Caribbean,5.7 [4.0-8.0],5.65153,3.95839,8.00849,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Caribbean,6.2 [4.0-9.5],6.2034699999999985,4.00289,9.49419,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Caribbean,6.7 [4.0-10.9],6.680860000000001,4.02893,10.88046,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Caribbean,6.8 [4.0-11.3],6.80543,4.03454,11.25615,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Central_America,5.1 [3.7-6.9],5.11637,3.74956,6.9454600000000015,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Central_America,5.4 [4.2-7.1],5.44333,4.1567,7.0987100000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Central_America,5.8 [4.6-7.3],5.78991,4.60417,7.25778,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Central_America,6.2 [5.1-7.4],6.15712,5.09411,7.4246,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Central_America,6.5 [5.6-7.6],6.546,5.62701,7.60298,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Central_America,6.9 [6.1-7.8],6.87343,6.0819,7.75945,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Central_America,7.0 [6.2-7.8],6.95762,6.1988900000000005,7.8015,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Central_Asia,7.9 [2.4-22.6],7.8547,2.43318,22.56264,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Central_Asia,8.5 [3.7-18.3],8.49725,3.70086,18.32682,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Central_Asia,9.2 [5.4-15.2],9.18713,5.4092,15.18021,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Central_Asia,9.9 [6.9-14.0],9.92694,6.94671,13.99345,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Central_Asia,10.7 [6.7-16.6],10.71929,6.74199,16.624660000000002,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Central_Asia,11.4 [5.8-21.2],11.39274,5.79738,21.1746,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Central_Asia,11.6 [5.5-22.6],11.56677,5.54366,22.57023,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Developing,4.4 [3.7-5.1],4.44217,3.74513,5.13922,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Developing,4.5 [3.9-5.1],4.48884,3.90003,5.07765,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Developing,4.6 [4.2-5.1],4.6143,4.16987,5.0587300000000015,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Developing,4.9 [4.5-5.3],4.89273,4.53376,5.2517,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Developing,5.3 [4.7-5.8],5.27479,4.70739,5.84218,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Developing,5.7 [4.8-6.6],5.655480000000002,4.76008,6.55088,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Developing,5.8 [4.8-6.7],5.75292,4.76253,6.74332,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Eastern_Africa,4.7 [3.5-6.3],4.6714699999999985,3.45236,6.2930199999999985,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Eastern_Africa,4.7 [3.6-6.1],4.69406,3.60973,6.08355,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Eastern_Africa,4.7 [3.7-5.9],4.71675,3.74048,5.9321199999999985,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Eastern_Africa,4.7 [3.8-5.9],4.73954,3.82663,5.85698,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Eastern_Africa,4.8 [3.9-5.9],4.76244,3.85256,5.87407,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Eastern_Africa,4.8 [3.8-6.0],4.78083,3.82758,5.95678,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Eastern_Africa,4.8 [3.8-6.0],4.78544,3.81558,5.98648,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Eastern_Asia,6.8 [6.2-7.5],6.8128199999999985,6.19601,7.48613,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Eastern_Asia,6.5 [5.8-7.3],6.49176,5.8022,7.25697,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Eastern_Asia,6.2 [5.4-7.0],6.184830000000002,5.43195,7.0343,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Eastern_Asia,5.9 [5.1-6.8],5.8915,5.08406,6.81796,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Eastern_Asia,5.6 [4.8-6.6],5.61125,4.75732,6.6078100000000015,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Eastern_Asia,5.4 [4.5-6.4],5.39612,4.5104,6.44404,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Eastern_Asia,5.3 [4.5-6.4],5.34357,4.4506,6.40369,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Latin_America_Caribbean,6.6 [5.4-7.8],6.60117,5.38212,7.82021,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Latin_America_Caribbean,6.7 [5.6-7.8],6.6910300000000005,5.59826,7.78379,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Latin_America_Caribbean,6.8 [5.8-7.8],6.8158699999999985,5.8331800000000005,7.79856,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Latin_America_Caribbean,7.0 [6.1-7.8],6.95489,6.07262,7.83715,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Latin_America_Caribbean,7.1 [6.3-7.9],7.08655,6.3017,7.8714,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Latin_America_Caribbean,7.2 [6.5-7.9],7.20867,6.4839,7.93343,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Latin_America_Caribbean,7.2 [6.5-8.0],7.24087,6.52819,7.95355,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Middle_Africa,4.2 [2.2-8.0],4.1978300000000015,2.17469,7.950189999999999,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Middle_Africa,4.3 [2.6-7.2],4.3428900000000015,2.57743,7.22791,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Middle_Africa,4.5 [3.0-6.7],4.4927199999999985,2.99323,6.69158,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Middle_Africa,4.6 [3.3-6.4],4.647469999999998,3.33673,6.43882,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Middle_Africa,4.8 [3.5-6.6],4.80729,3.47157,6.62167,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Middle_Africa,4.9 [3.4-7.1],4.93888,3.39928,7.12436,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Middle_Africa,5.0 [3.4-7.3],4.97231,3.36248,7.294689999999999,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Northern_Africa,7.8 [5.4-11.2],7.831939999999999,5.42746,11.17577,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Northern_Africa,8.4 [5.6-12.4],8.39137,5.60301,12.38532,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Northern_Africa,9.0 [5.7-13.9],8.986880000000003,5.71364,13.85964,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Northern_Africa,9.6 [5.8-15.6],9.6202,5.77634,15.5985,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Northern_Africa,10.3 [5.8-17.6],10.29311,5.804869999999998,17.603089999999995,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Northern_Africa,10.9 [5.8-19.4],10.86111,5.80989,19.39947,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Northern_Africa,11.0 [5.8-19.9],11.00735,5.8091800000000005,19.87544,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Oceania,3.4 [2.9-4.1],3.44789,2.86409,4.1456,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Oceania,4.2 [3.5-5.1],4.2142300000000015,3.48239,5.09176,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Oceania,5.1 [4.2-6.3],5.1418300000000015,4.21516,6.25891,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Oceania,6.3 [5.1-7.7],6.26026,5.08039,7.69195,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Oceania,7.6 [6.1-9.4],7.60248,6.0983800000000015,9.44025,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Oceania,8.9 [7.0-11.1],8.86132,7.0377800000000015,11.10092,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Oceania,9.2 [7.3-11.6],9.20421,7.2915800000000015,11.55599,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_South_America,7.5 [5.9-9.5],7.517819999999999,5.916919999999998,9.5081,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_South_America,7.5 [6.0-9.3],7.499439999999999,6.04333,9.27176,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_South_America,7.5 [6.2-9.1],7.481089999999999,6.16565,9.05011,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_South_America,7.5 [6.3-8.8],7.46278,6.28091,8.846060000000003,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_South_America,7.4 [6.4-8.7],7.44452,6.38478,8.66387,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_South_America,7.4 [6.5-8.5],7.429939999999998,6.45563,8.53787,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_South_America,7.4 [6.5-8.5],7.42629,6.4711300000000005,8.50962,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_South_Central_Asia,2.3 [0.3-4.3],2.31698,0.3429,4.29105,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_South_Central_Asia,2.6 [1.1-4.2],2.63333,1.06691,4.19975,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_South_Central_Asia,3.0 [2.0-4.0],2.98625,1.9855,3.987,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_South_Central_Asia,3.4 [3.1-3.8],3.42311,3.05898,3.78724,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_South_Central_Asia,4.0 [3.0-5.0],3.96284,2.9755,4.9501800000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_South_Central_Asia,4.5 [2.4-6.5],4.46124,2.43722,6.48526,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_South_Central_Asia,4.6 [2.3-6.9],4.58919,2.26748,6.91091,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_South_Eastern_Asia,1.7 [1.4-2.1],1.71904,1.41449,2.08778,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_South_Eastern_Asia,2.3 [2.0-2.7],2.3462,2.02948,2.71099,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_South_Eastern_Asia,3.2 [2.6-4.0],3.19473,2.57831,3.95255,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_South_Eastern_Asia,4.3 [3.1-6.0],4.33652,3.10874,6.0190800000000015,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_South_Eastern_Asia,5.9 [3.7-9.2],5.86166,3.69607,9.17523,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_South_Eastern_Asia,7.4 [4.2-12.7],7.43037,4.22736,12.73749,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_South_Eastern_Asia,7.9 [4.4-13.8],7.87902,4.3700800000000015,13.79889,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Southern_Africa,7.9 [6.2-10.1],7.9145,6.18875,10.06982,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Southern_Africa,9.0 [7.5-10.7],8.97443,7.50178,10.70273,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Southern_Africa,10.2 [7.2-14.1],10.16066,7.238760000000001,14.08291,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Southern_Africa,11.5 [6.6-19.2],11.48389,6.6025100000000005,19.23109,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Southern_Africa,13.0 [6.0-25.9],12.9546,5.95256,25.92291,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Southern_Africa,14.6 [5.3-34.1],14.582629999999998,5.34327,34.051120000000004,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Southern_Asia,2.1 [0.8-5.5],2.08301,0.77791,5.45728,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Southern_Asia,2.4 [1.2-4.7],2.41018,1.22754,4.6782,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Southern_Asia,2.8 [1.9-4.0],2.78726,1.92415,4.02166,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Southern_Asia,3.2 [2.9-3.6],3.2214,2.87841,3.60373,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Southern_Asia,3.7 [2.8-4.9],3.72056,2.82902,4.87895,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Southern_Asia,4.3 [2.4-7.5],4.29364,2.43469,7.463389999999999,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Western_Africa,3.0 [2.1-4.3],2.98037,2.05914,4.29568,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Western_Africa,3.1 [2.3-4.1],3.09045,2.30776,4.12737,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Western_Africa,3.2 [2.5-4.0],3.20446,2.54808,4.02294,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Western_Africa,3.3 [2.7-4.0],3.3225300000000004,2.73219,4.0351300000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Western_Africa,3.4 [2.8-4.2],3.4448,2.80432,4.22519,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Western_Africa,3.5 [2.8-4.5],3.54572,2.783,4.50779,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Western_Africa,3.6 [2.8-4.6],3.5714,2.76999,4.5937199999999985,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_Western_Asia,6.0 [3.1-11.3],5.97531,3.06853,11.31425,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_Western_Asia,6.3 [4.1-9.7],6.31727,4.0633300000000006,9.69514,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_Western_Asia,6.7 [4.8-9.2],6.677410000000001,4.80277,9.21296,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_Western_Asia,7.1 [4.6-10.6],7.05653,4.61456,10.64652,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_Western_Asia,7.5 [3.9-13.7],7.45546,3.92993,13.69295,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Western_Asia,7.8 [3.4-17.0],7.78942,3.35581,17.04738,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_Western_Asia,7.9 [3.2-18.0],7.8750300000000015,3.21955,18.00965,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,,UN_World,4.8 [4.1-5.6],4.8466,4.1323,5.5609,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,,UN_World,4.9 [4.3-5.5],4.91199,4.27579,5.54819,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,,UN_World,5.1 [4.5-5.6],5.0526300000000015,4.51306,5.59221,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,,UN_World,5.3 [4.8-5.8],5.3422,4.84563,5.83878,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,,UN_World,5.7 [5.1-6.4],5.73718,5.09013,6.38422,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_World,6.1 [5.2-7.0],6.1071,5.20647,7.00772,
-NUTOVERWEIGHTPREV,PUBLISHED,2015,,UN_World,6.2 [5.2-7.2],6.2015699999999985,5.22299,7.180160000000001,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,AFR,,5.0 [3.8-6.5],4.95501,3.76801,6.49072,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,AFR,,5.0 [3.9-6.5],5.00699,3.86068,6.47076,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,AFR,,5.1 [3.9-6.5],5.0595,3.92444,6.50063,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,AFR,,5.1 [4.0-6.6],5.11252,3.95574,6.584389999999999,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,AFR,,5.2 [4.0-6.7],5.16607,3.95479,6.72237,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,AFR,,5.2 [3.9-6.9],5.20929,3.93318,6.8698,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,AMR,,6.5 [5.6-7.5],6.51336,5.63479,7.518,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,AMR,,6.7 [5.9-7.6],6.7175699999999985,5.9292099999999985,7.60228,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,AMR,,6.9 [6.2-7.7],6.92771,6.23005,7.697089999999998,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,AMR,,7.1 [6.5-7.8],7.14392,6.53164,7.8088,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,AMR,,7.4 [6.8-7.9],7.366339999999999,6.823810000000001,7.94833,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,AMR,,7.5 [7.0-8.1],7.54885,7.04022,8.09103,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,EMR,,5.9 [4.3-8.0],5.91073,4.34658,7.99075,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,EMR,,6.1 [4.4-8.3],6.09997,4.4297,8.34506,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,EMR,,6.3 [4.5-8.8],6.29487,4.4741800000000005,8.78828,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,EMR,,6.5 [4.5-9.3],6.49556,4.4859800000000005,9.31755,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,EMR,,6.7 [4.5-9.9],6.702189999999999,4.4719,9.92918,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,EMR,,6.9 [4.4-10.5],6.87187,4.44625,10.47569,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,EUR,,5.2 [3.2-8.3],5.16356,3.17471,8.29165,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,1995,EUR,,6.2 [4.2-9.3],6.24846,4.1738800000000005,9.25459,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,2000,EUR,,7.5 [5.4-10.5],7.54317,5.39224,10.45726,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,2005,EUR,,9.1 [6.8-12.1],9.08017,6.78216,12.05612,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,2010,EUR,,10.9 [8.2-14.3],10.89345,8.22995,14.28479,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,2014,EUR,,12.6 [9.4-16.7],12.56589,9.35324,16.67898,Consecutive low population coverage
-NUTOVERWEIGHTPREV,PUBLISHED,1990,SEAR,,1.7 [0.6-4.8],1.6723,0.57208,4.786569999999998,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,SEAR,,2.1 [1.0-4.4],2.09805,0.9825,4.4236,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,SEAR,,2.6 [1.6-4.2],2.62929,1.64542,4.1764800000000015,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,SEAR,,3.3 [2.5-4.3],3.29052,2.48463,4.34616,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,SEAR,,4.1 [2.8-6.0],4.11103,2.80672,5.98416,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,SEAR,,4.9 [2.7-8.7],4.9051,2.72824,8.66417,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,WPR,,5.7 [3.8-8.5],5.72487,3.79979,8.538680000000001,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,WPR,,5.6 [4.0-7.9],5.6226,3.95185,7.94131,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,WPR,,5.5 [4.1-7.4],5.52206,4.1054900000000005,7.38975,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,WPR,,5.4 [4.3-6.9],5.42321,4.25735,6.8853800000000005,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,WPR,,5.3 [4.4-6.4],5.32603,4.40025,6.43349,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,WPR,,5.2 [4.5-6.1],5.24948,4.49748,6.11915,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Southern_Africa,14.2 [5.5-32.3],14.244000000000002,5.46114,32.32257,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,,UN_Southern_Asia,4.2 [2.5-6.9],4.17266,2.51145,6.855410000000001,
-NUTOVERWEIGHTPREV,PUBLISHED,2014,GLOBAL,,6.1 [5.2-7.0],6.1071,5.20647,7.00772,
-NUTOVERWEIGHTPREV,PUBLISHED,2010,GLOBAL,,5.7 [5.1-6.4],5.73718,5.09013,6.38422,
-NUTOVERWEIGHTPREV,PUBLISHED,2005,GLOBAL,,5.3 [4.8-5.8],5.3422,4.84563,5.83878,
-NUTOVERWEIGHTPREV,PUBLISHED,2000,GLOBAL,,5.1 [4.5-5.6],5.0526300000000015,4.51306,5.59221,
-NUTOVERWEIGHTPREV,PUBLISHED,1995,GLOBAL,,4.9 [4.3-5.5],4.91199,4.27579,5.54819,
-NUTOVERWEIGHTPREV,PUBLISHED,1990,GLOBAL,,4.8 [4.1-5.6],4.8466,4.1323,5.5609,
+"GHO","PUBLISHSTATE","YEAR","REGION","UNREGION","Display Value","Numeric","Low","High","Comments"
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","GLOBAL","1","5.0 [4.2 - 5.7]","5.00000","4.20000","5.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","GLOBAL","1","4.9 [4.2 - 5.6]","4.90000","4.20000","5.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","GLOBAL","1","4.9 [4.4 - 5.5]","4.90000","4.40000","5.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","GLOBAL","1","5.1 [4.6 - 5.6]","5.10000","4.60000","5.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","GLOBAL","1","5.3 [4.7 - 5.9]","5.30000","4.70000","5.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","GLOBAL","1","5.6 [4.7 - 6.4]","5.60000","4.70000","6.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","GLOBAL","1","5.6 [4.7 - 6.6]","5.60000","4.70000","6.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","515","4.6 [3.8 - 5.3]","4.60000","3.80000","5.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","515","4.5 [3.8 - 5.1]","4.50000","3.80000","5.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","515","4.5 [4.0 - 5.0]","4.50000","4.00000","5.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","515","4.6 [4.2 - 5.0]","4.60000","4.20000","5.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","515","4.8 [4.3 - 5.3]","4.80000","4.30000","5.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","515","5.0 [4.3 - 5.8]","5.00000","4.30000","5.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","515","5.1 [4.2 - 6.0]","5.10000","4.20000","6.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","2","5.1 [4.1 - 6.1]","5.10000","4.10000","6.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","2","5.1 [4.1 - 6.0]","5.10000","4.10000","6.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","2","5.0 [4.1 - 5.9]","5.00000","4.10000","5.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","2","4.9 [4.0 - 5.9]","4.90000","4.00000","5.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","2","4.9 [3.9 - 6.0]","4.90000","3.90000","6.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","2","5.0 [3.8 - 6.2]","5.00000","3.80000","6.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","2","5.0 [3.7 - 6.3]","5.00000","3.70000","6.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","14","4.9 [3.6 - 6.5]","4.90000","3.60000","6.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","14","4.8 [3.7 - 6.2]","4.80000","3.70000","6.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","14","4.7 [3.7 - 5.9]","4.70000","3.70000","5.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","14","4.6 [3.7 - 5.7]","4.60000","3.70000","5.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","14","4.5 [3.7 - 5.5]","4.50000","3.70000","5.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","14","4.4 [3.6 - 5.4]","4.40000","3.60000","5.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","14","4.4 [3.6 - 5.4]","4.40000","3.60000","5.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","17","4.2 [2.3 - 7.5]","4.20000","2.30000","7.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","17","4.3 [2.6 - 7.0]","4.30000","2.60000","7.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","17","4.4 [2.9 - 6.6]","4.40000","2.90000","6.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","17","4.5 [3.2 - 6.3]","4.50000","3.20000","6.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","17","4.6 [3.4 - 6.2]","4.60000","3.40000","6.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","17","4.7 [3.5 - 6.3]","4.70000","3.50000","6.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","17","4.7 [3.5 - 6.4]","4.70000","3.50000","6.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","15","7.2 [4.6 - 11.3]","7.20000","4.60000","11.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","15","7.7 [4.6 - 12.6]","7.70000","4.60000","12.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","15","8.2 [4.6 - 14.3]","8.20000","4.60000","14.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","15","8.8 [4.6 - 16.2]","8.80000","4.60000","16.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","15","9.4 [4.6 - 18.3]","9.40000","4.60000","18.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","15","10.0 [4.5 - 20.8]","10.00000","4.50000","20.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","15","10.3 [4.5 - 21.8]","10.30000","4.50000","21.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","18","8.6 [6.1 - 12.1]","8.60000","6.10000","12.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","18","9.4 [6.7 - 13.1]","9.40000","6.70000","13.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","18","10.3 [7.3 - 14.2]","10.30000","7.30000","14.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","18","11.2 [8.0 - 15.4]","11.20000","8.00000","15.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","18","12.2 [8.8 - 16.7]","12.20000","8.80000","16.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","18","13.2 [9.6 - 18.1]","13.20000","9.60000","18.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","18","13.7 [9.9 - 18.7]","13.70000","9.90000","18.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","11","3.7 [2.5 - 5.5]","3.70000","2.50000","5.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","11","3.4 [2.5 - 4.7]","3.40000","2.50000","4.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","11","3.2 [2.4 - 4.1]","3.20000","2.40000","4.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","11","2.9 [2.4 - 3.6]","2.90000","2.40000","3.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","11","2.7 [2.2 - 3.3]","2.70000","2.20000","3.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","11","2.5 [2.0 - 3.1]","2.50000","2.00000","3.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","11","2.4 [1.9 - 3.1]","2.40000","1.90000","3.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","142","4.1 [3.1 - 5.2]","4.10000","3.10000","5.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","142","4.0 [3.1 - 4.9]","4.00000","3.10000","4.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","142","3.9 [3.3 - 4.6]","3.90000","3.30000","4.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","142","4.1 [3.6 - 4.5]","4.10000","3.60000","4.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","142","4.3 [3.7 - 5.0]","4.30000","3.70000","5.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","142","4.7 [3.6 - 5.8]","4.70000","3.60000","5.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","142","4.8 [3.5 - 6.2]","4.80000","3.50000","6.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","30","6.8 [6.3 - 7.5]","6.80000","6.30000","7.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","30","6.5 [5.9 - 7.2]","6.50000","5.90000","7.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","30","6.2 [5.5 - 7.0]","6.20000","5.50000","7.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","30","5.9 [5.1 - 6.8]","5.90000","5.10000","6.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","30","5.6 [4.8 - 6.6]","5.60000","4.80000","6.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","30","5.4 [4.5 - 6.4]","5.40000","4.50000","6.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","30","5.2 [4.4 - 6.3]","5.20000","4.40000","6.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","34","2.3 [0.8 - 6.3]","2.30000","0.80000","6.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","34","2.4 [1.1 - 5.0]","2.40000","1.10000","5.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","34","2.5 [1.6 - 4.0]","2.50000","1.60000","4.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","34","2.7 [2.2 - 3.3]","2.70000","2.20000","3.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","34","2.8 [2.2 - 3.7]","2.80000","2.20000","3.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","34","3.0 [1.8 - 5.0]","3.00000","1.80000","5.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","34","3.1 [1.6 - 5.7]","3.10000","1.60000","5.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","143","8.4 [4.0 - 16.7]","8.40000","4.00000","16.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","143","8.9 [5.3 - 14.6]","8.90000","5.30000","14.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","143","9.4 [6.5 - 13.3]","9.40000","6.50000","13.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","143","9.9 [6.9 - 13.9]","9.90000","6.90000","13.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","143","10.4 [6.4 - 16.6]","10.40000","6.40000","16.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","143","10.7 [6.0 - 18.1]","10.70000","6.00000","18.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","62","2.5 [0.2 - 4.8]","2.50000","0.20000","4.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","62","2.6 [0.9 - 4.3]","2.60000","0.90000","4.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","62","2.7 [1.6 - 3.9]","2.70000","1.60000","3.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","62","2.9 [2.3 - 3.5]","2.90000","2.30000","3.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","62","3.1 [2.4 - 3.8]","3.10000","2.40000","3.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","62","3.3 [1.8 - 4.8]","3.30000","1.80000","4.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","62","3.4 [1.5 - 5.2]","3.40000","1.50000","5.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","35","1.9 [1.5 - 2.4]","1.90000","1.50000","2.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","35","2.5 [2.1 - 2.9]","2.50000","2.10000","2.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","35","3.2 [2.5 - 3.9]","3.20000","2.50000","3.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","35","4.1 [2.9 - 5.6]","4.10000","2.90000","5.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","35","5.2 [3.3 - 8.1]","5.20000","3.30000","8.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","35","6.6 [3.7 - 11.6]","6.60000","3.70000","11.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","35","7.3 [3.9 - 13.3]","7.30000","3.90000","13.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","145","5.9 [3.1 - 11.0]","5.90000","3.10000","11.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","145","6.3 [4.1 - 9.6]","6.30000","4.10000","9.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","145","6.7 [4.8 - 9.2]","6.70000","4.80000","9.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","145","7.1 [4.7 - 10.6]","7.10000","4.70000","10.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","145","7.5 [4.1 - 13.6]","7.50000","4.10000","13.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","145","8.0 [3.4 - 17.7]","8.00000","3.40000","17.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","145","8.2 [3.1 - 19.7]","8.20000","3.10000","19.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","419","6.6 [5.3 - 7.9]","6.60000","5.30000","7.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","419","6.7 [5.6 - 7.8]","6.70000","5.60000","7.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","419","6.8 [5.8 - 7.8]","6.80000","5.80000","7.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","419","6.9 [6.1 - 7.8]","6.90000","6.10000","7.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","419","7.1 [6.3 - 7.9]","7.10000","6.30000","7.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","419","7.2 [6.5 - 8.0]","7.20000","6.50000","8.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","419","7.3 [6.5 - 8.0]","7.30000","6.50000","8.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","29","4.4 [3.7 - 5.1]","4.40000","3.70000","5.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","29","4.8 [3.9 - 5.9]","4.80000","3.90000","5.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","29","5.3 [4.0 - 6.8]","5.30000","4.00000","6.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","29","5.8 [4.1 - 8.0]","5.80000","4.10000","8.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","29","6.3 [4.2 - 9.5]","6.30000","4.20000","9.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","29","6.9 [4.2 - 11.1]","6.90000","4.20000","11.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","29","7.2 [4.3 - 11.9]","7.20000","4.30000","11.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","13","5.3 [3.7 - 7.5]","5.30000","3.70000","7.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","13","5.5 [4.1 - 7.3]","5.50000","4.10000","7.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","13","5.7 [4.6 - 7.1]","5.70000","4.60000","7.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","13","5.9 [5.0 - 6.9]","5.90000","5.00000","6.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","13","6.1 [5.4 - 6.8]","6.10000","5.40000","6.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","13","6.3 [5.7 - 6.9]","6.30000","5.70000","6.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","13","6.4 [5.8 - 7.0]","6.40000","5.80000","7.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","5","7.4 [5.8 - 9.4]","7.40000","5.80000","9.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","5","7.4 [6.0 - 9.3]","7.40000","6.00000","9.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","5","7.5 [6.2 - 9.1]","7.50000","6.20000","9.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","5","7.6 [6.4 - 9.0]","7.60000","6.40000","9.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","5","7.6 [6.5 - 8.9]","7.60000","6.50000","8.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","5","7.7 [6.6 - 8.9]","7.70000","6.60000","8.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","5","7.7 [6.7 - 8.9]","7.70000","6.70000","8.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","","543","3.2 [2.4 - 4.3]","3.20000","2.40000","4.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","","543","3.9 [2.8 - 5.3]","3.90000","2.80000","5.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","","543","4.7 [3.3 - 6.6]","4.70000","3.30000","6.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","","543","5.6 [3.8 - 8.2]","5.60000","3.80000","8.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","","543","6.8 [4.5 - 10.1]","6.80000","4.50000","10.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","","543","8.1 [5.2 - 12.5]","8.10000","5.20000","12.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","","543","8.7 [5.5 - 13.6]","8.70000","5.50000","13.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","AFR","","5.2 [4.0-6.8]","5.20000","4.00000","6.80000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","AFR","","4.9 [3.9-6.1]","4.90000","3.90000","6.10000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","AFR","","4.6 [3.8-5.5]","4.60000","3.80000","5.50000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","AFR","","4.3 [3.6-5.1]","4.30000","3.60000","5.10000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","AFR","","4.0 [3.3-4.9]","4.00000","3.30000","4.90000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","AFR","","3.8 [3.0-4.7]","3.80000","3.00000","4.70000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","AFR","","3.7 [2.8-4.7]","3.70000","2.80000","4.70000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","AMR","","6.7 [5.6-7.8]","6.70000","5.60000","7.80000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","AMR","","6.8 [5.9-7.7]","6.80000","5.90000","7.70000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","AMR","","6.9 [6.2-7.6]","6.90000","6.20000","7.60000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","AMR","","7.0 [6.5-7.5]","7.00000","6.50000","7.50000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","AMR","","7.1 [6.6-7.6]","7.10000","6.60000","7.60000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","AMR","","7.2 [6.6-7.9]","7.20000","6.60000","7.90000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","AMR","","7.2 [6.6-8.0]","7.20000","6.60000","8.00000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","EMR","","5.8 [4.3-7.9]","5.80000","4.30000","7.90000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","EMR","","6.0 [4.3-8.2]","6.00000","4.30000","8.20000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","EMR","","6.1 [4.3-8.7]","6.10000","4.30000","8.70000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","EMR","","6.3 [4.3-9.2]","6.30000","4.30000","9.20000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","EMR","","6.5 [4.3-9.8]","6.50000","4.30000","9.80000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","EMR","","6.7 [4.2-10.4]","6.70000","4.20000","10.40000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","EMR","","6.8 [4.2-10.7]","6.80000","4.20000","10.70000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","SEAR","","2.0 [0.6-6.2]","2.00000","0.60000","6.20000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","SEAR","","2.2 [1.0-5.0]","2.20000","1.00000","5.00000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","SEAR","","2.4 [1.5-4.1]","2.40000","1.50000","4.10000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","SEAR","","2.7 [2.0-3.6]","2.70000","2.00000","3.60000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","SEAR","","3.0 [2.0-4.3]","3.00000","2.00000","4.30000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","SEAR","","3.3 [1.7-6.2]","3.30000","1.70000","6.20000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","SEAR","","3.4 [1.6-7.3]","3.40000","1.60000","7.30000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1990","WPR","","5.6 [3.6-8.6]","5.60000","3.60000","8.60000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","1995","WPR","","5.6 [3.9-8.0]","5.60000","3.90000","8.00000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2000","WPR","","5.5 [4.1-7.4]","5.50000","4.10000","7.40000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2005","WPR","","5.5 [4.3-6.9]","5.50000","4.30000","6.90000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2010","WPR","","5.4 [4.6-6.4]","5.40000","4.60000","6.40000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2015","WPR","","5.4 [4.8-6.0]","5.40000","4.80000","6.00000",""
+"NUTOVERWEIGHTPREV","PUBLISHED","2017","WPR","","5.3 [4.8-5.9]","5.30000","4.80000","5.90000",""

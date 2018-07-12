@@ -1,223 +1,225 @@
-GHO,PUBLISHSTATE,YEAR,REGION,UNREGION,Display Value,Numeric,Low,High,Comments
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Africa,42.3 [39.4-45.2],42.3,39.4,45.2,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Africa,40.2 [37.7-42.7],40.2,37.7,42.7,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Africa,38.3 [36.0-40.5],38.3,36.0,40.5,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Africa,36.1 [34.0-38.3],36.1,34.0,38.3,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Africa,33.9 [31.6-36.1],33.9,31.6,36.1,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Africa,32.0 [29.5-34.5],32.0,29.5,34.5,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Africa,31.6 [29.0-34.1],31.6,29.0,34.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Africa,29.6 [26.7-32.5],29.6,26.7,32.5,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Africa,27.8 [24.5-31.1],27.8,24.5,31.1,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Asia,47.6 [45.0-50.1],47.6,45.0,50.1,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Asia,42.2 [39.8-44.6],42.2,39.8,44.6,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Asia,38.1 [35.5-40.6],38.1,35.5,40.6,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Asia,33.4 [30.7-36.1],33.4,30.7,36.1,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Asia,28.7 [25.7-31.6],28.7,25.7,31.6,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Asia,25.1 [22.0-28.2],25.1,22.0,28.2,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Asia,24.3 [21.1-27.5],24.3,21.1,27.5,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Asia,21.0 [17.5-24.5],21.0,17.5,24.5,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Asia,18.3 [14.5-22.1],18.3,14.5,22.1,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Caribbean,16.0 [9.3-26.1],16.0,9.3,26.1,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Caribbean,13.1 [7.3-22.2],13.1,7.3,22.2,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Caribbean,10.6 [5.8-18.7],10.6,5.8,18.7,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Caribbean,8.6 [4.5-15.7],8.6,4.5,15.7,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Caribbean,6.9 [3.5-13.1],6.9,3.5,13.1,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Caribbean,5.8 [2.9-11.3],5.8,2.9,11.3,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Caribbean,5.5 [2.7-10.9],5.5,2.7,10.9,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Caribbean,4.4 [2.1-9.0],4.4,2.1,9.0,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Caribbean,3.5 [1.6-7.4],3.5,1.6,7.4,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Central_America,34.0 [23.9-45.8],34.0,23.9,45.8,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Central_America,29.6 [20.2-41.0],29.6,20.2,41.0,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Central_America,25.5 [17.0-36.4],25.5,17.0,36.4,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Central_America,21.8 [14.2-32.0],21.8,14.2,32.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Central_America,18.5 [11.8-27.9],18.5,11.8,27.9,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Central_America,16.2 [10.1-24.9],16.2,10.1,24.9,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Central_America,15.6 [9.7-24.2],15.6,9.7,24.2,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Central_America,13.1 [8.0-20.8],13.1,8.0,20.8,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Central_America,11.0 [6.5-17.8],11.0,6.5,17.8,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Central_Asia,41.7 [28.9-55.8],41.7,28.9,55.8,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Central_Asia,34.7 [25.2-45.6],34.7,25.2,45.6,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Central_Asia,28.3 [21.6-36.0],28.3,21.6,36.0,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Central_Asia,22.6 [17.9-28.1],22.6,17.9,28.1,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Central_Asia,17.8 [14.1-22.2],17.8,14.1,22.2,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Central_Asia,14.6 [11.2-18.8],14.6,11.2,18.8,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Central_Asia,13.8 [10.5-18.1],13.8,10.5,18.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Central_Asia,10.7 [7.4-15.2],10.7,7.4,15.2,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Central_Asia,8.1 [5.0-12.8],8.1,5.0,12.8,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Developing,44.2 [42.3-46.2],44.2,42.3,46.2,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Developing,39.6 [37.8-41.5],39.6,37.8,41.5,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Developing,36.0 [34.2-37.8],36.0,34.2,37.8,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Developing,32.3 [30.5-34.2],32.3,30.5,34.2,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Developing,28.8 [26.8-30.7],28.8,26.8,30.7,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Developing,26.0 [24.0-28.1],26.0,24.0,28.1,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Developing,25.4 [23.3-27.5],25.4,23.3,27.5,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Developing,22.9 [20.6-25.2],22.9,20.6,25.2,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Developing,20.8 [18.4-23.2],20.8,18.4,23.2,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Eastern_Africa,51.2 [45.4-57.1],51.2,45.4,57.1,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Eastern_Africa,48.4 [43.3-53.6],48.4,43.3,53.6,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Eastern_Africa,45.6 [41.1-50.2],45.6,41.1,50.2,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Eastern_Africa,42.9 [38.8-47.0],42.9,38.8,47.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Eastern_Africa,40.1 [36.4-44.0],40.1,36.4,44.0,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Eastern_Africa,38.0 [34.3-41.8],38.0,34.3,41.8,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Eastern_Africa,37.5 [33.8-41.3],37.5,33.8,41.3,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Eastern_Africa,34.9 [31.1-38.8],34.9,31.1,38.8,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Eastern_Africa,32.4 [28.4-36.6],32.4,28.4,36.6,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Eastern_Asia,35.9 [33.9-38.0],35.9,33.9,38.0,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Eastern_Asia,26.6 [24.9-28.4],26.6,24.9,28.4,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Eastern_Asia,19.0 [17.6-20.5],19.0,17.6,20.5,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Eastern_Asia,13.2 [12.2-14.3],13.2,12.2,14.3,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Eastern_Asia,8.9 [8.2-9.7],8.9,8.2,9.7,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Eastern_Asia,6.5 [5.9-7.1],6.5,5.9,7.1,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Eastern_Asia,6.0 [5.5-6.5],6.0,5.5,6.5,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Eastern_Asia,3.9 [3.6-4.3],3.9,3.6,4.3,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Eastern_Asia,2.6 [2.4-2.8],2.6,2.4,2.8,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Latin_America_Caribbean,24.5 [19.1-30.0],24.5,19.1,30.0,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Latin_America_Caribbean,21.4 [16.4-26.3],21.4,16.4,26.3,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Latin_America_Caribbean,18.4 [13.8-23.0],18.4,13.8,23.0,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Latin_America_Caribbean,15.7 [11.4-19.9],15.7,11.4,19.9,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Latin_America_Caribbean,13.4 [9.5-17.3],13.4,9.5,17.3,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Latin_America_Caribbean,11.7 [8.0-15.4],11.7,8.0,15.4,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Latin_America_Caribbean,11.3 [7.7-15.0],11.3,7.7,15.0,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Latin_America_Caribbean,9.6 [6.2-12.9],9.6,6.2,12.9,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Latin_America_Caribbean,8.0 [5.0-11.1],8.0,5.0,11.1,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Middle_Africa,46.7 [36.3-57.5],46.7,36.3,57.5,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Middle_Africa,43.5 [35.9-51.3],43.5,35.9,51.3,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Middle_Africa,40.2 [35.0-45.7],40.2,35.0,45.7,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Middle_Africa,37.1 [32.7-41.7],37.1,32.7,41.7,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Middle_Africa,34.1 [28.7-40.0],34.1,28.7,40.0,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Middle_Africa,31.8 [25.0-39.4],31.8,25.0,39.4,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Middle_Africa,31.2 [24.1-39.4],31.2,24.1,39.4,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Middle_Africa,28.5 [19.7-39.1],28.5,19.7,39.1,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Middle_Africa,25.9 [15.9-39.1],25.9,15.9,39.1,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Northern_Africa,27.7 [21.6-34.9],27.7,21.6,34.9,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Northern_Africa,25.5 [19.6-32.6],25.5,19.6,32.6,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Northern_Africa,23.5 [17.5-30.7],23.5,17.5,30.7,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Northern_Africa,21.5 [15.5-29.0],21.5,15.5,29.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Northern_Africa,19.7 [13.6-27.6],19.7,13.6,27.6,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Northern_Africa,18.3 [12.2-26.5],18.3,12.2,26.5,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Northern_Africa,18.0 [11.8-26.3],18.0,11.8,26.3,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Northern_Africa,16.4 [10.2-25.1],16.4,10.2,25.1,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Northern_Africa,14.9 [8.8-24.1],14.9,8.8,24.1,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Oceania,35.9 [17.8-59.2],35.9,17.8,59.2,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Oceania,36.4 [18.4-59.2],36.4,18.4,59.2,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Oceania,36.8 [18.9-59.2],36.8,18.9,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Oceania,37.3 [19.5-59.2],37.3,19.5,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Oceania,37.7 [20.2-59.2],37.7,20.2,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Oceania,38.1 [20.7-59.2],38.1,20.7,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Oceania,38.2 [20.8-59.2],38.2,20.8,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Oceania,38.6 [21.4-59.2],38.6,21.4,59.2,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Oceania,39.1 [22.1-59.2],39.1,22.1,59.2,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_South_America,21.3 [15.2-28.9],21.3,15.2,28.9,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_South_America,18.4 [13.0-25.4],18.4,13.0,25.4,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_South_America,15.8 [11.0-22.3],15.8,11.0,22.3,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_South_America,13.6 [9.1-19.8],13.6,9.1,19.8,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_South_America,11.6 [7.5-17.5],11.6,7.5,17.5,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_South_America,10.2 [6.3-16.0],10.2,6.3,16.0,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_South_America,9.9 [6.1-15.6],9.9,6.1,15.6,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_South_America,8.4 [4.9-14.0],8.4,4.9,14.0,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_South_America,7.1 [3.9-12.5],7.1,3.9,12.5,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_South_Central_Asia,59.0 [54.5-63.4],59.0,54.5,63.4,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_South_Central_Asia,53.9 [49.7-58.1],53.9,49.7,58.1,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_South_Central_Asia,48.8 [44.6-53.0],48.8,44.6,53.0,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_South_Central_Asia,43.6 [39.1-48.2],43.6,39.1,48.2,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_South_Central_Asia,38.5 [33.5-43.5],38.5,33.5,43.5,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_South_Central_Asia,34.5 [29.1-39.9],34.5,29.1,39.9,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_South_Central_Asia,33.6 [28.1-39.1],33.6,28.1,39.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_South_Central_Asia,29.1 [23.2-35.1],29.1,23.2,35.1,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_South_Central_Asia,25.1 [18.8-31.3],25.1,18.8,31.3,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_South_Eastern_Asia,47.1 [37.9-56.5],47.1,37.9,56.5,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_South_Eastern_Asia,42.6 [35.3-50.2],42.6,35.3,50.2,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_South_Eastern_Asia,38.2 [32.2-44.6],38.2,32.2,44.6,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_South_Eastern_Asia,34.0 [28.3-40.2],34.0,28.3,40.2,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_South_Eastern_Asia,30.0 [24.0-36.9],30.0,24.0,36.9,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_South_Eastern_Asia,27.1 [20.5-34.9],27.1,20.5,34.9,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_South_Eastern_Asia,26.3 [19.6-34.4],26.3,19.6,34.4,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_South_Eastern_Asia,23.0 [15.7-32.3],23.0,15.7,32.3,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_South_Eastern_Asia,19.9 [12.3-30.5],19.9,12.3,30.5,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Southern_Africa,36.6 [32.4-41.1],36.6,32.4,41.1,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Southern_Africa,34.9 [30.7-39.3],34.9,30.7,39.3,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Southern_Africa,33.2 [29.1-37.7],33.2,29.1,37.7,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Southern_Africa,31.6 [27.4-36.1],31.6,27.4,36.1,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Southern_Africa,30.0 [25.8-34.5],30.0,25.8,34.5,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Southern_Africa,28.7 [24.5-33.3],28.7,24.5,33.3,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Southern_Africa,28.4 [24.2-33.1],28.4,24.2,33.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Southern_Africa,26.9 [22.6-31.6],26.9,22.6,31.6,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Southern_Africa,25.4 [21.1-30.3],25.4,21.1,30.3,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Southern_Asia,59.7 [55.0-64.3],59.7,55.0,64.3,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Southern_Asia,54.6 [50.2-59.0],54.6,50.2,59.0,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Southern_Asia,49.5 [45.1-53.8],49.5,45.1,53.8,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Southern_Asia,44.3 [39.6-49.0],44.3,39.6,49.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Southern_Asia,39.2 [34.1-44.6],39.2,34.1,44.6,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Southern_Asia,35.3 [29.9-41.2],35.3,29.9,41.2,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Southern_Asia,34.4 [28.9-40.4],34.4,28.9,40.4,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Southern_Asia,29.9 [24.0-36.5],29.9,24.0,36.5,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Southern_Asia,25.7 [19.7-32.8],25.7,19.7,32.8,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Western_Africa,40.9 [37.2-44.8],40.9,37.2,44.8,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Western_Africa,39.1 [35.9-42.3],39.1,35.9,42.3,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Western_Africa,37.3 [34.2-40.4],37.3,34.2,40.4,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Western_Africa,35.5 [32.1-39.0],35.5,32.1,39.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Western_Africa,33.7 [29.8-37.9],33.7,29.8,37.9,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Western_Africa,32.4 [27.9-37.2],32.4,27.9,37.2,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Western_Africa,32.1 [27.4-37.1],32.1,27.4,37.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Western_Africa,30.4 [25.1-36.3],30.4,25.1,36.3,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Western_Africa,28.8 [22.8-35.7],28.8,22.8,35.7,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_Western_Asia,29.1 [23.0-36.2],29.1,23.0,36.2,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_Western_Asia,26.1 [19.4-34.2],26.1,19.4,34.2,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_Western_Asia,23.3 [16.1-32.5],23.3,16.1,32.5,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_Western_Asia,20.7 [13.1-31.0],20.7,13.1,31.0,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_Western_Asia,18.3 [10.7-29.6],18.3,10.7,29.6,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_Western_Asia,16.6 [9.0-28.6],16.6,9.0,28.6,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_Western_Asia,16.2 [8.6-28.3],16.2,8.6,28.3,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_Western_Asia,14.2 [6.9-27.1],14.2,6.9,27.1,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_Western_Asia,12.4 [5.5-25.9],12.4,5.5,25.9,
-NUTSTUNTINGPREV,PUBLISHED,1990,,UN_World,39.6 [37.8-41.4],39.6,37.8,41.4,
-NUTSTUNTINGPREV,PUBLISHED,1995,,UN_World,35.7 [34.1-37.4],35.7,34.1,37.4,
-NUTSTUNTINGPREV,PUBLISHED,2000,,UN_World,32.7 [31.0-34.3],32.7,31.0,34.3,
-NUTSTUNTINGPREV,PUBLISHED,2005,,UN_World,29.4 [27.7-31.1],29.4,27.7,31.1,
-NUTSTUNTINGPREV,PUBLISHED,2010,,UN_World,26.2 [24.4-28.0],26.2,24.4,28.0,
-NUTSTUNTINGPREV,PUBLISHED,2014,,UN_World,23.8 [21.9-25.7],23.8,21.9,25.7,
-NUTSTUNTINGPREV,PUBLISHED,2015,,UN_World,23.2 [21.3-25.1],23.2,21.3,25.1,
-NUTSTUNTINGPREV,PUBLISHED,2020,,UN_World,21.0 [18.9-23.0],21.0,18.9,23.0,
-NUTSTUNTINGPREV,PUBLISHED,2025,,UN_World,19.1 [16.9-21.3],19.1,16.9,21.3,
-NUTSTUNTINGPREV,PUBLISHED,1990,AFR,,51.6 [47.5-55.8],51.64507,47.47142,55.7959,
-NUTSTUNTINGPREV,PUBLISHED,1995,AFR,,48.8 [45.0-52.6],48.82896,45.04942,52.621930000000006,
-NUTSTUNTINGPREV,PUBLISHED,2000,AFR,,46.0 [42.5-49.5],46.02025,42.54492,49.53472,
-NUTSTUNTINGPREV,PUBLISHED,2005,AFR,,43.2 [39.9-46.6],43.2366,39.94912,46.58475,
-NUTSTUNTINGPREV,PUBLISHED,2010,AFR,,40.5 [37.3-43.8],40.49501,37.26746,43.8069,
-NUTSTUNTINGPREV,PUBLISHED,2014,AFR,,38.3 [35.1-41.7],38.34281,35.07771,41.71655,
-NUTSTUNTINGPREV,PUBLISHED,1990,AMR,,14.9 [7.3-28.2],14.938579999999998,7.2889300000000015,28.17655,
-NUTSTUNTINGPREV,PUBLISHED,1995,AMR,,12.9 [6.4-24.1],12.87062,6.41601,24.14343,
-NUTSTUNTINGPREV,PUBLISHED,2000,AMR,,11.1 [5.6-20.6],11.05173,5.62392,20.57597,
-NUTSTUNTINGPREV,PUBLISHED,2005,AMR,,9.5 [4.9-17.5],9.46197,4.90706,17.46823,
-NUTSTUNTINGPREV,PUBLISHED,2010,AMR,,8.1 [4.3-14.8],8.080119999999999,4.260280000000002,14.79561,
-NUTSTUNTINGPREV,PUBLISHED,2014,AMR,,7.1 [3.8-12.9],7.10991,3.79011,12.94628,
-NUTSTUNTINGPREV,PUBLISHED,1990,EMR,,39.8 [31.0-49.4],39.83641,30.97766,49.41483,
-NUTSTUNTINGPREV,PUBLISHED,1995,EMR,,36.7 [27.6-46.9],36.744,27.60926,46.94125,
-NUTSTUNTINGPREV,PUBLISHED,2000,EMR,,33.8 [24.5-44.5],33.75695,24.45056,44.51826,
-NUTSTUNTINGPREV,PUBLISHED,2005,EMR,,30.9 [21.5-42.1],30.89413,21.52627,42.14907,
-NUTSTUNTINGPREV,PUBLISHED,2010,EMR,,28.2 [18.9-39.8],28.17085,18.85028,39.83759000000001,
-NUTSTUNTINGPREV,PUBLISHED,2014,EMR,,26.1 [16.9-38.0],26.10061,16.89151,38.03281,
-NUTSTUNTINGPREV,PUBLISHED,1990,EUR,,22.1 [12.1-36.9],22.11095,12.12091,36.87937,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,1995,EUR,,18.0 [9.8-31.0],18.04544,9.75575,30.96234,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,2000,EUR,,14.6 [7.8-25.7],14.58745,7.7831800000000015,25.68346,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,2005,EUR,,11.7 [6.2-21.1],11.69752,6.15905,21.09674,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,2010,EUR,,9.3 [4.8-17.2],9.31766,4.83739,17.197570000000002,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,2014,EUR,,7.7 [4.0-14.5],7.7365,3.96759,14.54342,Consecutive low population coverage
-NUTSTUNTINGPREV,PUBLISHED,1990,SEAR,,58.6 [53.7-63.4],58.62818000000001,53.68708,63.40148000000001,
-NUTSTUNTINGPREV,PUBLISHED,1995,SEAR,,53.4 [48.7-58.1],53.40852,48.65688,58.0991,
-NUTSTUNTINGPREV,PUBLISHED,2000,SEAR,,48.1 [43.3-53.0],48.11315,43.30554,52.95594000000001,
-NUTSTUNTINGPREV,PUBLISHED,2005,SEAR,,42.9 [37.8-48.1],42.85982,37.78932,48.0848,
-NUTSTUNTINGPREV,PUBLISHED,2010,SEAR,,37.8 [32.3-43.5],37.76263,32.3401,43.5097,
-NUTSTUNTINGPREV,PUBLISHED,2014,SEAR,,33.9 [28.2-40.1],33.86568,28.18326,40.05482,
-NUTSTUNTINGPREV,PUBLISHED,1990,WPR,,32.3 [23.2-42.9],32.2766,23.2307,42.87757,
-NUTSTUNTINGPREV,PUBLISHED,1995,WPR,,24.4 [17.4-33.0],24.37889,17.42944,32.99208,
-NUTSTUNTINGPREV,PUBLISHED,2000,WPR,,17.9 [12.6-24.7],17.90279,12.63231,24.74933,
-NUTSTUNTINGPREV,PUBLISHED,2005,WPR,,12.9 [8.8-18.3],12.8546,8.84992,18.30747,
-NUTSTUNTINGPREV,PUBLISHED,2010,WPR,,9.1 [6.0-13.5],9.07258,6.01313,13.46562,
-NUTSTUNTINGPREV,PUBLISHED,2014,WPR,,6.8 [4.3-10.5],6.80175,4.3335599999999985,10.52112,
-NUTSTUNTINGPREV,PUBLISHED,1990,GLOBAL,,39.6 [37.8-41.4],39.57291,37.75773,41.38809000000001,
-NUTSTUNTINGPREV,PUBLISHED,1995,GLOBAL,,35.7 [34.1-37.4],35.74236,34.06706,37.41765,
-NUTSTUNTINGPREV,PUBLISHED,2000,GLOBAL,,32.7 [31.0-34.3],32.67091,31.01947,34.32235,
-NUTSTUNTINGPREV,PUBLISHED,2005,GLOBAL,,29.4 [27.7-31.1],29.38278,27.69453,31.07103,
-NUTSTUNTINGPREV,PUBLISHED,2010,GLOBAL,,26.2 [24.4-28.0],26.17985,24.39362,27.96607,
-NUTSTUNTINGPREV,PUBLISHED,2014,GLOBAL,,23.8 [21.9-25.7],23.78478,21.91134,25.65822,
+"GHO","PUBLISHSTATE","YEAR","REGION","UNREGION","Display Value","Numeric","Low","High","Comments"
+"NUTSTUNTINGPREV","PUBLISHED","1990","GLOBAL","1","39.3 [37.5 - 41.0]","39.30000","37.50000","41.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","GLOBAL","1","35.6 [34.0 - 37.3]","35.60000","34.00000","37.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","GLOBAL","1","32.6 [30.9 - 34.2]","32.60000","30.90000","34.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","GLOBAL","1","29.3 [27.7 - 31.0]","29.30000","27.70000","31.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","GLOBAL","1","26.1 [24.5 - 27.8]","26.10000","24.50000","27.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","GLOBAL","1","23.2 [21.5 - 24.9]","23.20000","21.50000","24.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","GLOBAL","1","22.2 [20.5 - 24.0]","22.20000","20.50000","24.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","GLOBAL","1","21.0 [19.2 - 22.8]","21.00000","19.20000","22.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","GLOBAL","1","19.0 [17.2 - 20.9]","19.00000","17.20000","20.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","515","44.0 [42.1 - 45.8]","44.00000","42.10000","45.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","515","39.6 [37.8 - 41.4]","39.60000","37.80000","41.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","515","35.9 [34.2 - 37.7]","35.90000","34.20000","37.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","515","32.3 [30.5 - 34.0]","32.30000","30.50000","34.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","515","28.7 [26.9 - 30.6]","28.70000","26.90000","30.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","515","25.4 [23.5 - 27.3]","25.40000","23.50000","27.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","515","24.3 [22.4 - 26.2]","24.30000","22.40000","26.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","515","22.9 [20.9 - 24.9]","22.90000","20.90000","24.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","515","20.7 [18.6 - 22.8]","20.70000","18.60000","22.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","2","42.5 [39.6 - 45.3]","42.50000","39.60000","45.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","2","40.3 [37.8 - 42.8]","40.30000","37.80000","42.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","2","38.3 [36.0 - 40.6]","38.30000","36.00000","40.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","2","36.0 [33.8 - 38.2]","36.00000","33.80000","38.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","2","33.6 [31.5 - 35.8]","33.60000","31.50000","35.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","2","31.2 [28.9 - 33.4]","31.20000","28.90000","33.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","2","30.3 [28.0 - 32.6]","30.30000","28.00000","32.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","2","29.1 [26.7 - 31.5]","29.10000","26.70000","31.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","2","27.2 [24.6 - 29.8]","27.20000","24.60000","29.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","14","51.9 [46.0 - 57.7]","51.90000","46.00000","57.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","14","48.8 [43.6 - 54.0]","48.80000","43.60000","54.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","14","45.7 [41.2 - 50.3]","45.70000","41.20000","50.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","14","42.7 [38.6 - 46.8]","42.70000","38.60000","46.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","14","39.7 [35.9 - 43.6]","39.70000","35.90000","43.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","14","36.7 [33.1 - 40.6]","36.70000","33.10000","40.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","14","35.6 [31.9 - 39.5]","35.60000","31.90000","39.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","14","33.9 [30.1 - 37.9]","33.90000","30.10000","37.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","14","31.2 [27.2 - 35.5]","31.20000","27.20000","35.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","17","45.2 [37.5 - 53.2]","45.20000","37.50000","53.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","17","42.7 [36.2 - 49.5]","42.70000","36.20000","49.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","17","40.2 [34.7 - 45.9]","40.20000","34.70000","45.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","17","37.7 [33.0 - 42.8]","37.70000","33.00000","42.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","17","35.4 [30.8 - 40.1]","35.40000","30.80000","40.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","17","33.0 [28.3 - 38.1]","33.00000","28.30000","38.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","17","32.1 [27.3 - 37.4]","32.10000","27.30000","37.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","17","30.8 [25.6 - 36.5]","30.80000","25.60000","36.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","17","28.7 [22.9 - 35.2]","28.70000","22.90000","35.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","15","28.4 [21.6 - 36.2]","28.40000","21.60000","36.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","15","26.0 [19.6 - 33.7]","26.00000","19.60000","33.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","15","23.8 [17.6 - 31.5]","23.80000","17.60000","31.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","15","21.7 [15.6 - 29.5]","21.70000","15.60000","29.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","15","19.8 [13.7 - 27.7]","19.80000","13.70000","27.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","15","18.0 [12.0 - 26.1]","18.00000","12.00000","26.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","15","17.3 [11.4 - 25.5]","17.30000","11.40000","25.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","15","16.3 [10.4 - 24.6]","16.30000","10.40000","24.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","15","14.8 [9.0 - 23.2]","14.80000","9.00000","23.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","18","35.5 [30.9 - 40.5]","35.50000","30.90000","40.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","18","34.3 [29.9 - 38.9]","34.30000","29.90000","38.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","18","33.1 [29.0 - 37.5]","33.10000","29.00000","37.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","18","31.9 [28.0 - 36.0]","31.90000","28.00000","36.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","18","30.7 [27.0 - 34.7]","30.70000","27.00000","34.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","18","29.5 [26.0 - 33.4]","29.50000","26.00000","33.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","18","29.1 [25.6 - 32.9]","29.10000","25.60000","32.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","18","28.4 [25.0 - 32.2]","28.40000","25.00000","32.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","18","27.3 [23.9 - 31.0]","27.30000","23.90000","31.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","11","41.3 [37.8 - 45.0]","41.30000","37.80000","45.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","11","39.1 [36.0 - 42.4]","39.10000","36.00000","42.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","11","36.9 [33.9 - 40.1]","36.90000","33.90000","40.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","11","34.8 [31.6 - 38.1]","34.80000","31.60000","38.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","11","32.7 [29.1 - 36.5]","32.70000","29.10000","36.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","11","30.7 [26.7 - 35.0]","30.70000","26.70000","35.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","11","29.9 [25.7 - 34.4]","29.90000","25.70000","34.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","11","28.7 [24.3 - 33.6]","28.70000","24.30000","33.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","11","26.9 [22.0 - 32.3]","26.90000","22.00000","32.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","142","47.4 [44.9 - 49.9]","47.40000","44.90000","49.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","142","42.4 [40.0 - 44.9]","42.40000","40.00000","44.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","142","38.1 [35.6 - 40.7]","38.10000","35.60000","40.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","142","33.5 [30.9 - 36.1]","33.50000","30.90000","36.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","142","28.9 [26.2 - 31.7]","28.90000","26.20000","31.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","142","24.6 [21.7 - 27.5]","24.60000","21.70000","27.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","142","23.2 [20.2 - 26.1]","23.20000","20.20000","26.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","142","21.4 [18.3 - 24.5]","21.40000","18.30000","24.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","142","18.6 [15.3 - 21.9]","18.60000","15.30000","21.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","30","35.7 [33.6 - 37.8]","35.70000","33.60000","37.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","30","26.6 [24.9 - 28.4]","26.60000","24.90000","28.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","30","19.2 [17.8 - 20.6]","19.20000","17.80000","20.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","30","13.4 [12.4 - 14.5]","13.40000","12.40000","14.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","30","9.2 [8.5 - 10.0]","9.20000","8.50000","10.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","30","6.2 [5.7 - 6.8]","6.20000","5.70000","6.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","30","5.3 [4.9 - 5.8]","5.30000","4.90000","5.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","30","4.2 [3.8 - 4.5]","4.20000","3.80000","4.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","30","2.8 [2.5 - 3.0]","2.80000","2.50000","3.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","34","59.6 [54.9 - 64.0]","59.60000","54.90000","64.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","34","54.6 [50.2 - 59.0]","54.60000","50.20000","59.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","34","49.6 [45.2 - 54.1]","49.60000","45.20000","54.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","34","44.6 [40.1 - 49.3]","44.60000","40.10000","49.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","34","39.8 [34.9 - 44.8]","39.80000","34.90000","44.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","34","35.1 [30.0 - 40.5]","35.10000","30.00000","40.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","34","33.3 [28.1 - 38.9]","33.30000","28.10000","38.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","34","30.6 [25.3 - 36.5]","30.60000","25.30000","36.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","34","26.6 [21.1 - 32.8]","26.60000","21.10000","32.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","143","34.7 [25.8 - 44.8]","34.70000","25.80000","44.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","143","28.0 [21.3 - 35.7]","28.00000","21.30000","35.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","143","22.1 [17.3 - 27.9]","22.10000","17.30000","27.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","143","17.2 [13.6 - 21.5]","17.20000","13.60000","21.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","143","13.2 [10.3 - 16.6]","13.20000","10.30000","16.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2017","","143","11.8 [9.2 - 15.0]","11.80000","9.20000","15.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2020","","143","10.0 [7.6 - 13.0]","10.00000","7.60000","13.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","2025","","143","7.5 [5.4 - 10.2]","7.50000","5.40000","10.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","1990","","62","58.9 [54.4 - 63.3]","58.90000","54.40000","63.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","62","53.9 [49.6 - 58.2]","53.90000","49.60000","58.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","62","49.0 [44.7 - 53.2]","49.00000","44.70000","53.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","62","44.0 [39.5 - 48.4]","44.00000","39.50000","48.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","62","39.0 [34.2 - 43.7]","39.00000","34.20000","43.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","62","34.2 [29.1 - 39.2]","34.20000","29.10000","39.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","62","32.4 [27.2 - 37.5]","32.40000","27.20000","37.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","62","29.8 [24.4 - 35.2]","29.80000","24.40000","35.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","62","25.8 [20.2 - 31.4]","25.80000","20.20000","31.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","35","46.9 [38.2 - 55.7]","46.90000","38.20000","55.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","35","42.6 [35.6 - 49.8]","42.60000","35.60000","49.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","35","38.4 [32.6 - 44.5]","38.40000","32.60000","44.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","35","34.4 [29.1 - 40.1]","34.40000","29.10000","40.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","35","30.6 [25.2 - 36.6]","30.60000","25.20000","36.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","35","27.0 [21.1 - 33.9]","27.00000","21.10000","33.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","35","25.7 [19.6 - 32.9]","25.70000","19.60000","32.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","35","23.8 [17.4 - 31.6]","23.80000","17.40000","31.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","35","20.8 [14.1 - 29.6]","20.80000","14.10000","29.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","145","29.2 [22.9 - 36.4]","29.20000","22.90000","36.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","145","26.1 [19.3 - 34.3]","26.10000","19.30000","34.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","145","23.3 [16.1 - 32.4]","23.30000","16.10000","32.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","145","20.6 [13.2 - 30.8]","20.60000","13.20000","30.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","145","18.2 [10.7 - 29.3]","18.20000","10.70000","29.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","145","16.1 [8.6 - 27.9]","16.10000","8.60000","27.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","145","15.2 [7.9 - 27.3]","15.20000","7.90000","27.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","145","14.1 [6.9 - 26.5]","14.10000","6.90000","26.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","145","12.3 [5.5 - 25.3]","12.30000","5.50000","25.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","419","22.9 [18.9 - 26.8]","22.90000","18.90000","26.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","419","19.7 [16.1 - 23.4]","19.70000","16.10000","23.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","419","16.9 [13.4 - 20.4]","16.90000","13.40000","20.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","419","14.4 [11.0 - 17.7]","14.40000","11.00000","17.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","419","12.2 [8.9 - 15.4]","12.20000","8.90000","15.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","419","10.3 [7.1 - 13.4]","10.30000","7.10000","13.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","419","9.6 [6.5 - 12.7]","9.60000","6.50000","12.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","419","8.6 [5.7 - 11.6]","8.60000","5.70000","11.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","419","7.2 [4.4 - 10.0]","7.20000","4.40000","10.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","29","21.2 [11.2 - 36.4]","21.20000","11.20000","36.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","29","17.9 [9.2 - 32.0]","17.90000","9.20000","32.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","29","15.0 [7.5 - 28.0]","15.00000","7.50000","28.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","29","12.5 [6.0 - 24.3]","12.50000","6.00000","24.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","29","10.4 [4.8 - 20.9]","10.40000","4.80000","20.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","29","8.6 [3.9 - 17.9]","8.60000","3.90000","17.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2017","","29","8.0 [3.6 - 16.8]","8.00000","3.60000","16.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2020","","29","7.1 [3.1 - 15.3]","7.10000","3.10000","15.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","2025","","29","5.8 [2.5 - 13.0]","5.80000","2.50000","13.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","1990","","13","31.5 [23.4 - 40.9]","31.50000","23.40000","40.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","13","27.6 [20.0 - 36.7]","27.60000","20.00000","36.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","13","23.9 [16.9 - 32.6]","23.90000","16.90000","32.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","13","20.6 [14.3 - 28.8]","20.60000","14.30000","28.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","13","17.6 [12.0 - 25.3]","17.60000","12.00000","25.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","13","15.0 [10.0 - 22.0]","15.00000","10.00000","22.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2017","","13","14.1 [9.3 - 20.8]","14.10000","9.30000","20.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2020","","13","12.8 [8.3 - 19.1]","12.80000","8.30000","19.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2025","","13","10.8 [6.9 - 16.5]","10.80000","6.90000","16.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1990","","5","19.2 [15.0 - 24.2]","19.20000","15.00000","24.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","1995","","5","16.3 [12.6 - 20.8]","16.30000","12.60000","20.80000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2000","","5","13.8 [10.3 - 18.2]","13.80000","10.30000","18.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","5","11.6 [8.2 - 16.2]","11.60000","8.20000","16.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","5","9.7 [6.4 - 14.5]","9.70000","6.40000","14.50000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","5","8.1 [4.9 - 13.2]","8.10000","4.90000","13.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2017","","5","7.5 [4.4 - 12.7]","7.50000","4.40000","12.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2020","","5","6.7 [3.7 - 11.9]","6.70000","3.70000","11.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","2025","","5","5.6 [2.8 - 10.9]","5.60000","2.80000","10.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","1990","","543","36.0 [18.9 - 57.6]","36.00000","18.90000","57.60000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","1995","","543","36.4 [19.3 - 57.7]","36.40000","19.30000","57.70000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2000","","543","36.8 [19.8 - 57.9]","36.80000","19.80000","57.90000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2005","","543","37.2 [20.2 - 58.0]","37.20000","20.20000","58.00000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2010","","543","37.5 [20.7 - 58.1]","37.50000","20.70000","58.10000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. "
+"NUTSTUNTINGPREV","PUBLISHED","2015","","543","37.9 [21.1 - 58.2]","37.90000","21.10000","58.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2017","","543","38.1 [21.3 - 58.2]","38.10000","21.30000","58.20000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Consecutive low population coverage"
+"NUTSTUNTINGPREV","PUBLISHED","2020","","543","38.3 [21.6 - 58.3]","38.30000","21.60000","58.30000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","2025","","543","38.7 [22.1 - 58.4]","38.70000","22.10000","58.40000","Joint Child Malnutrition Estimates (2018 Edition), United Nations Children's Fund (UNICEF), World Health Organisation (WHO) and the World Bank Group. Forecast"
+"NUTSTUNTINGPREV","PUBLISHED","1990","AFR","","48.2 [43.3 - 53.1]","48.20000","43.30000","53.10000",""
+"NUTSTUNTINGPREV","PUBLISHED","1995","AFR","","45.4 [41.1 - 49.7]","45.40000","41.10000","49.70000",""
+"NUTSTUNTINGPREV","PUBLISHED","2000","AFR","","42.6 [38.9 - 46.4]","42.60000","38.90000","46.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2005","AFR","","39.9 [36.6 - 43.2]","39.90000","36.60000","43.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2010","AFR","","37.2 [34.3 - 40.2]","37.20000","34.30000","40.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2015","AFR","","34.6 [32.0 - 37.4]","34.60000","32.00000","37.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2017","AFR","","33.6 [31.0 - 36.3]","33.60000","31.00000","36.30000",""
+"NUTSTUNTINGPREV","PUBLISHED","2020","AFR","","32.1 [29.6 - 34.8]","32.10000","29.60000","34.80000",""
+"NUTSTUNTINGPREV","PUBLISHED","2025","AFR","","29.7 [27.2 - 32.4]","29.70000","27.20000","32.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","1990","AMR","","14.9 [7.3 - 28.3]","14.90000","7.30000","28.30000",""
+"NUTSTUNTINGPREV","PUBLISHED","1995","AMR","","12.8 [6.3 - 24.2]","12.80000","6.30000","24.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2000","AMR","","11.0 [5.5 - 20.5]","11.00000","5.50000","20.50000",""
+"NUTSTUNTINGPREV","PUBLISHED","2005","AMR","","9.3 [4.8 - 17.4]","9.30000","4.80000","17.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2010","AMR","","7.9 [4.2 - 14.6]","7.90000","4.20000","14.60000",""
+"NUTSTUNTINGPREV","PUBLISHED","2015","AMR","","6.7 [3.6 - 12.3]","6.70000","3.60000","12.30000",""
+"NUTSTUNTINGPREV","PUBLISHED","2017","AMR","","6.3 [3.4 - 11.5]","6.30000","3.40000","11.50000",""
+"NUTSTUNTINGPREV","PUBLISHED","2020","AMR","","5.7 [3.1 - 10.3]","5.70000","3.10000","10.30000",""
+"NUTSTUNTINGPREV","PUBLISHED","2025","AMR","","4.8 [2.6 - 8.7]","4.80000","2.60000","8.70000",""
+"NUTSTUNTINGPREV","PUBLISHED","1990","EMR","","39.8 [31.0 - 49.3]","39.80000","31.00000","49.30000",""
+"NUTSTUNTINGPREV","PUBLISHED","1995","EMR","","36.7 [27.6 - 46.8]","36.70000","27.60000","46.80000",""
+"NUTSTUNTINGPREV","PUBLISHED","2000","EMR","","33.7 [24.5 - 44.4]","33.70000","24.50000","44.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2005","EMR","","30.8 [21.5 - 42.0]","30.80000","21.50000","42.00000",""
+"NUTSTUNTINGPREV","PUBLISHED","2010","EMR","","28.1 [18.9 - 39.7]","28.10000","18.90000","39.70000",""
+"NUTSTUNTINGPREV","PUBLISHED","2015","EMR","","25.5 [16.4 - 37.4]","25.50000","16.40000","37.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2017","EMR","","24.6 [15.5 - 36.5]","24.60000","15.50000","36.50000",""
+"NUTSTUNTINGPREV","PUBLISHED","2020","EMR","","23.1 [14.3 - 35.2]","23.10000","14.30000","35.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2025","EMR","","20.9 [12.3 - 33.1]","20.90000","12.30000","33.10000",""
+"NUTSTUNTINGPREV","PUBLISHED","1990","SEAR","","59.6 [55.4 - 63.7]","59.60000","55.40000","63.70000",""
+"NUTSTUNTINGPREV","PUBLISHED","1995","SEAR","","54.7 [50.7 - 58.5]","54.70000","50.70000","58.50000",""
+"NUTSTUNTINGPREV","PUBLISHED","2000","SEAR","","49.6 [45.7 - 53.4]","49.60000","45.70000","53.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2005","SEAR","","44.5 [40.6 - 48.5]","44.50000","40.60000","48.50000",""
+"NUTSTUNTINGPREV","PUBLISHED","2010","SEAR","","39.5 [35.3 - 43.9]","39.50000","35.30000","43.90000",""
+"NUTSTUNTINGPREV","PUBLISHED","2015","SEAR","","34.8 [30.3 - 39.6]","34.80000","30.30000","39.60000",""
+"NUTSTUNTINGPREV","PUBLISHED","2017","SEAR","","33.0 [28.3 - 38.0]","33.00000","28.30000","38.00000",""
+"NUTSTUNTINGPREV","PUBLISHED","2020","SEAR","","30.3 [25.6 - 35.6]","30.30000","25.60000","35.60000",""
+"NUTSTUNTINGPREV","PUBLISHED","2025","SEAR","","26.2 [21.3 - 31.8]","26.20000","21.30000","31.80000",""
+"NUTSTUNTINGPREV","PUBLISHED","1990","WPR","","35.6 [31.7 - 39.8]","35.60000","31.70000","39.80000",""
+"NUTSTUNTINGPREV","PUBLISHED","1995","WPR","","27.6 [23.9 - 31.6]","27.60000","23.90000","31.60000",""
+"NUTSTUNTINGPREV","PUBLISHED","2000","WPR","","20.8 [17.0 - 25.2]","20.80000","17.00000","25.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2005","WPR","","15.3 [11.5 - 20.0]","15.30000","11.50000","20.00000",""
+"NUTSTUNTINGPREV","PUBLISHED","2010","WPR","","11.1 [7.6 - 15.8]","11.10000","7.60000","15.80000",""
+"NUTSTUNTINGPREV","PUBLISHED","2015","WPR","","7.9 [4.9 - 12.4]","7.90000","4.90000","12.40000",""
+"NUTSTUNTINGPREV","PUBLISHED","2017","WPR","","6.9 [4.1 - 11.2]","6.90000","4.10000","11.20000",""
+"NUTSTUNTINGPREV","PUBLISHED","2020","WPR","","5.6 [3.1 - 9.7]","5.60000","3.10000","9.70000",""
+"NUTSTUNTINGPREV","PUBLISHED","2025","WPR","","3.9 [2.0 - 7.5]","3.90000","2.00000","7.50000",""

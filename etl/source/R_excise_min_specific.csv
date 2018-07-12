@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_excise_min_specific,PUBLISHED,AFR,BEN,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,BWA,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,CPV,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,CMR,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,CAF,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,TCD,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,COM,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,COG,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,CIV,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,COD,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,GNQ,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,ERI,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,ETH,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,GAB,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,GHA,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,MDG,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,MLI,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,MRT,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,NER,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,RWA,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,STP,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,SEN,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,SLE,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,TGO,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,ZWE,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,ARG,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,BOL,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,BRA,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,CHL,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,COL,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,DOM,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,SLV,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,GRD,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,GTM,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,GUY,No,,,,
-R_excise_min_specific,PUBLISHED,AMR,MEX,No,,,,
-R_excise_min_specific,PUBLISHED,EMR,EGY,No,,,,
-R_excise_min_specific,PUBLISHED,EMR,LBN,No,,,,
-R_excise_min_specific,PUBLISHED,EMR,SDN,No,,,,
-R_excise_min_specific,PUBLISHED,EMR,TUN,No,,,,
-R_excise_min_specific,PUBLISHED,EUR,DEU,No,,,,
-R_excise_min_specific,PUBLISHED,EUR,ISR,No,,,,
-R_excise_min_specific,PUBLISHED,EUR,MDA,No,,,,
-R_excise_min_specific,PUBLISHED,EUR,SMR,No,,,,
-R_excise_min_specific,PUBLISHED,SEAR,BGD,No,,,,
-R_excise_min_specific,PUBLISHED,SEAR,IND,No,,,,
-R_excise_min_specific,PUBLISHED,SEAR,IDN,No,,,,
-R_excise_min_specific,PUBLISHED,SEAR,MMR,No,,,,
-R_excise_min_specific,PUBLISHED,SEAR,LKA,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,KHM,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,CHN,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,LAO,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,MYS,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,TUV,No,,,,
-R_excise_min_specific,PUBLISHED,WPR,VNM,No,,,,
-R_excise_min_specific,PUBLISHED,AFR,BFA,Yes,,,,
-R_excise_min_specific,PUBLISHED,AFR,KEN,Yes,,,,
-R_excise_min_specific,PUBLISHED,AFR,NGA,Yes,,,,
-R_excise_min_specific,PUBLISHED,AFR,ZMB,Yes,,,,
-R_excise_min_specific,PUBLISHED,AMR,CRI,Yes,,,,
-R_excise_min_specific,PUBLISHED,AMR,PAN,Yes,,,,
-R_excise_min_specific,PUBLISHED,AMR,KNA,Yes,,,,
-R_excise_min_specific,PUBLISHED,EMR,MAR,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,AUT,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,BEL,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,BIH,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,BGR,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,HRV,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,CYP,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,CZE,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,DNK,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,EST,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,FIN,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,FRA,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,GRC,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,HUN,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,IRL,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,ITA,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,KGZ,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,LVA,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,LTU,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,LUX,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,MLT,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,MNE,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,NLD,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,POL,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,PRT,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,ROU,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,RUS,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,SRB,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,SVK,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,SVN,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,ESP,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,SWE,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,CHE,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,MKD,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,TUR,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,TKM,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,UKR,Yes,,,,
-R_excise_min_specific,PUBLISHED,EUR,GBR,Yes,,,,
-R_excise_min_specific,PUBLISHED,SEAR,THA,Yes,,,,
-R_excise_min_specific,PUBLISHED,AFR,DZA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,BDI,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,GMB,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,LSO,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,MWI,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,MUS,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,NAM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,SYC,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,UGA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,TZA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,BHS,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,BRB,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,CAN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,DMA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,ECU,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,HND,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,JAM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,NIC,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,PER,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,LCA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,VCT,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,SUR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,TTO,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,USA,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AMR,URY,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,IRN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,JOR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,KWT,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,LBY,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,PAK,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,ARE,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EMR,YEM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,ALB,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,AND,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,ARM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,AZE,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,BLR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,GEO,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,ISL,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,KAZ,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,NOR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,TJK,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,EUR,UZB,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,AUS,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,BRN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,COK,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,FJI,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,JPN,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,KIR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,MNG,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,NZL,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,PLW,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,PNG,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,PHL,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,KOR,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,WSM,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,SGP,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,SLB,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,TON,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,WPR,VUT,Not applicable,,,,Data not required/not applicable
-R_excise_min_specific,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AFR,GNB,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AFR,LBR,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AMR,PRY,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,AMR,VEN,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,EMR,DJI,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
-R_excise_min_specific,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_excise_min_specific","PUBLISHED","AFR","BEN","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","BWA","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","CPV","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","CMR","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","CAF","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","TCD","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","COM","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","COG","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","CIV","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","COD","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","GNQ","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","ERI","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","ETH","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","GAB","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","GHA","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","MDG","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","MLI","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","MRT","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","NER","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","RWA","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","STP","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","SEN","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","SLE","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","TGO","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","ZWE","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","ARG","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","BOL","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","BRA","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","CHL","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","COL","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","DOM","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","SLV","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","GRD","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","GTM","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","GUY","No","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","MEX","No","","","",""
+"R_excise_min_specific","PUBLISHED","EMR","EGY","No","","","",""
+"R_excise_min_specific","PUBLISHED","EMR","LBN","No","","","",""
+"R_excise_min_specific","PUBLISHED","EMR","SDN","No","","","",""
+"R_excise_min_specific","PUBLISHED","EMR","TUN","No","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","DEU","No","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","ISR","No","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","MDA","No","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","SMR","No","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","BGD","No","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","IND","No","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","IDN","No","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","MMR","No","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","LKA","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","KHM","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","CHN","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","LAO","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","MYS","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","TUV","No","","","",""
+"R_excise_min_specific","PUBLISHED","WPR","VNM","No","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","BFA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","KEN","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","NGA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","ZMB","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","CRI","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","PAN","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AMR","KNA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EMR","MAR","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","AUT","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","BEL","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","BIH","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","BGR","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","HRV","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","CYP","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","CZE","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","DNK","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","EST","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","FIN","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","FRA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","GRC","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","HUN","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","IRL","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","ITA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","KGZ","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","LVA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","LTU","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","LUX","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","MLT","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","MNE","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","NLD","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","POL","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","PRT","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","ROU","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","RUS","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","SRB","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","SVK","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","SVN","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","ESP","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","SWE","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","CHE","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","MKD","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","TUR","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","TKM","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","UKR","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","EUR","GBR","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","SEAR","THA","Yes","","","",""
+"R_excise_min_specific","PUBLISHED","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","HND","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","NIC","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","PER","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AMR","URY","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","ISL","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","KAZ","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","NOR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","AUS","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","MNG","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","NZL","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","PHL","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","SGP","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"R_excise_min_specific","PUBLISHED","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_excise_min_specific","PUBLISHED","WPR","NRU","Not available","","","","Data not reported/not available"

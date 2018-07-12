@@ -1,123 +1,115 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-WHS10_9,PUBLISHED,2010,EUR,AND,10.0,10.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2007-2009,AMR,ATG,9.0,9.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,ARG,22.0,22.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,ARM,7.0,7.0,,,
-WHS10_9,PUBLISHED,2007,WPR,AUS,5.4,5.4,,,
-WHS10_9,PUBLISHED,2009-2011,WPR,AUS,6.0,6.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,AUT,10.0,10.0,,,
-WHS10_9,PUBLISHED,2007,EUR,AZE,34.0,34.0,,,
-WHS10_9,PUBLISHED,2006-2008,AMR,BHS,6.0,6.0,,,
-WHS10_9,PUBLISHED,2009-2011,EMR,BHR,30.0,30.0,,,
-WHS10_9,PUBLISHED,2006-2008,AMR,BRB,9.0,9.0,,,
-WHS10_9,PUBLISHED,2007-2009,EUR,BLR,12.0,12.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2006,EUR,BEL,12.2,12.24,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,BEL,13.0,13.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,BLZ,10.0,10.0,,,
-WHS10_9,PUBLISHED,2011,EUR,BIH,25.0,25.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,BRA,12.0,12.0,,,
-WHS10_9,PUBLISHED,2009-2011,WPR,BRN,8.0,8.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2010-2012,EUR,BGR,28.0,28.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,CAN,6.0,6.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,CHL,6.0,6.0,,,
-WHS10_9,PUBLISHED,2008-2010,WPR,CHN,1.0,1.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2007-2009,AMR,COL,6.0,6.0,,,
-WHS10_9,PUBLISHED,2008-2010,WPR,COK,5.0,5.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2009-2011,AMR,CRI,5.0,5.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,HRV,8.0,8.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,CUB,6.0,6.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,CYP,16.0,16.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,CZE,11.0,11.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,DNK,13.0,13.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,DMA,8.0,8.0,,,
-WHS10_9,PUBLISHED,2005,AMR,DOM,14.6,14.63,,,
-WHS10_9,PUBLISHED,2010,AMR,DOM,9.0,9.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,ECU,16.0,16.0,,,
-WHS10_9,PUBLISHED,2009-2011,EMR,EGY,36.0,36.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,SLV,24.0,24.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,EST,6.0,6.0,,,
-WHS10_9,PUBLISHED,2009,WPR,FJI,17.4,17.38,,,
-WHS10_9,PUBLISHED,2011,WPR,FJI,14.0,14.0,,,"only the data for last 2 available years were included in the calculations: 2009, 2011"
-WHS10_9,PUBLISHED,2009-2011,EUR,FIN,2.0,2.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,FRA,15.0,15.0,,,
-WHS10_9,PUBLISHED,2009-2010,EUR,GEO,51.0,51.0,,,"only the data for last 3 available years were included in the calculations: 2007, 2009-2010"
-WHS10_9,PUBLISHED,2010-2012,EUR,DEU,12.0,12.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,GRC,26.0,26.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,GRD,10.0,10.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,GTM,17.0,17.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,GUY,7.0,7.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,HUN,5.0,5.0,,,
-WHS10_9,PUBLISHED,2007-2009,EUR,ISL,6.0,6.0,,,
-WHS10_9,PUBLISHED,2006-2007,SEAR,IND,10.0,10.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified, and to ill-defined injuries"
-WHS10_9,PUBLISHED,2006,EMR,IRN,11.0,11.0,,,
-WHS10_9,PUBLISHED,2008,EMR,IRQ,28.0,28.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,IRL,5.0,5.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,ISR,8.0,8.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,ITA,8.0,8.0,,,
-WHS10_9,PUBLISHED,2006,AMR,JAM,8.0,8.0,,,
-WHS10_9,PUBLISHED,2009-2011,WPR,JPN,12.0,12.0,,,
-WHS10_9,PUBLISHED,2008-2009,EMR,JOR,9.0,9.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,KAZ,9.0,9.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2009-2011,EMR,KWT,10.0,10.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,KGZ,3.0,3.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,LVA,11.0,11.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,LTU,5.0,5.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,LUX,14.0,14.0,,,
-WHS10_9,PUBLISHED,2006-2008,WPR,MYS,22.0,22.0,,,
-WHS10_9,PUBLISHED,2008,SEAR,MDV,25.0,24.99,,,
-WHS10_9,PUBLISHED,2010-2011,SEAR,MDV,25.0,25.0,,,"only the data for last 3 available years were included in the calculations: 2008, 2010-2011"
-WHS10_9,PUBLISHED,2009-2011,EUR,MLT,7.0,7.0,,,
-WHS10_9,PUBLISHED,2009-2011,AFR,MUS,8.0,8.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,MEX,5.0,5.0,,,
-WHS10_9,PUBLISHED,2010,EUR,MCO,14.0,14.0,,,
-WHS10_9,PUBLISHED,2010,WPR,MNG,1.0,1.0,,,"only the data for last 3 available years were included in the calculations: 2007-2008, 2010. includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2007-2009,EUR,MNE,25.0,25.0,,,
-WHS10_9,PUBLISHED,2008,EMR,MAR,49.6,49.63,,,
-WHS10_9,PUBLISHED,2011,EMR,MAR,50.0,50.0,,,"only the data for last 3 available years were included in the calculations: 2008, 2011"
-WHS10_9,PUBLISHED,2009-2011,EUR,NLD,13.0,13.0,,,
-WHS10_9,PUBLISHED,2007-2009,WPR,NZL,3.0,3.0,,,
-WHS10_9,PUBLISHED,2009-2011,AMR,NIC,5.0,5.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,NOR,11.0,11.0,,,
-WHS10_9,PUBLISHED,2009-2010,EMR,OMN,46.0,46.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,PAN,9.0,9.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,PRY,18.0,18.0,,,
-WHS10_9,PUBLISHED,2007,AMR,PER,6.5,6.54,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,PER,5.0,5.0,,,
-WHS10_9,PUBLISHED,2008,WPR,PHL,10.0,10.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,POL,27.0,27.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,PRT,17.0,17.0,,,
-WHS10_9,PUBLISHED,2009-2011,EMR,QAT,31.0,31.0,,,
-WHS10_9,PUBLISHED,2009-2011,WPR,KOR,15.0,15.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,MDA,2.0,2.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,ROU,7.0,7.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,RUS,5.0,5.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2008-2010,AMR,KNA,7.0,7.0,,,
-WHS10_9,PUBLISHED,2008,AMR,LCA,16.0,16.0,,,"only the data for last 2 available years were included in the calculations: 2006, 2008"
-WHS10_9,PUBLISHED,2008-2010,AMR,VCT,8.0,8.0,,,
-WHS10_9,PUBLISHED,2007,EUR,SMR,10.0,10.0,,,
-WHS10_9,PUBLISHED,2009,EMR,SAU,48.0,48.0,,,
-WHS10_9,PUBLISHED,2010-2012,EUR,SRB,13.0,13.0,,,
-WHS10_9,PUBLISHED,2010-2012,AFR,SYC,2.0,2.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2009-2011,WPR,SGP,3.0,3.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,SVK,8.0,8.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,SVN,10.0,10.0,,,
-WHS10_9,PUBLISHED,2007-2009,AFR,ZAF,21.0,21.0,,,
-WHS10_9,PUBLISHED,2009-2011,EUR,ESP,10.0,10.0,,,
-WHS10_9,PUBLISHED,2006,SEAR,LKA,28.0,28.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,SUR,13.0,13.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,SWE,11.0,11.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,CHE,10.0,10.0,,,
-WHS10_9,PUBLISHED,2008-2010,EMR,SYR,10.0,10.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2005,EUR,TJK,4.1,4.06,,,
-WHS10_9,PUBLISHED,2006,SEAR,THA,45.0,45.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,MKD,14.0,14.0,,,
-WHS10_9,PUBLISHED,2006-2008,AMR,TTO,5.0,5.0,,,
-WHS10_9,PUBLISHED,2006-2008,EUR,TUR,14.0,14.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified, and to ill-defined injuries"
-WHS10_9,PUBLISHED,2010-2012,EUR,UKR,3.0,3.0,,,"includes only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified"
-WHS10_9,PUBLISHED,2006,EMR,ARE,26.0,26.0,,,"These countries include only data coded to the ICD chapter on symptoms, signs and abnormal clinical and laboratory findings not elsewhere classified."
-WHS10_9,PUBLISHED,2008-2010,EMR,ARE,22.0,22.0,,,
-WHS10_9,PUBLISHED,2008-2010,EUR,GBR,6.0,6.0,,,
-WHS10_9,PUBLISHED,2008-2010,AMR,USA,7.0,7.0,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,URY,17.0,17.0,,,
-WHS10_9,PUBLISHED,2005,EUR,UZB,6.2,6.2,,,
-WHS10_9,PUBLISHED,2007-2009,AMR,VEN,8.0,8.0,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"WHS10_9","PUBLISHED","2015","AMR","BLZ","5","4.85327","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","DNK","13","12.65127","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EUR","SVK","7","6.82248","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AFR","ZAF","18","17.93884","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","EUR","MDA","2","1.83958","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EUR","PRT","14","13.65628","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2012","AFR","CPV","21","21.41823","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","GEO","38","37.57456","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2010","EUR","ALB","24","23.51100","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2016","EUR","AUT","9","8.87082","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","GRC","18","17.68119","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EMR","MAR","43","43.18511","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2014","WPR","MYS","11","11.09804","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2015","AMR","CUB","5","5.24621","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","POL","31","31.33335","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","DEU","11","10.70017","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","PAN","10","10.23540","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","AMR","ARG","17","16.66243","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","WPR","JPN","16","15.68065","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","UKR","2","2.37577","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","AMR","SLV","26","26.40497","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2012","WPR","FJI","9","9.45906","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2012","EMR","SAU","46","46.08204","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2015","AMR","MEX","4","3.98727","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2010","EMR","ARE","18","18.06286","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","AMR","GTM","12","11.69631","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","DMA","9","9.37973","","","Source: WHS2017. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EMR","OMN","43","43.31756","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2015","EUR","ISR","9","9.14697","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","KAZ","8","7.93336","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","EUR","HUN","5","5.49298","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","AMR","LCA","8","7.91091","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","EUR","ROU","8","7.89806","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","RUS","8","7.81471","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","EUR","ARM","7","7.29824","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","ATG","5","5.49242","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","AND","7","6.56028","","","Source: WHS2017. Quality category: medium."
+"WHS10_9","PUBLISHED","2007","EUR","AZE","34","33.82105","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EMR","EGY","32","31.95064","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","AMR","ECU","12","11.81355","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","ESP","9","8.52644","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EUR","IRL","4","4.07493","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2016","EUR","LTU","3","3.22581","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2016","EUR","CZE","9","9.14803","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2008","EMR","IRQ","28","27.84790","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","LUX","12","12.03438","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","WPR","NZL","3","2.97274","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","MLT","6","5.63462","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","TKM","15","15.23553","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","AFR","SYC","2","2.41821","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EUR","UZB","6","5.97151","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","AMR","CAN","5","5.08921","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","CYP","11","10.95524","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","BEL","15","15.05957","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","FIN","2","2.33261","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","AMR","DOM","9","8.98231","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2016","EUR","HRV","6","5.70991","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","BRA","10","10.13942","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","KNA","9","8.89488","","","Source: WHO mortality database. Quality category: medium."
+"WHS10_9","PUBLISHED","2013","AMR","HND","3","3.18048","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2016","EUR","SWE","10","10.24256","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","GBR","5","5.32515","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","AMR","BRB","8","8.07553","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","AFR","MUS","8","8.16532","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","COL","5","4.69171","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2013","EMR","TUN","27","27.34293","","","Source: GHE2016. Quality category: very low."
+"WHS10_9","PUBLISHED","2016","EUR","ISL","7","6.83983","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","URY","16","15.96445","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2011","SEAR","MDV","26","26.48602","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2013","AMR","BHS","5","4.69734","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","LVA","4","4.01277","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","WPR","BRN","7","6.59341","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EMR","KWT","8","8.30708","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2014","AMR","PRY","14","14.41335","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","ITA","9","8.66081","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","EUR","MKD","16","15.52478","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","TUR","10","9.60725","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EUR","BGR","27","26.64476","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EMR","QAT","25","24.57666","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2011","AMR","TTO","4","4.49248","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2013","AMR","GUY","9","8.72071","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","KGZ","5","4.72866","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","VCT","6","6.14334","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EUR","BLR","12","12.04686","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","NOR","11","10.74571","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","PER","6","6.00374","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","SMR","6","6.07735","","","Source: WHS2017. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EUR","BIH","20","20.29739","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","CHE","10","10.24317","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","EUR","FRA","15","15.39244","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","AMR","CRI","5","5.24889","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","AMR","GRD","5","4.89433","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","WPR","KOR","13","13.28368","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2011","AMR","JAM","6","5.86671","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2009","EUR","MNE","25","25.12785","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","AMR","NIC","5","4.64690","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","EUR","SRB","15","15.09578","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2016","EUR","NLD","13","12.96134","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2016","EUR","TJK","15","14.96220","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","EUR","SVN","11","11.23828","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","WPR","SGP","2","1.66845","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2014","EMR","BHR","26","25.89982","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2015","WPR","AUS","5","5.41395","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","AMR","CHL","5","4.59899","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EUR","EST","7","6.70472","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2015","EMR","IRN","13","13.12185","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2012","EMR","JOR","10","10.26371","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2016","WPR","MNG","2","1.68088","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2011","WPR","PHL","9","9.30862","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2015","SEAR","THA","29","28.91601","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2010","EMR","SYR","34","33.96246","","","Source: GHE2016. Quality category: low."
+"WHS10_9","PUBLISHED","2016","AMR","USA","7","7.19957","","","Source: GHE2016. Quality category: high."
+"WHS10_9","PUBLISHED","2014","AMR","SUR","16","15.61905","","","Source: GHE2016. Quality category: medium."
+"WHS10_9","PUBLISHED","2013","AMR","VEN","8","8.47968","","","Source: GHE2016. Quality category: medium."

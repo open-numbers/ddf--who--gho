@@ -1,201 +1,178 @@
-GHO,PUBLISHSTATE,YEAR,REGION,WORLDBANKINCOMEGROUP,COUNTRY,SEX,Display Value,Numeric,Low,High,Comments
-MDG_0000000003,PUBLISHED,2009,AFR,WB_UMI,AGO,FMLE,190.9,190.9,,,Survey 2011 MIS
-MDG_0000000003,PUBLISHED,2001,AMR,WB_HI,ATG,FMLE,66.8,66.8,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2013,AMR,WB_HI,ARG,FMLE,68.1,68.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,WPR,WB_UMI,MHL,FMLE,85.0,85.0,,,Census Secretariat of the Pacific Community 
-MDG_0000000003,PUBLISHED,2007,WPR,WB_LMI,WSM,FMLE,44.0,44.0,,,Survey 2009 DHS
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,SMR,FMLE,1.3,1.3,,,Registration UNSD & WPP2015.  Unpublished estimate.
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,SVK,FMLE,21.2,21.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,SVN,FMLE,4.6,4.6,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2013,EMR,WB_LMI,SDN,FMLE,87.0,87.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2007,AMR,WB_UMI,SUR,FMLE,65.3,65.3,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,SWE,FMLE,5.1,5.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,EUR,WB_UMI,MKD,FMLE,18.7,18.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2010,SEAR,WB_LMI,TLS,FMLE,50.0,50.0,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LI,UGA,FMLE,140.0,140.0,,,Survey 2014 PMA
-MDG_0000000003,PUBLISHED,2013,EUR,WB_LMI,UKR,FMLE,27.2,27.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EUR,WB_UMI,MNE,FMLE,13.4,13.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,SEAR,WB_LMI,MMR,FMLE,30.3,30.3,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2010,AFR,WB_LI,NER,FMLE,206.0,206.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2012,AMR,WB_UMI,PER,FMLE,65.0,65.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2013,WPR,WB_HI,KOR,FMLE,1.7,1.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,EUR,WB_UMI,ROU,FMLE,38.9,38.9,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,RUS,FMLE,26.6,26.6,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2010,AFR,WB_LI,LBR,FMLE,147.0,147.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2012,SEAR,WB_UMI,MDV,FMLE,13.7,13.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,MLT,FMLE,13.1,13.1,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2015,EMR,,,FMLE,46.1,46.1,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2015,EUR,,,FMLE,17.6,17.6,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2015,SEAR,,,FMLE,33.9,33.9,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LI,COD,FMLE,138.0,138.0,,,Survey 2013-2014 DHS
-MDG_0000000003,PUBLISHED,2014,EUR,WB_HI,DNK,FMLE,2.4,2.4,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EMR,WB_LMI,EGY,FMLE,56.0,56.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2012,AMR,WB_LMI,SLV,FMLE,72.0,72.0,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2008,AFR,WB_LI,ERI,FMLE,76.0,76.0,,,Survey 2010 PHS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LI,GIN,FMLE,146.0,146.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2009,AFR,WB_LI,GNB,FMLE,136.7,136.7,,,Survey 2010 MICS
-MDG_0000000003,PUBLISHED,2007,AMR,WB_HI,BRB,FMLE,49.7,49.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,BIH,FMLE,11.0,11.0,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2008,AMR,WB_UMI,COL,FMLE,84.0,84.0,,,Survey 2010 DHS
-MDG_0000000003,PUBLISHED,2014,AMR,WB_UMI,CRI,FMLE,61.2,61.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2009,EMR,WB_UMI,LBY,FMLE,6.0,6.0,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2008,EMR,WB_HI,SAU,FMLE,17.6,17.6,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2013,WPR,WB_HI,SGP,FMLE,2.7,2.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2008,WPR,WB_LMI,SLB,FMLE,62.0,62.0,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LI,TGO,FMLE,85.0,85.0,,,Survey 2013-2014 DHS-MICS
-MDG_0000000003,PUBLISHED,2009,EMR,WB_HI,ARE,FMLE,34.2,34.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,GBR,FMLE,19.3,19.3,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,WPR,WB_LMI,VUT,FMLE,78.0,78.0,,,Survey 2013 DHS-MICS
-MDG_0000000003,PUBLISHED,2013,WPR,WB_LMI,VNM,FMLE,36.0,36.0,,,Survey Annual Population Change Survey
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,LTU,FMLE,13.9,13.9,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2009,AMR,WB_LMI,NIC,FMLE,92.0,92.0,,,Survey 2011-2012 National DHS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LMI,NGA,FMLE,122.0,122.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2010,WPR,WB_UMI,PLW,FMLE,27.0,27.0,,,Census Secretariat of the Pacific Community 
-MDG_0000000003,PUBLISHED,2007,AMR,WB_UMI,PRY,FMLE,63.0,63.0,,,Survey 2008 ENDSSR
-MDG_0000000003,PUBLISHED,2014,EUR,WB_LMI,MDA,FMLE,26.7,26.7,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2014,AFR,WB_LMI,STP,FMLE,92.0,92.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LMI,KEN,FMLE,96.0,96.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2012,EMR,WB_HI,KWT,FMLE,7.1,7.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2015,AMR,,,FMLE,51.7,51.7,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2008,SEAR,WB_LI,PRK,FMLE,0.7,0.7,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2010,AFR,WB_HI,GNQ,FMLE,176.0,176.0,,,Survey 2011 DHS
-MDG_0000000003,PUBLISHED,2009,AFR,WB_UMI,GAB,FMLE,115.0,115.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LI,GMB,FMLE,88.0,88.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2013,EUR,WB_LMI,GEO,FMLE,41.5,41.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,DEU,FMLE,7.8,7.8,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2007,AMR,WB_LMI,GUY,FMLE,101.0,101.0,,,Survey 2009 DHS
-MDG_0000000003,PUBLISHED,2009,EMR,WB_UMI,IRQ,FMLE,82.0,82.0,,,Survey 2011 MICS
-MDG_0000000003,PUBLISHED,2013,SEAR,WB_LMI,BGD,FMLE,113.0,113.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2012,AMR,WB_LMI,BOL,FMLE,115.6,115.6,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2011,AMR,WB_UMI,BRA,FMLE,64.8,64.8,,,Estimate National statistics
-MDG_0000000003,PUBLISHED,2013,WPR,WB_LI,KHM,FMLE,57.0,57.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2011,AMR,WB_HI,CAN,FMLE,12.6,12.6,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2011,EMR,WB_LI,AFG,FMLE,51.9,51.9,,,Survey 2010-2011 MICS
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,GRC,FMLE,8.3,8.3,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,SRB,FMLE,22.0,22.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2008,AFR,WB_LI,SSD,FMLE,158.0,158.0,,,Survey 2010 MICS
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,CHE,FMLE,2.0,2.0,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2011,EUR,WB_LMI,TJK,FMLE,54.0,54.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2007,WPR,WB_UMI,TUV,FMLE,42.0,42.0,,,Census Secretariat of the Pacific Community 
-MDG_0000000003,PUBLISHED,2013,AMR,WB_HI,URY,FMLE,63.5,63.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2010,EUR,WB_LMI,UZB,FMLE,29.5,29.5,,,Registration TransMONEE
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LMI,ZMB,FMLE,145.0,145.0,,,Survey 2013-2014 DHS
-MDG_0000000003,PUBLISHED,2015,GLOBAL,,,FMLE,44.1,44.1,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision, DVD Edition. http://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
-MDG_0000000003,PUBLISHED,2000,AMR,WB_UMI,GRD,FMLE,53.1,53.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,AMR,WB_LMI,GTM,FMLE,91.0,91.0,,,Registration UNSD & WPP2015.  Unpublished estimate.
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,HUN,FMLE,19.8,19.8,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,SEAR,WB_LMI,IND,FMLE,28.1,28.1,,,Survey Sample Registration System
-MDG_0000000003,PUBLISHED,2010,WPR,WB_LMI,LAO,FMLE,94.0,94.0,,,Survey 2011-2012 DHS-MICS
-MDG_0000000003,PUBLISHED,2007,AFR,WB_LI,MDG,FMLE,148.0,148.0,,,Survey 2008-2009 DHS
-MDG_0000000003,PUBLISHED,2014,WPR,WB_UMI,MNG,FMLE,26.7,26.7,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2011,WPR,WB_HI,NRU,FMLE,105.3,105.3,,,Registration UNSD & WPP2015.  Unpublished estimate.
-MDG_0000000003,PUBLISHED,2013,EMR,WB_HI,OMN,FMLE,13.5,13.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,WPR,WB_LMI,PHL,FMLE,57.0,57.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LMI,SEN,FMLE,80.0,80.0,,,Survey 2012-2013 DHS
-MDG_0000000003,PUBLISHED,2002,AMR,WB_UMI,ECU,FMLE,99.6,99.6,,,Survey 2004 ENDEMAIN
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LI,ETH,FMLE,71.2,71.2,,,Survey 2014 PMA-R2
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LMI,GHA,FMLE,65.0,65.0,,,Survey 2014 PMA-R2
-MDG_0000000003,PUBLISHED,2015,AFR,,,FMLE,100.3,100.3,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,AUT,FMLE,7.9,7.9,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,AZE,FMLE,47.2,47.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,BEL,FMLE,7.2,7.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2008,WPR,WB_HI,BRN,FMLE,16.6,16.6,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2009,AFR,WB_LI,CAF,FMLE,229.0,229.0,,,Survey 2010 MICS
-MDG_0000000003,PUBLISHED,2009,AFR,WB_LI,TCD,FMLE,203.4,203.4,,,Survey 2010 MICS
-MDG_0000000003,PUBLISHED,2011,WPR,WB_UMI,CHN,FMLE,6.2,6.2,,,Survey National Sample Survey on Population Changes
-MDG_0000000003,PUBLISHED,2012,AMR,WB_UMI,CUB,FMLE,52.5,52.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,ALB,FMLE,19.7,19.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_LMI,ARM,FMLE,22.7,22.7,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,POL,FMLE,14.0,14.0,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2001,AMR,WB_HI,KNA,FMLE,74.7,74.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2005,AMR,WB_UMI,LCA,FMLE,42.5,42.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,AFR,WB_HI,SYC,FMLE,61.2,61.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LI,SLE,FMLE,125.0,125.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2007,AFR,WB_UMI,ZAF,FMLE,54.0,54.0,,,Survey Community Survey 2007
-MDG_0000000003,PUBLISHED,2014,EUR,WB_HI,NOR,FMLE,5.0,5.0,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2006,EUR,WB_UMI,TKM,FMLE,21.0,21.0,,,Registration TransMONEE
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LI,ZWE,FMLE,120.0,120.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2008,SEAR,WB_LMI,LKA,FMLE,20.3,20.3,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2006,AMR,WB_HI,TTO,FMLE,35.5,35.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,EMR,WB_UMI,TUN,FMLE,6.7,6.7,,,Registration UNSD & WPP2015. Unpublished estimate.
-MDG_0000000003,PUBLISHED,2012,EUR,WB_UMI,TUR,FMLE,29.0,29.0,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,WPR,WB_HI,AUS,FMLE,14.2,14.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,SEAR,WB_LMI,BTN,FMLE,28.4,28.4,,,Survey 2012 Bhutan National Health Survey
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,BGR,FMLE,40.8,40.8,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2009,AFR,WB_LI,BFA,FMLE,130.0,130.0,,,Survey 2010 DHS - MICS
-MDG_0000000003,PUBLISHED,2011,EUR,WB_HI,CYP,FMLE,4.2,4.2,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2014,EUR,WB_HI,FRA,FMLE,6.2,6.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,ISL,FMLE,7.1,7.1,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2014,EUR,WB_HI,ISR,FMLE,10.2,10.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2011,AMR,WB_UMI,JAM,FMLE,45.7,45.7,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2011,EMR,WB_UMI,JOR,FMLE,26.0,26.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2002,EMR,WB_UMI,LBN,FMLE,17.0,17.0,,,Survey 2004 FHS
-MDG_0000000003,PUBLISHED,2013,AMR,WB_UMI,MEX,FMLE,70.9,70.9,,,Survey 2014 ENADID
-MDG_0000000003,PUBLISHED,2012,AFR,WB_UMI,NAM,FMLE,82.0,82.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2013,SEAR,WB_LI,NPL,FMLE,71.0,71.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2010,EUR,WB_HI,AND,FMLE,4.4,4.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2010,AFR,WB_LMI,COG,FMLE,147.0,147.0,,,Survey 2011-2012 DHS
-MDG_0000000003,PUBLISHED,2011,WPR,WB_UMI,TON,FMLE,30.0,30.0,,,Census Secretariat of the Pacific Community 
-MDG_0000000003,PUBLISHED,2012,AMR,WB_HI,VEN,FMLE,94.5,94.5,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EMR,WB_LMI,YEM,FMLE,67.0,67.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2011,WPR,WB_HI,COK,FMLE,56.0,56.0,,,Census Secretariat of the Pacific Community 
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,CZE,FMLE,11.1,11.1,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2010,AMR,WB_LI,HTI,FMLE,66.0,66.0,,,Survey 2012 DHS-MICS
-MDG_0000000003,PUBLISHED,2009,SEAR,WB_LMI,IDN,FMLE,47.0,47.0,,,Survey 2012 DHS
-MDG_0000000003,PUBLISHED,2013,EMR,WB_UMI,IRN,FMLE,37.7,37.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,IRL,FMLE,9.2,9.2,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,KAZ,FMLE,36.4,36.4,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2010,WPR,WB_LMI,KIR,FMLE,49.9,49.9,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LMI,LSO,FMLE,94.0,94.0,,,Survey 2014 DHS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LI,MLI,FMLE,172.0,172.0,,,Survey 2012-2013 DHS
-MDG_0000000003,PUBLISHED,2008,EMR,WB_LMI,MAR,FMLE,32.0,32.0,,,Survey 2011 DHS and PAPFAM 
-MDG_0000000003,PUBLISHED,2010,AFR,WB_LI,MOZ,FMLE,167.0,167.0,,,Survey 2011 DHS
-MDG_0000000003,PUBLISHED,2014,WPR,WB_HI,NZL,FMLE,19.1,19.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,AMR,WB_UMI,PAN,FMLE,91.1,91.1,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2004,WPR,WB_LMI,PNG,FMLE,65.0,65.0,,,Survey 2006 National DHS
-MDG_0000000003,PUBLISHED,2011,EMR,WB_LI,SOM,FMLE,64.0,64.0,,,Survey 2011 MICS Somaliland
-MDG_0000000003,PUBLISHED,2013,AFR,WB_LMI,SWZ,FMLE,87.0,87.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2010,AMR,WB_HI,BHS,FMLE,34.6,34.6,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,EMR,WB_HI,BHR,FMLE,13.8,13.8,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_UMI,BLR,FMLE,21.6,21.6,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,AFR,WB_UMI,BWA,FMLE,39.0,39.0,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2004,AFR,WB_LMI,CPV,FMLE,90.0,90.0,,,Survey 2005 DHS-RHS
-MDG_0000000003,PUBLISHED,2014,AFR,WB_LMI,CMR,FMLE,119.0,119.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LI,COM,FMLE,70.0,70.0,,,Survey 2012 DHS-MICS
-MDG_0000000003,PUBLISHED,2010,EMR,WB_LMI,DJI,FMLE,20.6,20.6,,,Survey 2012 PAPFAM
-MDG_0000000003,PUBLISHED,2013,WPR,WB_HI,JPN,FMLE,4.4,4.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_LMI,KGZ,FMLE,42.1,42.1,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,LVA,FMLE,15.3,15.3,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,LUX,FMLE,6.4,6.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LI,MWI,FMLE,143.0,143.0,,,Survey 2013-2014 MICS
-MDG_0000000003,PUBLISHED,2012,WPR,WB_UMI,MYS,FMLE,12.7,12.7,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,AFR,WB_LMI,MRT,FMLE,71.0,71.0,,,Survey 2011 MICS
-MDG_0000000003,PUBLISHED,2012,AFR,WB_UMI,MUS,FMLE,29.4,29.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2010,WPR,WB_LMI,FSM,FMLE,32.6,32.6,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,NLD,FMLE,4.5,4.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2009,WPR,WB_LI,NIU,FMLE,14.3,14.3,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2011,EMR,WB_LMI,PAK,FMLE,44.0,44.0,,,Survey 2012-2013 DHS
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,PRT,FMLE,10.5,10.5,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2012,EMR,WB_HI,QAT,FMLE,13.4,13.4,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2014,AFR,WB_LI,RWA,FMLE,45.0,45.0,,,Survey 2014-2015 DHS
-MDG_0000000003,PUBLISHED,2009,AMR,WB_UMI,VCT,FMLE,70.0,70.0,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,ESP,FMLE,8.4,8.4,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2009,EMR,WB_LMI,SYR,FMLE,54.0,54.0,,,Survey 2008-2010 FHS
-MDG_0000000003,PUBLISHED,2012,SEAR,WB_UMI,THA,FMLE,60.0,60.0,,,Survey 2012 MICS
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LI,TZA,FMLE,72.1,72.1,,,Census National Statistics
-MDG_0000000003,PUBLISHED,2013,AMR,WB_HI,USA,FMLE,26.6,26.6,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2006,AMR,WB_UMI,DMA,FMLE,47.2,47.2,,,Registration UNSD & WPP2015.  Unpublished estimate.
-MDG_0000000003,PUBLISHED,2012,AMR,WB_UMI,DOM,FMLE,90.0,90.0,,,Survey 2013 DHS
-MDG_0000000003,PUBLISHED,2014,EUR,WB_HI,EST,FMLE,15.6,15.6,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2008,WPR,WB_UMI,FJI,FMLE,27.5,27.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,FIN,FMLE,7.3,7.3,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2010,AMR,WB_LMI,HND,FMLE,101.0,101.0,,,Survey 2011-2012 DHS
-MDG_0000000003,PUBLISHED,2013,EUR,WB_HI,ITA,FMLE,5.8,5.8,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2013,AFR,WB_UMI,DZA,FMLE,12.4,12.4,,,Registration National Statistics
-MDG_0000000003,PUBLISHED,2015,WPR,,,FMLE,15.3,15.3,,,"Estimate refers to the average of two five-year periods, 2010-2015 and 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2015). World Population Prospects: The 2015 Revision - Special Aggregates, DVD Edition.  http://esa.un.org/unpd/wpp/Download/SpecialAggregates/UNrelated/"
-MDG_0000000003,PUBLISHED,2010,AMR,WB_UMI,BLZ,FMLE,64.0,64.0,,,Survey 2011 MICS
-MDG_0000000003,PUBLISHED,2014,AFR,WB_LI,BEN,FMLE,94.0,94.0,,,Survey 2014 MICS
-MDG_0000000003,PUBLISHED,2012,AFR,WB_LI,BDI,FMLE,85.0,85.0,,,Survey 2012 MIS
-MDG_0000000003,PUBLISHED,2012,AMR,WB_HI,CHL,FMLE,51.5,51.5,,,Registration UNSD & WPP2015
-MDG_0000000003,PUBLISHED,2009,AFR,WB_LMI,CIV,FMLE,125.0,125.0,,,Survey 2011-2012 DHS
-MDG_0000000003,PUBLISHED,2012,EUR,WB_HI,HRV,FMLE,11.8,11.8,,,Registration UNSD & WPP2015
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","SEX","Display Value","Numeric","Low","High","Comments"
+"MDG_0000000003","PUBLISHED","2015","EUR","AUT","FMLE","7.6","7.63000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2012","AMR","BHS","FMLE","32","32.00966","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","BFA","FMLE","122","122.00000","","","Burkina Faso 2016 PMA2020 Round 3"
+"MDG_0000000003","PUBLISHED","2010","AFR","CPV","FMLE","80","80.00000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","CZE","FMLE","11.6","11.61000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2012","AFR","COD","FMLE","138","138.00000","","","Democratic Republic of the Congo 2013-2014 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","GEO","FMLE","47.9","47.92000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AFR","GHA","FMLE","59","59.00000","","","Ghana 2014 PMA2020 Round 3"
+"MDG_0000000003","PUBLISHED","2015","EUR","ISR","FMLE","9.7","9.67761","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AMR","JAM","FMLE","45.7","45.72178","","","Jamaica 2011 Census"
+"MDG_0000000003","PUBLISHED","2014","AFR","MWI","FMLE","136","136.00000","","","Malawi 2015-2016 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2014","SEAR","MDV","FMLE","12.9","12.91843","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","NLD","FMLE","3.2","3.19000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2009","AMR","NIC","FMLE","92","92.00000","","","Nicaragua 2011-2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","ROU","FMLE","35.3","35.29000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","RWA","FMLE","45","45.00000","","","Rwanda 2014-2015 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2008","SEAR","LKA","FMLE","20.3","20.27778","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AMR","SUR","FMLE","57.7","57.73145","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","EUR","UKR","FMLE","26.1","26.09000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","GBR","FMLE","14.4","14.39000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2018","SEAR","","FMLE","33","33.00000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2015","EUR","ALB","FMLE","18.9","18.86000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2007","AFR","DZA","FMLE","9","9.00000","","","Algeria 2008 Census"
+"MDG_0000000003","PUBLISHED","2014","AMR","BLZ","FMLE","74","74.00000","","","Belize 2015-2016 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2014","AFR","BEN","FMLE","94","94.00000","","","Benin 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2014","EUR","BIH","FMLE","10.7","10.70000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","WPR","CHN","FMLE","9.2","9.19000","","","China 2015 Annual Population Change Survey (1‰ Survey)"
+"MDG_0000000003","PUBLISHED","2014","AMR","COL","FMLE","71.6","71.61811","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2008","AFR","ERI","FMLE","76","76.00000","","","Eritrea 2010 Population and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","EST","FMLE","12.5","12.54000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AMR","GUY","FMLE","74","74.00000","","","Guyana 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2011","AMR","HTI","FMLE","49","49.00000","","","Haiti 2013 Demographic and Health Survey (DHS) non standard"
+"MDG_0000000003","PUBLISHED","2015","EUR","ISL","FMLE","8","8.03000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EMR","KWT","FMLE","6.1","6.10000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","WPR","LAO","FMLE","75.6","75.60000","","","Lao People's Democratic Republic 2015 Census"
+"MDG_0000000003","PUBLISHED","2015","EUR","MNE","FMLE","11.1","11.11656","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2008","EMR","MAR","FMLE","32","32.00000","","","Morocco 2011 Enquête Nationale sur la Population et la Santé Familiale"
+"MDG_0000000003","PUBLISHED","2008","AMR","PRY","FMLE","62.8","62.75439","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","POL","FMLE","12.3","12.31000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2012","AFR","SLE","FMLE","125","125.00000","","","Sierra Leone 2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","WPR","SGP","FMLE","2.7","2.70000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AFR","TGO","FMLE","85","85.00000","","","Togo 2013-2014 Demographic and Health Survey and MICS"
+"MDG_0000000003","PUBLISHED","2011","WPR","TON","FMLE","30","30.00000","","","Tonga 2011 Census of Population and Housing"
+"MDG_0000000003","PUBLISHED","2014","WPR","VNM","FMLE","30.1","30.10000","","","Viet Nam 2014 Intercensal Population and Housing Survey"
+"MDG_0000000003","PUBLISHED","2014","AFR","ZWE","FMLE","110","110.00000","","","Zimbabwe 2015 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2018","GLOBAL","","FMLE","43.9","43.90000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2013","EMR","AFG","FMLE","87","87.00000","","","Afghanistan 2015 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2012","SEAR","BTN","FMLE","28.4","28.40000","","","Bhutan 2012 National Health Survey"
+"MDG_0000000003","PUBLISHED","2015","AMR","BOL","FMLE","71","71.00000","","","Bolivia 2016 Demographic and Health Survey (National)"
+"MDG_0000000003","PUBLISHED","2014","AMR","CHL","FMLE","44.7","44.65771","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AFR","COM","FMLE","70","70.00000","","","Comoros 2012 Demographic and Health Survey and Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2012","AMR","SLV","FMLE","69.2","69.22079","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2010","AFR","GNQ","FMLE","176","176.00000","","","Equatorial Guinea 2011 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2010","AMR","HND","FMLE","101","101.00000","","","Honduras 2011-2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","HUN","FMLE","22.8","22.77000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2010","WPR","KIR","FMLE","49.9","49.90000","","","Kiribati 2010 Census"
+"MDG_0000000003","PUBLISHED","2015","EUR","LVA","FMLE","18","17.99000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AMR","MEX","FMLE","66.2","66.21212","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","WPR","MNG","FMLE","26.7","26.70000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AMR","PER","FMLE","49.4","49.35595","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2012","WPR","PHL","FMLE","57","57.00000","","","Philippines 2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","AFR","SYC","FMLE","65.8","65.75246","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","SVK","FMLE","24.3","24.26000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","SEAR","THA","FMLE","51","51.00000","","","Thailand 2015-2016 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2009","EUR","MKD","FMLE","20.1","20.08200","","","All sources of estimates"
+"MDG_0000000003","PUBLISHED","2012","EMR","YEM","FMLE","67","67.00000","","","Yemen 2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2012","AFR","ZMB","FMLE","141","141.00000","","","Zambia 2013-2014 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2018","AFR","","FMLE","99.1","99.10000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2018","AMR","","FMLE","48.6","48.60000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2015","AMR","ARG","FMLE","65.5","65.48509","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","WPR","AUS","FMLE","11.9","11.90000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AMR","CAN","FMLE","11.1","11.10000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AFR","TCD","FMLE","179","179.00000","","","Chad 2014-2015 Demographic and Health Survey and MICS"
+"MDG_0000000003","PUBLISHED","2010","AFR","COG","FMLE","147","147.00000","","","Congo 2011-2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","HRV","FMLE","9.6","9.59000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","GRC","FMLE","8","8.03518","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AFR","GIN","FMLE","146","146.00000","","","Guinea 2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2013","SEAR","IND","FMLE","28.1","28.13318","","","India Sample Registration System"
+"MDG_0000000003","PUBLISHED","2011","EMR","IRN","FMLE","23","23.00445","","","Iran (Islamic Republic of) 2011 Census"
+"MDG_0000000003","PUBLISHED","2014","AFR","MLI","FMLE","174","174.00000","","","Mali 2015 Malaria Indicators Survey"
+"MDG_0000000003","PUBLISHED","2013","AFR","MRT","FMLE","77","76.95048","","","Mauritania 2013 Census"
+"MDG_0000000003","PUBLISHED","2014","SEAR","MMR","FMLE","36","36.00000","","","Myanmar 2015-2016 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","SEAR","NPL","FMLE","88","88.00000","","","Nepal 2016 Demographic and Health Survey (DHS)"
+"MDG_0000000003","PUBLISHED","2013","AFR","STP","FMLE","92","92.00000","","","Sao Tome and Principe 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","SRB","FMLE","16.4","16.39000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","SVN","FMLE","4.5","4.52696","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AFR","ZAF","FMLE","71","71.00000","","","South Africa 2016 Demographic and Health Survey (DHS)"
+"MDG_0000000003","PUBLISHED","2015","EUR","ESP","FMLE","7.7","7.72000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AMR","URY","FMLE","55.6","55.64431","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","WPR","VUT","FMLE","78","78.00000","","","Vanuatu 2013 Demographic and Health Survey – MICS"
+"MDG_0000000003","PUBLISHED","2018","EUR","","FMLE","16.6","16.60000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2014","AFR","AGO","FMLE","163","163.00000","","","Angola 2015-2016 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","BEL","FMLE","6.6","6.57000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AMR","BRA","FMLE","60.8","60.79850","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","CMR","FMLE","119","119.00000","","","Cameroon 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2014","AMR","CUB","FMLE","50","49.99762","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AMR","DOM","FMLE","45.3","45.34468","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","ETH","FMLE","80","80.00000","","","Ethiopia 2016 Demographic and Health Survey (DHS)"
+"MDG_0000000003","PUBLISHED","2012","AFR","GNB","FMLE","106","106.00000","","","Guinea-Bissau 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2014","SEAR","IDN","FMLE","40.1","40.10000","","","Indonesia 2015 Intercensal Population Survey"
+"MDG_0000000003","PUBLISHED","2015","WPR","JPN","FMLE","4.1","4.10000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","LTU","FMLE","14.1","14.06000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","MLT","FMLE","11.4","11.38734","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2010","AFR","MOZ","FMLE","167","167.00000","","","Mozambique 2011 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2011","EMR","PAK","FMLE","44","44.00000","","","Pakistan 2012-2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EMR","QAT","FMLE","10.5","10.46961","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","WPR","WSM","FMLE","39.2","39.20000","","","Samoa 2011 Census"
+"MDG_0000000003","PUBLISHED","2008","AFR","SSD","FMLE","158.1","158.09337","","","South Sudan 2010 Household Health Survey Second Round"
+"MDG_0000000003","PUBLISHED","2015","EUR","CHE","FMLE","2.6","2.63000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2009","AMR","TTO","FMLE","38","37.99265","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2010","EUR","UZB","FMLE","29.5","29.53688","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2018","EMR","","FMLE","44.5","44.50000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2016","EUR","AZE","FMLE","52.8","52.80000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","EMR","BHR","FMLE","14.3","14.33208","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AFR","BDI","FMLE","58","58.00000","","","Burundi 2016 Demographic and Health Survey (DHS)"
+"MDG_0000000003","PUBLISHED","2013","WPR","KHM","FMLE","57","57.00000","","","Cambodia 2014 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","CYP","FMLE","4.9","4.91000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2008","SEAR","PRK","FMLE","0.7","0.65036","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","DNK","FMLE","3.4","3.40000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AFR","GMB","FMLE","88","88.00000","","","Gambia 2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","DEU","FMLE","7.8","7.84000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","IRL","FMLE","8.6","8.65000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","ITA","FMLE","5.1","5.13000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","MDG","FMLE","152","152.00000","","","Madagascar 2016 Malaria Indicators Survey (MIS)"
+"MDG_0000000003","PUBLISHED","2015","WPR","MYS","FMLE","11.5","11.53355","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2016","WPR","NZL","FMLE","16","16.00000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AFR","NER","FMLE","146","146.00000","","","Niger 2015 Etude Nationale d’Evaluation d’Indicateurs Socio-Economiques et Demographiques"
+"MDG_0000000003","PUBLISHED","2015","EUR","RUS","FMLE","24","24.00000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AMR","VCT","FMLE","63.7","63.72549","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","EMR","SDN","FMLE","87","87.00000","","","Sudan 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2013","AFR","SWZ","FMLE","87","87.00000","","","Swaziland 2014 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2013","AFR","UGA","FMLE","141","141.00000","","","Uganda 2014-2015 Malaria Indicators Survey"
+"MDG_0000000003","PUBLISHED","2009","EMR","ARE","FMLE","34.2","34.20000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","TZA","FMLE","132","132.00000","","","United Republic of Tanzania 2015-2016 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2018","WPR","","FMLE","14.2","14.20000","","","Estimate refers to a five-year period, 2015-2020. Source:  United Nations, Department of Economic and Social Affairs, Population Division (2017). World Population Prospects: The 2017 Revision, https://esa.un.org/unpd/wpp/Download/Standard/Fertility/"
+"MDG_0000000003","PUBLISHED","2015","EUR","ARM","FMLE","24.3","24.33000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2007","AMR","BRB","FMLE","49.7","49.73320","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","BGR","FMLE","39.4","39.36000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2010","AFR","CAF","FMLE","229","229.00000","","","Central African Republic 2010 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2010","AFR","CIV","FMLE","129","129.00000","","","Côte d'Ivoire 2011-2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2012","EMR","EGY","FMLE","56","56.00000","","","Egypt 2014 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","FRA","FMLE","9.2","9.21000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AMR","GTM","FMLE","92","92.00000","","","Guatemala 2014-2015 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2009","EMR","IRQ","FMLE","82","82.00000","","","Iraq 2011 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","KAZ","FMLE","36","36.00000","","","Kazakhstan 2015 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2011","AFR","LBR","FMLE","104.8","104.77028","","","Liberia 2008 Census"
+"MDG_0000000003","PUBLISHED","2016","AFR","MUS","FMLE","24.1","24.09885","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2012","AFR","NAM","FMLE","82","82.00000","","","Namibia 2013 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","NOR","FMLE","4.6","4.58000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","EUR","MDA","FMLE","26.7","26.73000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AFR","SEN","FMLE","80","80.00000","","","Senegal 2015 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2009","WPR","SLB","FMLE","42","42.00000","","","Solomon Islands 2009 Census"
+"MDG_0000000003","PUBLISHED","2011","EUR","TJK","FMLE","54","54.00000","","","Tajikistan 2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2014","EUR","TUR","FMLE","26.9","26.89000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AMR","USA","FMLE","22.3","22.30000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2016","SEAR","BGD","FMLE","78","78.00000","","","Bangladesh Sample Vital Registration System"
+"MDG_0000000003","PUBLISHED","2014","EUR","BLR","FMLE","20.5","20.45000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2011","AFR","BWA","FMLE","37.5","37.50000","","","Botswana 2011 Census"
+"MDG_0000000003","PUBLISHED","2015","WPR","BRN","FMLE","11.4","11.36827","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2009","EMR","DJI","FMLE","20.6","20.60000","","","Djibouti 2012 Enquête Djiboutienne auprès des menages III"
+"MDG_0000000003","PUBLISHED","2014","AMR","ECU","FMLE","56.5","56.48913","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","FIN","FMLE","6.2","6.15000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2013","AFR","GAB","FMLE","91","91.00000","","","Gabon 2013 Census"
+"MDG_0000000003","PUBLISHED","2011","EMR","JOR","FMLE","26","26.00000","","","Jordan 2012 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2014","AFR","KEN","FMLE","96","96.00000","","","Kenya 2015 Malaria Indicators Survey"
+"MDG_0000000003","PUBLISHED","2013","AFR","LSO","FMLE","94","94.00000","","","Lesotho 2014 Demographic and Health Survey"
+"MDG_0000000003","PUBLISHED","2013","EMR","LBY","FMLE","10.9","10.86000","","","Libya 2014 National Family Health Survey"
+"MDG_0000000003","PUBLISHED","2015","EUR","LUX","FMLE","5.6","5.63000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2014","AFR","NGA","FMLE","145","145.00000","","","Nigeria 2015 Malaria Indicators Survey"
+"MDG_0000000003","PUBLISHED","2016","EMR","OMN","FMLE","13.5","13.52600","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","AMR","PAN","FMLE","84.3","84.33069","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","PRT","FMLE","8.2","8.22238","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2016","WPR","KOR","FMLE","1.3","1.30000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2015","EUR","SWE","FMLE","4.4","4.45000","","","Vital Registration"
+"MDG_0000000003","PUBLISHED","2009","EMR","SYR","FMLE","54","54.00000","","","Syrian Arab Republic 2009 Family Health Survey"
+"MDG_0000000003","PUBLISHED","2010","EMR","TUN","FMLE","3","3.00000","","","Tunisia 2011-2012 Multiple Indicator Cluster Survey"
+"MDG_0000000003","PUBLISHED","2014","EUR","TKM","FMLE","28","28.00000","","","Turkmenistan 2015 Multiple Indicator Cluster Survey"

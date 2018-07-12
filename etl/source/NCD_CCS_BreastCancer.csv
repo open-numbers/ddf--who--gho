@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,AFG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,AGO,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ALB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,AND,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,ARE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,ARG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ARM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,ATG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,AUS,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,AUT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,AZE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,BDI,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,BEL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,BEN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,BFA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,BGD,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,BGR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,BHR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,BHS,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,BIH,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,BLR,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,BLZ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,BOL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,BRA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,BRB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,BRN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,BTN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,BWA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,CAF,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,CAN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,CHE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,CHL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,CHN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,CIV,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,CMR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,COD,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,COG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,COK,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,COL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,COM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,CPV,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,CRI,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,CUB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,CYP,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,CZE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,DEU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,DJI,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,DMA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,DNK,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,DOM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,DZA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,ECU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,EGY,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,ERI,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ESP,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,EST,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,ETH,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,FIN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,FJI,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,FRA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,FSM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GAB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,GBR,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,GEO,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GHA,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GIN,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GMB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GNB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,GNQ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,GRC,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,GRD,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,GTM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,GUY,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,HND,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,HRV,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,HTI,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,HUN,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,IDN,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,IND,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,IRL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,IRN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,IRQ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ISL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ISR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ITA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,JAM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,JOR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,JPN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,KAZ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,KEN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,KGZ,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,KHM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,KIR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,KNA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,KOR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,KWT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,LAO,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,LBN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,LBR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,LBY,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,LCA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,LKA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,LSO,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,LTU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,LUX,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,LVA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,MAR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,MCO,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,MDA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MDG,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,MDV,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,MEX,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,MHL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,MKD,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MLI,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,MLT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,MMR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,MNE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,MNG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MOZ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MRT,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MUS,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,MWI,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,MYS,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,NAM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,NER,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,NGA,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,NIC,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,NIU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,NLD,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,NOR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,NPL,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,NRU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,NZL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,OMN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,PAK,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,PAN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,PER,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,PHL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,PLW,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,PNG,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,POL,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,PRK,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,PRT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,PRY,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,QAT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,ROU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,RUS,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,RWA,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,SAU,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,SDN,Don't know,,,,Country responded Don't know.
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,SEN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,SGP,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,SLB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,SLE,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,SLV,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,SMR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,SOM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,SRB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,SSD,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,STP,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,SUR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,SVK,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,SVN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,SWE,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,SWZ,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,SYC,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,SYR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,TCD,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,TGO,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,THA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,TJK,No response,,,,No response given to this particular question.
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,TKM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,SEAR,TLS,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,TON,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,TTO,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,TUN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,TUR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,TUV,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,TZA,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,UGA,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,UKR,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,URY,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,USA,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EUR,UZB,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,VCT,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AMR,VEN,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,VNM,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,VUT,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,WPR,WSM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,EMR,YEM,Yes,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,ZAF,No data received,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,ZMB,No,,,,
-NCD_CCS_BreastCancer,PUBLISHED,2013,AFR,ZWE,Yes,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","AFG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","AGO","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ALB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","AND","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","ARE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","ARG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ARM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","ATG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","AUS","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","AUT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","AZE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","BDI","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","BEL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","BEN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","BFA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","BGD","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","BGR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","BHR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","BHS","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","BIH","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","BLR","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","BLZ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","BOL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","BRA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","BRB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","BRN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","BTN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","BWA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","CAF","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","CAN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","CHE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","CHL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","CHN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","CIV","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","CMR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","COD","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","COG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","COK","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","COL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","COM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","CPV","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","CRI","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","CUB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","CYP","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","CZE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","DEU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","DJI","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","DMA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","DNK","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","DOM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","DZA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","ECU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","EGY","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","ERI","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ESP","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","EST","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","ETH","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","FIN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","FJI","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","FRA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","FSM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GAB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","GBR","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","GEO","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GHA","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GIN","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GMB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GNB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","GNQ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","GRC","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","GRD","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","GTM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","GUY","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","HND","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","HRV","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","HTI","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","HUN","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","IDN","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","IND","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","IRL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","IRN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","IRQ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ISL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ISR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ITA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","JAM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","JOR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","JPN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","KAZ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","KEN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","KGZ","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","KHM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","KIR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","KNA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","KOR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","KWT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","LAO","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","LBN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","LBR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","LBY","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","LCA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","LKA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","LSO","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","LTU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","LUX","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","LVA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","MAR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","MCO","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","MDA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MDG","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","MDV","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","MEX","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","MHL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","MKD","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MLI","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","MLT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","MMR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","MNE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","MNG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MOZ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MRT","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MUS","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","MWI","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","MYS","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","NAM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","NER","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","NGA","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","NIC","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","NIU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","NLD","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","NOR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","NPL","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","NRU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","NZL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","OMN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","PAK","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","PAN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","PER","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","PHL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","PLW","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","PNG","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","POL","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","PRK","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","PRT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","PRY","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","QAT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","ROU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","RUS","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","RWA","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","SAU","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","SDN","Don't know","","","","Country responded Don't know."
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","SEN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","SGP","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","SLB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","SLE","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","SLV","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","SMR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","SOM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","SRB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","SSD","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","STP","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","SUR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","SVK","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","SVN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","SWE","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","SWZ","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","SYC","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","SYR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","TCD","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","TGO","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","THA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","TJK","No response","","","","No response given to this particular question."
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","TKM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","SEAR","TLS","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","TON","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","TTO","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","TUN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","TUR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","TUV","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","TZA","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","UGA","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","UKR","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","URY","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","USA","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EUR","UZB","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","VCT","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AMR","VEN","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","VNM","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","VUT","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","WPR","WSM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","EMR","YEM","Yes","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","ZAF","No data received","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","ZMB","No","","","",""
+"NCD_CCS_BreastCancer","PUBLISHED","2013","AFR","ZWE","Yes","","","",""

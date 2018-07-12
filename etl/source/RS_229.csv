@@ -1,180 +1,180 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-RS_229,PUBLISHED,2013,EMR,AFG,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,ATG,-,,,,No data
-RS_229,PUBLISHED,2013,EUR,AZE,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,TCD,-,,,,No data
-RS_229,PUBLISHED,2013,EMR,DJI,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,DMA,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,DOM,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,ECU,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,GMB,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,HND,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,LBR,-,,,,No data
-RS_229,PUBLISHED,2013,SEAR,MDV,-,,,,No data
-RS_229,PUBLISHED,2013,WPR,FSM,-,,,,No data
-RS_229,PUBLISHED,2013,EUR,MCO,-,,,,No data
-RS_229,PUBLISHED,2013,EMR,PAK,-,,,,No data
-RS_229,PUBLISHED,2013,WPR,PLW,-,,,,No data
-RS_229,PUBLISHED,2013,WPR,PNG,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,PER,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,LCA,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,VCT,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,STP,-,,,,No data
-RS_229,PUBLISHED,2013,EUR,SRB,-,,,,No data
-RS_229,PUBLISHED,2013,EMR,SOM,-,,,,No data
-RS_229,PUBLISHED,2013,SEAR,LKA,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,SWZ,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,TGO,-,,,,No data
-RS_229,PUBLISHED,2013,AMR,TTO,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,UGA,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,TZA,-,,,,No data
-RS_229,PUBLISHED,2013,WPR,VUT,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,ZWE,-,,,,No data
-RS_229,PUBLISHED,2013,AFR,AGO,Fully,,,,
-RS_229,PUBLISHED,2013,AMR,ARG,Fully,,,,
-RS_229,PUBLISHED,2013,AMR,BHS,Fully,,,,
-RS_229,PUBLISHED,2013,AFR,BWA,Fully,,,,
-RS_229,PUBLISHED,2013,AMR,BRA,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,HRV,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,ISL,Fully,,,,
-RS_229,PUBLISHED,2013,SEAR,IDN,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,IRL,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,ISR,Fully,,,,
-RS_229,PUBLISHED,2013,WPR,JPN,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,KAZ,Fully,,,,
-RS_229,PUBLISHED,2013,AFR,KEN,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,KWT,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,LUX,Fully,,,,
-RS_229,PUBLISHED,2013,WPR,MYS,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,MLT,Fully,,,,
-RS_229,PUBLISHED,2013,AFR,MUS,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,MAR,Fully,,,,
-RS_229,PUBLISHED,2013,WPR,NZL,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,NOR,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,OMN,Fully,,,,
-RS_229,PUBLISHED,2013,WPR,PHL,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,QAT,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,SMR,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,SAU,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,ESP,Fully,,,,
-RS_229,PUBLISHED,2013,EUR,TKM,Fully,,,,
-RS_229,PUBLISHED,2013,EMR,ARE,Fully,,,,
-RS_229,PUBLISHED,2013,AMR,USA,Fully,,,,
-RS_229,PUBLISHED,2013,AFR,ZMB,Fully,,,,
-RS_229,PUBLISHED,2013,WPR,AUS,Not funded,,,,
-RS_229,PUBLISHED,2013,EMR,BHR,Not funded,,,,
-RS_229,PUBLISHED,2013,EMR,EGY,Not funded,,,,
-RS_229,PUBLISHED,2013,AFR,GAB,Not funded,,,,
-RS_229,PUBLISHED,2013,AFR,GNB,Not funded,,,,
-RS_229,PUBLISHED,2013,EMR,LBN,Not funded,,,,
-RS_229,PUBLISHED,2013,EMR,LBY,Not funded,,,,
-RS_229,PUBLISHED,2013,WPR,MNG,Not funded,,,,
-RS_229,PUBLISHED,2013,AFR,MOZ,Not funded,,,,
-RS_229,PUBLISHED,2013,AMR,NIC,Not funded,,,,
-RS_229,PUBLISHED,2013,AFR,NER,Not funded,,,,
-RS_229,PUBLISHED,2013,AMR,PAN,Not funded,,,,
-RS_229,PUBLISHED,2013,EUR,PRT,Not funded,,,,
-RS_229,PUBLISHED,2013,EUR,ROU,Not funded,,,,
-RS_229,PUBLISHED,2013,AFR,SLE,Not funded,,,,
-RS_229,PUBLISHED,2013,WPR,SLB,Not funded,,,,
-RS_229,PUBLISHED,2013,EMR,YEM,Not funded,,,,
-RS_229,PUBLISHED,2013,EUR,ALB,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,DZA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,AND,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,ARM,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,AUT,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,BGD,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,BRB,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,BLR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,BEL,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,SLV,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,ERI,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,EST,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,ETH,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,FJI,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,FIN,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,FRA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,GEO,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,DEU,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,GHA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,GRC,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,GTM,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,GIN,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,GUY,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,HUN,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,IND,Partially,,,,
-RS_229,PUBLISHED,2013,EMR,IRN,Partially,,,,
-RS_229,PUBLISHED,2013,EMR,IRQ,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,ITA,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,JAM,Partially,,,,
-RS_229,PUBLISHED,2013,EMR,JOR,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,KIR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,KGZ,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,LAO,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,LVA,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,LSO,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,LTU,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,MDG,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,MWI,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,MLI,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,MHL,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,MRT,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,MEX,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,DNK,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,COD,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,CZE,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,CYP,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,CUB,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,CIV,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,CRI,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,COK,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,COG,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,COL,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,CHN,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,CHL,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,CAF,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,CAN,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,CMR,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,KHM,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,CPV,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,BFA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,BGR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,BIH,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,BOL,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,BTN,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,BEN,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,BLZ,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,MNE,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,MMR,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,NAM,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,NPL,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,NLD,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,NGA,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,PRY,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,POL,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,KOR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,MDA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,RUS,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,RWA,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,WSM,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,SEN,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,SYC,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,SGP,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,SVK,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,SVN,Partially,,,,
-RS_229,PUBLISHED,2013,AFR,ZAF,Partially,,,,
-RS_229,PUBLISHED,2013,EMR,SDN,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,SUR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,SWE,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,CHE,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,TJK,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,THA,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,MKD,Partially,,,,
-RS_229,PUBLISHED,2013,SEAR,TLS,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,TON,Partially,,,,
-RS_229,PUBLISHED,2013,EMR,TUN,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,TUR,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,GBR,Partially,,,,
-RS_229,PUBLISHED,2013,AMR,URY,Partially,,,,
-RS_229,PUBLISHED,2013,EUR,UZB,Partially,,,,
-RS_229,PUBLISHED,2013,WPR,VNM,Partially,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"RS_229","PUBLISHED","2013","EMR","AFG","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","ATG","-","","","","No data"
+"RS_229","PUBLISHED","2013","EUR","AZE","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","TCD","-","","","","No data"
+"RS_229","PUBLISHED","2013","EMR","DJI","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","DMA","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","DOM","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","ECU","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","GMB","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","HND","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","LBR","-","","","","No data"
+"RS_229","PUBLISHED","2013","SEAR","MDV","-","","","","No data"
+"RS_229","PUBLISHED","2013","WPR","FSM","-","","","","No data"
+"RS_229","PUBLISHED","2013","EUR","MCO","-","","","","No data"
+"RS_229","PUBLISHED","2013","EMR","PAK","-","","","","No data"
+"RS_229","PUBLISHED","2013","WPR","PLW","-","","","","No data"
+"RS_229","PUBLISHED","2013","WPR","PNG","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","PER","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","LCA","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","VCT","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","STP","-","","","","No data"
+"RS_229","PUBLISHED","2013","EUR","SRB","-","","","","No data"
+"RS_229","PUBLISHED","2013","EMR","SOM","-","","","","No data"
+"RS_229","PUBLISHED","2013","SEAR","LKA","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","SWZ","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","TGO","-","","","","No data"
+"RS_229","PUBLISHED","2013","AMR","TTO","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","UGA","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","TZA","-","","","","No data"
+"RS_229","PUBLISHED","2013","WPR","VUT","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","ZWE","-","","","","No data"
+"RS_229","PUBLISHED","2013","AFR","AGO","Fully","","","",""
+"RS_229","PUBLISHED","2013","AMR","ARG","Fully","","","",""
+"RS_229","PUBLISHED","2013","AMR","BHS","Fully","","","",""
+"RS_229","PUBLISHED","2013","AFR","BWA","Fully","","","",""
+"RS_229","PUBLISHED","2013","AMR","BRA","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","HRV","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","ISL","Fully","","","",""
+"RS_229","PUBLISHED","2013","SEAR","IDN","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","IRL","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","ISR","Fully","","","",""
+"RS_229","PUBLISHED","2013","WPR","JPN","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","KAZ","Fully","","","",""
+"RS_229","PUBLISHED","2013","AFR","KEN","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","KWT","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","LUX","Fully","","","",""
+"RS_229","PUBLISHED","2013","WPR","MYS","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","MLT","Fully","","","",""
+"RS_229","PUBLISHED","2013","AFR","MUS","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","MAR","Fully","","","",""
+"RS_229","PUBLISHED","2013","WPR","NZL","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","NOR","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","OMN","Fully","","","",""
+"RS_229","PUBLISHED","2013","WPR","PHL","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","QAT","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","SMR","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","SAU","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","ESP","Fully","","","",""
+"RS_229","PUBLISHED","2013","EUR","TKM","Fully","","","",""
+"RS_229","PUBLISHED","2013","EMR","ARE","Fully","","","",""
+"RS_229","PUBLISHED","2013","AMR","USA","Fully","","","",""
+"RS_229","PUBLISHED","2013","AFR","ZMB","Fully","","","",""
+"RS_229","PUBLISHED","2013","WPR","AUS","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EMR","BHR","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EMR","EGY","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AFR","GAB","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AFR","GNB","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EMR","LBN","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EMR","LBY","Not funded","","","",""
+"RS_229","PUBLISHED","2013","WPR","MNG","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AFR","MOZ","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AMR","NIC","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AFR","NER","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AMR","PAN","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EUR","PRT","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EUR","ROU","Not funded","","","",""
+"RS_229","PUBLISHED","2013","AFR","SLE","Not funded","","","",""
+"RS_229","PUBLISHED","2013","WPR","SLB","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EMR","YEM","Not funded","","","",""
+"RS_229","PUBLISHED","2013","EUR","ALB","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","DZA","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","AND","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","ARM","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","AUT","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","BGD","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","BRB","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","BLR","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","BEL","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","BLZ","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","BEN","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","BTN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","BOL","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","BIH","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","BGR","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","BFA","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","CPV","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","KHM","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","CMR","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","CAN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","CAF","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","CHL","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","CHN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","COL","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","COG","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","COK","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","CRI","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","CIV","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","CUB","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","CYP","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","CZE","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","COD","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","DNK","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","SLV","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","ERI","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","EST","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","ETH","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","FJI","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","FIN","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","FRA","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","GEO","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","DEU","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","GHA","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","GRC","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","GTM","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","GIN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","GUY","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","HUN","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","IND","Partially","","","",""
+"RS_229","PUBLISHED","2013","EMR","IRN","Partially","","","",""
+"RS_229","PUBLISHED","2013","EMR","IRQ","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","ITA","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","JAM","Partially","","","",""
+"RS_229","PUBLISHED","2013","EMR","JOR","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","KIR","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","KGZ","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","LAO","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","LVA","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","LSO","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","LTU","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","MDG","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","MWI","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","MLI","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","MHL","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","MRT","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","MEX","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","MNE","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","MMR","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","NAM","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","NPL","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","NLD","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","NGA","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","PRY","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","POL","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","KOR","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","MDA","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","RUS","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","RWA","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","WSM","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","SEN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","SYC","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","SGP","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","SVK","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","SVN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AFR","ZAF","Partially","","","",""
+"RS_229","PUBLISHED","2013","EMR","SDN","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","SUR","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","SWE","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","CHE","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","TJK","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","THA","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","MKD","Partially","","","",""
+"RS_229","PUBLISHED","2013","SEAR","TLS","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","TON","Partially","","","",""
+"RS_229","PUBLISHED","2013","EMR","TUN","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","TUR","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","GBR","Partially","","","",""
+"RS_229","PUBLISHED","2013","AMR","URY","Partially","","","",""
+"RS_229","PUBLISHED","2013","EUR","UZB","Partially","","","",""
+"RS_229","PUBLISHED","2013","WPR","VNM","Partially","","","",""

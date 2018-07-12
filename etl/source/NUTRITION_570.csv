@@ -1,48 +1,130 @@
-GHO,DATASOURCE,PUBLISHSTATE,YEAR,REGION,COUNTRY,SEX,Display Value,Numeric,Low,High,Comments
-NUTRITION_570,NLIS_300214,PUBLISHED,2005,EUR,ALB,BTSX,29.9,29.9,,,
-NUTRITION_570,NLIS_300217,PUBLISHED,2006,AFR,DZA,BTSX,49.5,49.5,,,
-NUTRITION_570,NLIS_300256,PUBLISHED,2006,SEAR,BGD,BTSX,35.6,35.6,,,
-NUTRITION_570,NLIS_300209,PUBLISHED,2005,EUR,BLR,BTSX,21.1,21.1,,,
-NUTRITION_570,NLIS_300240,PUBLISHED,2006,AMR,BLZ,BTSX,50.6,50.6,,,
-NUTRITION_570,NLIS_300343,PUBLISHED,2008,AFR,BEN,BTSX,31.9,31.9,,,
-NUTRITION_570,NLIS_300242,PUBLISHED,2006,EUR,BIH,BTSX,56.7,56.7,,,
-NUTRITION_570,NLIS_300314,PUBLISHED,2006,AFR,BFA,BTSX,19.6,19.6,,,
-NUTRITION_570,NLIS_300241,PUBLISHED,2005,AFR,BDI,BTSX,74.0,74.0,,,
-NUTRITION_570,NLIS_300215,PUBLISHED,2006,AFR,CMR,BTSX,19.6,19.6,,,
-NUTRITION_570,NLIS_300272,PUBLISHED,1996,EUR,HRV,BTSX,16.0,16.0,,,
-NUTRITION_570,NLIS_300231,PUBLISHED,2006,AMR,CUB,BTSX,70.2,70.2,,,
-NUTRITION_570,NLIS_300210,PUBLISHED,2006,AFR,CIV,BTSX,24.9,24.9,,,
-NUTRITION_570,NLIS_300079,PUBLISHED,2006,EMR,DJI,BTSX,54.9,54.9,,,
-NUTRITION_570,NLIS_300269,PUBLISHED,1999,AMR,ECU,BTSX,26.7,26.7,,,
-NUTRITION_570,NLIS_300238,PUBLISHED,2006,AFR,GMB,BTSX,47.7,47.7,,,
-NUTRITION_570,NLIS_300233,PUBLISHED,2005,EUR,GEO,BTSX,36.6,36.6,,,
-NUTRITION_570,NLIS_300045,PUBLISHED,2006,AFR,GHA,BTSX,35.2,35.2,,,
-NUTRITION_570,NLIS_300248,PUBLISHED,2006,AFR,GNB,BTSX,22.6,22.6,,,
-NUTRITION_570,NLIS_300201,PUBLISHED,2007,AMR,GUY,BTSX,43.1,43.1,,,
-NUTRITION_570,NLIS_300080,PUBLISHED,2006,EMR,IRQ,BTSX,30.6,30.6,,,
-NUTRITION_570,NLIS_300218,PUBLISHED,2005,AMR,JAM,BTSX,62.3,62.3,,,
-NUTRITION_570,NLIS_300237,PUBLISHED,2006,EUR,KAZ,BTSX,64.2,64.2,,,
-NUTRITION_570,NLIS_300221,PUBLISHED,2006,EUR,KGZ,BTSX,64.9,64.9,,,
-NUTRITION_570,NLIS_300255,PUBLISHED,2006,WPR,LAO,BTSX,29.8,29.8,,,
-NUTRITION_570,NLIS_300044,PUBLISHED,2006,AFR,MWI,BTSX,58.3,58.3,,,
-NUTRITION_570,NLIS_300258,PUBLISHED,2007,AFR,MRT,BTSX,44.3,44.3,,,
-NUTRITION_570,NLIS_300320,PUBLISHED,2008,AFR,MOZ,BTSX,63.1,63.1,,,
-NUTRITION_570,NLIS_300323,PUBLISHED,2009,AFR,NER,BTSX,40.4,40.4,,,
-NUTRITION_570,NLIS_300265,PUBLISHED,2000,EMR,OMN,BTSX,84.8,84.8,,,
-NUTRITION_570,NLIS_300220,PUBLISHED,2006,AFR,STP,BTSX,35.3,35.3,,,
-NUTRITION_570,NLIS_300227,PUBLISHED,2006,EUR,SRB,BTSX,17.4,17.4,,,
-NUTRITION_570,NLIS_300199,PUBLISHED,2005,AFR,SLE,BTSX,33.1,33.1,,,
-NUTRITION_570,NLIS_300232,PUBLISHED,2006,EMR,SOM,BTSX,26.3,26.3,,,
-NUTRITION_570,NLIS_300326,PUBLISHED,2009,EMR,SOM,BTSX,23.4,23.4,,,
-NUTRITION_570,NLIS_300321,PUBLISHED,2006,AMR,SUR,BTSX,34.4,34.4,,,
-NUTRITION_570,NLIS_300247,PUBLISHED,2006,EMR,SYR,BTSX,32.4,32.4,,,
-NUTRITION_570,NLIS_300198,PUBLISHED,2006,AFR,TGO,BTSX,35.8,35.8,,,
-NUTRITION_570,NLIS_300330,PUBLISHED,2008,AFR,TGO,BTSX,53.0,53.0,,,
-NUTRITION_570,NLIS_300202,PUBLISHED,2006,AMR,TTO,BTSX,41.2,41.2,,,
-NUTRITION_570,NLIS_300230,PUBLISHED,2006,EMR,TUN,BTSX,87.4,87.4,,,
-NUTRITION_570,NLIS_300327,PUBLISHED,2007,AMR,URY,BTSX,60.1,60.1,,,
-NUTRITION_570,NLIS_300225,PUBLISHED,2006,EUR,UZB,BTSX,67.1,67.1,,,
-NUTRITION_570,NLIS_300259,PUBLISHED,2007,WPR,VUT,BTSX,71.9,71.9,,,
-NUTRITION_570,NLIS_300228,PUBLISHED,2006,WPR,VNM,BTSX,57.8,57.8,,,
-NUTRITION_570,NLIS_300333,PUBLISHED,2006,EMR,YEM,BTSX,29.6,29.6,,,
-NUTRITION_570,NLIS_300226,PUBLISHED,2006,EUR,MNE,BTSX,25.2,25.2,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"NUTRITION_570","PUBLISHED","2008-2009","EUR","ALB","43.4 [38.1-49.0]","43.44779","38.05529","48.99997","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012-2013","AFR","DZA","35.7 [33.7-37.8]","35.71079","33.72129","37.75081","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2005","AFR","CPV","72.7 [0.0-0.0]","72.70000","","","Demographic and Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2014","WPR","KHM","62.6 [60.0-65.0]","62.55749","60.04162","65.00727","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AMR","DOM","38.1 [36.1-40.1]","38.07571","36.06592","40.12719","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AMR","SLV","42.0 [39.4-44.7]","42.00486","39.37926","44.67651","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015-2016","SEAR","IND","41.5 [0.0-0.0]","41.50000","","","Demographic and Health Survey/ DHS stat"
+"NUTRITION_570","PUBLISHED","2012","SEAR","IDN","49.3 [47.4-51.2]","49.31583","47.42754","51.20607","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015","AFR","MRT","61.8 [0.0-0.0]","61.80000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015","AMR","MEX","51.0 [47.4-54.7]","51.03613","47.40616","54.65522","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","AMR","PAN","47.0 [43.2-50.8]","46.97620","43.21514","50.77191","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","WPR","PHL","49.7 [47.6-51.9]","49.72995","47.58647","51.87443","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2010","AFR","SSD","50.5 [47.4-53.5]","50.45237","47.36561","53.53569","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2016","SEAR","LKA","90.3 [0.0-0.0]","90.30000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012","EUR","UKR","65.7 [61.6-69.5]","65.67361","61.59228","69.53575","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","1995","EMR","ARE","23.2 [0.0-0.0]","23.20000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015-2016","EUR","ARM","40.9 [36.5-45.4]","40.87962","36.53598","45.37048","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2006-2007","AMR","BRA","42.9 [0.0-0.0]","42.90000","","","Other National Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014-2015","AFR","TCD","23.0 [20.8-25.3]","22.99997","20.81518","25.34069","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AMR","CUB","47.9 [41.6-54.2]","47.87731","41.60955","54.21262","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","AFR","GAB","32.3 [28.5-36.5]","32.33643","28.45714","36.47493","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AMR","GUY","49.2 [45.3-53.1]","49.21316","45.34457","53.09120","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011","AMR","JAM","64.7 [59.5-69.6]","64.71896","59.49773","69.61089","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2009","SEAR","MDV","60.5 [57.2-63.7]","60.45365","57.15930","63.65575","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2010-2011","EMR","MAR","26.8 [0.0-0.0]","26.80000","","","Pan Arab Project for Family Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012","AFR","NER","52.9 [50.3-55.6]","52.94183","50.25467","55.61205","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014-2015","AFR","RWA","80.5 [79.0-81.9]","80.47250","78.99860","81.86671","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2006-2007","WPR","SLB","75.0 [0.0-0.0]","75.00000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2014","AFR","SWZ","48.3 [44.3-52.4]","48.32749","44.26841","52.40876","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015-2016","EUR","TKM","73.4 [69.8-76.7]","73.39302","69.82764","76.67781","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2006","EUR","UZB","67.1 [63.7-70.3]","67.10183","63.69285","70.33979","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","AMR","BOL","78.0 [0.0-0.0]","78.00000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2007-2008","AFR","BWA","40.0 [0.0-0.0]","40.00000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2010-2011","AFR","CAF","43.5 [41.0-46.1]","43.49432","40.95394","46.06932","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2008","WPR","CHN","41.0 [0.0-0.0]","41.00000","","","Other National Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","GNB","33.7 [31.4-36.0]","33.65797","31.40951","35.98293","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","AMR","HTI","46.7 [43.9-49.5]","46.69840","43.90342","49.51426","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","EMR","JOR","18.6 [16.6-20.7]","18.55114","16.58006","20.69839","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","KEN","62.2 [0.0-0.0]","62.20000","","","National Council for Population and Development (NCPD). Kenya demographic and health Survey (2014 KDHS): Final Report. Demongraphic and Health Surveys. Nairobi, Kenya: KNBS, Ministry of Health, NACC, KEMRI, NCPD, 2015 / Reported"
+"NUTRITION_570","PUBLISHED","2016-2017","AFR","NGA","32.8 [31.5-34.2]","32.83660","31.50440","34.19701","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012-2013","EMR","PAK","18.0 [16.1-20.1]","18.01391","16.12367","20.07271","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","EMR","QAT","33.5 [0.0-0.0]","33.50000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2004","EUR","ROU","57.7 [0.0-0.0]","57.70000","","","Other National Survey/ adjusted from Reported values"
+"NUTRITION_570","PUBLISHED","2012","AMR","LCA","49.6 [39.2-60.0]","49.58286","39.20795","59.99381","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013-2014","EUR","TUR","49.9 [0.0-0.0]","49.90000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2007","WPR","TUV","15.0 [0.0-0.0]","15.00000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012-2013","AMR","URY","76.5 [66.4-84.3]","76.51041","66.38438","84.30722","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","WPR","VUT","85.4 [0.0-0.0]","85.40000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015-2016","AMR","BLZ","68.3 [0.0-0.0]","68.30000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015","SEAR","BTN","77.9 [0.0-0.0]","77.90000","","","National Nutrition Survey/Standardized Monitoring and Assessment of Relief and Transitions/ Reported"
+"NUTRITION_570","PUBLISHED","2014-2015","AFR","COG","25.3 [0.0-0.0]","25.30000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2011-2012","AFR","CIV","30.8 [27.8-34.0]","30.81256","27.83599","33.95764","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","GHA","55.6 [52.6-58.6]","55.61416","52.61163","58.57623","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","AFR","GIN","16.6 [14.1-19.4]","16.55210","14.06349","19.38175","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","EUR","KGZ","82.5 [80.1-84.7]","82.49023","80.06097","84.68016","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2004","EMR","LBN","41.3 [0.0-0.0]","41.30000","","","Pan Arab Project for Family Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2013","AFR","NAM","71.2 [68.9-73.4]","71.22117","68.92960","73.40891","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2016-2017","SEAR","NPL","54.9 [51.9-57.9]","54.92965","51.91682","57.90677","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2009","WPR","WSM","87.6 [0.0-0.0]","87.60000","","","Demographic and Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2016","AFR","SEN","29.4 [26.5-32.4]","29.40276","26.54123","32.43657","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","SEAR","TLS","93.4 [0.0-0.0]","93.40000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012","WPR","TON","79.1 [0.0-0.0]","79.10000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2013-2014","AFR","ZMB","65.8 [63.8-67.8]","65.81646","63.80617","67.77149","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","EUR","AZE","19.7 [0.0-0.0]","19.70000","","","National Nutrition Survey/Standardized Monitoring and Assessment of Relief and Transitions/ Reported"
+"NUTRITION_570","PUBLISHED","2012","AMR","BRB","40.3 [31.4-49.9]","40.29047","31.35308","49.92276","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","SEAR","PRK","28.1 [0.0-0.0]","28.10000","","","National Nutrition Survey/Standardized Monitoring and Assessment of Relief and Transitions/ Reported"
+"NUTRITION_570","PUBLISHED","2012","EMR","DJI","52.0 [0.0-0.0]","52.00000","","","Pan Arab Project for Family Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2010","AFR","ERI","93.1 [0.0-0.0]","93.10000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2004","WPR","FJI","57.3 [0.0-0.0]","57.30000","","","National Nutrition Survey/Standardized Monitoring and Assessment of Relief and Transitions/ Reported"
+"NUTRITION_570","PUBLISHED","2013","AFR","GMB","51.5 [47.0-56.0]","51.51273","46.95561","56.04483","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","AFR","LBR","61.2 [57.4-65.0]","61.24688","57.36580","64.99028","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015-2016","AFR","MWI","76.2 [74.8-77.6]","76.24229","74.79202","77.63408","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015","AFR","MLI","53.2 [51.2-55.3]","53.23073","51.18833","55.26236","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","EUR","MNE","14.4 [10.2-19.8]","14.37525","10.22553","19.83688","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","AFR","MOZ","69.0 [0.0-0.0]","69.00000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2013","AFR","SLE","53.8 [50.9-56.7]","53.82660","50.89562","56.73137","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2009","EMR","SOM","23.4 [0.0-0.0]","23.40000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2009","EMR","SYR","45.5 [0.0-0.0]","45.50000","","","Pan Arab Project for Family Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015-2016","SEAR","THA","39.9 [0.0-0.0]","39.90000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015-2016","EMR","AFG","40.9 [38.5-43.4]","40.89838","38.45988","43.38250","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","SEAR","BGD","50.8 [48.1-53.5]","50.79849","48.08663","53.50567","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011-2012","EUR","BIH","42.3 [35.4-49.4]","42.28831","35.44980","49.43572","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2009-2010","AMR","COL","63.4 [61.9-64.9]","63.39809","61.85971","64.90962","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013-2014","AFR","COD","51.9 [49.2-54.6]","51.92655","49.23872","54.60327","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2016","AFR","ETH","73.3 [71.0-75.6]","73.32958","70.96526","75.56766","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011-2012","AMR","HND","63.8 [61.9-65.7]","63.79734","61.89066","65.66157","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015","EUR","KAZ","83.3 [81.1-85.3]","83.28873","81.08971","85.27847","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012-2013","AFR","MDG","65.8 [0.0-0.0]","65.80000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2015-2016","SEAR","MMR","66.8 [63.6-69.8]","66.76415","63.60466","69.77969","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","EMR","OMN","71.1 [0.0-0.0]","71.10000","","","Multi Indicator Cluster Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012","EUR","MDA","60.9 [56.7-65.0]","60.91954","56.68546","64.99532","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2003-2004","AFR","ZAF","61.1 [0.0-0.0]","61.10000","","","Demographic and Health Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2012","EUR","TJK","49.6 [46.0-53.2]","49.55541","45.95620","53.15924","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011-2012","EMR","TUN","39.9 [36.1-43.9]","39.92397","36.11580","43.85801","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013-2014","WPR","VNM","26.5 [23.9-29.1]","26.45421","23.94455","29.12619","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","EUR","BLR","53.0 [49.1-56.8]","52.96588","49.14084","56.75639","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","BEN","46.6 [44.1-49.1]","46.57362","44.06327","49.10143","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","AFR","COM","33.7 [29.8-37.9]","33.71137","29.78297","37.87841","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011","AMR","CRI","59.6 [53.3-65.7]","59.62632","53.27098","65.67426","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2012","EUR","GEO","68.7 [0.0-0.0]","68.70000","","","Nutrition Surveillance/ Reported"
+"NUTRITION_570","PUBLISHED","2014-2015","AMR","GTM","63.1 [61.2-65.0]","63.13348","61.19493","65.03055","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011-2012","WPR","LAO","39.1 [36.8-41.4]","39.05143","36.75436","41.39808","Multi Indicator Cluster Survey-Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","LSO","65.3 [62.1-68.3]","65.29388","62.12106","68.33641","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2007","WPR","NRU","76.4 [0.0-0.0]","76.40000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2011-2012","AMR","NIC","54.4 [0.0-0.0]","54.40000","","","Other National Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2014","AFR","STP","38.3 [33.2-43.6]","38.25590","33.18368","43.59754","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","EUR","SRB","50.8 [45.2-56.3]","50.75973","45.16719","56.33331","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011","EUR","MKD","21.0 [16.4-26.4]","20.95508","16.40646","26.36701","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013-2014","AFR","TGO","60.6 [57.9-63.3]","60.62041","57.90818","63.26873","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2006","AMR","TTO","41.2 [36.1-46.4]","41.16968","36.12047","46.41190","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","EMR","YEM","52.7 [50.6-54.7]","52.69004","50.63329","54.73771","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015","AFR","ZWE","57.6 [54.7-60.5]","57.62640","54.66259","60.53633","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015-2016","AFR","AGO","48.3 [45.7-50.9]","48.31644","45.70895","50.93314","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011-2012","AMR","ARG","52.7 [49.8-55.7]","52.74035","49.75137","55.70981","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","BFA","41.6 [0.0-0.0]","41.60000","","","National Nutrition Survey/Standardized Monitoring and Assessment of Relief and Transitions/ Reported"
+"NUTRITION_570","PUBLISHED","2010-2011","AFR","BDI","73.6 [71.7-75.4]","73.61362","71.72091","75.42307","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2014","AFR","CMR","31.2 [28.6-33.9]","31.19584","28.59613","33.91961","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2013","AMR","ECU","54.6 [0.0-0.0]","54.60000","","","Nutrition Surveillance/ Reported"
+"NUTRITION_570","PUBLISHED","2014","EMR","EGY","27.1 [25.7-28.6]","27.09951","25.68446","28.56256","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2010-2011","EMR","IRN","68.7 [0.0-0.0]","68.70000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2011","EMR","IRQ","42.8 [40.9-44.6]","42.75032","40.93056","44.58992","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2007","WPR","MHL","72.5 [0.0-0.0]","72.50000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2013","WPR","MNG","71.1 [68.9-73.3]","71.11021","68.85596","73.26466","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2016","AMR","PRY","49.5 [46.2-52.9]","49.54847","46.21545","52.88552","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2016","AMR","PER","54.8 [0.0-0.0]","54.80000","","","Demographic and Health Survey-Style Survey/ Reported"
+"NUTRITION_570","PUBLISHED","2014","EMR","SDN","68.7 [66.6-70.8]","68.71645","66.57229","70.78344","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2010","AMR","SUR","44.7 [41.4-48.0]","44.68282","41.43751","47.97409","Multi Indicator Cluster Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2011","AFR","UGA","52.5 [49.4-55.6]","52.51575","49.43730","55.57519","Demographic and Health Survey/ Reanalyzed"
+"NUTRITION_570","PUBLISHED","2015-2016","AFR","TZA","51.3 [48.9-53.6]","51.27016","48.91037","53.62430","Demographic and Health Survey/ Reanalyzed"

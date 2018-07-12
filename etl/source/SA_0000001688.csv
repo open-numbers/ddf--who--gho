@@ -1,200 +1,238 @@
-GHO,PUBLISHSTATE,YEAR,REGION,WORLDBANKINCOMEGROUP,COUNTRY,Display Value,Numeric,Low,High,Comments
-SA_0000001688,PUBLISHED,2008,NOTSPEC,WB_LI,,3.19,,,,
-SA_0000001688,PUBLISHED,2008,NOTSPEC,WB_LMI,,4.32,,,,
-SA_0000001688,PUBLISHED,2008,NOTSPEC,WB_UMI,,9.73,,,,
-SA_0000001688,PUBLISHED,2008,NOTSPEC,WB_HI,,10.37,,,,
-SA_0000001688,PUBLISHED,2008,WPR,,BRN,1.86,1.86,,,
-SA_0000001688,PUBLISHED,2008,EUR,,BGR,11.40,11.4,,,
-SA_0000001688,PUBLISHED,2008,AFR,,BFA,7.32,7.32,,,
-SA_0000001688,PUBLISHED,2008,AFR,,BDI,9.65,9.65,,,
-SA_0000001688,PUBLISHED,2008,WPR,,KHM,4.71,4.71,,,
-SA_0000001688,PUBLISHED,2008,AFR,,CMR,7.90,7.9,,,
-SA_0000001688,PUBLISHED,2008,AMR,,CAN,10.20,10.2,,,
-SA_0000001688,PUBLISHED,2008,AFR,,CPV,4.98,4.98,,,
-SA_0000001688,PUBLISHED,2008,AFR,,CAF,3.17,3.17,,,
-SA_0000001688,PUBLISHED,2008,AFR,,TCD,4.39,4.39,,,
-SA_0000001688,PUBLISHED,2008,AMR,,CHL,8.81,8.81,,,
-SA_0000001688,PUBLISHED,2008,WPR,,CHN,5.56,5.56,,,
-SA_0000001688,PUBLISHED,2008,AMR,,COL,6.59,6.59,,,
-SA_0000001688,PUBLISHED,2008,AFR,,COM,0.28,0.28,,,
-SA_0000001688,PUBLISHED,2008,AFR,,COG,4.46,4.46,,,
-SA_0000001688,PUBLISHED,2008,WPR,,COK,3.23,3.23,,,
-SA_0000001688,PUBLISHED,2008,AMR,,CRI,5.81,5.81,,,
-SA_0000001688,PUBLISHED,2008,EUR,,HRV,15.00,15.0,,,
-SA_0000001688,PUBLISHED,2008,AMR,,CUB,5.12,5.12,,,
-SA_0000001688,PUBLISHED,2008,EUR,,CYP,8.84,8.84,,,
-SA_0000001688,PUBLISHED,2008,EUR,,CZE,16.47,16.47,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,PRK,4.34,4.34,,,
-SA_0000001688,PUBLISHED,2008,AFR,,COD,3.39,3.39,,,
-SA_0000001688,PUBLISHED,2008,EUR,,DNK,12.02,12.02,,,
-SA_0000001688,PUBLISHED,2008,EMR,,DJI,1.87,1.87,,,
-SA_0000001688,PUBLISHED,2008,AMR,,DMA,8.68,8.68,,,
-SA_0000001688,PUBLISHED,2008,AMR,,DOM,6.28,6.28,,,
-SA_0000001688,PUBLISHED,2008,AMR,,ECU,9.43,9.43,,,
-SA_0000001688,PUBLISHED,2008,EMR,,EGY,0.32,0.32,,,
-SA_0000001688,PUBLISHED,2008,AMR,,SLV,3.99,3.99,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GNQ,6.12,6.12,,,
-SA_0000001688,PUBLISHED,2008,AFR,,ERI,1.64,1.64,,,
-SA_0000001688,PUBLISHED,2008,EUR,,EST,17.24,17.24,,,
-SA_0000001688,PUBLISHED,2008,AMR,,BRA,10.08,10.08,,,
-SA_0000001688,PUBLISHED,2008,AFR,,BWA,6.97,6.97,,,
-SA_0000001688,PUBLISHED,2008,EUR,,BIH,9.60,9.6,,,
-SA_0000001688,PUBLISHED,2008,AMR,,BOL,5.78,5.78,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,BTN,0.54,0.54,,,
-SA_0000001688,PUBLISHED,2008,AFR,,BEN,2.08,2.08,,,
-SA_0000001688,PUBLISHED,2008,AMR,,BLZ,5.92,5.92,,,
-SA_0000001688,PUBLISHED,2008,EUR,,BEL,10.41,10.41,,,
-SA_0000001688,PUBLISHED,2008,EUR,,BLR,18.85,18.85,,,
-SA_0000001688,PUBLISHED,2008,AMR,,BRB,6.42,6.42,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,BGD,0.17,0.17,,,
-SA_0000001688,PUBLISHED,2008,EMR,,BHR,4.19,4.19,,,
-SA_0000001688,PUBLISHED,2008,AMR,,BHS,8.65,8.65,,,
-SA_0000001688,PUBLISHED,2008,EUR,,AZE,13.34,13.34,,,
-SA_0000001688,PUBLISHED,2008,EUR,,AUT,12.40,12.4,,,
-SA_0000001688,PUBLISHED,2008,WPR,,AUS,10.21,10.21,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ARM,13.66,13.66,,,
-SA_0000001688,PUBLISHED,2008,AMR,,ARG,9.35,9.35,,,
-SA_0000001688,PUBLISHED,2008,AMR,,ATG,8.17,8.17,,,
-SA_0000001688,PUBLISHED,2008,AFR,,AGO,5.57,5.57,,,
-SA_0000001688,PUBLISHED,2008,EUR,,AND,10.17,10.17,,,
-SA_0000001688,PUBLISHED,2008,AFR,,DZA,0.69,0.69,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ALB,7.29,7.29,,,
-SA_0000001688,PUBLISHED,2008,EMR,,AFG,0.03,0.03,,,
-SA_0000001688,PUBLISHED,2008,AFR,,ETH,4.10,4.1,,,
-SA_0000001688,PUBLISHED,2008,WPR,,FJI,2.76,2.76,,,
-SA_0000001688,PUBLISHED,2008,EUR,,FIN,13.10,13.1,,,
-SA_0000001688,PUBLISHED,2008,EUR,,FRA,12.48,12.48,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GAB,9.46,9.46,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GMB,3.58,3.58,,,
-SA_0000001688,PUBLISHED,2008,EUR,,GEO,6.66,6.66,,,
-SA_0000001688,PUBLISHED,2008,EUR,,DEU,12.14,12.14,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GHA,3.11,3.11,,,
-SA_0000001688,PUBLISHED,2008,EUR,,GRC,11.01,11.01,,,
-SA_0000001688,PUBLISHED,2008,AMR,,GRD,10.71,10.71,,,
-SA_0000001688,PUBLISHED,2008,AMR,,GTM,7.10,7.1,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GIN,0.79,0.79,,,
-SA_0000001688,PUBLISHED,2008,AFR,,GNB,3.90,3.9,,,
-SA_0000001688,PUBLISHED,2008,AMR,,GUY,8.70,8.7,,,
-SA_0000001688,PUBLISHED,2008,AMR,,HTI,5.92,5.92,,,
-SA_0000001688,PUBLISHED,2008,AMR,,HND,4.43,4.43,,,
-SA_0000001688,PUBLISHED,2008,EUR,,HUN,16.12,16.12,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ISL,7.38,7.38,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,IND,2.69,2.69,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,IDN,0.56,0.56,,,
-SA_0000001688,PUBLISHED,2008,EMR,,IRN,1.03,1.03,,,
-SA_0000001688,PUBLISHED,2008,EMR,,IRQ,0.47,0.47,,,
-SA_0000001688,PUBLISHED,2008,EUR,,IRL,14.92,14.92,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ISR,2.52,2.52,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ITA,9.72,9.72,,,
-SA_0000001688,PUBLISHED,2008,AMR,,JAM,5.17,5.17,,,
-SA_0000001688,PUBLISHED,2008,WPR,,JPN,7.79,7.79,,,
-SA_0000001688,PUBLISHED,2008,EMR,,JOR,0.65,0.65,,,
-SA_0000001688,PUBLISHED,2008,EUR,,KAZ,11.10,11.1,,,
-SA_0000001688,PUBLISHED,2008,AFR,,KEN,3.88,3.88,,,
-SA_0000001688,PUBLISHED,2008,WPR,,KIR,2.70,2.7,,,
-SA_0000001688,PUBLISHED,2008,EMR,,KWT,0.10,0.1,,,
-SA_0000001688,PUBLISHED,2008,EUR,,KGZ,4.72,4.72,,,
-SA_0000001688,PUBLISHED,2008,WPR,,LAO,6.99,6.99,,,
-SA_0000001688,PUBLISHED,2008,EUR,,LVA,13.45,13.45,,,
-SA_0000001688,PUBLISHED,2008,EMR,,LBN,2.30,2.3,,,
-SA_0000001688,PUBLISHED,2008,AFR,,LSO,5.56,5.56,,,
-SA_0000001688,PUBLISHED,2008,AFR,,LBR,5.07,5.07,,,
-SA_0000001688,PUBLISHED,2008,EMR,,LBY,0.10,0.1,,,
-SA_0000001688,PUBLISHED,2008,EUR,,LTU,16.30,16.3,,,
-SA_0000001688,PUBLISHED,2008,EUR,,LUX,12.84,12.84,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MDG,1.32,1.32,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MWI,1.44,1.44,,,
-SA_0000001688,PUBLISHED,2008,WPR,,MYS,0.87,0.87,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MLI,0.99,0.99,,,
-SA_0000001688,PUBLISHED,2008,EUR,,MLT,4.10,4.1,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MRT,0.11,0.11,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MUS,3.53,3.53,,,
-SA_0000001688,PUBLISHED,2008,AMR,,MEX,8.55,8.55,,,
-SA_0000001688,PUBLISHED,2008,WPR,,FSM,5.25,5.25,,,
-SA_0000001688,PUBLISHED,2008,WPR,,MNG,3.41,3.41,,,
-SA_0000001688,PUBLISHED,2008,EMR,,MAR,1.24,1.24,,,
-SA_0000001688,PUBLISHED,2008,AFR,,MOZ,2.27,2.27,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,MMR,0.58,0.58,,,
-SA_0000001688,PUBLISHED,2008,AFR,,NAM,11.46,11.46,,,
-SA_0000001688,PUBLISHED,2008,WPR,,NRU,4.81,4.81,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,NPL,2.42,2.42,,,
-SA_0000001688,PUBLISHED,2008,EUR,,NLD,9.75,9.75,,,
-SA_0000001688,PUBLISHED,2008,WPR,,NZL,9.99,9.99,,,
-SA_0000001688,PUBLISHED,2008,AMR,,NIC,5.21,5.21,,,
-SA_0000001688,PUBLISHED,2008,AFR,,NER,0.34,0.34,,,
-SA_0000001688,PUBLISHED,2008,AFR,,NGA,12.72,12.72,,,
-SA_0000001688,PUBLISHED,2008,AFR,,SEN,0.51,0.51,,,
-SA_0000001688,PUBLISHED,2008,EUR,,SRB,12.21,12.21,,,
-SA_0000001688,PUBLISHED,2008,AFR,,SYC,12.11,12.11,,,
-SA_0000001688,PUBLISHED,2008,AFR,,SLE,9.48,9.48,,,
-SA_0000001688,PUBLISHED,2008,WPR,,SGP,1.54,1.54,,,
-SA_0000001688,PUBLISHED,2008,EUR,,SVK,13.31,13.31,,,
-SA_0000001688,PUBLISHED,2008,EUR,,SVN,14.94,14.94,,,
-SA_0000001688,PUBLISHED,2008,WPR,,SLB,1.37,1.37,,,
-SA_0000001688,PUBLISHED,2008,EMR,,SOM,0.50,0.5,,,
-SA_0000001688,PUBLISHED,2008,AFR,,ZAF,10.16,10.16,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ESP,11.83,11.83,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,LKA,0.81,0.81,,,
-SA_0000001688,PUBLISHED,2008,EMR,,SDN,2.56,2.56,,,
-SA_0000001688,PUBLISHED,2008,AMR,,SUR,6.56,6.56,,,
-SA_0000001688,PUBLISHED,2008,AFR,,SWZ,5.05,5.05,,,
-SA_0000001688,PUBLISHED,2008,EUR,,SWE,9.98,9.98,,,
-SA_0000001688,PUBLISHED,2008,EUR,,CHE,11.41,11.41,,,
-SA_0000001688,PUBLISHED,2008,EMR,,SYR,1.49,1.49,,,
-SA_0000001688,PUBLISHED,2008,EUR,,TJK,3.39,3.39,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,THA,7.08,7.08,,,
-SA_0000001688,PUBLISHED,2008,EUR,,MKD,8.94,8.94,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,TLS,0.74,0.74,,,
-SA_0000001688,PUBLISHED,2008,AFR,,TGO,1.92,1.92,,,
-SA_0000001688,PUBLISHED,2008,WPR,,TON,3.92,3.92,,,
-SA_0000001688,PUBLISHED,2008,AMR,,TTO,6.16,6.16,,,
-SA_0000001688,PUBLISHED,2008,EMR,,TUN,1.05,1.05,,,
-SA_0000001688,PUBLISHED,2008,EUR,,TUR,3.02,3.02,,,
-SA_0000001688,PUBLISHED,2008,EUR,,TKM,5.00,5.0,,,
-SA_0000001688,PUBLISHED,2008,WPR,,TUV,2.14,2.14,,,
-SA_0000001688,PUBLISHED,2008,AFR,,UGA,16.40,16.4,,,
-SA_0000001688,PUBLISHED,2008,EUR,,UKR,17.47,17.47,,,
-SA_0000001688,PUBLISHED,2008,EMR,,ARE,0.52,0.52,,,
-SA_0000001688,PUBLISHED,2008,EUR,,GBR,13.24,13.24,,,
-SA_0000001688,PUBLISHED,2008,EMR,,SAU,0.34,0.34,,,
-SA_0000001688,PUBLISHED,2008,AFR,,STP,8.45,8.45,,,
-SA_0000001688,PUBLISHED,2008,WPR,,WSM,"4,51",4.51,,,
-SA_0000001688,PUBLISHED,2008,AMR,,VCT,4.99,4.99,,,
-SA_0000001688,PUBLISHED,2008,AMR,,LCA,12.05,12.05,,,
-SA_0000001688,PUBLISHED,2008,AMR,,KNA,10.62,10.62,,,
-SA_0000001688,PUBLISHED,2008,AFR,,RWA,9.99,9.99,,,
-SA_0000001688,PUBLISHED,2008,EUR,,RUS,16.23,16.23,,,
-SA_0000001688,PUBLISHED,2008,EUR,,ROU,16.15,16.15,,,
-SA_0000001688,PUBLISHED,2008,EUR,,MDA,23.01,23.01,,,
-SA_0000001688,PUBLISHED,2008,WPR,,KOR,14.81,14.81,,,
-SA_0000001688,PUBLISHED,2008,EMR,,QAT,1.29,1.29,,,
-SA_0000001688,PUBLISHED,2008,EUR,,PRT,13.89,13.89,,,
-SA_0000001688,PUBLISHED,2008,EUR,,POL,14.43,14.43,,,
-SA_0000001688,PUBLISHED,2008,WPR,,PHL,6.08,6.08,,,
-SA_0000001688,PUBLISHED,2008,AMR,,PER,6.53,6.53,,,
-SA_0000001688,PUBLISHED,2008,AMR,,PRY,7.91,7.91,,,
-SA_0000001688,PUBLISHED,2008,WPR,,PNG,3.64,3.64,,,
-SA_0000001688,PUBLISHED,2008,AMR,,PAN,7.30,7.3,,,
-SA_0000001688,PUBLISHED,2008,WPR,,PLW,9.86,9.86,,,
-SA_0000001688,PUBLISHED,2008,EMR,,PAK,0.05,0.05,,,
-SA_0000001688,PUBLISHED,2008,EMR,,OMN,0.92,0.92,,,
-SA_0000001688,PUBLISHED,2008,EUR,,NOR,8.35,8.35,,,
-SA_0000001688,PUBLISHED,2008,WPR,,NIU,8.69,8.69,,,
-SA_0000001688,PUBLISHED,2008,AFR,,TZA,7.86,7.86,,,
-SA_0000001688,PUBLISHED,2008,AMR,,USA,9.70,9.7,,,
-SA_0000001688,PUBLISHED,2008,AMR,,URY,8.99,8.99,,,
-SA_0000001688,PUBLISHED,2008,EUR,,UZB,3.61,3.61,,,
-SA_0000001688,PUBLISHED,2008,WPR,,VUT,0.96,0.96,,,
-SA_0000001688,PUBLISHED,2008,AMR,,VEN,7.60,7.6,,,
-SA_0000001688,PUBLISHED,2008,WPR,,VNM,3.91,3.91,,,
-SA_0000001688,PUBLISHED,2008,EMR,,YEM,0.20,0.2,,,
-SA_0000001688,PUBLISHED,2008,AFR,,ZMB,3.56,3.56,,,
-SA_0000001688,PUBLISHED,2008,AFR,,ZWE,4.96,4.96,,,
-SA_0000001688,PUBLISHED,2008,AFR,,CIV,6.47,6.47,,,
-SA_0000001688,PUBLISHED,2008,AFR,,,6.48,6.48,,,
-SA_0000001688,PUBLISHED,2008,AMR,,,8.97,8.97,,,
-SA_0000001688,PUBLISHED,2008,SEAR,,,2.29,2.29,,,
-SA_0000001688,PUBLISHED,2008,GLOBAL,,,6.04,6.04,,,
-SA_0000001688,PUBLISHED,2008,EUR,,,12.23,12.23,,,
-SA_0000001688,PUBLISHED,2008,EMR,,,0.63,0.63,,,
-SA_0000001688,PUBLISHED,2008,WPR,,,5.92,5.92,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","UNREGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"SA_0000001688","PUBLISHED","2016","EMR","","AFG","0.2","0.22081","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","AGO","6.4","6.39472","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ALB","7.5","7.46907","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","AND","11.3","11.28772","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","ARE","3.8","3.78027","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","ARG","9.8","9.82001","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ARM","5.5","5.52248","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","ATG","7.0","7.01917","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","AUS","10.6","10.62128","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","AUT","11.6","11.64384","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","AZE","0.8","0.81804","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","BDI","7.5","7.48374","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","BEL","12.1","12.12579","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","BEN","3.0","3.02375","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","BFA","8.2","8.17162","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","BGD","0.0","0.02110","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","BGR","12.7","12.68478","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","BHR","1.9","1.94119","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","BHS","4.4","4.43127","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","BIH","6.4","6.43030","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","BLR","11.2","11.18620","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","BLZ","6.7","6.74742","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","BOL","4.8","4.75056","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","BRA","7.8","7.76886","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","BRB","9.6","9.60178","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","BRN","0.4","0.42533","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","BTN","0.6","0.57073","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","BWA","8.4","8.36178","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","CAF","3.3","3.29424","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","CAN","8.9","8.92986","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","CHE","11.5","11.49983","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","CHL","9.3","9.25075","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","CHN","7.2","7.19702","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","CIV","8.4","8.35592","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","CMR","8.9","8.88983","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","COD","2.6","2.56594","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","COG","7.8","7.81682","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","COK","10.6","10.55511","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","COL","5.8","5.82122","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","COM","0.9","0.90892","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","CPV","5.7","5.74297","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","CRI","4.8","4.75741","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","CUB","6.1","6.07426","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","CYP","10.8","10.76475","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","CZE","14.4","14.40352","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","DEU","13.4","13.38189","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","DJI","0.5","0.53153","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","DMA","8.2","8.15513","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","DNK","10.4","10.37872","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","DOM","6.9","6.87369","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","DZA","0.9","0.92012","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","ECU","4.4","4.42184","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","EGY","0.4","0.39950","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","ERI","1.3","1.26906","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ESP","10.0","9.99657","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","EST","11.6","11.58277","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","ETH","2.8","2.84672","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","FIN","10.7","10.69700","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","FJI","3.0","2.99683","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","FRA","12.6","12.57887","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","FSM","2.5","2.45003","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GAB","11.5","11.45207","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","GBR","11.4","11.44507","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","GEO","9.8","9.80307","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GHA","2.7","2.65284","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GIN","1.3","1.25009","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GMB","3.8","3.75667","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GNB","4.8","4.75149","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","GNQ","11.3","11.28573","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","GRC","10.4","10.42176","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","GRD","9.3","9.26411","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","GTM","2.4","2.44532","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","GUY","6.3","6.27233","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","HND","4.0","4.01437","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","HRV","8.9","8.93896","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","HTI","5.8","5.78398","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","HUN","11.4","11.40160","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","IDN","0.8","0.77465","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","IND","5.7","5.66429","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","IRL","13.0","12.99883","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","IRN","1.0","1.00478","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","IRQ","0.4","0.38379","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ISL","9.1","9.12530","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ISR","3.8","3.83833","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ITA","7.5","7.50342","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","JAM","4.2","4.15276","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","JOR","0.7","0.73926","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","JPN","8.0","8.01586","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","KAZ","7.7","7.66385","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","KEN","3.4","3.35668","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","KGZ","6.2","6.22263","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","KHM","6.7","6.71304","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","KIR","0.4","0.44266","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","KNA","9.4","9.38047","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","KOR","10.2","10.22654","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","KWT","0.0","0.00546","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","LAO","10.4","10.36126","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","LBN","1.5","1.53474","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","LBR","5.8","5.76167","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","LBY","0.0","0.02891","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","LCA","9.9","9.85179","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","LKA","4.3","4.26995","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","LSO","5.0","5.03332","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","LTU","15.0","14.99021","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","LUX","13.0","12.98038","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","LVA","12.9","12.88709","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","MAR","0.6","0.62655","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","MDA","15.2","15.15550","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MDG","1.9","1.93321","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","MDV","2.7","2.67199","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","MEX","6.5","6.53921","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","MKD","8.1","8.11399","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MLI","1.3","1.25627","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","MLT","8.1","8.09148","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","MMR","4.8","4.76889","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","MNE","8.0","8.01819","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","MNG","7.4","7.35394","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MOZ","2.4","2.39306","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MRT","0.0","0.03533","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MUS","3.6","3.60344","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","MWI","3.7","3.65728","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","MYS","0.9","0.91800","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","NAM","9.8","9.80735","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","NER","0.5","0.50145","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","NGA","13.4","13.38404","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","NIC","5.2","5.18085","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","NIU","7.0","6.98255","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","NLD","8.7","8.65434","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","NOR","7.5","7.45748","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","NPL","2.0","2.01573","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","NRU","6.0","6.01076","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","NZL","10.7","10.67204","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","OMN","0.8","0.76105","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","PAK","0.3","0.31138","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","PAN","7.9","7.86996","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","PER","6.3","6.30141","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","PHL","6.6","6.60580","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","PNG","1.2","1.17002","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","POL","11.6","11.63427","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","PRK","3.9","3.86438","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","PRT","12.3","12.28271","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","PRY","7.2","7.23370","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","QAT","2.0","1.98539","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","ROU","12.6","12.64652","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","RUS","11.7","11.69784","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","RWA","9.0","8.98472","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","SAU","0.2","0.21668","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","SDN","0.5","0.50000","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","SEN","0.7","0.74068","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","SGP","2.0","2.02739","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","SLB","1.4","1.41189","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","SLE","5.7","5.65575","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","SLV","3.7","3.74801","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","SOM","0.0","0.01061","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","SRB","11.1","11.08259","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","STP","6.8","6.83942","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","SUR","5.1","5.11677","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","SVK","11.5","11.45443","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","SVN","12.6","12.63015","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","SWE","9.2","9.15822","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","SWZ","9.9","9.91312","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","SYC","12.0","11.99912","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","SYR","0.3","0.31535","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","TCD","1.5","1.54707","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","TGO","3.1","3.08180","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","THA","8.3","8.29748","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","TJK","3.3","3.28033","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","TKM","5.4","5.41972","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","TLS","2.1","2.05161","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","TON","1.5","1.52203","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","TTO","8.4","8.36512","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","TUN","1.9","1.89737","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","TUR","2.0","1.95638","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","TUV","1.7","1.72315","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","TZA","9.4","9.38454","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","UGA","9.5","9.46322","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","UKR","8.6","8.55271","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","URY","10.8","10.82732","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","USA","9.8","9.81408","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","UZB","2.7","2.66003","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","VCT","8.2","8.23874","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","VEN","5.6","5.64394","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","VNM","8.3","8.34825","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","VUT","1.0","1.00481","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","WSM","2.5","2.50296","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","YEM","0.1","0.06620","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","ZAF","9.3","9.25975","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","ZMB","4.8","4.84252","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","ZWE","4.8","4.79448","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","GLOBAL","1","","6.4","6.37532","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AFR","","","6.3","6.27501","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","AMR","","","8.0","7.99316","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","SEAR","","","4.5","4.52785","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EUR","","","9.8","9.81777","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","EMR","","","0.6","0.55363","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","WPR","","","7.3","7.29164","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","135","","4.4","4.44805","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","485","","1.1","1.14843","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","514","","10.4","10.37749","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","518","","7.3","7.25138","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","738","","6.2","6.22503","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","746","","0.6","0.64764","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","13","","5.9","5.90981","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","17","","4.5","4.46781","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","39","","9.1","9.08792","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","57","","1.6","1.61023","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","151","","11.4","11.40747","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","199","","3","3.02204","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","747","","1.1","1.09233","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","35","","4.3","4.28736","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","29","","6.2","6.20819","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","142","","5.3","5.33755","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","432","","4.3","4.29631","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","11","","8.6","8.61854","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","18","","9.1","9.12819","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","61","","2.7","2.70777","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","150","","11.2","11.15739","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","202","","6.5","6.47852","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","722","","4.8","4.84174","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","543","","1.4","1.42130","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","9","","8.6","8.63789","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","14","","4.8","4.75919","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","62","","4.3","4.29155","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","145","","1.5","1.49136","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","154","","11.1","11.11270","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","419","","6.9","6.92266","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","21","","9.7","9.72223","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","34","","4.3","4.28000","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","53","","10.6","10.62920","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","5","","7.4","7.38474","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","15","","0.6","0.62402","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","143","","4.6","4.60435","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","155","","12.5","12.46805","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","753","","6.5","6.51762","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","30","","7.3","7.31520","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","54","","1.4","1.37182","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"
+"SA_0000001688","PUBLISHED","2016","","513","","10.7","10.69710","","","WHO Global Information System on Alcohol and Health (GISAH), 2018"

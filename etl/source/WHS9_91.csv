@@ -1,261 +1,382 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-WHS9_91,PUBLISHED,2007,AMR,BRB,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,AMR,BRA,93.4,93.4,,,
-WHS9_91,PUBLISHED,2008,WPR,BRN,>90,0.0,,,
-WHS9_91,PUBLISHED,2005,EMR,EGY,99,99.0,,,
-WHS9_91,PUBLISHED,2005,AFR,GIN,43.2,43.2,,,
-WHS9_91,PUBLISHED,2011,EUR,ISR,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,EMR,KWT,>90,0.0,,,
-WHS9_91,PUBLISHED,2007,AFR,MRT,55.9,55.9,,,
-WHS9_91,PUBLISHED,2007,AMR,PER,92.9,92.9,,,
-WHS9_91,PUBLISHED,2010-2011,AFR,SEN,74.6,74.6,,,
-WHS9_91,PUBLISHED,2010,EMR,SSD,35.4,35.4,,,
-WHS9_91,PUBLISHED,2006,EMR,SYR,95.2,95.2,,,
-WHS9_91,PUBLISHED,2007,WPR,VUT,25.6,25.6,,,
-WHS9_91,PUBLISHED,2008,AMR,VEN,>90,0.0,,,
-WHS9_91,PUBLISHED,2009,WPR,WSM,47.7,47.7,,,
-WHS9_91,PUBLISHED,2011,AFR,GHA,62.5,62.5,,,
-WHS9_91,PUBLISHED,2012,EUR,TJK,88.4,88.4,,,
-WHS9_91,PUBLISHED,2013,WPR,COK,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,EUR,HRV,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,AFR,SYC,>90,90.0,,,
-WHS9_91,PUBLISHED,2011,AMR,BRA,92.8,92.8,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2011,AMR,BLZ,95.2,95.2,,,
-WHS9_91,PUBLISHED,2007,WPR,MHL,95.9,95.9,,,
-WHS9_91,PUBLISHED,2011,AMR,CHL,99.4,99.4,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2010-2011,EUR,KAZ,99.7,99.7,,,
-WHS9_91,PUBLISHED,2012,EUR,UKR,99.8,99.8,,,
-WHS9_91,PUBLISHED,2012,EUR,BGR,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,FIN,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,FRA,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,DEU,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,LUX,100,100.0,,,
-WHS9_91,PUBLISHED,2009,EUR,SMR,100,100.0,,,
-WHS9_91,PUBLISHED,2011,AFR,MWI,2.3,2.3,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2007,AFR,LBR,3.6,3.6,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2007,AFR,ZMB,14.0,14.0,,,
-WHS9_91,PUBLISHED,2010,AFR,COD,27.8,27.8,,,
-WHS9_91,PUBLISHED,2013,AFR,NGA,29.8,29.8,,,
-WHS9_91,PUBLISHED,2011,SEAR,BGD,30.5,30.5,,,
-WHS9_91,PUBLISHED,2009,AFR,LSO,45.1,45.1,,,
-WHS9_91,PUBLISHED,2011,AFR,MOZ,47.9,47.9,,,
-WHS9_91,PUBLISHED,2009-2010,SEAR,TLS,55.2,55.2,,,
-WHS9_91,PUBLISHED,2012,AFR,GIN,57.9,57.9,,,
-WHS9_91,PUBLISHED,2010,EMR,SDN,59.3,59.3,,,
-WHS9_91,PUBLISHED,2010,AFR,RWA,63.2,63.2,,,
-WHS9_91,PUBLISHED,2012,AFR,NER,63.9,63.9,,,
-WHS9_91,PUBLISHED,2011-2012,AFR,CIV,65.0,65.0,,,
-WHS9_91,PUBLISHED,2008-2009,AFR,STP,75.1,75.1,,,
-WHS9_91,PUBLISHED,2008,AMR,BOL,75.8,75.8,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2011,AMR,PRY,76.1,76.1,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,AMR,HTI,79.7,79.7,,,
-WHS9_91,PUBLISHED,2011-2012,AFR,BEN,80.2,80.2,,,
-WHS9_91,PUBLISHED,2010,AFR,MLI,80.8,80.8,,,
-WHS9_91,PUBLISHED,2011,AMR,VEN,80.8,80.8,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2011-2012,AMR,NIC,84.7,84.7,,,
-WHS9_91,PUBLISHED,2012,AFR,COM,87.3,87.3,,,
-WHS9_91,PUBLISHED,2012,EMR,BHR,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,EMR,KWT,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,EUR,MNE,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,EUR,ROU,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,WPR,SGP,>90,90.0,,,
-WHS9_91,PUBLISHED,2009,WPR,KIR,93.5,93.5,,,
-WHS9_91,PUBLISHED,2012,SEAR,THA,99.4,99.4,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2011-2012,AMR,ARG,99.5,99.5,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2011,EUR,MKD,99.7,99.7,,,
-WHS9_91,PUBLISHED,2012,AMR,CAN,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,CYP,100,100.0,,,
-WHS9_91,PUBLISHED,2010,AMR,SUR,98.9,98.9,,,
-WHS9_91,PUBLISHED,2010,EUR,SRB,98.9,98.9,,,
-WHS9_91,PUBLISHED,2010,EMR,IRN,98.6,98.6,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2006,EUR,TKM,95.5,95.5,,,
-WHS9_91,PUBLISHED,2011,AFR,MUS,>90,0.0,,,
-WHS9_91,PUBLISHED,2006,EMR,IRQ,95,95.0,,,
-WHS9_91,PUBLISHED,2008,EMR,IRN,>90,0.0,,,
-WHS9_91,PUBLISHED,2009-2010,AMR,DOM,79.2,79.2,,,
-WHS9_91,PUBLISHED,2011,EUR,CYP,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,ITA,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,POL,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,PRT,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,RUS,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,CHE,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,GBR,100,100.0,,,
-WHS9_91,PUBLISHED,2009,AMR,USA,100,100.0,,,
-WHS9_91,PUBLISHED,2009,AMR,CHL,99.5,99.5,,,
-WHS9_91,PUBLISHED,2009,AMR,CAN,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,BGR,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,BEL,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,AMR,ARG,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,WPR,AUS,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,BLR,>90,0.0,,,
-WHS9_91,PUBLISHED,2006,AFR,CIV,54.9,54.9,,,
-WHS9_91,PUBLISHED,2011,EUR,HRV,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,GEO,98.5,98.5,,,
-WHS9_91,PUBLISHED,2005-2006,AMR,HTI,81.1,81.1,,,
-WHS9_91,PUBLISHED,2011,EUR,IRL,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,LUX,>90,0.0,,,
-WHS9_91,PUBLISHED,2008-2009,AFR,MDG,79.7,79.7,,,
-WHS9_91,PUBLISHED,2011,WPR,NZL,>90,0.0,,,
-WHS9_91,PUBLISHED,2006-2007,EMR,PAK,26.5,26.5,,,
-WHS9_91,PUBLISHED,2011,AMR,PAN,>90,0.0,,,
-WHS9_91,PUBLISHED,2009,WPR,PHL,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,MDA,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,ROU,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,RUS,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,AFR,SYC,>90,0.0,,,
-WHS9_91,PUBLISHED,2005,EUR,TJK,88.3,88.3,,,
-WHS9_91,PUBLISHED,2005-2006,SEAR,THA,99.4,99.4,,,
-WHS9_91,PUBLISHED,2006,EUR,UZB,99.9,99.9,,,
-WHS9_91,PUBLISHED,2011,AFR,UGA,29.9,29.9,,,
-WHS9_91,PUBLISHED,2010-2011,AFR,ZWE,48.8,48.8,,,
-WHS9_91,PUBLISHED,2011,AFR,MRT,58.8,58.8,,,
-WHS9_91,PUBLISHED,2012,SEAR,IDN,66.6,66.6,,,
-WHS9_91,PUBLISHED,2010,AFR,BDI,75.2,75.2,,,
-WHS9_91,PUBLISHED,2012,AFR,ZAF,85.0,85.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2009,AMR,GUY,87.9,87.9,,,
-WHS9_91,PUBLISHED,2013,EUR,BIH,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,WPR,MYS,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,AFR,MUS,>90,90.0,,,
-WHS9_91,PUBLISHED,2009,AMR,VCT,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,EUR,UZB,>90,90.0,,,
-WHS9_91,PUBLISHED,2009,SEAR,MDV,92.5,92.5,,,
-WHS9_91,PUBLISHED,2009,AMR,MEX,93.4,93.4,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,AMR,PER,95.6,95.6,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2010,AMR,COL,96.5,96.5,,,
-WHS9_91,PUBLISHED,2008,AMR,SLV,98.6,98.6,,,
-WHS9_91,PUBLISHED,2009,EMR,LBN,99.5,99.5,,,
-WHS9_91,PUBLISHED,2010,SEAR,BTN,99.9,99.9,,,
-WHS9_91,PUBLISHED,2011,AMR,CUB,100,100.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2010,EUR,GRC,100,100.0,,,
-WHS9_91,PUBLISHED,2012,WPR,JPN,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,LVA,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,LTU,100,100.0,,,
-WHS9_91,PUBLISHED,2012,EMR,ARE,100,100.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2006,AFR,BEN,60.3,60.3,,,
-WHS9_91,PUBLISHED,2006,EUR,BIH,99.5,99.5,,,
-WHS9_91,PUBLISHED,2005,AFR,COG,81.1,81.1,,,
-WHS9_91,PUBLISHED,2006,EMR,DJI,89.2,89.2,,,
-WHS9_91,PUBLISHED,2005,AFR,ETH,6.6,6.6,,,
-WHS9_91,PUBLISHED,2005-2006,AMR,HND,93.5,93.5,,,
-WHS9_91,PUBLISHED,2006,WPR,LAO,71.5,71.5,,,
-WHS9_91,PUBLISHED,2010,WPR,MYS,>90,0.0,,,
-WHS9_91,PUBLISHED,2006-2007,AFR,NAM,67.1,67.1,,,
-WHS9_91,PUBLISHED,2011,EUR,SMR,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,SVK,>90,0.0,,,
-WHS9_91,PUBLISHED,2008,AFR,ZAF,91.8,91.8,,,
-WHS9_91,PUBLISHED,2006,AMR,SUR,96.6,96.6,,,
-WHS9_91,PUBLISHED,2006,AMR,TTO,95.8,95.8,,,
-WHS9_91,PUBLISHED,2008,EMR,TUN,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,AFR,TCD,15.7,15.7,,,
-WHS9_91,PUBLISHED,2012,EMR,YEM,17.1,17.1,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2010,AFR,SWZ,49.5,49.5,,,
-WHS9_91,PUBLISHED,2011,AFR,GNQ,53.5,53.5,,,
-WHS9_91,PUBLISHED,2008-2009,AFR,KEN,60.0,60.0,,,
-WHS9_91,PUBLISHED,2010,WPR,KHM,62.1,62.1,,,
-WHS9_91,PUBLISHED,2007-2008,AFR,BWA,72.2,72.2,,,
-WHS9_91,PUBLISHED,2009-2010,SEAR,MMR,72.4,72.4,,,
-WHS9_91,PUBLISHED,2011-2012,WPR,LAO,74.8,74.8,,,
-WHS9_91,PUBLISHED,2010,AFR,BFA,76.9,76.9,,,
-WHS9_91,PUBLISHED,2010,AFR,TGO,77.9,77.9,,,
-WHS9_91,PUBLISHED,2007,WPR,NRU,82.6,82.6,,,
-WHS9_91,PUBLISHED,2013,EUR,AZE,>90,90.0,,,
-WHS9_91,PUBLISHED,2010,AMR,ECU,90.0,90.0,,,
-WHS9_91,PUBLISHED,2009,WPR,FJI,>90,90.0,,,
-WHS9_91,PUBLISHED,2011-2012,AFR,COG,90.8,90.8,,,
-WHS9_91,PUBLISHED,2010,AFR,CPV,91.0,91.0,,,
-WHS9_91,PUBLISHED,2011,WPR,VNM,95.0,95.0,,,
-WHS9_91,PUBLISHED,2010,WPR,MNG,99.0,99.0,,,
-WHS9_91,PUBLISHED,2011,EMR,IRQ,99.2,99.2,,,
-WHS9_91,PUBLISHED,2011-2012,EMR,TUN,99.2,99.2,,,
-WHS9_91,PUBLISHED,2012,WPR,AUS,100,100.0,,,
-WHS9_91,PUBLISHED,2009,SEAR,PRK,100,100.0,,,
-WHS9_91,PUBLISHED,2012,EUR,ISR,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,SWE,100,100.0,,,
-WHS9_91,PUBLISHED,2006,SEAR,BGD,9.8,9.8,,,
-WHS9_91,PUBLISHED,2006,AFR,CMR,70.1,70.1,,,
-WHS9_91,PUBLISHED,2011,EUR,ISL,>90,0.0,,,
-WHS9_91,PUBLISHED,2005-2006,SEAR,IND,41.1,41.1,,,
-WHS9_91,PUBLISHED,2007,SEAR,IDN,53.1,53.1,,,
-WHS9_91,PUBLISHED,2010,WPR,JPN,>90,0.0,,,
-WHS9_91,PUBLISHED,2005-2006,EUR,MNE,97.9,97.9,,,
-WHS9_91,PUBLISHED,2008,AFR,MOZ,30.8,30.8,,,
-WHS9_91,PUBLISHED,2006,AMR,NIC,81.3,81.3,,,
-WHS9_91,PUBLISHED,2011,EMR,QAT,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,WPR,KOR,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,WPR,SGP,>90,0.0,,,
-WHS9_91,PUBLISHED,2006,EMR,YEM,22.3,22.3,,,
-WHS9_91,PUBLISHED,2012-2013,EMR,PAK,33.6,33.6,,,
-WHS9_91,PUBLISHED,2010,AFR,SSD,35.4,35.4,,,
-WHS9_91,PUBLISHED,2007,WPR,TUV,49.9,49.9,,,
-WHS9_91,PUBLISHED,2010,AFR,GMB,52.5,52.5,,,
-WHS9_91,PUBLISHED,2011,AFR,CMR,61.4,61.4,,,
-WHS9_91,PUBLISHED,2012-2013,AFR,SEN,73.0,73.0,,,
-WHS9_91,PUBLISHED,2011,AFR,NAM,78.0,78.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,AMR,DOM,81.1,81.1,,,
-WHS9_91,PUBLISHED,2013,AFR,DZA,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,EMR,QAT,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,WPR,KOR,>90,90.0,,,
-WHS9_91,PUBLISHED,2012,AMR,LCA,92.0,92.0,,,
-WHS9_91,PUBLISHED,2011-2012,AMR,HND,93.6,93.6,,,
-WHS9_91,PUBLISHED,2010-2011,EMR,MAR,94.0,94.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,EMR,JOR,99.1,99.1,,,
-WHS9_91,PUBLISHED,2010,EUR,ARM,99.6,99.6,,,
-WHS9_91,PUBLISHED,2011,AMR,CRI,99.7,99.7,,,
-WHS9_91,PUBLISHED,2011,EUR,AUT,100,100.0,,,
-WHS9_91,PUBLISHED,2012,EUR,BLR,100,100.0,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,EUR,CZE,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,HUN,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,ISL,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,MLT,100,100.0,,,
-WHS9_91,PUBLISHED,2012,WPR,NZL,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,NOR,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,SVK,100,100.0,,,
-WHS9_91,PUBLISHED,2006,AFR,DZA,99.3,99.3,,,
-WHS9_91,PUBLISHED,2010,EUR,AND,>90,0.0,,,
-WHS9_91,PUBLISHED,2006,EUR,AZE,93.6,93.6,,,
-WHS9_91,PUBLISHED,2009,EMR,BHR,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,WPR,COK,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,CZE,>90,0.0,,,
-WHS9_91,PUBLISHED,2011,EUR,GRC,>90,0.0,,,
-WHS9_91,PUBLISHED,2008,AMR,GTM,96.7,96.7,,,
-WHS9_91,PUBLISHED,2008,AMR,JAM,97.8,97.8,,,
-WHS9_91,PUBLISHED,2010,EMR,JOR,>90,0.0,,,
-WHS9_91,PUBLISHED,2005-2006,EUR,KGZ,94.2,94.2,,,
-WHS9_91,PUBLISHED,2006,AFR,NER,31.8,31.8,,,
-WHS9_91,PUBLISHED,2008,AFR,NGA,30,30.0,,,
-WHS9_91,PUBLISHED,2006,EMR,SOM,3,3.0,,,
-WHS9_91,PUBLISHED,2005,EUR,UKR,99.8,99.8,,,
-WHS9_91,PUBLISHED,2010,AMR,URY,>90,0.0,,,
-WHS9_91,PUBLISHED,2010,AFR,TZA,16.3,16.3,,,
-WHS9_91,PUBLISHED,2010,AFR,GNB,24.1,24.1,,,
-WHS9_91,PUBLISHED,2010-2011,EMR,AFG,37.4,37.4,,,
-WHS9_91,PUBLISHED,2011,SEAR,NPL,42.3,42.3,,,
-WHS9_91,PUBLISHED,2013,WPR,VUT,43.4,43.4,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2010,AFR,CAF,61.0,61.0,,,
-WHS9_91,PUBLISHED,2010,AFR,SLE,78.0,78.0,,,
-WHS9_91,PUBLISHED,2012-2013,AFR,MDG,83.0,83.0,,,
-WHS9_91,PUBLISHED,2011,SEAR,IND,83.6,83.6,,,Data differ from the standard definition or refer to only part of a country.
-WHS9_91,PUBLISHED,2012,AFR,GAB,89.6,89.6,,,
-WHS9_91,PUBLISHED,2010,AMR,ATG,>90,90.0,,,
-WHS9_91,PUBLISHED,2010,AMR,DMA,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,EMR,EGY,>90,90.0,,,
-WHS9_91,PUBLISHED,2009,WPR,NIU,>90,90.0,,,
-WHS9_91,PUBLISHED,2013,AMR,PAN,>90,90.0,,,
-WHS9_91,PUBLISHED,2010,WPR,PHL,90.2,90.2,,,
-WHS9_91,PUBLISHED,2008,EUR,TUR,93.7,93.7,,,
-WHS9_91,PUBLISHED,2008-2009,AMR,GTM,96.7,96.7,,,
-WHS9_91,PUBLISHED,2006-2007,SEAR,LKA,97.2,97.2,,,
-WHS9_91,PUBLISHED,2010,AMR,JAM,98.1,98.1,,,
-WHS9_91,PUBLISHED,2012,EUR,KGZ,98.3,98.3,,,
-WHS9_91,PUBLISHED,2008-2009,EUR,ALB,98.6,98.6,,,
-WHS9_91,PUBLISHED,2013,EUR,GEO,99.6,99.6,,,
-WHS9_91,PUBLISHED,2012,EUR,MDA,99.6,99.6,,,
-WHS9_91,PUBLISHED,2012,EUR,AND,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,BEL,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,DNK,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,EST,100,100.0,,,
-WHS9_91,PUBLISHED,2010,EUR,IRL,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,NLD,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,SVN,100,100.0,,,
-WHS9_91,PUBLISHED,2011,EUR,ESP,100,100.0,,,
-WHS9_91,PUBLISHED,2012,AMR,URY,100,100.0,,,Data differ from the standard definition or refer to only part of a country.
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"WHS9_91","PUBLISHED","2010","WPR","AUS",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","BRA","93.4","93.40000","","",""
+"WHS9_91","PUBLISHED","2008","WPR","BRN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","CYP",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","GEO","98.5","98.50000","","",""
+"WHS9_91","PUBLISHED","2008","EMR","IRN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2006","EMR","IRQ","95","95.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","LUX",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","WPR","NZL",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","MDA",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","ROU",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2007","AFR","LBR","3.6","3.60000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2007","AFR","ZMB","14.0","14.00000","","",""
+"WHS9_91","PUBLISHED","2009","AFR","LSO","45.1","45.10000","","",""
+"WHS9_91","PUBLISHED","2010-2011","AFR","ZWE","48.8","48.80000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","RWA","63.2","63.20000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","MLI","80.8","80.80000","","",""
+"WHS9_91","PUBLISHED","2012","EMR","BHR",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","EUR","HRV",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","VCT",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","AFR","SYC",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","COL","96.5","96.50000","","",""
+"WHS9_91","PUBLISHED","2012","AMR","CAN","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","LVA","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","LTU","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","CHE","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","USA","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","EUR","CYP","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","CZE","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","ISL","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AFR","MWI","5.6","5.60000","","","53 MICS 2013-2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>69 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Data differ from the standard definition or refer to only part of a country.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","MLT","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AFR","SEN","72.7","72.70000","","","59 Continuous DHS 2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","AMR","USA","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","AMR","BRA","96.4","96.40000","","","IBGE 2015"
+"WHS9_91","PUBLISHED","2012","EUR","BGR","100.0","100.00000","","","Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, / Vital registration 2012"
+"WHS9_91","PUBLISHED","2011-2012","AFR","CIV","65.0","65.00000","","","DHS 2011-2012"
+"WHS9_91","PUBLISHED","2014","AMR","CUB","100.0","100.00000","","","MICS 2014"
+"WHS9_91","PUBLISHED","2014","AMR","GUY","88.7","88.70000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2012","AMR","HTI","79.7","79.70000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2015-2016","AFR","MWI","67.2","67.20000","","","DHS 2015-2016"
+"WHS9_91","PUBLISHED","2009","SEAR","MDV","92.5","92.50000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2009"
+"WHS9_91","PUBLISHED","2011-2012","AMR","NIC","84.7","84.70000","","","ENDESA 2011/2012"
+"WHS9_91","PUBLISHED","2012","AFR","NER","63.9","63.90000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2013","AMR","PAN","95.6","95.60000","","","MICS 2013 KFR"
+"WHS9_91","PUBLISHED","2015","WPR","SLB","88.0","88.00000","","","DHS 2015"
+"WHS9_91","PUBLISHED","2006","EMR","SOM","3.0","3.00000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2015-2016","EUR","TKM","99.6","99.60000","","","MICS 2015-2016"
+"WHS9_91","PUBLISHED","2007","WPR","TUV","49.9","49.90000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2007"
+"WHS9_91","PUBLISHED","2011","EUR","BLR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","CHL","99.5","99.50000","","",""
+"WHS9_91","PUBLISHED","2009-2010","AMR","DOM","79.2","79.20000","","",""
+"WHS9_91","PUBLISHED","2005","EMR","EGY","99","99.00000","","",""
+"WHS9_91","PUBLISHED","2005","AFR","GIN","43.2","43.20000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","MUS",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2006-2007","EMR","PAK","26.5","26.50000","","",""
+"WHS9_91","PUBLISHED","2007","AMR","PER","92.9","92.90000","","",""
+"WHS9_91","PUBLISHED","2005","EUR","TJK","88.3","88.30000","","",""
+"WHS9_91","PUBLISHED","2007","WPR","VUT","25.6","25.60000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","COD","27.8","27.80000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","MRT","58.8","58.80000","","",""
+"WHS9_91","PUBLISHED","2008-2009","AFR","STP","75.1","75.10000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","GUY","87.9","87.90000","","",""
+"WHS9_91","PUBLISHED","2012","WPR","MYS",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2011","AMR","BRA","92.8","92.80000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2010-2011","EUR","KAZ","99.7","99.70000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","FIN","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","DEU","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","POL","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","RUS","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","EUR","EST","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","FRA","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","ITA","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","WPR","JPN","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","NLD","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","NOR","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","ESP","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2006","EUR","AZE","93.6","93.60000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2006"
+"WHS9_91","PUBLISHED","2012","AMR","BRB","98.7","98.70000","","","MICS 2012"
+"WHS9_91","PUBLISHED","2010","AFR","CAF","61.0","61.00000","","","MICS 2010"
+"WHS9_91","PUBLISHED","2011","AMR","CHL","99.4","99.40000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / Estad�sticas vitales 2011"
+"WHS9_91","PUBLISHED","2016","AFR","ETH","2.7","2.70000","","","DHS 2016"
+"WHS9_91","PUBLISHED","2013","AFR","GMB","72.0","72.00000","","","DHS 2013"
+"WHS9_91","PUBLISHED","2012","AMR","JAM","99.5","99.50000","","","JSLC 2012"
+"WHS9_91","PUBLISHED","2015","EUR","KAZ","99.7","99.70000","","","MICS 2015"
+"WHS9_91","PUBLISHED","2013","WPR","MNG","99.3","99.30000","","","MICS 2013 "
+"WHS9_91","PUBLISHED","2010-2011","EMR","MAR","94.0","94.00000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / ENPSF 2010-2011"
+"WHS9_91","PUBLISHED","2012","EUR","MDA","99.6","99.60000","","","MICS 2012"
+"WHS9_91","PUBLISHED","2012","AMR","LCA","92.0","92.00000","","","MICS 2012"
+"WHS9_91","PUBLISHED","2006","EMR","SYR","96.0","96.00000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2015-2016","SEAR","THA","99.5","99.50000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / MICS 2015-2016"
+"WHS9_91","PUBLISHED","2006","EUR","UZB","99.9","99.90000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2011","AMR","VEN","80.8","80.80000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / INE 2011"
+"WHS9_91","PUBLISHED","2007","AMR","BRB",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","BEL",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","CAN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005-2006","AMR","HTI","81.1","81.10000","","",""
+"WHS9_91","PUBLISHED","2010","EMR","KWT",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2007","AFR","MRT","55.9","55.90000","","",""
+"WHS9_91","PUBLISHED","2011","AMR","PAN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2009","WPR","PHL",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010-2011","AFR","SEN","74.6","74.60000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","SYC",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005-2006","SEAR","THA","99.4","99.40000","","",""
+"WHS9_91","PUBLISHED","2008","AMR","VEN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","SEAR","BGD","30.5","30.50000","","",""
+"WHS9_91","PUBLISHED","2010","EMR","SDN","59.3","59.30000","","",""
+"WHS9_91","PUBLISHED","2011","AMR","PRY","76.1","76.10000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2012","EMR","KWT",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","AFR","MUS",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2009","AMR","MEX","93.4","93.40000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2008","AMR","SLV","98.6","98.60000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","SRB","98.9","98.90000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","FRA","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","GRC","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","PRT","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2009","EUR","SMR","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2014","AMR","BRA","95.9","95.90000","","","19 IBGE 2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","FIN","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","WPR","NZL","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","SWE","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015-2016","EUR","ARM","98.7","98.70000","","","DHS 2015-2016"
+"WHS9_91","PUBLISHED","2014","SEAR","BGD","20.2","20.20000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2014","AFR","CMR","66.1","66.10000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2014-2015","AFR","TCD","12.0","12.00000","","","DHS 2014-2015 prelim"
+"WHS9_91","PUBLISHED","2011","AFR","GNQ","53.5","53.50000","","","DHS 2011"
+"WHS9_91","PUBLISHED","2012","AFR","GAB","89.6","89.60000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2012","EMR","JOR","99.1","99.10000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2014","AFR","KEN","66.9","66.90000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2013","EUR","MNE","99.4","99.40000","","","MICS 2013"
+"WHS9_91","PUBLISHED","2011","AFR","MOZ","47.9","47.90000","","","DHS 2011"
+"WHS9_91","PUBLISHED","2014-2015","AFR","RWA","56.0","56.00000","","","DHS 2014-2015"
+"WHS9_91","PUBLISHED","2014","WPR","WSM","58.6","58.60000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2014","AFR","SWZ","53.5","53.50000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2012","EUR","TJK","88.4","88.40000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2011","EUR","MKD","99.7","99.70000","","","MICS 2011"
+"WHS9_91","PUBLISHED","2013","AMR","URY","99.8","99.80000","","","MICS 2013 "
+"WHS9_91","PUBLISHED","2013","WPR","VUT","43.4","43.40000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2013"
+"WHS9_91","PUBLISHED","2010","EUR","AND",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2009","EMR","BHR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","COK",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005-2006","SEAR","IND","41.1","41.10000","","",""
+"WHS9_91","PUBLISHED","2008","AMR","JAM","97.8","97.80000","","",""
+"WHS9_91","PUBLISHED","2010","EMR","JOR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2008","AFR","MOZ","30.8","30.80000","","",""
+"WHS9_91","PUBLISHED","2006-2007","AFR","NAM","67.1","67.10000","","",""
+"WHS9_91","PUBLISHED","2006","AMR","NIC","81.3","81.30000","","",""
+"WHS9_91","PUBLISHED","2008","AFR","NGA","30","30.00000","","",""
+"WHS9_91","PUBLISHED","2011","WPR","SGP",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2008","AFR","ZAF","91.8","91.80000","","",""
+"WHS9_91","PUBLISHED","2006","AMR","SUR","96.6","96.60000","","",""
+"WHS9_91","PUBLISHED","2006","EMR","YEM","22.3","22.30000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","TZA","16.3","16.30000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","GNB","24.1","24.10000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","KHM","62.1","62.10000","","",""
+"WHS9_91","PUBLISHED","2009-2010","SEAR","MMR","72.4","72.40000","","",""
+"WHS9_91","PUBLISHED","2013","AFR","DZA",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","EUR","AZE",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","DMA",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","EMR","EGY",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2012","EUR","KGZ","98.3","98.30000","","",""
+"WHS9_91","PUBLISHED","2012","WPR","AUS","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","EST","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","SVN","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","SWE","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2012","AMR","URY","100","100.00000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2015","AFR","TCD","12.0","12.00000","","","62 DHS 2014-2015 prelim. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","DNK","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015.<p>"
+"WHS9_91","PUBLISHED","2012","AMR","ECU","92.1","92.10000","","","31 ENSANUT 2012. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","LVA","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","LTU","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AFR","ZWE","32.3","32.30000","","","30 MICS 2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2008-2009","EUR","ALB","98.6","98.60000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages / DHS 2008-2009"
+"WHS9_91","PUBLISHED","2015-2016","AFR","AGO","25.0","25.00000","","","DHS 2015-2016"
+"WHS9_91","PUBLISHED","2015","AMR","COL","98.6","98.60000","","","DHS 2015"
+"WHS9_91","PUBLISHED","2014-2015","AFR","COG","95.9","95.90000","","","MICS 2014-2015 KFR"
+"WHS9_91","PUBLISHED","2014","AMR","DOM","88.0","88.00000","","","MICS 2014"
+"WHS9_91","PUBLISHED","2014","EMR","EGY","99.4","99.40000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2014","EUR","KGZ","97.7","97.70000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2009","EMR","LBN","99.5","99.50000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2009"
+"WHS9_91","PUBLISHED","2007","WPR","MHL","95.9","95.90000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2007"
+"WHS9_91","PUBLISHED","2015","AMR","MEX","95.0","95.00000","","","MICS 2015"
+"WHS9_91","PUBLISHED","2014","AFR","STP","95.2","95.20000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2014","EUR","SRB","99.4","99.40000","","","MICS 2014"
+"WHS9_91","PUBLISHED","2010","AFR","SSD","35.4","35.40000","","","SHHS 2010"
+"WHS9_91","PUBLISHED","2014","EMR","SDN","67.3","67.30000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2014","WPR","VNM","96.1","96.10000","","","MICS 2014"
+"WHS9_91","PUBLISHED","2013-2014","AFR","ZMB","11.3","11.30000","","","DHS 2013-2014"
+"WHS9_91","PUBLISHED","2006","AFR","DZA","99.3","99.30000","","",""
+"WHS9_91","PUBLISHED","2006","AFR","BEN","60.3","60.30000","","",""
+"WHS9_91","PUBLISHED","2005","AFR","COG","81.1","81.10000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","CZE",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005","AFR","ETH","6.6","6.60000","","",""
+"WHS9_91","PUBLISHED","2005-2006","AMR","HND","93.5","93.50000","","",""
+"WHS9_91","PUBLISHED","2007","SEAR","IDN","53.1","53.10000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","JPN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2006","WPR","LAO","71.5","71.50000","","",""
+"WHS9_91","PUBLISHED","2006","AFR","NER","31.8","31.80000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","KOR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","SMR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","SVK",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","TCD","15.7","15.70000","","",""
+"WHS9_91","PUBLISHED","2011","SEAR","NPL","42.3","42.30000","","",""
+"WHS9_91","PUBLISHED","2008-2009","AFR","KEN","60.0","60.00000","","",""
+"WHS9_91","PUBLISHED","2012-2013","AFR","SEN","73.0","73.00000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","TGO","77.9","77.90000","","",""
+"WHS9_91","PUBLISHED","2012","AMR","DOM","81.1","81.10000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","ATG",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","ECU","90.0","90.00000","","",""
+"WHS9_91","PUBLISHED","2009","WPR","NIU",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2008","EUR","TUR","93.7","93.70000","","",""
+"WHS9_91","PUBLISHED","2008-2009","AMR","GTM","96.7","96.70000","","",""
+"WHS9_91","PUBLISHED","2013","EUR","GEO","99.6","99.60000","","",""
+"WHS9_91","PUBLISHED","2012","EUR","AND","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","BEL","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","DNK","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","ISL","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","NOR","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","ESP","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","AMR","CAN","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2013","SEAR","IDN","68.5","68.50000","","","38 SUSENAS 2013. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>69 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Data differ from the standard definition or refer to only part of a country.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","LUX","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","POL","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AFR","TGO","78.1","78.10000","","","25 DHS 2013-2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2011-2012","AMR","ARG","99.5","99.50000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / MICS 2011-2012"
+"WHS9_91","PUBLISHED","2014","AFR","BEN","84.8","84.80000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2010","AFR","BFA","76.9","76.90000","","","DHS/MICS 2010"
+"WHS9_91","PUBLISHED","2013","AMR","CRI","99.6","99.60000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / INEC 2013"
+"WHS9_91","PUBLISHED","2015","AMR","ECU","94.0","94.00000","","","Ni�ez y Adolescencia desde la intergeneracionalidad 2015"
+"WHS9_91","PUBLISHED","2015","EUR","GEO","99.6","99.60000","","","WMS 2015"
+"WHS9_91","PUBLISHED","2011","EMR","IRQ","99.2","99.20000","","","MICS 2011"
+"WHS9_91","PUBLISHED","2011-2012","WPR","LAO","74.8","74.80000","","","MICS 2011-2012"
+"WHS9_91","PUBLISHED","2015","AFR","MLI","87.2","87.20000","","","MICS 2015"
+"WHS9_91","PUBLISHED","2014","SEAR","NPL","58.1","58.10000","","","MICS 2014"
+"WHS9_91","PUBLISHED","2016","AMR","PER","97.7","97.70000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / ENDES 2016 prelim"
+"WHS9_91","PUBLISHED","2015","EUR","SMR","100.0","100.00000","","","Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, / UNSD "
+"WHS9_91","PUBLISHED","2010","AMR","SUR","98.9","98.90000","","","MICS 2010"
+"WHS9_91","PUBLISHED","2013-2014","AFR","TGO","78.1","78.10000","","","DHS 2013-2014"
+"WHS9_91","PUBLISHED","2011","AFR","UGA","29.9","29.90000","","","DHS 2011"
+"WHS9_91","PUBLISHED","2015","AFR","ZWE","43.5","43.50000","","","DHS 2015"
+"WHS9_91","PUBLISHED","2010","AMR","ARG",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","BGR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2006","AFR","CIV","54.9","54.90000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","HRV",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","IRL",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","ISR",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2008-2009","AFR","MDG","79.7","79.70000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","RUS",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010","EMR","SSD","35.4","35.40000","","",""
+"WHS9_91","PUBLISHED","2006","EUR","TKM","95.5","95.50000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","MWI","2.3","2.30000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2009","WPR","WSM","47.7","47.70000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","GHA","62.5","62.50000","","",""
+"WHS9_91","PUBLISHED","2012","SEAR","IDN","66.6","66.60000","","",""
+"WHS9_91","PUBLISHED","2011-2012","AFR","BEN","80.2","80.20000","","",""
+"WHS9_91","PUBLISHED","2013","EUR","BIH",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","WPR","COK",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","EUR","ROU",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2013","WPR","SGP",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2012","EUR","UZB",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2011","AMR","BLZ","95.2","95.20000","","",""
+"WHS9_91","PUBLISHED","2012","AMR","PER","95.6","95.60000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2012","SEAR","THA","99.4","99.40000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2011","AMR","CUB","100","100.00000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2010","EUR","CYP","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","ITA","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2012","WPR","JPN","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","LUX","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","GBR","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","EUR","AND","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2001","AFR","AGO","35.6","35.60000","","","4 MICS 2001. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2014","AFR","COD","24.6","24.60000","","","25 DHS 2013-2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","HUN","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","MCO","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","GBR","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2012","AFR","TZA","14.7","14.70000","","","64 Census 2012. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>69 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Data differ from the standard definition or refer to only part of a country.<p>"
+"WHS9_91","PUBLISHED","2015","EMR","AFG","42.3","42.30000","","","DHS 2015"
+"WHS9_91","PUBLISHED","2006","EUR","BIH","99.5","99.50000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2014","AFR","BWA","83.2","83.20000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / Vital Statistics Report 2014"
+"WHS9_91","PUBLISHED","2009","SEAR","PRK","100.0","100.00000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2009"
+"WHS9_91","PUBLISHED","2013-2014","AFR","COD","24.6","24.60000","","","DHS 2013-2014"
+"WHS9_91","PUBLISHED","2014","AFR","GNB","23.7","23.70000","","","MICS 2014 "
+"WHS9_91","PUBLISHED","2011-2012","AMR","HND","93.6","93.60000","","","DHS 2011-2012"
+"WHS9_91","PUBLISHED","2013","AFR","LBR","24.6","24.60000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2013"
+"WHS9_91","PUBLISHED","2012-2013","AFR","MDG","83.0","83.00000","","","ENSOMD 2012-2013"
+"WHS9_91","PUBLISHED","2013","AFR","NGA","29.8","29.80000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2013"
+"WHS9_91","PUBLISHED","2012-2013","EMR","PAK","33.6","33.60000","","","DHS 2012-2013"
+"WHS9_91","PUBLISHED","2013","AFR","SLE","76.7","76.70000","","","DHS 2013"
+"WHS9_91","PUBLISHED","2012","AFR","ZAF","85.0","85.00000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / Recorded live births 2012"
+"WHS9_91","PUBLISHED","2011-2012","EMR","TUN","99.2","99.20000","","","MICS 2011-2012"
+"WHS9_91","PUBLISHED","2013","EUR","TUR","98.8","98.80000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2013"
+"WHS9_91","PUBLISHED","2006","AFR","CMR","70.1","70.10000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","GRC",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005-2006","EUR","KGZ","94.2","94.20000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","MYS",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2011","EMR","QAT",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2008","EMR","TUN",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005","EUR","UKR","99.8","99.80000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","URY",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2010-2011","EMR","AFG","37.4","37.40000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","SWZ","49.5","49.50000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","GMB","52.5","52.50000","","",""
+"WHS9_91","PUBLISHED","2011","AFR","NAM","78.0","78.00000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2011","SEAR","IND","83.6","83.60000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2012","WPR","KOR",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2011-2012","AFR","COG","90.8","90.80000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","ARM","99.6","99.60000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","HUN","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","IRL","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","MLT","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2012","WPR","NZL","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","EUR","AUT","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","BEL","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","DEU","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","GRC","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","SEAR","IND","71.9","71.90000","","","39 RSOC 2013-2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","IRL","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AMR","PER","96.7","96.70000","","","56 ENDES 2014 prelim. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>69 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Data differ from the standard definition or refer to only part of a country.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","PRT","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","SVN","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","AMR","BLZ","95.7","95.70000","","","MICS 2015"
+"WHS9_91","PUBLISHED","2010","SEAR","BTN","99.9","99.90000","","","MICS 2010"
+"WHS9_91","PUBLISHED","2010","AFR","BDI","75.2","75.20000","","","DHS 2010"
+"WHS9_91","PUBLISHED","2014","WPR","KHM","73.3","73.30000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2014","AFR","GHA","70.5","70.50000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2012","AFR","GIN","57.9","57.90000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2013-2014","SEAR","IND","71.9","71.90000","","","RSOC 2013-2014"
+"WHS9_91","PUBLISHED","2010","EMR","IRN","98.6","98.60000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / MIDHS 2010"
+"WHS9_91","PUBLISHED","2015-2016","SEAR","MMR","81.3","81.30000","","","DHS 2015-2016"
+"WHS9_91","PUBLISHED","2007","WPR","NRU","82.6","82.60000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2007"
+"WHS9_91","PUBLISHED","2014","AMR","PRY","84.5","84.50000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / EPH 2014 prelim"
+"WHS9_91","PUBLISHED","2010","WPR","PHL","90.2","90.20000","","","Census 2010"
+"WHS9_91","PUBLISHED","2009-2010","SEAR","TLS","55.2","55.20000","","","DHS 2009-2010"
+"WHS9_91","PUBLISHED","2012","WPR","TON","93.4","93.40000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2012","EUR","UKR","99.8","99.80000","","","MICS 2012"
+"WHS9_91","PUBLISHED","2015-2016","AFR","TZA","26.4","26.40000","","","DHS 2015-2016"
+"WHS9_91","PUBLISHED","2006","SEAR","BGD","9.8","9.80000","","",""
+"WHS9_91","PUBLISHED","2008","AMR","GTM","96.7","96.70000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","ISL",">90","0.00000","","",""
+"WHS9_91","PUBLISHED","2005-2006","EUR","MNE","97.9","97.90000","","",""
+"WHS9_91","PUBLISHED","2012","EMR","YEM","17.1","17.10000","","","Data differ from the standard definition or refer to only part of a country."
+"WHS9_91","PUBLISHED","2011","AFR","CMR","61.4","61.40000","","",""
+"WHS9_91","PUBLISHED","2007-2008","AFR","BWA","72.2","72.20000","","",""
+"WHS9_91","PUBLISHED","2010","AFR","SLE","78.0","78.00000","","",""
+"WHS9_91","PUBLISHED","2009","WPR","FJI",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2012","EMR","QAT",">90","90.00000","","",""
+"WHS9_91","PUBLISHED","2011","WPR","VNM","95.0","95.00000","","",""
+"WHS9_91","PUBLISHED","2010","AMR","JAM","98.1","98.10000","","",""
+"WHS9_91","PUBLISHED","2010","WPR","MNG","99.0","99.00000","","",""
+"WHS9_91","PUBLISHED","2011","AMR","CRI","99.7","99.70000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","AUT","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2012","EUR","CZE","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2012","EUR","ISR","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2011","EUR","NLD","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2010","EUR","SVK","100","100.00000","","",""
+"WHS9_91","PUBLISHED","2015","WPR","AUS","100","100.00000","","","10 UNSD. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","AFR","COG","95.9","95.90000","","","26 MICS 2014-2015 KFR. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2015","EUR","ISR","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","RUS","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","SVK","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2015","EUR","CHE","100","100.00000","","","6 UNSD . UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>68 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports. Estimates of 100% were assumed given that civil registration systems in these countries are complete and all vital events (including births) are registered. Source: United Nations, Department of Economic and Social Affairs, Statistics Division, Population and Vital Statistics Report, Series A Vol. LXVII, New York, 2015."
+"WHS9_91","PUBLISHED","2014","AFR","ZMB","11.3","11.30000","","","25 DHS 2013-2014. UNICEF global databases, 2016, based on DHS, MICS, other national household surveys, censuses and vital registration systems.<p>67 Data refer to the most recent year available . Changes in the definition of birth registration were made from the second and third rounds of MICS (MICS2 and MICS3) to the fourth round (MICS4). In order to allow for comparability with later rounds, data from MICS2 and MICS3 on birth registration were recalculated according to the MICS4 indicator definition. Therefore, the recalculated data presented here may differ from estimates included in MICS2 and MICS3 national reports.<p>"
+"WHS9_91","PUBLISHED","2012-2013","AFR","DZA","99.6","99.60000","","","MICS 2012-2013"
+"WHS9_91","PUBLISHED","2012","EUR","BLR","100.0","100.00000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / Vital registration 2012"
+"WHS9_91","PUBLISHED","2008","AMR","BOL","75.8","75.80000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2008"
+"WHS9_91","PUBLISHED","2010","AFR","CPV","91.0","91.00000","","","Censo 2010"
+"WHS9_91","PUBLISHED","2012","AFR","COM","87.3","87.30000","","","DHS 2012"
+"WHS9_91","PUBLISHED","2006","EMR","DJI","91.7","91.70000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2014","AMR","SLV","98.5","98.50000","","","ENS/MICS 2014 "
+"WHS9_91","PUBLISHED","2014-2015","AMR","GTM","96.4","96.40000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / ENSMI 2014-2015"
+"WHS9_91","PUBLISHED","2016","SEAR","IDN","72.5","72.50000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / SUSENAS 2016"
+"WHS9_91","PUBLISHED","2009","WPR","KIR","93.5","93.50000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2009"
+"WHS9_91","PUBLISHED","2014","AFR","LSO","43.3","43.30000","","","DHS 2014"
+"WHS9_91","PUBLISHED","2015","AFR","MRT","65.6","65.60000","","","MICS 2015 KFR"
+"WHS9_91","PUBLISHED","2013","AFR","NAM","87.1","87.10000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / DHS 2013"
+"WHS9_91","PUBLISHED","2015","EMR","QAT","100.0","100.00000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / Vital statistics 2015"
+"WHS9_91","PUBLISHED","2015","AFR","SEN","68.3","68.30000","","","Continuous DHS 2015"
+"WHS9_91","PUBLISHED","2006-2007","SEAR","LKA","97.2","97.20000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ DHS 2006-2007"
+"WHS9_91","PUBLISHED","2006","AMR","TTO","96.6","96.60000","","","Data refer to years or periods other than those specified in the column heading. Such data are not included in the calculation of regional and global averages/ MICS 2006"
+"WHS9_91","PUBLISHED","2012","EMR","ARE","100.0","100.00000","","","Data differ from the standard definition or refer to only part of a country. If they fall within the noted reference period, such data are included in the calculation of regional and global / National Bureaux of Statistics 2012"
+"WHS9_91","PUBLISHED","2013","EMR","YEM","30.7","30.70000","","","DHS 2013"

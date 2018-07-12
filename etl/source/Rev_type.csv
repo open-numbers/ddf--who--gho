@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-Rev_type,PUBLISHED,AMR,ARG,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,BRB,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,BLZ,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,BOL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,CAN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,CHL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,COL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,DMA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,DOM,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,GRD,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,GTM,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,GUY,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,HND,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,MEX,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,KNA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,LCA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,VCT,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,SUR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AMR,USA,All Tobacco Products,,,,Data not approved by national authorities.
-Rev_type,PUBLISHED,AMR,URY,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,EGY,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,LBN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,LBY,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,MAR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,OMN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EMR,QAT,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,ALB,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,AND,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,ARM,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,AUT,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,BLR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,BEL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AFR,GHA,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,MUS,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,MOZ,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,RWA,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,SEN,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,SYC,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,TGO,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,ZWE,All Tobacco products,,,,
-Rev_type,PUBLISHED,AMR,ATG,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AFR,DZA,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,AGO,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,BWA,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,BFA,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,BDI,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,TCD,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,CIV,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,ERI,All Tobacco products,,,,
-Rev_type,PUBLISHED,AFR,ETH,All Tobacco products,,,,
-Rev_type,PUBLISHED,EUR,BIH,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,BGR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,HRV,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,CYP,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,CZE,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,DNK,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,EST,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,FIN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,FRA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,DEU,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,GRC,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,HUN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,ISL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,IRL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,ITA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,KGZ,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,LVA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,LTU,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,LUX,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,MLT,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,NLD,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,NOR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,POL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,PRT,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,MDA,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,RUS,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,SMR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,SRB,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,SVK,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,SVN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,ESP,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,SWE,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,CHE,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,TJK,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,UKR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,GBR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,EUR,UZB,All Tobacco Products,,,,
-Rev_type,PUBLISHED,SEAR,IDN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,SEAR,MDV,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,AUS,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,BRN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,CHN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,JPN,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,MNG,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,NZL,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,NIU,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,KOR,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,SGP,All Tobacco Products,,,,
-Rev_type,PUBLISHED,WPR,SLB,All Tobacco Products,,,,
-Rev_type,PUBLISHED,AFR,CPV,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,CAF,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,COM,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,COG,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,COD,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,KEN,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,LSO,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,MDG,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,MWI,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,SLE,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,ZAF,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,UGA,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,BRA,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,CRI,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,ECU,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,SLV,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,JAM,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,PAN,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,PER,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,TTO,Cigarettes only,,,,
-Rev_type,PUBLISHED,AMR,VEN,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,BHR,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,IRN,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,JOR,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,PAK,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,SDN,Cigarettes only,,,,
-Rev_type,PUBLISHED,EMR,TUN,Cigarettes only,,,,
-Rev_type,PUBLISHED,EUR,GEO,Cigarettes only,,,,
-Rev_type,PUBLISHED,EUR,KAZ,Cigarettes only,,,,
-Rev_type,PUBLISHED,EUR,MNE,Cigarettes only,,,,
-Rev_type,PUBLISHED,EUR,TUR,Cigarettes only,,,,
-Rev_type,PUBLISHED,SEAR,BGD,Cigarettes only,,,,
-Rev_type,PUBLISHED,SEAR,IND,Cigarettes only,,,,
-Rev_type,PUBLISHED,SEAR,NPL,Cigarettes only,,,,
-Rev_type,PUBLISHED,SEAR,LKA,Cigarettes only,,,,
-Rev_type,PUBLISHED,SEAR,THA,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,KHM,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,COK,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,KIR,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,LAO,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,MYS,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,MHL,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,FSM,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,PHL,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,TUV,Cigarettes only,,,,
-Rev_type,PUBLISHED,WPR,VNM,Cigarettes only,,,,
-Rev_type,PUBLISHED,AFR,SSD,Not available,,,,
-Rev_type,PUBLISHED,AMR,BHS,Not available,,,,
-Rev_type,PUBLISHED,AFR,STP,Not available,,,,
-Rev_type,PUBLISHED,AFR,GNB,Not available,,,,
-Rev_type,PUBLISHED,AFR,GIN,Not available,,,,
-Rev_type,PUBLISHED,EMR,AFG,Not available,,,,
-Rev_type,PUBLISHED,AMR,CUB,Not available,,,,
-Rev_type,PUBLISHED,AFR,ZMB,Not available,,,,
-Rev_type,PUBLISHED,AFR,NAM,Not available,,,,
-Rev_type,PUBLISHED,AFR,GMB,Not available,,,,
-Rev_type,PUBLISHED,AFR,BEN,Not available,,,,
-Rev_type,PUBLISHED,SEAR,MMR,Not available,,,,
-Rev_type,PUBLISHED,WPR,NRU,Not available,,,,
-Rev_type,PUBLISHED,SEAR,TLS,Not available,,,,
-Rev_type,PUBLISHED,SEAR,PRK,Not available,,,,
-Rev_type,PUBLISHED,EUR,ROU,Not available,,,,
-Rev_type,PUBLISHED,EUR,MCO,Not available,,,,
-Rev_type,PUBLISHED,EMR,ARE,Not available,,,,
-Rev_type,PUBLISHED,EMR,SYR,Not available,,,,
-Rev_type,PUBLISHED,EMR,SAU,Not available,,,,
-Rev_type,PUBLISHED,EMR,KWT,Not available,,,,
-Rev_type,PUBLISHED,EMR,IRQ,Not available,,,,
-Rev_type,PUBLISHED,AMR,NIC,Not available,,,,
-Rev_type,PUBLISHED,AFR,MLI,Not available,,,,
-Rev_type,PUBLISHED,AFR,LBR,Not available,,,,
-Rev_type,PUBLISHED,AFR,CMR,Not available,,,,
-Rev_type,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-Rev_type,PUBLISHED,AFR,MRT,Not available,,,,
-Rev_type,PUBLISHED,AFR,NER,Not available,,,,
-Rev_type,PUBLISHED,AFR,NGA,Not available,,,,
-Rev_type,PUBLISHED,AFR,TZA,Not available,,,,
-Rev_type,PUBLISHED,EMR,DJI,Not available,,,,
-Rev_type,PUBLISHED,EUR,AZE,Not available,,,,
-Rev_type,PUBLISHED,EUR,TKM,Not available,,,,
-Rev_type,PUBLISHED,WPR,PLW,Not available,,,,
-Rev_type,PUBLISHED,AMR,HTI,Not available,,,,
-Rev_type,PUBLISHED,AMR,PRY,Not available,,,,
-Rev_type,PUBLISHED,EUR,ISR,Not available,,,,
-Rev_type,PUBLISHED,WPR,TON,Not available,,,,
-Rev_type,PUBLISHED,AFR,GNQ,Not available,,,,
-Rev_type,PUBLISHED,AFR,GAB,Not available,,,,
-Rev_type,PUBLISHED,AFR,SWZ,Not available,,,,
-Rev_type,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,EMR,YEM,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,EUR,MKD,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,WPR,FJI,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,WPR,PNG,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,WPR,WSM,Not available,,,,Data not reported/not available
-Rev_type,PUBLISHED,WPR,VUT,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"Rev_type","PUBLISHED","AFR","DZA","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","AGO","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","BWA","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","BFA","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","BDI","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","TCD","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","CIV","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","ERI","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","ETH","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","GHA","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","MUS","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","MOZ","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","RWA","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","SEN","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","SYC","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","TGO","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AFR","ZWE","All Tobacco products","","","",""
+"Rev_type","PUBLISHED","AMR","ATG","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","ARG","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","BRB","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","BLZ","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","BOL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","CAN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","CHL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","COL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","DMA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","DOM","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","GRD","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","GTM","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","GUY","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","HND","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","MEX","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","KNA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","LCA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","VCT","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","SUR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AMR","USA","All Tobacco Products","","","","Data not approved by national authorities."
+"Rev_type","PUBLISHED","AMR","URY","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","EGY","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","LBN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","LBY","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","MAR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","OMN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EMR","QAT","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","ALB","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","AND","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","ARM","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","AUT","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","BLR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","BEL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","BIH","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","BGR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","HRV","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","CYP","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","CZE","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","DNK","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","EST","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","FIN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","FRA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","DEU","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","GRC","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","HUN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","ISL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","IRL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","ITA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","KGZ","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","LVA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","LTU","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","LUX","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","MLT","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","NLD","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","NOR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","POL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","PRT","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","MDA","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","RUS","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","SMR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","SRB","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","SVK","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","SVN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","ESP","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","SWE","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","CHE","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","TJK","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","UKR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","GBR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","EUR","UZB","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","SEAR","IDN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","SEAR","MDV","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","AUS","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","BRN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","CHN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","JPN","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","MNG","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","NZL","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","NIU","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","KOR","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","SGP","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","WPR","SLB","All Tobacco Products","","","",""
+"Rev_type","PUBLISHED","AFR","CPV","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","CAF","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","COM","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","COG","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","COD","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","KEN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","LSO","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","MDG","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","MWI","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","SLE","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","ZAF","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AFR","UGA","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","BRA","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","CRI","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","ECU","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","SLV","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","JAM","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","PAN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","PER","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","TTO","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","AMR","VEN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","BHR","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","IRN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","JOR","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","PAK","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","SDN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EMR","TUN","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EUR","GEO","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EUR","KAZ","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EUR","MNE","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","EUR","TUR","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","BGD","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","IND","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","NPL","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","LKA","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","THA","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","KHM","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","COK","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","KIR","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","LAO","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","MYS","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","MHL","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","FSM","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","PHL","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","TUV","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","WPR","VNM","Cigarettes only","","","",""
+"Rev_type","PUBLISHED","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"Rev_type","PUBLISHED","AFR","CMR","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","LBR","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","MLI","Not available","","","",""
+"Rev_type","PUBLISHED","AMR","NIC","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","IRQ","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","KWT","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","SAU","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","SYR","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","ARE","Not available","","","",""
+"Rev_type","PUBLISHED","EUR","MCO","Not available","","","",""
+"Rev_type","PUBLISHED","EUR","ROU","Not available","","","",""
+"Rev_type","PUBLISHED","SEAR","PRK","Not available","","","",""
+"Rev_type","PUBLISHED","SEAR","TLS","Not available","","","",""
+"Rev_type","PUBLISHED","WPR","NRU","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","BEN","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","GMB","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","NAM","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","ZMB","Not available","","","",""
+"Rev_type","PUBLISHED","AMR","CUB","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","AFG","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","GIN","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","GNB","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","STP","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","SSD","Not available","","","",""
+"Rev_type","PUBLISHED","AMR","BHS","Not available","","","",""
+"Rev_type","PUBLISHED","SEAR","MMR","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","MRT","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","NER","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","NGA","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","TZA","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","DJI","Not available","","","",""
+"Rev_type","PUBLISHED","EUR","TKM","Not available","","","",""
+"Rev_type","PUBLISHED","WPR","PLW","Not available","","","",""
+"Rev_type","PUBLISHED","AMR","HTI","Not available","","","",""
+"Rev_type","PUBLISHED","AMR","PRY","Not available","","","",""
+"Rev_type","PUBLISHED","EUR","AZE","Not available","","","",""
+"Rev_type","PUBLISHED","EUR","ISR","Not available","","","",""
+"Rev_type","PUBLISHED","WPR","TON","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","GNQ","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","GAB","Not available","","","",""
+"Rev_type","PUBLISHED","AFR","SWZ","Not available","","","",""
+"Rev_type","PUBLISHED","EMR","SOM","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","EMR","YEM","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","EUR","MKD","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","WPR","FJI","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","WPR","PNG","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","WPR","WSM","Not available","","","","Data not reported/not available"
+"Rev_type","PUBLISHED","WPR","VUT","Not available","","","","Data not reported/not available"

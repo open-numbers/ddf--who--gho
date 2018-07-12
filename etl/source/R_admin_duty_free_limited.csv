@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_admin_duty_free_limited,PUBLISHED,AFR,BWA,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,CMR,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,ETH,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,LSO,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MLI,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MRT,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,RWA,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,TGO,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,BHS,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,BRB,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,CHL,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,COL,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,GUY,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,HND,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,PAN,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,JOR,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,KWT,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,MAR,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,SDN,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,SMR,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,NPL,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,TLS,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,BRN,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,SGP,Banned,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,DZA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,BEN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,BFA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,CPV,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,COM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,ERI,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,GAB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,GHA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,KEN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MWI,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MUS,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,NGA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,SEN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,SYC,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,SLE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,ZAF,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,TZA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,ZMB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,ZWE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,ATG,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,BLZ,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,BOL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,BRA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,CRI,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,DMA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,DOM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,ECU,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,SLV,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,GTM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,JAM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,MEX,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,PER,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,LCA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,VCT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,SUR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,TTO,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,USA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,URY,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,AFG,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,BHR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,EGY,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,IRN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,LBN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,LBY,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,OMN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,PAK,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,QAT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,TUN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,ARE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,YEM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ALB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,AND,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ARM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,AUT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,AZE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,BLR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,BEL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,BIH,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,BGR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,HRV,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,CYP,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,CZE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,DNK,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,EST,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,FIN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,FRA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,GEO,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,DEU,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,GRC,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,HUN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ISL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,IRL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ISR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ITA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,KAZ,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,KGZ,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,LVA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,LTU,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,LUX,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,MLT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,NLD,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,NOR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,POL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,PRT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,MDA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ROU,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,RUS,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,SRB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,SVK,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,SVN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,ESP,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,SWE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,CHE,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,TJK,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,TUR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,TKM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,UKR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,GBR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,UZB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,BGD,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,BTN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,IND,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,IDN,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,MMR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,LKA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,SEAR,THA,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,AUS,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,KHM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,COK,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,FJI,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,KIR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,LAO,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,MYS,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,MHL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,FSM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,MNG,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,NZL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,NIU,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,PNG,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,PHL,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,KOR,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,SLB,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,TON,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,TUV,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,VUT,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,VNM,Limited,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,AGO,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,BDI,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,TCD,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,COG,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,CIV,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,GNQ,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,GMB,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MDG,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,MOZ,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,NAM,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,NER,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,STP,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AFR,UGA,None,,,,
-R_admin_duty_free_limited,PUBLISHED,AMR,GRD,None,,,,
-R_admin_duty_free_limited,PUBLISHED,EMR,IRQ,None,,,,
-R_admin_duty_free_limited,PUBLISHED,EUR,MNE,None,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,JPN,None,,,,
-R_admin_duty_free_limited,PUBLISHED,WPR,CHN,Restricted,,,,"Tobacco products are allowed for sale at border exit-entry tax free shops, but not any other tax free shops."
-R_admin_duty_free_limited,PUBLISHED,AFR,CAF,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,COD,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,GNB,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,LBR,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AFR,SWZ,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,ARG,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,CAN,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,NIC,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,PRY,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,KNA,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,AMR,VEN,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EMR,DJI,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EMR,SAU,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,EUR,MKD,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,SEAR,PRK,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,SEAR,MDV,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,WPR,PLW,Not available,,,,Data not reported/not available
-R_admin_duty_free_limited,PUBLISHED,WPR,WSM,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_admin_duty_free_limited","PUBLISHED","AFR","BWA","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","CMR","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","ETH","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","LSO","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MLI","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MRT","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","RWA","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","TGO","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","BHS","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","BRB","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","CHL","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","COL","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","GUY","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","HND","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","PAN","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","JOR","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","KWT","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","MAR","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","SDN","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","SMR","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","NPL","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","TLS","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","BRN","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","SGP","Banned","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","DZA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","BEN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","BFA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","CPV","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","COM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","ERI","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","GAB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","GHA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","KEN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MWI","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MUS","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","NGA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","SEN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","SYC","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","SLE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","ZAF","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","TZA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","ZMB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","ZWE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","ATG","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","BLZ","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","BOL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","BRA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","CRI","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","DMA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","DOM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","ECU","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","SLV","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","GTM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","JAM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","MEX","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","PER","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","LCA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","VCT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","SUR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","TTO","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","USA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","URY","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","AFG","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","BHR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","EGY","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","IRN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","LBN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","LBY","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","OMN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","PAK","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","QAT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","TUN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","ARE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","YEM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ALB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","AND","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ARM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","AUT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","AZE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","BLR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","BEL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","BIH","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","BGR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","HRV","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","CYP","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","CZE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","DNK","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","EST","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","FIN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","FRA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","GEO","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","DEU","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","GRC","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","HUN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ISL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","IRL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ISR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ITA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","KAZ","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","KGZ","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","LVA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","LTU","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","LUX","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","MLT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","NLD","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","NOR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","POL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","PRT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","MDA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ROU","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","RUS","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","SRB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","SVK","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","SVN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","ESP","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","SWE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","CHE","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","TJK","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","TUR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","TKM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","UKR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","GBR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","UZB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","BGD","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","BTN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","IND","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","IDN","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","MMR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","LKA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","SEAR","THA","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","AUS","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","KHM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","COK","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","FJI","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","KIR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","LAO","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","MYS","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","MHL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","FSM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","MNG","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","NZL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","NIU","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","PNG","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","PHL","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","KOR","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","SLB","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","TON","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","TUV","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","VUT","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","VNM","Limited","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","AGO","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","BDI","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","TCD","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","COG","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","CIV","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","GNQ","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","GMB","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MDG","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","MOZ","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","NAM","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","NER","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","STP","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AFR","UGA","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","AMR","GRD","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EMR","IRQ","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","EUR","MNE","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","JPN","None","","","",""
+"R_admin_duty_free_limited","PUBLISHED","WPR","CHN","Restricted","","","","Tobacco products are allowed for sale at border exit-entry tax free shops, but not any other tax free shops."
+"R_admin_duty_free_limited","PUBLISHED","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","COD","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","ARG","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_admin_duty_free_limited","PUBLISHED","WPR","WSM","Not available","","","","Data not reported/not available"

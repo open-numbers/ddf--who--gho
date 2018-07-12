@@ -1,594 +1,594 @@
-GHO,DATASOURCE,PUBLISHSTATE,YEAR,REGION,WORLDBANKINCOMEGROUP,COUNTRY,RESIDENCEAREATYPE,Display Value,Numeric,Low,High,Comments
-WHS5_512,,PUBLISHED,2013,GLOBAL,WB_WORLD_INCOME,,,41,41.07077,,,
-WHS5_512,,PUBLISHED,2013,AFR,,,,79,78.61099,,,
-WHS5_512,,PUBLISHED,2013,AMR,,,,9,8.87153,,,
-WHS5_512,,PUBLISHED,2013,EMR,,,,29,28.62622,,,
-WHS5_512,,PUBLISHED,2013,EUR,,,,<5,3.40924,,,
-WHS5_512,,PUBLISHED,2013,SEAR,,,,63,62.60039,,,
-WHS5_512,,PUBLISHED,2013,WPR,,,,40,40.0748,,,
-WHS5_512,,PUBLISHED,2013,,WB_HI,,,<5,0.2133,,,
-WHS5_512,,PUBLISHED,2013,,WB_LI,,,91,91.1597,,,
-WHS5_512,,PUBLISHED,2013,,WB_LMI,,,56,55.50444,,,
-WHS5_512,,PUBLISHED,2013,,WB_UMI,,,30,29.64638,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,AFG,TOTL,80,80.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,AFG,URB,28,28.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,AFG,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,AGO,TOTL,54,54.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,AGO,URB,11,11.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,AGO,RUR,86,86.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ALB,TOTL,37,37.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ALB,URB,16,16.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ALB,RUR,63,63.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AND,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AND,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AND,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,ARE,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,ARE,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,ARE,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ARG,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ARG,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ARG,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,ARM,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,ARM,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,ARM,RUR,11,11.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,ATG,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,ATG,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,ATG,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,AUS,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,AUS,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,AUS,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AUT,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AUT,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,AUT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,AZE,TOTL,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,AZE,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,AZE,RUR,12,12.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BDI,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BDI,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BDI,RUR,>95,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,BEL,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,BEL,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,BEL,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BEN,TOTL,94,94.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BEN,URB,89,89.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BEN,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BFA,TOTL,95,95.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BFA,URB,81,81.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,BFA,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,BGD,TOTL,89,89.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,BGD,URB,59,59.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,BGD,RUR,>95,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,BGR,TOTL,11,11.0,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,BGR,URB,Not available,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,BGR,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,BHR,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,BHR,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,BHR,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,BHS,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,BHS,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,BHS,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BIH,TOTL,59,59.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BIH,URB,32,32.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BIH,RUR,77,77.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BLR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BLR,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,BLR,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BLZ,TOTL,14,14.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BLZ,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BLZ,RUR,22,22.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,BOL,TOTL,23,23.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,BOL,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,BOL,RUR,61,61.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BRA,TOTL,5,5.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BRA,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,BRA,RUR,28,28.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,BRB,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,BRB,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,BRB,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,BRN,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,BRN,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,BRN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,BTN,TOTL,36,36.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,BTN,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,BTN,RUR,56,56.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,BWA,TOTL,37,37.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,BWA,URB,15,15.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,BWA,RUR,65,65.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,CAF,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,CAF,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,CAF,RUR,>95,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,CAN,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,CAN,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,CAN,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CHE,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CHE,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CHE,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,CHL,TOTL,7,7.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,CHL,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,CHL,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,CHN,TOTL,45,45.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,CHN,URB,14,14.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,CHN,RUR,79,79.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CIV,TOTL,81,81.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CIV,URB,65,65.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CIV,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CMR,TOTL,78,78.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CMR,URB,60,60.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CMR,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COD,TOTL,95,95.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COD,URB,90,90.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COD,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,COG,TOTL,74,74.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,COG,URB,63,63.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,COG,RUR,95,95.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,COK,TOTL,17,17.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,COK,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,COK,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,COL,TOTL,14,14.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,COL,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,COL,RUR,51,51.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COM,TOTL,74,74.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COM,URB,44,44.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,COM,RUR,86,86.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CPV,TOTL,31,31.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CPV,URB,11,11.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,CPV,RUR,65,65.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CRI,TOTL,5,5.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CRI,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CRI,RUR,17,17.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CUB,TOTL,7,7.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CUB,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,CUB,RUR,26,26.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CYP,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CYP,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,CYP,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,CZE,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,CZE,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,CZE,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DEU,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DEU,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DEU,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,DJI,TOTL,17,17.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,DJI,URB,6,6.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,DJI,RUR,49,49.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DMA,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DMA,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DMA,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DNK,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DNK,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,DNK,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DOM,TOTL,9,9.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DOM,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,DOM,RUR,25,25.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,DZA,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,DZA,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,DZA,RUR,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ECU,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ECU,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,ECU,RUR,8,8.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,EGY,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,EGY,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,EGY,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ERI,TOTL,63,63.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ERI,URB,23,23.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ERI,RUR,74,74.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ESP,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ESP,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ESP,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,EST,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,EST,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,EST,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ETH,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ETH,URB,88,88.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ETH,RUR,>95,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FIN,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FIN,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FIN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,FJI,TOTL,40,40.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,FJI,URB,15,15.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,FJI,RUR,68,68.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FRA,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FRA,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,FRA,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,FSM,TOTL,41,41.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,FSM,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,FSM,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,GAB,TOTL,20,20.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,GAB,URB,12,12.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,GAB,RUR,75,75.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GBR,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GBR,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GBR,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,GEO,TOTL,46,46.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,GEO,URB,12,12.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,GEO,RUR,84,84.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,GHA,TOTL,83,83.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,GHA,URB,70,70.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,GHA,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GIN,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GIN,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GIN,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GMB,TOTL,95,95.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GMB,URB,94,94.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GMB,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GNB,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GNB,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,GNB,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_HI,GNQ,TOTL,44,44.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_HI,GNQ,URB,7,7.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_HI,GNQ,RUR,68,68.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GRC,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GRC,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,GRC,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,GRD,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,GRD,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,GRD,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GTM,TOTL,64,64.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GTM,URB,31,31.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GTM,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GUY,TOTL,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GUY,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,GUY,RUR,8,8.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,HND,TOTL,50,50.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,HND,URB,21,21.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,HND,RUR,84,84.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,HRV,TOTL,8,8.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,HRV,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,HRV,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LI,HTI,TOTL,92,92.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LI,HTI,URB,86,86.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LI,HTI,RUR,>95,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,HUN,TOTL,11,11.0,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,HUN,URB,Not available,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,EUR,WB_UMI,HUN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IDN,TOTL,39,39.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IDN,URB,16,16.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IDN,RUR,65,65.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IND,TOTL,64,64.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IND,URB,26,26.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,IND,RUR,81,81.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,IRL,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,IRL,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,IRL,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRN,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRN,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRQ,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRQ,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,IRQ,RUR,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISL,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISL,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISL,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISR,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISR,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ISR,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ITA,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ITA,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,ITA,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,JAM,TOTL,11,11.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,JAM,URB,5,5.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,JAM,RUR,19,19.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,JOR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,JOR,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,JOR,RUR,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,JPN,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,JPN,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,JPN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,KAZ,TOTL,9,9.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,KAZ,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,KAZ,RUR,17,17.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,KEN,TOTL,84,84.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,KEN,URB,51,51.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,KEN,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,KGZ,TOTL,26,26.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,KGZ,URB,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,KGZ,RUR,37,37.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LI,KHM,TOTL,88,88.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LI,KHM,URB,50,50.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LI,KHM,RUR,>95,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,WPR,WB_LMI,KIR,TOTL,45,45.0,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,WPR,WB_LMI,KIR,URB,Not available,,,,
-WHS5_512,PHEFN2,PUBLISHED,2013,WPR,WB_LMI,KIR,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,KNA,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,KNA,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,KNA,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_HI,KOR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_HI,KOR,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_HI,KOR,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,KWT,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,KWT,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LTU,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LUX,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LUX,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LUX,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,LVA,TOTL,5,5.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,LVA,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,LVA,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,MAR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,MAR,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,MAR,RUR,6,6.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MCO,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MCO,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MCO,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,MDA,TOTL,8,8.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,MDA,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,MDA,RUR,15,15.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MDG,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MDG,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MDG,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,MDV,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,MDV,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LTU,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,LTU,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,LSO,RUR,82,82.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,LSO,URB,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,LSO,TOTL,62,62.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,LKA,RUR,83,83.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,LKA,URB,34,34.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,LKA,TOTL,74,74.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,LCA,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,LCA,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,LCA,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBY,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBY,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBY,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,LBR,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,LBR,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,LBR,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBN,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,LBN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,LAO,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,LAO,URB,92,92.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,LAO,TOTL,>95,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,KWT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,MDV,RUR,9,9.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MOZ,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MOZ,URB,91,91.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MOZ,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,MRT,TOTL,57,57.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,MRT,URB,36,36.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,MRT,RUR,87,87.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,MUS,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,MUS,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,MUS,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,MEX,TOTL,15,15.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,MEX,URB,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,MEX,RUR,50,50.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MHL,TOTL,33,33.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MHL,URB,9,9.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MHL,RUR,95,95.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MKD,TOTL,33,33.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MKD,URB,15,15.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MKD,RUR,56,56.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MLI,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MLI,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MLI,RUR,>95,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MLT,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MLT,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,MLT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,MMR,TOTL,93,93.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,MMR,URB,81,81.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,MMR,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MNE,TOTL,38,38.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MNE,URB,22,22.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,MNE,RUR,68,68.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,MNG,TOTL,63,63.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,MNG,URB,49,49.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,MNG,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MWI,TOTL,>95,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NOR,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NOR,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,NPL,TOTL,80,80.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,NPL,URB,29,29.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,NPL,RUR,91,91.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NRU,TOTL,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NRU,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NRU,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,NZL,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,NZL,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,NZL,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MWI,URB,90,90.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,MWI,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MYS,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MYS,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,MYS,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,NAM,TOTL,54,54.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,NAM,URB,17,17.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,NAM,RUR,85,85.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,NER,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,NER,URB,92,92.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,NER,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,NGA,TOTL,75,75.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,NGA,URB,49,49.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,NGA,RUR,>95,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,NIC,TOTL,53,53.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,NIC,URB,27,27.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,NIC,RUR,90,90.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NIU,TOTL,10,10.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NIU,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,NIU,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NLD,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NLD,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NLD,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,NOR,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,OMN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,PRK,URB,89,89.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,OMN,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EMR,WB_HI,OMN,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,PAK,TOTL,58,58.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,PAK,URB,14,14.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,PAK,RUR,84,84.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PAN,TOTL,15,15.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PAN,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PAN,RUR,37,37.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PER,TOTL,34,34.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PER,URB,13,13.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,PER,RUR,>95,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PHL,TOTL,54,54.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PHL,URB,34,34.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PHL,RUR,71,71.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,PLW,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,PLW,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,PLW,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PNG,TOTL,67,67.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PNG,URB,26,26.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,PNG,RUR,73,73.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,POL,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,POL,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,POL,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,PRK,TOTL,92,92.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LI,PRK,RUR,>95,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SEN,TOTL,61,61.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SEN,URB,29,29.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SEN,RUR,85,85.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,SGP,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,SGP,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,WPR,WB_HI,SGP,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,SLB,TOTL,92,92.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,SLB,URB,59,59.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,PRT,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,PRT,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,PRT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,PRY,TOTL,42,42.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,PRY,URB,21,21.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,PRY,RUR,71,71.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,QAT,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,QAT,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,QAT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ROU,TOTL,21,21.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ROU,URB,<5,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,ROU,RUR,40,40.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,RUS,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,RUS,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,RUS,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,RWA,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,RWA,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,RWA,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,SAU,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,SAU,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_HI,SAU,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SDN,TOTL,70,70.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SDN,URB,54,54.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SDN,RUR,79,79.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,SLB,RUR,>95,,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVK,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVK,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVK,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVN,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_HI,SVN,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SWE,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SWE,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SWE,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SWZ,TOTL,61,61.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SWZ,URB,12,12.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SWZ,RUR,75,75.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,SYC,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,SYC,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,SLE,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,SLE,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,SLE,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,SLV,TOTL,19,19.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,SLV,URB,6,6.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_LMI,SLV,RUR,45,45.0,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SMR,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SMR,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,EUR,WB_HI,SMR,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,SOM,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,SOM,URB,94,94.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LI,SOM,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,SRB,TOTL,31,31.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,SRB,URB,13,13.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,SRB,RUR,53,53.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SSD,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SSD,URB,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,SSD,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,STP,TOTL,71,71.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,STP,URB,60,60.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,STP,RUR,89,89.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,SUR,TOTL,11,11.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,SUR,URB,5,5.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,SUR,RUR,22,22.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,SYC,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,TTO,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,TTO,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,TTO,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,TUN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,TUN,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_UMI,TUN,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TUR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TUR,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TUR,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TUV,TOTL,16,16.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TUV,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SYR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SYR,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,SYR,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TCD,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TCD,URB,89,89.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TCD,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TGO,TOTL,95,95.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TGO,URB,91,91.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TGO,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,THA,TOTL,23,23.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,THA,URB,13,13.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_UMI,THA,RUR,31,31.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LI,TJK,TOTL,30,30.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LI,TJK,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LI,TJK,RUR,39,39.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TKM,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TKM,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_UMI,TKM,RUR,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,TLS,TOTL,93,93.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,TLS,URB,81,81.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,SEAR,WB_LMI,TLS,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TON,TOTL,44,44.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TON,URB,10,10.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TON,RUR,54,54.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_UMI,TUV,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VNM,TOTL,47,47.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VNM,URB,16,16.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VNM,RUR,61,61.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VUT,TOTL,85,85.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VUT,URB,54,54.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,VUT,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,WSM,TOTL,62,62.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,WSM,URB,28,28.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,WPR,WB_LMI,WSM,RUR,70,70.0,,,"The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318 target=""_blank"">meta-data sheet</a> for further information."""""
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,YEM,TOTL,32,32.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,YEM,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EMR,WB_LMI,YEM,RUR,47,47.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,ZAF,TOTL,12,12.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,ZAF,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_UMI,ZAF,RUR,28,28.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,ZMB,TOTL,82,82.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,ZMB,URB,59,59.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LMI,ZMB,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TZA,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TZA,URB,86,86.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,TZA,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,UGA,TOTL,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,UGA,URB,91,91.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,UGA,RUR,>95,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UKR,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UKR,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UKR,RUR,9,9.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,URY,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,URY,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_HI,URY,RUR,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,USA,TOTL,<5,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,USA,URB,Not available,,,,
-WHS5_512,PHEFN3,PUBLISHED,2013,AMR,WB_HI,USA,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UZB,TOTL,12,12.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UZB,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,EUR,WB_LMI,UZB,RUR,18,18.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VCT,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VCT,URB,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VCT,RUR,Not available,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VEN,TOTL,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VEN,URB,<5,,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AMR,WB_UMI,VEN,RUR,19,19.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ZWE,TOTL,71,71.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ZWE,URB,16,16.0,,,
-WHS5_512,PHEFN1,PUBLISHED,2013,AFR,WB_LI,ZWE,RUR,>95,,,,
+"GHO","DATASOURCE","PUBLISHSTATE","YEAR","REGION","WORLDBANKINCOMEGROUP","COUNTRY","RESIDENCEAREATYPE","Display Value","Numeric","Low","High","Comments"
+"WHS5_512","","PUBLISHED","2013","GLOBAL","WB_WORLD_INCOME","","","41","41.07077","","",""
+"WHS5_512","","PUBLISHED","2013","AFR","","","","79","78.61099","","",""
+"WHS5_512","","PUBLISHED","2013","AMR","","","","9","8.87153","","",""
+"WHS5_512","","PUBLISHED","2013","EMR","","","","29","28.62622","","",""
+"WHS5_512","","PUBLISHED","2013","EUR","","","","<5","3.40924","","",""
+"WHS5_512","","PUBLISHED","2013","SEAR","","","","63","62.60039","","",""
+"WHS5_512","","PUBLISHED","2013","WPR","","","","40","40.07480","","",""
+"WHS5_512","","PUBLISHED","2013","","WB_HI","","","<5","0.21330","","",""
+"WHS5_512","","PUBLISHED","2013","","WB_LI","","","91","91.15970","","",""
+"WHS5_512","","PUBLISHED","2013","","WB_LMI","","","56","55.50444","","",""
+"WHS5_512","","PUBLISHED","2013","","WB_UMI","","","30","29.64638","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","AFG","TOTL","80","80.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","AFG","URB","28","28.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","AFG","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","AGO","TOTL","54","54.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","AGO","URB","11","11.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","AGO","RUR","86","86.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ALB","TOTL","37","37.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ALB","URB","16","16.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ALB","RUR","63","63.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AND","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AND","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AND","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","ARE","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","ARE","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","ARE","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ARG","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ARG","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ARG","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","ARM","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","ARM","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","ARM","RUR","11","11.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","ATG","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","ATG","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","ATG","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","AUS","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","AUS","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","AUS","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AUT","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AUT","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","AUT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","AZE","TOTL","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","AZE","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","AZE","RUR","12","12.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BDI","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BDI","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BDI","RUR",">95","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","BEL","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","BEL","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","BEL","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BEN","TOTL","94","94.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BEN","URB","89","89.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BEN","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BFA","TOTL","95","95.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BFA","URB","81","81.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","BFA","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","BGD","TOTL","89","89.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","BGD","URB","59","59.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","BGD","RUR",">95","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","BGR","TOTL","11","11.00000","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","BGR","URB","Not available","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","BGR","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","BHR","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","BHR","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","BHR","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","BHS","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","BHS","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","BHS","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BIH","TOTL","59","59.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BIH","URB","32","32.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BIH","RUR","77","77.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BLR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BLR","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","BLR","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BLZ","TOTL","14","14.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BLZ","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BLZ","RUR","22","22.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","BOL","TOTL","23","23.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","BOL","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","BOL","RUR","61","61.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BRA","TOTL","5","5.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BRA","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","BRA","RUR","28","28.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","BRB","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","BRB","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","BRB","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","BRN","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","BRN","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","BRN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","BTN","TOTL","36","36.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","BTN","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","BTN","RUR","56","56.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","BWA","TOTL","37","37.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","BWA","URB","15","15.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","BWA","RUR","65","65.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","CAF","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","CAF","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","CAF","RUR",">95","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","CAN","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","CAN","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","CAN","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CHE","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CHE","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CHE","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","CHL","TOTL","7","7.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","CHL","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","CHL","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","CHN","TOTL","45","45.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","CHN","URB","14","14.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","CHN","RUR","79","79.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CIV","TOTL","81","81.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CIV","URB","65","65.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CIV","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CMR","TOTL","78","78.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CMR","URB","60","60.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CMR","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COD","TOTL","95","95.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COD","URB","90","90.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COD","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","COG","TOTL","74","74.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","COG","URB","63","63.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","COG","RUR","95","95.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","COK","TOTL","17","17.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","COK","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","COK","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","COL","TOTL","14","14.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","COL","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","COL","RUR","51","51.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COM","TOTL","74","74.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COM","URB","44","44.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","COM","RUR","86","86.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CPV","TOTL","31","31.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CPV","URB","11","11.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","CPV","RUR","65","65.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CRI","TOTL","5","5.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CRI","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CRI","RUR","17","17.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CUB","TOTL","7","7.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CUB","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","CUB","RUR","26","26.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CYP","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CYP","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","CYP","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","CZE","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","CZE","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","CZE","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DEU","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DEU","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DEU","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","DJI","TOTL","17","17.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","DJI","URB","6","6.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","DJI","RUR","49","49.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DMA","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DMA","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DMA","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DNK","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DNK","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","DNK","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DOM","TOTL","9","9.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DOM","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","DOM","RUR","25","25.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","DZA","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","DZA","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","DZA","RUR","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ECU","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ECU","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","ECU","RUR","8","8.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","EGY","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","EGY","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","EGY","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ERI","TOTL","63","63.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ERI","URB","23","23.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ERI","RUR","74","74.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ESP","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ESP","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ESP","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","EST","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","EST","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","EST","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ETH","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ETH","URB","88","88.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ETH","RUR",">95","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FIN","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FIN","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FIN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","FJI","TOTL","40","40.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","FJI","URB","15","15.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","FJI","RUR","68","68.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FRA","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FRA","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","FRA","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","FSM","TOTL","41","41.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","FSM","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","FSM","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","GAB","TOTL","20","20.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","GAB","URB","12","12.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","GAB","RUR","75","75.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GBR","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GBR","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GBR","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","GEO","TOTL","46","46.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","GEO","URB","12","12.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","GEO","RUR","84","84.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","GHA","TOTL","83","83.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","GHA","URB","70","70.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","GHA","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GIN","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GIN","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GIN","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GMB","TOTL","95","95.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GMB","URB","94","94.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GMB","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GNB","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GNB","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","GNB","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_HI","GNQ","TOTL","44","44.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_HI","GNQ","URB","7","7.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_HI","GNQ","RUR","68","68.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GRC","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GRC","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","GRC","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","GRD","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","GRD","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","GRD","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GTM","TOTL","64","64.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GTM","URB","31","31.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GTM","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GUY","TOTL","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GUY","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","GUY","RUR","8","8.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","HND","TOTL","50","50.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","HND","URB","21","21.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","HND","RUR","84","84.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","HRV","TOTL","8","8.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","HRV","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","HRV","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LI","HTI","TOTL","92","92.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LI","HTI","URB","86","86.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LI","HTI","RUR",">95","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","HUN","TOTL","11","11.00000","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","HUN","URB","Not available","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","EUR","WB_UMI","HUN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IDN","TOTL","39","39.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IDN","URB","16","16.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IDN","RUR","65","65.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IND","TOTL","64","64.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IND","URB","26","26.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","IND","RUR","81","81.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","IRL","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","IRL","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","IRL","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRN","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRN","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRN","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRQ","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRQ","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","IRQ","RUR","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISL","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISL","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISL","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISR","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISR","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ISR","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ITA","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ITA","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","ITA","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","JAM","TOTL","11","11.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","JAM","URB","5","5.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","JAM","RUR","19","19.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","JOR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","JOR","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","JOR","RUR","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","JPN","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","JPN","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","JPN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","KAZ","TOTL","9","9.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","KAZ","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","KAZ","RUR","17","17.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","KEN","TOTL","84","84.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","KEN","URB","51","51.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","KEN","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","KGZ","TOTL","26","26.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","KGZ","URB","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","KGZ","RUR","37","37.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LI","KHM","TOTL","88","88.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LI","KHM","URB","50","50.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LI","KHM","RUR",">95","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","WPR","WB_LMI","KIR","TOTL","45","45.00000","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","WPR","WB_LMI","KIR","URB","Not available","","","",""
+"WHS5_512","PHEFN2","PUBLISHED","2013","WPR","WB_LMI","KIR","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","KNA","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","KNA","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","KNA","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_HI","KOR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_HI","KOR","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_HI","KOR","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","KWT","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","KWT","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","KWT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","LAO","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","LAO","URB","92","92.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","LAO","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBN","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBN","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","LBR","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","LBR","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","LBR","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBY","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBY","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","LBY","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","LCA","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","LCA","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","LCA","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","LKA","TOTL","74","74.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","LKA","URB","34","34.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","LKA","RUR","83","83.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","LSO","TOTL","62","62.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","LSO","URB","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","LSO","RUR","82","82.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LTU","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LTU","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LTU","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LUX","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LUX","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","LUX","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","LVA","TOTL","5","5.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","LVA","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","LVA","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","MAR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","MAR","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","MAR","RUR","6","6.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MCO","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MCO","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MCO","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","MDA","TOTL","8","8.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","MDA","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","MDA","RUR","15","15.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MDG","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MDG","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MDG","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","MDV","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","MDV","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","MDV","RUR","9","9.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","MEX","TOTL","15","15.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","MEX","URB","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","MEX","RUR","50","50.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MHL","TOTL","33","33.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MHL","URB","9","9.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MHL","RUR","95","95.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MKD","TOTL","33","33.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MKD","URB","15","15.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MKD","RUR","56","56.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MLI","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MLI","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MLI","RUR",">95","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MLT","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MLT","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","MLT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","MMR","TOTL","93","93.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","MMR","URB","81","81.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","MMR","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MNE","TOTL","38","38.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MNE","URB","22","22.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","MNE","RUR","68","68.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","MNG","TOTL","63","63.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","MNG","URB","49","49.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","MNG","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MOZ","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MOZ","URB","91","91.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MOZ","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","MRT","TOTL","57","57.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","MRT","URB","36","36.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","MRT","RUR","87","87.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","MUS","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","MUS","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","MUS","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MWI","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MWI","URB","90","90.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","MWI","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MYS","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MYS","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","MYS","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","NAM","TOTL","54","54.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","NAM","URB","17","17.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","NAM","RUR","85","85.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","NER","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","NER","URB","92","92.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","NER","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","NGA","TOTL","75","75.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","NGA","URB","49","49.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","NGA","RUR",">95","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","NIC","TOTL","53","53.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","NIC","URB","27","27.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","NIC","RUR","90","90.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NIU","TOTL","10","10.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NIU","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NIU","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NLD","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NLD","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NLD","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NOR","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NOR","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","NOR","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","NPL","TOTL","80","80.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","NPL","URB","29","29.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","NPL","RUR","91","91.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NRU","TOTL","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NRU","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","NRU","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","NZL","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","NZL","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","NZL","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","OMN","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","OMN","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EMR","WB_HI","OMN","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","PAK","TOTL","58","58.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","PAK","URB","14","14.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","PAK","RUR","84","84.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PAN","TOTL","15","15.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PAN","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PAN","RUR","37","37.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PER","TOTL","34","34.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PER","URB","13","13.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","PER","RUR",">95","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PHL","TOTL","54","54.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PHL","URB","34","34.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PHL","RUR","71","71.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","PLW","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","PLW","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","PLW","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PNG","TOTL","67","67.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PNG","URB","26","26.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","PNG","RUR","73","73.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","POL","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","POL","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","POL","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","PRK","TOTL","92","92.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","PRK","URB","89","89.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LI","PRK","RUR",">95","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","PRT","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","PRT","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","PRT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","PRY","TOTL","42","42.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","PRY","URB","21","21.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","PRY","RUR","71","71.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","QAT","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","QAT","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","QAT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ROU","TOTL","21","21.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ROU","URB","<5","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","ROU","RUR","40","40.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","RUS","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","RUS","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","RUS","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","RWA","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","RWA","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","RWA","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","SAU","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","SAU","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_HI","SAU","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SDN","TOTL","70","70.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SDN","URB","54","54.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SDN","RUR","79","79.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SEN","TOTL","61","61.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SEN","URB","29","29.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SEN","RUR","85","85.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","SGP","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","SGP","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","WPR","WB_HI","SGP","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","SLB","TOTL","92","92.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","SLB","URB","59","59.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","SLB","RUR",">95","","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","SLE","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","SLE","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","SLE","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","SLV","TOTL","19","19.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","SLV","URB","6","6.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_LMI","SLV","RUR","45","45.00000","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SMR","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SMR","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SMR","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","SOM","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","SOM","URB","94","94.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LI","SOM","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","SRB","TOTL","31","31.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","SRB","URB","13","13.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","SRB","RUR","53","53.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SSD","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SSD","URB",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SSD","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","STP","TOTL","71","71.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","STP","URB","60","60.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","STP","RUR","89","89.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","SUR","TOTL","11","11.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","SUR","URB","5","5.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","SUR","RUR","22","22.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVK","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVK","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVK","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVN","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVN","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_HI","SVN","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SWE","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SWE","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","EUR","WB_HI","SWE","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SWZ","TOTL","61","61.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SWZ","URB","12","12.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","SWZ","RUR","75","75.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","SYC","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","SYC","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","SYC","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SYR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SYR","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","SYR","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TCD","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TCD","URB","89","89.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TCD","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TGO","TOTL","95","95.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TGO","URB","91","91.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TGO","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","THA","TOTL","23","23.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","THA","URB","13","13.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_UMI","THA","RUR","31","31.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LI","TJK","TOTL","30","30.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LI","TJK","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LI","TJK","RUR","39","39.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TKM","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TKM","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TKM","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","TLS","TOTL","93","93.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","TLS","URB","81","81.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","SEAR","WB_LMI","TLS","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TON","TOTL","44","44.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TON","URB","10","10.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TON","RUR","54","54.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","TTO","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","TTO","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","TTO","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","TUN","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","TUN","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_UMI","TUN","RUR","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TUR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TUR","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_UMI","TUR","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TUV","TOTL","16","16.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TUV","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_UMI","TUV","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TZA","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TZA","URB","86","86.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","TZA","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","UGA","TOTL",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","UGA","URB","91","91.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","UGA","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UKR","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UKR","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UKR","RUR","9","9.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","URY","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","URY","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_HI","URY","RUR","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","USA","TOTL","<5","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","USA","URB","Not available","","","",""
+"WHS5_512","PHEFN3","PUBLISHED","2013","AMR","WB_HI","USA","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UZB","TOTL","12","12.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UZB","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EUR","WB_LMI","UZB","RUR","18","18.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VCT","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VCT","URB","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VCT","RUR","Not available","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VEN","TOTL","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VEN","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AMR","WB_UMI","VEN","RUR","19","19.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VNM","TOTL","47","47.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VNM","URB","16","16.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VNM","RUR","61","61.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VUT","TOTL","85","85.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VUT","URB","54","54.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","VUT","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","WSM","TOTL","62","62.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","WSM","URB","28","28.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","WPR","WB_LMI","WSM","RUR","70","70.00000","","","The latest survey data used instead of multilevel modelling after proportional adjustment to total solid fuel use; see <a href=http://apps.who.int/gho/indicatorregistry/App_Main/view_indicator.aspx?iid=318"" target=""_blank"">meta-data sheet</a> for further information."""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","YEM","TOTL","32","32.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","YEM","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","EMR","WB_LMI","YEM","RUR","47","47.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","ZAF","TOTL","12","12.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","ZAF","URB","<5","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_UMI","ZAF","RUR","28","28.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","ZMB","TOTL","82","82.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","ZMB","URB","59","59.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LMI","ZMB","RUR",">95","","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ZWE","TOTL","71","71.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ZWE","URB","16","16.00000","","",""
+"WHS5_512","PHEFN1","PUBLISHED","2013","AFR","WB_LI","ZWE","RUR",">95","","","",""

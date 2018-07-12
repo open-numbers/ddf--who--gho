@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-W24_exp_date_A,PUBLISHED,2014,AFR,DZA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,BEN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,BFA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,CPV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,CMR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,CAF,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,TCD,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,COM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,COG,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,CIV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,COD,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,ERI,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,GAB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,GMB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,GIN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,KEN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,MDG,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,MLI,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,MUS,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,MOZ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,NAM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,NER,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,RWA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,STP,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,SEN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,SYC,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,SWZ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,TGO,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,UGA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,TZA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,ZMB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,ZWE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,ARG,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,BHS,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,BLZ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,BOL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,BRA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,CAN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,CHL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,CRI,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,CUB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,DOM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,ECU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,SLV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,GTM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,GUY,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,HND,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,MEX,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,NIC,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,PAN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,PRY,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,PER,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,TTO,No,,,,Provision adopted but not implemented by 31 December 2014.
-W24_exp_date_A,PUBLISHED,2014,AMR,USA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,URY,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,VEN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,BHR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,DJI,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,ZAF,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,NGA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,GHA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,ETH,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,EGY,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,IRN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,IRQ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,JOR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,KWT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,LBN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,LBY,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,MAR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,OMN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,PAK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,QAT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,SAU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,SDN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,SYR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,TUN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,ARE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EMR,YEM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ALB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ARM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,AUT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,AZE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,BLR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,BEL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,BGR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,HRV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,CYP,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,CZE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,DNK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,EST,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,FIN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,FRA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,GEO,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,DEU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,GRC,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,HUN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ISL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,IRL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ISR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ITA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,KAZ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,KGZ,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,LVA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,LTU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,LUX,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,MLT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,MNE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,NLD,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,NOR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,POL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,PRT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,MDA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ROU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,RUS,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,SRB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,SVK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,SVN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,ESP,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,SWE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,CHE,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,TJK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,MKD,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,TUR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,TKM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,UKR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,GBR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,EUR,UZB,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,BGD,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,BTN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,PRK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,IND,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,IDN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,MDV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,MMR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,NPL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,LKA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,THA,No,,,,
-W24_exp_date_A,PUBLISHED,2014,SEAR,TLS,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,BRN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,KHM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,CHN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,COK,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,FJI,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,JPN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,KIR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,LAO,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,MYS,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,MHL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,MNG,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,NRU,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,NZL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,PNG,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,PHL,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,KOR,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,WSM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,SGP,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,TON,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,TUV,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,VUT,No,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,VNM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,COL,Yes,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,JAM,Yes,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,SUR,Yes,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,AUS,Yes,,,,
-W24_exp_date_A,PUBLISHED,2014,WPR,SLB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,DZA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,BEN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,BFA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,CPV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,CMR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,CAF,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,TCD,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,COM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,COG,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,CIV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,COD,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,ERI,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,GAB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,GMB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,GHA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,GIN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,KEN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,MDG,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,MLI,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,MUS,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,MOZ,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,NAM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,NER,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,NGA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,SEN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,SYC,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,ZAF,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,TGO,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,UGA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,TZA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,ZMB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AFR,ZWE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,ARG,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,BHS,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,BLZ,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,BOL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,BRA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,CAN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,CHL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,CRI,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,CUB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,DOM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,ECU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,SLV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,GTM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,GUY,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,HND,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,JAM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,MEX,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,NIC,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,PAN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,PRY,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,PER,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,TTO,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,USA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,URY,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,VEN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,BHR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,DJI,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,EGY,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,IRN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,IRQ,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,JOR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,KWT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,LBN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,LBY,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,MAR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,OMN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,PAK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,QAT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,SAU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,SDN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,SYR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,TUN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,ARE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EMR,YEM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ALB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ARM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,AUT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,AZE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,BLR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,BEL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,BGR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,HRV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,CYP,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,CZE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,DNK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,EST,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,FIN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,FRA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,GEO,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,DEU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,GRC,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,HUN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ISL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,IRL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ISR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ITA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,KAZ,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,KGZ,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,LVA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,LTU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,LUX,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,MLT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,MNE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,NLD,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,NOR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,POL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,PRT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,MDA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ROU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,RUS,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,SRB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,SVK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,SVN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,ESP,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,SWE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,CHE,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,TJK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,MKD,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,TUR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,TKM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,UKR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,GBR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,EUR,UZB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,BGD,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,BTN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,PRK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,IND,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,IDN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,MDV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,MMR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,NPL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,LKA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,THA,No,,,,
-W24_exp_date_A,PUBLISHED,2012,SEAR,TLS,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,BRN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,KHM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,CHN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,COK,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,FJI,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,JPN,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,LAO,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,MYS,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,MHL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,MNG,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,NRU,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,NZL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,PNG,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,PHL,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,KOR,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,WSM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,SGP,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,SLB,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,TON,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,TUV,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,VUT,No,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,VNM,No,,,,
-W24_exp_date_A,PUBLISHED,2012,AMR,COL,Yes,,,,
-W24_exp_date_A,PUBLISHED,2012,WPR,AUS,Yes,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,DZA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,BFA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,CPV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,CMR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,CAF,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,TCD,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,CIV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,COD,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,ERI,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,GAB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,GMB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,GHA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,GIN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,KEN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,MDG,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,MLI,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,MUS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,MOZ,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,NAM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,NGA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,SYC,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,ZAF,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,TGO,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,UGA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,TZA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,ZMB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,ZWE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,ARG,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,BHS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,BLZ,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,BRA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,CAN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,CUB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,DOM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,ECU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,SLV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,GTM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,GUY,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,HND,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,JAM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,MEX,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,PER,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,TTO,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,USA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,BHR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,DJI,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,EGY,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,IRN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,KWT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,LBN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,LBY,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,MAR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,OMN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,PAK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,QAT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,SAU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,SDN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,SYR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,TUN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,ARE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,YEM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ALB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ARM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,AUT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,AZE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,BLR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,BEL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,BGR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,HRV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,CYP,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,CZE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,DNK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,EST,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,FIN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,FRA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,GEO,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,DEU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,GRC,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,HUN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ISL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,JOR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,CHL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,BOL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EMR,IRQ,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,VEN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,URY,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,PRY,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,PAN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,NIC,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,CRI,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,SEN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,NER,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AFR,BEN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,IRL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ISR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ITA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,KAZ,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,KGZ,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,LVA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,LTU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,LUX,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,MLT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,MNE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,NLD,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,NOR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,POL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,PRT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,MDA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ROU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,RUS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,SRB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,SVK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,SVN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,ESP,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,SWE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,CHE,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,TJK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,MKD,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,TUR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,TKM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,UKR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,GBR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,EUR,UZB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,BGD,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,BTN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,PRK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,IND,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,IDN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,MDV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,MMR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,NPL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,LKA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,THA,No,,,,
-W24_exp_date_A,PUBLISHED,2010,SEAR,TLS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,AUS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,BRN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,KHM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,CHN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,COK,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,FJI,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,JPN,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,LAO,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,MYS,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,MHL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,MNG,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,NRU,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,NZL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,PNG,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,PHL,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,KOR,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,WSM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,SGP,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,SLB,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,TON,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,TUV,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,VUT,No,,,,
-W24_exp_date_A,PUBLISHED,2010,WPR,VNM,No,,,,
-W24_exp_date_A,PUBLISHED,2010,AMR,COL,Yes,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,DZA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,BEN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,BFA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,CPV,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,CMR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,CAF,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,TCD,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,CIV,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,COD,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,ERI,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,GAB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,GHA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,GIN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,KEN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,MDG,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,MLI,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,MUS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,MOZ,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,NER,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,NGA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,SEN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,ZAF,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,UGA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,TZA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,ZMB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AFR,ZWE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,BHS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,BOL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,BRA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,CAN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,CHL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,COL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,CRI,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,CUB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,DOM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,ECU,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,SLV,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,GTM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,GUY,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,HND,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,JAM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,MEX,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,NIC,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,PER,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,TTO,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,USA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,URY,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,VEN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,DJI,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,EGY,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,IRN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,IRQ,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,JOR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,KWT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,LBN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,MAR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,OMN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,PAK,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,QAT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,SAU,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,SDN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,TUN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EMR,YEM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ALB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ARM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,AUT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,AZE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,BLR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,BEL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,BGR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,HRV,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,CYP,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,CZE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,DNK,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,EST,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,FIN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,FRA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,GEO,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,DEU,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,GRC,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,HUN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ISL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,IRL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ISR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ITA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,KAZ,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,KGZ,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,LVA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,LTU,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,LUX,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,MNE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,NLD,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,NOR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,POL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,PRT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,MDA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,RUS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,SRB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,SVK,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,SVN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ESP,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,SWE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,CHE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,MKD,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,TUR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,TKM,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,GBR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,IND,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,IDN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,MDV,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,MMR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,LKA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,THA,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,TLS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,AUS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,BRN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,CHN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,COK,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,FJI,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,JPN,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,LAO,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,MYS,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,MHL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,MNG,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,NZL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,PNG,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,PHL,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,KOR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,SGP,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,TON,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,VUT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,WPR,VNM,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,ARE,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,ARG,No,,,,
-W24_exp_date_A,PUBLISHED,2007,SEAR,BGD,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,UZB,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,ROU,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,MLT,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,BLZ,No,,,,
-W24_exp_date_A,PUBLISHED,2007,EUR,UKR,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,PRY,No,,,,
-W24_exp_date_A,PUBLISHED,2007,AMR,PAN,No,,,,
-W24_exp_date_A,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EUR,AND,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EUR,AND,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EUR,AND,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EUR,TJK,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
-W24_exp_date_A,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"W24_exp_date_A","PUBLISHED","2014","AFR","DZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","BEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","BFA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","CPV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","CMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","CAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","TCD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","COM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","COG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","CIV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","COD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","ERI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","ETH","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","GAB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","GMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","GHA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","GIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","KEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","MDG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","MLI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","MUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","MOZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","NAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","NER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","NGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","RWA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","STP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","SEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","SYC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","ZAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","SWZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","TGO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","UGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","TZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","ZMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AFR","ZWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","ARG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","BHS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","BLZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","BOL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","BRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","CAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","CHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","CRI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","CUB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","DOM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","ECU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","SLV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","GTM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","GUY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","HND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","MEX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","NIC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","PAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","PRY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","PER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","TTO","No","","","","Provision adopted but not implemented by 31 December 2014."
+"W24_exp_date_A","PUBLISHED","2014","AMR","USA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","URY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","VEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","BHR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","DJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","EGY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","IRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","IRQ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","JOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","KWT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","LBN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","LBY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","MAR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","OMN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","PAK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","QAT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","SAU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","SDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","SYR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","TUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","ARE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EMR","YEM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ALB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ARM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","AUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","AZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","BLR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","BEL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","BGR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","HRV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","CYP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","CZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","DNK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","EST","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","FIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","FRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","GEO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","DEU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","GRC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","HUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ISL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","IRL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ISR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ITA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","KAZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","KGZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","LVA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","LTU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","LUX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","MLT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","MNE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","NLD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","NOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","POL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","PRT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","MDA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ROU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","RUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","SRB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","SVK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","SVN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","ESP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","SWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","CHE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","TJK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","MKD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","TUR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","TKM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","UKR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","GBR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","EUR","UZB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","BGD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","BTN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","PRK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","IND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","IDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","MDV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","MMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","NPL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","LKA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","THA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","SEAR","TLS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","BRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","KHM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","CHN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","COK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","FJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","JPN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","KIR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","LAO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","MYS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","MHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","MNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","NRU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","NZL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","PNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","PHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","KOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","WSM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","SGP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","SLB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","TON","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","TUV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","VUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","VNM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","COL","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","JAM","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","SUR","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2014","WPR","AUS","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","DZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","BEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","BFA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","CPV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","CMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","CAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","TCD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","COM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","COG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","CIV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","COD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","ERI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","GAB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","GMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","GHA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","GIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","KEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","MDG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","MLI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","MUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","MOZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","NAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","NER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","NGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","SEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","SYC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","ZAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","TGO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","UGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","TZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","ZMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AFR","ZWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","ARG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","BHS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","BLZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","BOL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","BRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","CAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","CHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","CRI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","CUB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","DOM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","ECU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","SLV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","GTM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","GUY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","HND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","JAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","MEX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","NIC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","PAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","PRY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","PER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","TTO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","USA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","URY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","VEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","BHR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","DJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","EGY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","IRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","IRQ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","JOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","KWT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","LBN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","LBY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","MAR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","OMN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","PAK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","QAT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","SAU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","SDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","SYR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","TUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","ARE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EMR","YEM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ALB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ARM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","AUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","AZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","BLR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","BEL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","BGR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","HRV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","CYP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","CZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","DNK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","EST","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","FIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","FRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","GEO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","DEU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","GRC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","HUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ISL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","IRL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ISR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ITA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","KAZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","KGZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","LVA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","LTU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","LUX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","MLT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","MNE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","NLD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","NOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","POL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","PRT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","MDA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ROU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","RUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","SRB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","SVK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","SVN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","ESP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","SWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","CHE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","TJK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","MKD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","TUR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","TKM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","UKR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","GBR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","EUR","UZB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","BGD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","BTN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","PRK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","IND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","IDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","MDV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","MMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","NPL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","LKA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","THA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","SEAR","TLS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","BRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","KHM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","CHN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","COK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","FJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","JPN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","LAO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","MYS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","MHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","MNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","NRU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","NZL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","PNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","PHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","KOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","WSM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","SGP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","SLB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","TON","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","TUV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","VUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","VNM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2012","AMR","COL","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2012","WPR","AUS","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","DZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","BEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","BFA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","CPV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","CMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","CAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","TCD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","CIV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","COD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","ERI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","GAB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","GMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","GHA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","GIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","KEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","MDG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","MLI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","MUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","MOZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","NAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","NER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","NGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","SEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","SYC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","ZAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","TGO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","UGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","TZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","ZMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AFR","ZWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","ARG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","BHS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","BLZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","BOL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","BRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","CAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","CHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","CRI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","CUB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","DOM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","ECU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","SLV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","GTM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","GUY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","HND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","JAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","MEX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","NIC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","PAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","PRY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","PER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","TTO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","USA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","URY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","VEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","BHR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","DJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","EGY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","IRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","IRQ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","JOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","KWT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","LBN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","LBY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","MAR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","OMN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","PAK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","QAT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","SAU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","SDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","SYR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","TUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","ARE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EMR","YEM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ALB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ARM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","AUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","AZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","BLR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","BEL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","BGR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","HRV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","CYP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","CZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","DNK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","EST","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","FIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","FRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","GEO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","DEU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","GRC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","HUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ISL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","IRL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ISR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ITA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","KAZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","KGZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","LVA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","LTU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","LUX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","MLT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","MNE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","NLD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","NOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","POL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","PRT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","MDA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ROU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","RUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","SRB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","SVK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","SVN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","ESP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","SWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","CHE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","TJK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","MKD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","TUR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","TKM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","UKR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","GBR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","EUR","UZB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","BGD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","BTN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","PRK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","IND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","IDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","MDV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","MMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","NPL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","LKA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","THA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","SEAR","TLS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","AUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","BRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","KHM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","CHN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","COK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","FJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","JPN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","LAO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","MYS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","MHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","MNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","NRU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","NZL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","PNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","PHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","KOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","WSM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","SGP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","SLB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","TON","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","TUV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","VUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","WPR","VNM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2010","AMR","COL","Yes","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","DZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","BEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","BFA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","CPV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","CMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","CAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","TCD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","CIV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","COD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","ERI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","GAB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","GHA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","GIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","KEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","MDG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","MLI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","MUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","MOZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","NER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","NGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","SEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","ZAF","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","UGA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","TZA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","ZMB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AFR","ZWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","ARG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","BHS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","BLZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","BOL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","BRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","CAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","CHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","COL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","CRI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","CUB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","DOM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","ECU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","SLV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","GTM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","GUY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","HND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","JAM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","MEX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","NIC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","PAN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","PRY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","PER","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","TTO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","USA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","URY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","AMR","VEN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","DJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","EGY","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","IRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","IRQ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","JOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","KWT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","LBN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","MAR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","OMN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","PAK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","QAT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","SAU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","SDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","TUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","ARE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EMR","YEM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ALB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ARM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","AUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","AZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","BLR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","BEL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","BGR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","HRV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","CYP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","CZE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","DNK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","EST","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","FIN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","FRA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","GEO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","DEU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","GRC","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","HUN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ISL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","IRL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ISR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ITA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","KAZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","KGZ","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","LVA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","LTU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","LUX","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","MLT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","MNE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","NLD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","NOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","POL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","PRT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","MDA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ROU","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","RUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","SRB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","SVK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","SVN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","ESP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","SWE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","CHE","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","MKD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","TUR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","TKM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","UKR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","GBR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","EUR","UZB","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","BGD","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","IND","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","IDN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","MDV","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","MMR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","LKA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","THA","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","SEAR","TLS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","AUS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","BRN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","CHN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","COK","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","FJI","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","JPN","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","LAO","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","MYS","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","MHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","MNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","NZL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","PNG","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","PHL","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","KOR","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","SGP","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","TON","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","VUT","No","","","",""
+"W24_exp_date_A","PUBLISHED","2007","WPR","VNM","No","","","",""
+"W24_exp_date_A","PUBLISHED","2014","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2014","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2012","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2010","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"W24_exp_date_A","PUBLISHED","2007","EUR","SMR","Not applicable","","","","Data not required/not applicable"

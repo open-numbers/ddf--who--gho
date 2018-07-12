@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,CAN,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,USA,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,NGA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,TZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,CUB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,VEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,SAU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,SYR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,MKD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,COK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,PHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,WSM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,CAF,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,TCD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,NAM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,TZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,SYR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,BIH,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,NOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,FJI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,LAO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,MNG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,PHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,DZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,AGO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,BEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,BWA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,BFA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,BDI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,CPV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,CMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,CAF,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,TCD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,COM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,COG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,CIV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,COD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,ERI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GAB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GMB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GHA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GIN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,GNB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,KEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,LSO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,LBR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MDG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MWI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MLI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MRT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,NAM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,NER,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,NGA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,RWA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,STP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,SEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,SYC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,GRD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,SLV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,ECU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,DOM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,DMA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,CUB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,CRI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,COL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,CHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,GTM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,GUY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,HTI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,HND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,JAM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,MEX,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,NIC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,PAN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,CAN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,BRA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,BOL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,BLZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,BRB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,BHS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,ARG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,ATG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,ZMB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,TZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,UGA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,TGO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,ZAF,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AFR,SLE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,PER,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,KNA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,LCA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,SUR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,TTO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,USA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,PRY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,SOM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ARM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,AUT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,AZE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,BLR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,BEL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,BIH,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,BGR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,SDN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,SYR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,TUN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,ARE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,YEM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ALB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,URY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,AND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,AMR,VEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,AFG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,BHR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,DJI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,EGY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,IRN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,IRQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,JOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,KWT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,LBN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,LBY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,MAR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,OMN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,PAK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,QAT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EMR,SAU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,HRV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,CYP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,CZE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,DNK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,EST,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,FIN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,FRA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,GEO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,DEU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,GRC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,HUN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ISL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,IRL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ISR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ITA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,KAZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,KGZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,LVA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,LTU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,LUX,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,MLT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,MCO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,NLD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,NOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,POL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,PRT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,MDA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ROU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,RUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,SRB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,SVK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,MMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,NPL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,LKA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,THA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,AUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,BRN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,KHM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,SVN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,ESP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,SWE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,CHE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,TUR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,GBR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,EUR,UZB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,BGD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,BTN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,IND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,IDN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,SEAR,MDV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,CHN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,COK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,FJI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,JPN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,LAO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,MYS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,MHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,FSM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,MNG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,NRU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,NZL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,NIU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,PLW,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,PNG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,PHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,KOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,WSM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,SGP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,SLB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,TON,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,TUV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,VUT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2010,WPR,VNM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,DZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,AGO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,BEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,BWA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,BFA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,BDI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,CPV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,CMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,CAF,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,TCD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,COM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,COG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,CIV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,COD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,ERI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,ETH,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MWI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MLI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MRT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MOZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,NAM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,NER,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,NGA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GAB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GMB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GHA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GIN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,GNB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,KEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,LSO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,LBR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,MDG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,UGA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,DOM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,ECU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,SLV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,GRD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,GTM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,GUY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,HTI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,HND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,TZA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,ZMB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,ATG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,ARG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,BHS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,BRB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,DMA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,BLZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,BOL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,BRA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,CAN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,CHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,COL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,CRI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,CUB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,JAM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,EGY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,IRN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,IRQ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,JOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,KWT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,LBN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,LBY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,MEX,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,NIC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,PAN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,PRY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,PER,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,KNA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,LCA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,RWA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,STP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,SEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,SYC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,SLE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,ZAF,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AFR,TGO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,SUR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,TTO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,USA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,URY,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,VEN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,AFG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,BHR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,DJI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,AMR,VCT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,MAR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,OMN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,PAK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,QAT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,SAU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,SOM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,SDN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,SYR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,TUN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,FIN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,FRA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,KAZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,KGZ,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,LVA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,LTU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,LUX,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,MLT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,GEO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,DEU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,GRC,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,HUN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ISL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,ARE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EMR,YEM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ALB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,AND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ARM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,AUT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,AZE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,BLR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,BEL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,BIH,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,BGR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,HRV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,CYP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,CZE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,DNK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,EST,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ITA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,IRL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ISR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,UZB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,IND,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,IDN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,MDV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,MMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,NPL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,LKA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,THA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,MCO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,MNE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,NLD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,NOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,POL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,PRT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,BGD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,BTN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,MDA,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ROU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,RUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,SMR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,SRB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,SVK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,SVN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,ESP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,SWE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,CHE,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,TJK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,MKD,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,TUR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,TKM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,UKR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,EUR,GBR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,AUS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,BRN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,KHM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,CHN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,COK,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,FJI,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,JPN,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,TUV,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ALB,ALL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ARM,AMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ARM,AMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,AGO,AOA,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,ARG,ARS,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,ARG,ARS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,AUS,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,KIR,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,TUV,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,AUS,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,KIR,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,TUV,AUD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,AZE,AZN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,AZE,AZN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,BIH,BAM,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,BRB,BBD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,BRB,BBD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,BGD,BDT,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,BGD,BDT,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,BGR,BGN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,BGR,BGN,,,,
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,VUT,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,VNM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,ARE,AED,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,ARE,AED,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,AFG,AFN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,AFG,AFN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ALB,ALL,,,,
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,KIR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,LAO,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,MYS,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,MHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,FSM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,MNG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,NRU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,NZL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,NIU,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,PLW,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,PNG,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,PHL,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,KOR,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,WSM,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,SGP,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,SLB,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2008,WPR,TON,Not available,,,,Data not reported/not available
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,BHR,BHD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,CHN,CNY,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,COL,COP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,COL,COP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,CRI,CRC,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,CRI,CRC,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,CUB,CUC,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,CPV,CVE,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,CZE,CZK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,CZE,CZK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,DJI,DJF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,DJI,DJF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,DNK,DKK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,DNK,DKK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,DOM,DOP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,DOM,DOP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,DZA,DZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,DZA,DZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,EGY,EGP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,EGY,EGP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,ERI,ERN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,ETH,ETB,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,ETH,ETB,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,AND,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,AUT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,BEL,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,BHR,BHD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,BDI,BIF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,BDI,BIF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,BRN,BND,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,BRN,BND,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,BOL,BOB,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,BOL,BOB,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,BRA,BRL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,BRA,BRL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,BHS,BSD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,BHS,BSD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,BWA,BWP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,BLR,BYR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,BLR,BYR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,BLZ,BZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,BLZ,BZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,CAN,CAD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,COD,CDF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,COD,CDF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,CHE,CHF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,CHE,CHF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,CHL,CLP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,CHL,CLP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,CHN,CNY,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,CYP,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,DEU,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,GRC,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,IRL,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ITA,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,LUX,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,MLT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,MNE,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,NLD,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,PRT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,SMR,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,SVK,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,SVN,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ESP,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,FJI,FJD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,GBR,GBP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,GBR,GBP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,GEO,GEL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,GEO,GEL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GHA,GHS,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GHA,GHS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,GMB,GMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GMB,GMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GIN,GNF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,GTM,GTQ,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,GTM,GTQ,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,EST,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,FIN,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,FRA,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,DEU,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,GRC,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,IRL,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ITA,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,LVA,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,LUX,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,MLT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,MNE,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,NLD,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,PRT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,SMR,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,SVK,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,SVN,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ESP,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,AND,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,AUT,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,BEL,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,CYP,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,EST,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,FIN,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,FRA,EUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,GUY,GYD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,JPN,JPY,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,KEN,KES,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,KEN,KES,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,KGZ,KGS,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,KGZ,KGS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,KHM,KHR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,KHM,KHR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,COM,KMF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,COM,KMF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,PRK,KPW,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,KOR,KRW,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,KOR,KRW,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,KWT,KWD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,KWT,KWD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,KAZ,KZT,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,KAZ,KZT,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,LAO,LAK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,LBN,LBP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,LBN,LBP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,LKA,LKR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,LKA,LKR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,LBR,LRD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,LBR,LRD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,GUY,GYD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,HND,HNL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,HND,HNL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,HRV,HRK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,HRV,HRK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,HTI,HTG,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,HUN,HUF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,HUN,HUF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,IDN,IDR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,IDN,IDR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ISR,ILS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,IND,INR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,IND,INR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,IRQ,IQD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,IRQ,IQD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,IRN,IRR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,IRN,IRR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ISL,ISK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ISL,ISK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,JAM,JMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,JAM,JMD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,JOR,JOD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,JOR,JOD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,JPN,JPY,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,LSO,LSL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,MEX,MXN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,MEX,MXN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,MYS,MYR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,MYS,MYR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MOZ,MZN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MOZ,MZN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,NAM,NAD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,NGA,NGN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,NIC,NIO,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,NOR,NOK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,NPL,NPR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,NPL,NPR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,NZL,NZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,NIU,NZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,COK,NZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,NZL,NZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,NIU,NZD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,OMN,OMR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,OMN,OMR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,PAN,PAB,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,PAN,PAB,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,PER,PEN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,PER,PEN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,PNG,PGK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,PNG,PGK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,LSO,LSL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,LTU,LTL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,LTU,LTL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,LVA,LVL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,LBY,LYD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,LBY,LYD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,MAR,MAD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,MAR,MAD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,MDA,MDL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,MDA,MDL,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MDG,MGA,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MDG,MGA,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,MKD,MKD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,MMR,MMK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,MMR,MMK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,MNG,MNT,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MRT,MRO,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MRT,MRO,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MUS,MUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MUS,MUR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,MDV,MVR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,MDV,MVR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MWI,MWK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MWI,MWK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,PAK,PKR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,SGP,SGD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,SGP,SGD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,SLE,SLL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,SLE,SLL,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,SOM,SOS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,SUR,SRD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,SUR,SRD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,STP,STD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,STP,STD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,SEAR,THA,THB,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,SEAR,THA,THB,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,TJK,TJS,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,TKM,TMT,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,TKM,TMT,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,TUN,TND,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,TUN,TND,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,TON,TOP,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,TON,TOP,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,TUR,TRY,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,TUR,TRY,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,TTO,TTD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,TTO,TTD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,UKR,UAH,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,UKR,UAH,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,UGA,UGX,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,PAK,PKR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,POL,PLN,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,POL,PLN,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,PRY,PYG,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,PRY,PYG,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,QAT,QAR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,QAT,QAR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,ROU,RON,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,ROU,RON,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,SRB,RSD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,SRB,RSD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,RUS,RUB,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,RUS,RUB,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,RWA,RWF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,RWA,RWF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,SAU,SAR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,SLB,SBD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,SLB,SBD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,SYC,SCR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,SYC,SCR,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,SDN,SDG,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,SDN,SDG,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,SWE,SEK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,SWE,SEK,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,UGA,UGX,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,TCD,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,COG,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,CMR,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,COG,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GAB,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,ATG,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,DMA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,GRD,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,KNA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,LCA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,VCT,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,ATG,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,DMA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,GRD,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,KNA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,LCA,XCD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,BEN,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,BFA,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,CIV,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,MLI,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,NER,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,SEN,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,TGO,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,BEN,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,BFA,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,ZWE,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,ECU,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,SLV,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,MHL,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,FSM,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,PLW,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,ECU,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,SLV,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,USA,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,MHL,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,FSM,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,PLW,USD,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AMR,URY,UYU,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,URY,UYU,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EUR,UZB,UZS,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EUR,UZB,UZS,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AMR,VEN,VEF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,VNM,VND,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,VNM,VND,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,WPR,VUT,VUV,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,VUT,VUV,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,WPR,WSM,WST,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,CMR,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,CAF,XAF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,CIV,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,GNB,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,MLI,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,NER,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,SEN,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,TGO,XOF,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,EMR,YEM,YER,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,EMR,YEM,YER,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,ZAF,ZAR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,ZAF,ZAR,,,,
-R_Curr_lowest_cost,PUBLISHED,2012,AFR,ZMB,ZMK,,,,
-R_Curr_lowest_cost,PUBLISHED,2014,AFR,ZMB,ZMW,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","DZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","BDI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","CMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","COM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","COG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","COD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","ETH","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GMB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GHA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","KEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MLI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","NER","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","RWA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","STP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","SEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","SLE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","ZAF","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","UGA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","ZMB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","ARG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","BHS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","BLZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","BOL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","BRA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","CHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","COL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","CRI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","DOM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","ECU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","GTM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","HND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","JAM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","MEX","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","PAN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","PER","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","USA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","URY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","EGY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","IRN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","LBN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","MAR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","OMN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","PAK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","TUN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","ARE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EMR","YEM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ALB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ARM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","AUT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","AZE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","BLR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","BEL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","BGR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","HRV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","CYP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","CZE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","DNK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","EST","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","FIN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","FRA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","GEO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","DEU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","GRC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","HUN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ISL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","IRL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ITA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","KAZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","LVA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","LTU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","LUX","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","NLD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","POL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","PRT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","MDA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ROU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","RUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","SRB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","SVK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","SVN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","ESP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","SWE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","CHE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","TUR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","UKR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","GBR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","EUR","UZB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","BGD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","IND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","IDN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","NPL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","LKA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","THA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","AUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","KHM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","CHN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","JPN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","MYS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","NZL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","KOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","SGP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","TON","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2010","WPR","VNM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","DZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","BDI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","CMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","COM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","COG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","COD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","ETH","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GMB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GHA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","KEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MLI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","NER","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","RWA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","STP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","SEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","SLE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","ZAF","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","UGA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","ZMB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","ARG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","BHS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","BLZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","BOL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","BRA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","CHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","COL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","CRI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","DOM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","ECU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","GTM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","HND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","JAM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","MEX","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","PAN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","PER","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","USA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","URY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","EGY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","IRN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","LBN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","MAR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","OMN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","PAK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","TUN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","ARE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EMR","YEM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ALB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ARM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","AUT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","AZE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","BLR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","BEL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","BGR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","HRV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","CYP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","CZE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","DNK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","EST","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","FIN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","FRA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","GEO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","DEU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","GRC","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","HUN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ISL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","IRL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ITA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","KAZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","LVA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","LTU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","LUX","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","NLD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","POL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","PRT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","MDA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ROU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","RUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","SRB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","SVK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","SVN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","ESP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","SWE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","CHE","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","TUR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","UKR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","GBR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","EUR","UZB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","BGD","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","IND","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","IDN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","NPL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","LKA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","THA","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","AUS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","KHM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","CHN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","JPN","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","MYS","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","NZL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","KOR","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","SGP","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","TON","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2008","WPR","VNM","Not available","","","","Data not reported/not available"
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","ARE","AED","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","ARE","AED","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","AFG","AFN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","AFG","AFN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ALB","ALL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ALB","ALL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ARM","AMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ARM","AMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","AGO","AOA","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","ARG","ARS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","ARG","ARS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","AUS","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","KIR","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","TUV","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","AUS","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","KIR","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","TUV","AUD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","AZE","AZN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","AZE","AZN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","BIH","BAM","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","BRB","BBD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","BRB","BBD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","BGD","BDT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","BGD","BDT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","BGR","BGN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","BGR","BGN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","BHR","BHD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","BHR","BHD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","BDI","BIF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","BDI","BIF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","BRN","BND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","BRN","BND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","BOL","BOB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","BOL","BOB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","BRA","BRL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","BRA","BRL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","BHS","BSD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","BHS","BSD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","BWA","BWP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","BLR","BYR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","BLR","BYR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","BLZ","BZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","BLZ","BZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","CAN","CAD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","COD","CDF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","COD","CDF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","CHE","CHF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","CHE","CHF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","CHL","CLP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","CHL","CLP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","CHN","CNY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","CHN","CNY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","COL","COP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","COL","COP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","CRI","CRC","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","CRI","CRC","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","CUB","CUC","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","CPV","CVE","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","CZE","CZK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","CZE","CZK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","DJI","DJF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","DJI","DJF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","DNK","DKK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","DNK","DKK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","DOM","DOP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","DOM","DOP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","DZA","DZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","DZA","DZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","EGY","EGP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","EGY","EGP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","ERI","ERN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","ETH","ETB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","ETH","ETB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","AND","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","AUT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","BEL","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","CYP","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","EST","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","FIN","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","FRA","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","DEU","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","GRC","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","IRL","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ITA","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","LVA","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","LUX","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","MLT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","MNE","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","NLD","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","PRT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","SMR","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","SVK","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","SVN","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ESP","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","AND","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","AUT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","BEL","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","CYP","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","EST","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","FIN","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","FRA","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","DEU","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","GRC","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","IRL","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ITA","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","LUX","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","MLT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","MNE","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","NLD","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","PRT","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","SMR","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","SVK","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","SVN","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ESP","EUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","FJI","FJD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","GBR","GBP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","GBR","GBP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","GEO","GEL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","GEO","GEL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GHA","GHS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GHA","GHS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","GMB","GMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GMB","GMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GIN","GNF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","GTM","GTQ","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","GTM","GTQ","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","GUY","GYD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","GUY","GYD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","HND","HNL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","HND","HNL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","HRV","HRK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","HRV","HRK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","HTI","HTG","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","HUN","HUF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","HUN","HUF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","IDN","IDR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","IDN","IDR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ISR","ILS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","IND","INR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","IND","INR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","IRQ","IQD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","IRQ","IQD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","IRN","IRR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","IRN","IRR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ISL","ISK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ISL","ISK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","JAM","JMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","JAM","JMD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","JOR","JOD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","JOR","JOD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","JPN","JPY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","JPN","JPY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","KEN","KES","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","KEN","KES","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","KGZ","KGS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","KGZ","KGS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","KHM","KHR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","KHM","KHR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","COM","KMF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","COM","KMF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","PRK","KPW","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","KOR","KRW","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","KOR","KRW","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","KWT","KWD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","KWT","KWD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","KAZ","KZT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","KAZ","KZT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","LAO","LAK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","LBN","LBP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","LBN","LBP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","LKA","LKR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","LKA","LKR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","LBR","LRD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","LBR","LRD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","LSO","LSL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","LSO","LSL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","LTU","LTL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","LTU","LTL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","LVA","LVL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","LBY","LYD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","LBY","LYD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","MAR","MAD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","MAR","MAD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","MDA","MDL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","MDA","MDL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MDG","MGA","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MDG","MGA","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","MKD","MKD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","MMR","MMK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","MMR","MMK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","MNG","MNT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MRT","MRO","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MRT","MRO","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MUS","MUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MUS","MUR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","MDV","MVR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","MDV","MVR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MWI","MWK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MWI","MWK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","MEX","MXN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","MEX","MXN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","MYS","MYR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","MYS","MYR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MOZ","MZN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MOZ","MZN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","NAM","NAD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","NGA","NGN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","NIC","NIO","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","NOR","NOK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","NPL","NPR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","NPL","NPR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","NZL","NZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","NIU","NZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","COK","NZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","NZL","NZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","NIU","NZD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","OMN","OMR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","OMN","OMR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","PAN","PAB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","PAN","PAB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","PER","PEN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","PER","PEN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","PNG","PGK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","PNG","PGK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","PAK","PKR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","PAK","PKR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","POL","PLN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","POL","PLN","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","PRY","PYG","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","PRY","PYG","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","QAT","QAR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","QAT","QAR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","ROU","RON","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","ROU","RON","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","SRB","RSD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","SRB","RSD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","RUS","RUB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","RUS","RUB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","RWA","RWF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","RWA","RWF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","SAU","SAR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","SLB","SBD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","SLB","SBD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","SYC","SCR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","SYC","SCR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","SDN","SDG","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","SDN","SDG","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","SWE","SEK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","SWE","SEK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","SGP","SGD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","SGP","SGD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","SLE","SLL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","SLE","SLL","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","SOM","SOS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","SUR","SRD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","SUR","SRD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","STP","STD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","STP","STD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","SEAR","THA","THB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","SEAR","THA","THB","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","TJK","TJS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","TKM","TMT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","TKM","TMT","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","TUN","TND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","TUN","TND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","TON","TOP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","TON","TOP","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","TUR","TRY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","TUR","TRY","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","TTO","TTD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","TTO","TTD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","UKR","UAH","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","UKR","UAH","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","UGA","UGX","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","UGA","UGX","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","ZWE","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","ECU","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","SLV","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","MHL","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","FSM","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","PLW","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","ECU","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","SLV","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","USA","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","MHL","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","FSM","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","PLW","USD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","URY","UYU","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","URY","UYU","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EUR","UZB","UZS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EUR","UZB","UZS","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","VEN","VEF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","VNM","VND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","VNM","VND","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","WPR","VUT","VUV","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","VUT","VUV","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","WPR","WSM","WST","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","CMR","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","CAF","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","TCD","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","COG","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","CMR","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","COG","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GAB","XAF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","ATG","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","DMA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","GRD","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","KNA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","LCA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AMR","VCT","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","ATG","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","DMA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","GRD","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","KNA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AMR","LCA","XCD","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","BEN","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","BFA","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","CIV","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","MLI","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","NER","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","SEN","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","TGO","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","BEN","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","BFA","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","CIV","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","GNB","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","MLI","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","NER","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","SEN","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","TGO","XOF","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","EMR","YEM","YER","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","EMR","YEM","YER","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","ZAF","ZAR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","ZAF","ZAR","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2012","AFR","ZMB","ZMK","","","",""
+"R_Curr_lowest_cost","PUBLISHED","2014","AFR","ZMB","ZMW","","","",""

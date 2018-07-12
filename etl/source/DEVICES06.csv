@@ -1,319 +1,319 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-DEVICES06,PUBLISHED,2010,AFR,CMR,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,CAN,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,CPV,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,CAF,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,TCD,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,CHL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,CHN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,COL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,COM,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,CRI,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,CIV,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,HRV,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,CUB,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,CYP,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,CZE,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,KHM,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,BDI,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,BFA,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,BGR,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,BRN,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,BRA,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,BIH,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,BOL,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,BTN,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,BEN,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,BLZ,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,BEL,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,BLR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,BRB,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,BGD,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,BHS,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,AZE,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,AUT,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ARM,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,ARG,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,ATG,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,AGO,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ALB,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,AFG,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,COD,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,IRQ,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,IRL,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ISR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ITA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,JAM,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,JPN,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,JOR,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,KEN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,KIR,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,KGZ,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,LAO,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,LVA,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,LBN,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,LBR,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,LBY,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,LTU,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,DNK,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,DMA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,DOM,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,EGY,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,SLV,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,ERI,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,EST,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,ETH,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,FJI,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,FIN,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,FRA,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,GAB,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,GMB,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,GEO,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,GHA,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,GRD,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,GTM,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,GIN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,GNB,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,GUY,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,HTI,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,HND,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,HUN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ISL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,LUX,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,PAK,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,PAN,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,PNG,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,PRY,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,PER,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,PHL,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,POL,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,PRT,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,QAT,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,MDA,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ROU,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,RUS,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,KNA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,LCA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,VCT,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,WSM,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,SMR,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MDG,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,MYS,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,MDV,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MLI,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,MLT,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,MHL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MRT,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MUS,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,MEX,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,FSM,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,MCO,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,MNG,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,MNE,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,MAR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MOZ,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,MMR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,NRU,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,NPL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,NLD,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,NZL,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,NIC,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,NER,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,NOR,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,OMN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,STP,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,GBR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,TZA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,URY,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,VUT,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,YEM,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,ZMB,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,ZWE,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,SAU,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,SEN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,SRB,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,SYC,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,SLE,For specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,SGP,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,SVK,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,SVN,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,SLB,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,ZAF,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,ESP,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,LKA,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,SDN,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,SUR,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,SWZ,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,CHE,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,SEAR,THA,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,TGO,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,TON,No list available,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,TTO,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EMR,TUN,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,TUR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,UGA,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,UKR,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,COG,No list available,0.0,,,
-DEVICES06,PUBLISHED,2013,EMR,JOR,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,KGZ,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,WPR,LAO,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EMR,LBN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,MDG,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,MWI,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,MLI,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,MEX,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,MCO,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,WPR,MNG,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,MNE,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,NER,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,NGA,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,PAN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,SRB,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,SVN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,WPR,SLB,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,ZAF,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EMR,SDN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,UGA,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,URY,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EMR,YEM,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,ARG,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,AUT,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,BLR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,BOL,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,BIH,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,BDI,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,CAF,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,CHN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,AGO,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,ARM,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,SEAR,BGD,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,BLZ,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,BEN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,SEAR,BTN,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,BFA,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,WPR,KHM,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,CMR,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,CPV,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,COM,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,COD,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,ERI,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,GAB,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,GHA,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AFR,GNB,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,HND,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EMR,IRQ,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,EUR,IRL,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2013,AMR,CRI,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,MOZ,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,SEAR,MMR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,NIC,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,NOR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,OMN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,PNG,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,PER,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,PHL,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,QAT,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2010,SEAR,PRK,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AMR,ECU,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,EUR,KAZ,For different healthcare facilities and specific procedures,0.0,,,
-DEVICES06,PUBLISHED,2010,WPR,VNM,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2010,AFR,MWI,For different healthcare facilities,0.0,,,
-DEVICES06,PUBLISHED,2013,AFR,CIV,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,HRV,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,CUB,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,SEAR,PRK,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,ECU,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,EGY,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,SLV,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,EST,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,ETH,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,FJI,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,FRA,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,GIN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,HUN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,ISR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,KEN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,LVA,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,LBY,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,LTU,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,MAR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,MDA,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,BHS,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,ROU,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,RUS,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,WSM,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,SAU,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,SEN,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,SEAR,LKA,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,TGO,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,TTO,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,TUR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,UKR,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,VUT,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,VNM,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,ZMB,For different healthcare facilities and specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,BRB,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,BRA,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AMR,GTM,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,WPR,KIR,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,LUX,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EUR,PRT,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,AFR,SLE,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,SEAR,TLS,For specific procedures,,,,
-DEVICES06,PUBLISHED,2013,EMR,AFG,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,ALB,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,ATG,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,BRN,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,BGR,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,CAN,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,TCD,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,CHL,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,COL,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,COG,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,CYP,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,CZE,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,DNK,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,DMA,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,DOM,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,FIN,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,GMB,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,MLT,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,STP,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,SYC,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,SGP,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,SVK,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,ESP,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,SUR,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,SWZ,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,CHE,No list available,,,,
-DEVICES06,PUBLISHED,2013,SEAR,THA,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,TON,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,TZA,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,ZWE,No list available,,,,
-DEVICES06,PUBLISHED,2014,EUR,MKD,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2014,WPR,TUV,For different healthcare facilities,,,,
-DEVICES06,PUBLISHED,2014,EUR,SWE,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,MHL,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,MRT,No list available,,,,
-DEVICES06,PUBLISHED,2013,AFR,MUS,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,FSM,No list available,,,,
-DEVICES06,PUBLISHED,2013,SEAR,NPL,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,NLD,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,NZL,No list available,,,,
-DEVICES06,PUBLISHED,2013,EMR,PAK,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,PRY,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,KNA,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,LCA,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,VCT,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,SMR,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,GEO,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,GRC,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,GRD,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,GUY,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,HTI,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,ISL,No list available,,,,
-DEVICES06,PUBLISHED,2013,EUR,ITA,No list available,,,,
-DEVICES06,PUBLISHED,2013,AMR,JAM,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,JPN,No list available,,,,
-DEVICES06,PUBLISHED,2013,WPR,MYS,No list available,,,,
-DEVICES06,PUBLISHED,2013,SEAR,MDV,No list available,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"DEVICES06","PUBLISHED","2010","AMR","ATG","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","BEN","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","BFA","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","TCD","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","COD","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","EST","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","GEO","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","IRQ","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","KEN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","LBY","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","MEX","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","MMR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","NOR","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","MDA","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","SMR","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","SGP","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","THA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","UKR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","ZWE","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","VNM","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","AFR","BFA","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","COM","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","IRQ","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MWI","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","NGA","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","SLB","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","AUT","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","CRI","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","FRA","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","LTU","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","PNG","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","TGO","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","BRB","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","TLS","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","CAN","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","CZE","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","DOM","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","HTI","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","MLT","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","FSM","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","VCT","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","SVK","No list available","","","",""
+"DEVICES06","PUBLISHED","2014","EUR","SWE","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","AMR","BHS","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","BRB","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","KHM","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","CAN","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","DNK","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","DOM","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","GIN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","GUY","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","LAO","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","LBN","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","MCO","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","MNE","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","PRY","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","PHL","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","SRB","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","SLE","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","TGO","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","TTO","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","PRK","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","BGD","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","BEN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","JOR","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","LAO","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","ZAF","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","UGA","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","PRK","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","EGY","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","MMR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","NOR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","TUR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","VUT","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","COG","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","FIN","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ISL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","MYS","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","MDV","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","EUR","BLR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","BLZ","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","BGR","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","BDI","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","ERI","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","ETH","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","GHA","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","GTM","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","LTU","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MDG","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","MHL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MUS","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","POL","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","QAT","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","WSM","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","STP","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","UGA","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","GBR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","WPR","KHM","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","CPV","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","HND","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","IRL","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","ARG","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","BLR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","CHN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","CIV","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","OMN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","PER","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","SAU","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","LKA","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","BHS","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","BRN","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ITA","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","JAM","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","NZL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","SUR","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","TON","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","AFR","AGO","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","ARG","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","AUT","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","CAF","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","CHL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","COL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","CUB","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","CZE","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","HND","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ISL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","JOR","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","KIR","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MOZ","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","NRU","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","OMN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","PAN","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","SVK","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","SLB","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","SUR","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","CHE","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","KAZ","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MWI","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","AFR","AGO","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MDG","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MLI","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","PAN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","SVN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","EST","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","FJI","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","LBY","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","MAR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","ZMB","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","BRA","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","SLE","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","AFG","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ALB","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","GUY","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","STP","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ALB","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","BTN","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","BOL","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","CRI","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","CIV","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","FJI","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","GAB","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","GMB","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","IRL","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ISR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","MDV","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MLI","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","NPL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","NIC","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","NER","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ROU","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","RUS","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ESP","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","LKA","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","YEM","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","ZMB","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","AFR","COD","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","ERI","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","MNE","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","NER","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","BOL","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","CAF","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","GIN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","HUN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ROU","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","RUS","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","GTM","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","PRT","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","CHL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","DMA","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","GRC","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","GRD","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","MHL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MUS","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","PAK","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","THA","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","ZWE","No list available","","","",""
+"DEVICES06","PUBLISHED","2014","WPR","TUV","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2010","EUR","AZE","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","SEAR","BGD","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","CMR","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","CPV","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","DMA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","EGY","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","GNB","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","HTI","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","KGZ","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","LVA","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","LBR","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","FSM","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","MNG","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","PNG","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","PER","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","SEN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","SYC","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","TON","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","TUN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","COG","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","ECU","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","AMR","BLZ","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","BTN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","KGZ","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","LBN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","SDN","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","URY","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","CUB","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","ECU","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","SLV","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MOZ","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","NIC","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","TTO","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","UKR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","ATG","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","BGR","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","GMB","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","SEAR","NPL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","NLD","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","KNA","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","LCA","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","TZA","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ARM","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","BEL","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","BRN","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","CHN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","CYP","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","SLV","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","GRD","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","HUN","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","JPN","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","LUX","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","MRT","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","MAR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","PAK","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","PRT","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","VCT","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","SAU","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","SVN","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","SWZ","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","TUR","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","TZA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ARM","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","CMR","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","GNB","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","MEX","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","SRB","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","YEM","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","HRV","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","ETH","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","LVA","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","PHL","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","SEN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","VNM","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","COL","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","CYP","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","GEO","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AMR","PRY","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","SMR","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","SGP","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ESP","No list available","","","",""
+"DEVICES06","PUBLISHED","2010","EMR","AFG","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","BIH","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","BRA","For specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","COM","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","HRV","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","FIN","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","FRA","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","ITA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","JAM","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","MYS","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","MLT","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EUR","NLD","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","NZL","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","KNA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","LCA","No list available","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AFR","ZAF","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","EMR","SDN","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","AMR","URY","For different healthcare facilities","0.00000","","",""
+"DEVICES06","PUBLISHED","2010","WPR","VUT","For different healthcare facilities and specific procedures","0.00000","","",""
+"DEVICES06","PUBLISHED","2013","AFR","GAB","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","GHA","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","MCO","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","MNG","For different healthcare facilities","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","BIH","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","BDI","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","ISR","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","KEN","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EMR","QAT","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","MDA","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","WSM","For different healthcare facilities and specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","KIR","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","LUX","For specific procedures","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","TCD","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","DNK","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","WPR","JPN","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","MRT","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","SYC","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","AFR","SWZ","No list available","","","",""
+"DEVICES06","PUBLISHED","2013","EUR","CHE","No list available","","","",""
+"DEVICES06","PUBLISHED","2014","EUR","MKD","For different healthcare facilities","","","",""

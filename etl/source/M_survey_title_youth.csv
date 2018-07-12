@@ -1,190 +1,190 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-M_survey_title_youth,PUBLISHED,EUR,FIN,Adolescent Health and Lifestyle Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,SWE,Alcohol and drug use among students (Skolelevers drogvanor),,,,
-M_survey_title_youth,PUBLISHED,WPR,NZL,ASH Year 10 Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,AUS,Australian Secondary School Students Alcohol and Drug Survey (ASSAD),,,,
-M_survey_title_youth,PUBLISHED,EMR,IRN,CASPIAN study,,,,
-M_survey_title_youth,PUBLISHED,AMR,CRI,Encuesta Nacional sobre Consumo de Drogas en poblaci�n de Educaci�n Secundaria,,,,
-M_survey_title_youth,PUBLISHED,AMR,COL,Encuesta Nacional sobre Consumo de Sustancias Psicoactivas en Poblaci�n Escolar,,,,
-M_survey_title_youth,PUBLISHED,EUR,MLT,ESPAD: Substance Use Among Students in 36 European Countries,,,,
-M_survey_title_youth,PUBLISHED,EUR,MCO,ESPAD: Substance Use Among Students in 36 European Countries,,,,
-M_survey_title_youth,PUBLISHED,AMR,CHL,Estudio Nacional de Drogas en Poblaci�n Escolar de Chile,,,,
-M_survey_title_youth,PUBLISHED,EUR,PRT,"Estudo sobre o Consumo de �lcool, Tabaco e Drogas (ESPAD)",,,,
-M_survey_title_youth,PUBLISHED,EUR,BGR,European School Survey Project on Alcohol and Other Drugs (ESPAD),,,,
-M_survey_title_youth,PUBLISHED,AFR,BEN,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MWI,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MRT,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MUS,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,SYC,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,ATG,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,ARG,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,BRB,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,GUY,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,HND,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,SUR,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,TTO,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,URY,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,EGY,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,KWT,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,MAR,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,SDN,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,SYR,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,TJK,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,BRN,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,COK,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,FJI,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,KIR,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,MYS,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,NRU,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,NIU,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,PHL,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,WSM,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,SLB,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,VUT,Global School-Based Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,GHA,Global School-based Student Survey (GSHS),,,,
-M_survey_title_youth,PUBLISHED,EMR,IRQ,Global School-based Student Survey (GSHS),,,,
-M_survey_title_youth,PUBLISHED,WPR,TUV,Global School-based Student Survey (GSHS),,,,
-M_survey_title_youth,PUBLISHED,WPR,VNM,Global School-based Student Survey (GSHS),,,,
-M_survey_title_youth,PUBLISHED,AFR,DZA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,BWA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,BDI,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,CPV,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,TCD,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,COM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,COG,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,CIV,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,GNQ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,ERI,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,GIN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,KEN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,LSO,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MDG,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MLI,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,MOZ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,NAM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,NER,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,RWA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,STP,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,SEN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,ZAF,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,SWZ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,TGO,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,UGA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,ZMB,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,BHS,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,BLZ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,BOL,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,CUB,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,DMA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,DOM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,SLV,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,GRD,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,GTM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,HTI,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,JAM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,MEX,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,PAN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,PRY,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,KNA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,LCA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,VCT,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,VEN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,BHR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,DJI,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,JOR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,LBN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,LBY,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,OMN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,PAK,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,QAT,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,SAU,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,TUN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EMR,YEM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,ALB,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,AZE,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,BLR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,BIH,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,HRV,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,CYP,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,CZE,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,GEO,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,GRC,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,HUN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,ITA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,KAZ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,KGZ,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,LVA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,MNE,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,MDA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,ROU,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,SMR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,SRB,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,SVK,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,SVN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,TUR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,UKR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,BGD,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,BTN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,IND,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,IDN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,MDV,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,MMR,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,NPL,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,LKA,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,SEAR,TLS,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,KHM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,CHN,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,LAO,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,MHL,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,FSM,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,MNG,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,PLW,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,PNG,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,WPR,TON,Global Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,NGA,Global Youth Tobacco Survey (Abuja),,,,
-M_survey_title_youth,PUBLISHED,AFR,ETH,Global Youth Tobacco Survey (Addis Ababa),,,,
-M_survey_title_youth,PUBLISHED,AFR,TZA,Global Youth Tobacco Survey (Arusha),,,,
-M_survey_title_youth,PUBLISHED,AFR,CAF,Global Youth Tobacco Survey (Bangui),,,,
-M_survey_title_youth,PUBLISHED,AFR,GMB,Global Youth Tobacco Survey (Banjul),,,,
-M_survey_title_youth,PUBLISHED,AFR,GNB,Global Youth Tobacco Survey (Bissau),,,,
-M_survey_title_youth,PUBLISHED,AFR,CMR,Global Youth Tobacco Survey (Centre District),,,,
-M_survey_title_youth,PUBLISHED,AMR,NIC,Global Youth Tobacco Survey (Centro Managua),,,,
-M_survey_title_youth,PUBLISHED,AFR,ZWE,Global Youth Tobacco Survey (Harare),,,,
-M_survey_title_youth,PUBLISHED,AFR,AGO,Global Youth Tobacco Survey (Huambo),,,,
-M_survey_title_youth,PUBLISHED,EMR,AFG,Global Youth Tobacco Survey (Kabul),,,,
-M_survey_title_youth,PUBLISHED,AFR,COD,Global Youth Tobacco Survey (Kinshasa),,,,
-M_survey_title_youth,PUBLISHED,AFR,LBR,Global Youth Tobacco Survey (Monrovia),,,,
-M_survey_title_youth,PUBLISHED,AFR,BFA,Global Youth Tobacco Survey (Ouagadougou),,,,
-M_survey_title_youth,PUBLISHED,EMR,SOM,Global Youth Tobacco Survey (Somaliland),,,,
-M_survey_title_youth,PUBLISHED,EUR,UZB,Global Youth Tobacco Survey (Tashkent),,,,
-M_survey_title_youth,PUBLISHED,AFR,SLE,Global Youth Tobacco Survey (Western Area),,,,
-M_survey_title_youth,PUBLISHED,EUR,ARM,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,AUT,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,DNK,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,EST,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,FRA,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,IRL,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,ISR,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,LTU,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,NOR,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,POL,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,RUS,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,CHE,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,MKD,Health Behaviour in School-aged Children,,,,
-M_survey_title_youth,PUBLISHED,EUR,BEL,Health Behaviour in School-aged Children (Flemish Region),,,,Belgium completed the Health Behaviour in School-aged Children 2009-10 survey also in Flanders and in the French Speaking Community.  Data is not aggregated at national level.
-M_survey_title_youth,PUBLISHED,SEAR,THA,International Tobacco Control Survey-Southeast Asia (Thailand),,,,
-M_survey_title_youth,PUBLISHED,WPR,KOR,Korea Youth Risk Behavior Web-based Survey,,,,
-M_survey_title_youth,PUBLISHED,AMR,BRA,National Adolescent School-based Health Survey (PeNSE),,,,
-M_survey_title_youth,PUBLISHED,WPR,JPN,National survey on underage smoking and drinking,,,,
-M_survey_title_youth,PUBLISHED,AMR,USA,National Youth Tobacco Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,LUX,Opinions et comportements des jeunes face au tabagisme,,,,
-M_survey_title_youth,PUBLISHED,WPR,SGP,Student Health Survey,,,,
-M_survey_title_youth,PUBLISHED,AFR,GAB,Tabagisme en milieu scolaire secondaire du Gabon,,,,
-M_survey_title_youth,PUBLISHED,EUR,DEU,Tobacco use of youth and young adults in Germany (Der Tabakkonsum Jugendlicher und junger Erwachsener in Deutschland),,,,
-M_survey_title_youth,PUBLISHED,EMR,ARE,Unidentified survey reported in WHO-FCTC report to COP 2014,,,,
-M_survey_title_youth,PUBLISHED,EUR,NLD,Youth Smoking Monitor,,,,
-M_survey_title_youth,PUBLISHED,AMR,CAN,Youth Smoking Survey,,,,
-M_survey_title_youth,PUBLISHED,EUR,ESP,Encuesta Estatal sobre uso de drogas en ensenanzas secundarias (ESTUDES),,,,
-M_survey_title_youth,PUBLISHED,AMR,PER,Prevencion y Consumo de Drogas en Estudiantes de Secundaria,,,,
-M_survey_title_youth,PUBLISHED,EUR,ISL,Rannsknir og greining lag fyrir nemendur  framhaldsskm islandi,,,,
-M_survey_title_youth,PUBLISHED,EUR,GBR,"Smoking, Drinking and Drug Use Among Young People in England (England)",,,,Data representative of England only.
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"M_survey_title_youth","PUBLISHED","EUR","FIN","Adolescent Health and Lifestyle Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","SWE","Alcohol and drug use among students (Skolelevers drogvanor)","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","NZL","ASH Year 10 Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","AUS","Australian Secondary School Students Alcohol and Drug Survey (ASSAD)","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","IRN","CASPIAN study","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","CRI","Encuesta Nacional sobre Consumo de Drogas en poblaci�n de Educaci�n Secundaria","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","COL","Encuesta Nacional sobre Consumo de Sustancias Psicoactivas en Poblaci�n Escolar","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","MLT","ESPAD: Substance Use Among Students in 36 European Countries","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","MCO","ESPAD: Substance Use Among Students in 36 European Countries","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","CHL","Estudio Nacional de Drogas en Poblaci�n Escolar de Chile","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","PRT","Estudo sobre o Consumo de �lcool, Tabaco e Drogas (ESPAD)","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","BGR","European School Survey Project on Alcohol and Other Drugs (ESPAD)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","BEN","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MWI","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MRT","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MUS","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","SYC","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","ATG","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","ARG","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","BRB","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","GUY","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","HND","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","SUR","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","TTO","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","URY","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","EGY","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","KWT","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","MAR","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","SDN","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","SYR","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","TJK","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","BRN","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","COK","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","FJI","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","KIR","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","MYS","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","NRU","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","NIU","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","PHL","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","WSM","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","SLB","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","VUT","Global School-Based Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GHA","Global School-based Student Survey (GSHS)","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","IRQ","Global School-based Student Survey (GSHS)","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","TUV","Global School-based Student Survey (GSHS)","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","VNM","Global School-based Student Survey (GSHS)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","DZA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","BWA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","BDI","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","CPV","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","TCD","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","COM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","COG","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","CIV","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GNQ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","ERI","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GIN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","KEN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","LSO","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MDG","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MLI","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","MOZ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","NAM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","NER","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","RWA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","STP","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","SEN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","ZAF","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","SWZ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","TGO","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","UGA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","ZMB","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","BHS","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","BLZ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","BOL","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","CUB","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","DMA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","DOM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","SLV","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","GRD","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","GTM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","HTI","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","JAM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","MEX","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","PAN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","PRY","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","KNA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","LCA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","VCT","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","VEN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","BHR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","DJI","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","JOR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","LBN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","LBY","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","OMN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","PAK","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","QAT","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","SAU","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","TUN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","YEM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ALB","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","AZE","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","BLR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","BIH","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","HRV","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","CYP","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","CZE","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","GEO","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","GRC","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","HUN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ITA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","KAZ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","KGZ","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","LVA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","MNE","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","MDA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ROU","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","SMR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","SRB","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","SVK","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","SVN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","TUR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","UKR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","BGD","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","BTN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","IND","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","IDN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","MDV","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","MMR","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","NPL","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","LKA","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","SEAR","TLS","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","KHM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","CHN","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","LAO","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","MHL","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","FSM","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","MNG","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","PLW","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","PNG","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","TON","Global Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","NGA","Global Youth Tobacco Survey (Abuja)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","ETH","Global Youth Tobacco Survey (Addis Ababa)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","TZA","Global Youth Tobacco Survey (Arusha)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","CAF","Global Youth Tobacco Survey (Bangui)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GMB","Global Youth Tobacco Survey (Banjul)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GNB","Global Youth Tobacco Survey (Bissau)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","CMR","Global Youth Tobacco Survey (Centre District)","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","NIC","Global Youth Tobacco Survey (Centro Managua)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","ZWE","Global Youth Tobacco Survey (Harare)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","AGO","Global Youth Tobacco Survey (Huambo)","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","AFG","Global Youth Tobacco Survey (Kabul)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","COD","Global Youth Tobacco Survey (Kinshasa)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","LBR","Global Youth Tobacco Survey (Monrovia)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","BFA","Global Youth Tobacco Survey (Ouagadougou)","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","SOM","Global Youth Tobacco Survey (Somaliland)","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","UZB","Global Youth Tobacco Survey (Tashkent)","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","SLE","Global Youth Tobacco Survey (Western Area)","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ARM","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","AUT","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","DNK","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","EST","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","FRA","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","IRL","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ISR","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","LTU","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","NOR","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","POL","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","RUS","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","CHE","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","MKD","Health Behaviour in School-aged Children","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","BEL","Health Behaviour in School-aged Children (Flemish Region)","","","","Belgium completed the Health Behaviour in School-aged Children 2009-10 survey also in Flanders and in the French Speaking Community.  Data is not aggregated at national level."
+"M_survey_title_youth","PUBLISHED","SEAR","THA","International Tobacco Control Survey-Southeast Asia (Thailand)","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","KOR","Korea Youth Risk Behavior Web-based Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","BRA","National Adolescent School-based Health Survey (PeNSE)","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","JPN","National survey on underage smoking and drinking","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","USA","National Youth Tobacco Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","LUX","Opinions et comportements des jeunes face au tabagisme","","","",""
+"M_survey_title_youth","PUBLISHED","WPR","SGP","Student Health Survey","","","",""
+"M_survey_title_youth","PUBLISHED","AFR","GAB","Tabagisme en milieu scolaire secondaire du Gabon","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","DEU","Tobacco use of youth and young adults in Germany (Der Tabakkonsum Jugendlicher und junger Erwachsener in Deutschland)","","","",""
+"M_survey_title_youth","PUBLISHED","EMR","ARE","Unidentified survey reported in WHO-FCTC report to COP 2014","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","NLD","Youth Smoking Monitor","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","CAN","Youth Smoking Survey","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ESP","Encuesta Estatal sobre uso de drogas en ensenanzas secundarias (ESTUDES)","","","",""
+"M_survey_title_youth","PUBLISHED","AMR","PER","Prevencion y Consumo de Drogas en Estudiantes de Secundaria","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","ISL","Rannsknir og greining lag fyrir nemendur  framhaldsskm islandi","","","",""
+"M_survey_title_youth","PUBLISHED","EUR","GBR","Smoking, Drinking and Drug Use Among Young People in England (England)","","","","Data representative of England only."

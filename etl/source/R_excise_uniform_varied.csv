@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_excise_uniform_varied,PUBLISHED,AFR,DZA,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,BFA,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,CIV,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,COD,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MLI,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MOZ,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,SEN,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,JPN,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,LAO,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,PNG,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,PHL,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,SLB,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,TON,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,UGA,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,TZA,No,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,BRA,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,AND,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ARM,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,AZE,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,BLR,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,GEO,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,KGZ,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,MDA,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,TJK,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,UKR,No,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,UZB,No,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,BGD,No,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,IND,No,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,IDN,No,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,NPL,No,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,LKA,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,CHN,No,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,FJI,No,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,EGY,No,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,JOR,No,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,MAR,No,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,PAK,No,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,BEN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,BWA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,BDI,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,CPV,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,CAF,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,TCD,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,COM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,COG,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,GNQ,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,ERI,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,ETH,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,GAB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,GMB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,SYC,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,CRI,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,SLE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,ZAF,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,TGO,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,NER,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,NGA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,RWA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,STP,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,ZMB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,ZWE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,ARG,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,BHS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,BRB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,BOL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,CAN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,CHL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,COL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,GHA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,KEN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,LSO,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MDG,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MWI,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MRT,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,MUS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,NAM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,DMA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,DOM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,ECU,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,SLV,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,GRD,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,GTM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,GUY,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,HND,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,JAM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,MEX,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,PAN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,PER,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,KNA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,LCA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,VCT,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,SUR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,TTO,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,USA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,BEL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AMR,URY,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,LBN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,SDN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,TUN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,YEM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ALB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,AUT,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,LVA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,PRT,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ROU,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,BIH,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,BGR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,HRV,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,CYP,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,CZE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,DNK,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,EST,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,FIN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,FRA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,DEU,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,GRC,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,HUN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ISL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,IRL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ISR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ITA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,KAZ,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,LTU,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,LUX,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,MLT,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,MNE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,NLD,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,NOR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,POL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,RUS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,SRB,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,SVK,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,SVN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,ESP,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,SWE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,CHE,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,MKD,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,TUR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,TKM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,TUV,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,VNM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EUR,GBR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,MMR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,THA,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,TLS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,WPR,AUS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,BRN,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,KHM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,COK,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,KIR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,CMR,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AFR,GIN,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,WPR,MYS,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,MNG,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,AFR,SSD,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AFR,SWZ,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AMR,CUB,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AMR,HTI,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AMR,NIC,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AMR,PRY,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,WPR,NZL,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,KOR,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,SOM,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,EMR,SYR,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,EUR,MCO,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,WPR,WSM,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,WPR,SGP,Yes,,,,
-R_excise_uniform_varied,PUBLISHED,EMR,LBY,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,IRN,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,KWT,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,WPR,VUT,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,EMR,ARE,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
-R_excise_uniform_varied,PUBLISHED,AFR,GNB,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AFR,LBR,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,AMR,VEN,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,EMR,DJI,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,EUR,SMR,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,WPR,NRU,Not available,,,,Data not reported/not available
-R_excise_uniform_varied,PUBLISHED,WPR,PLW,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_excise_uniform_varied","PUBLISHED","AFR","DZA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","BFA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","CIV","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","COD","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MLI","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MOZ","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","SEN","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","UGA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","TZA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","BRA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","EGY","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","JOR","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","MAR","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","PAK","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","AND","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ARM","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","AZE","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","BLR","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","GEO","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","KGZ","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","MDA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","TJK","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","UKR","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","UZB","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","BGD","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","IND","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","IDN","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","NPL","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","LKA","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","CHN","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","FJI","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","JPN","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","LAO","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","PNG","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","PHL","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","SLB","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","TON","No","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","BEN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","BWA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","BDI","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","CPV","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","CAF","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","TCD","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","COM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","COG","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","GNQ","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","ERI","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","ETH","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","GAB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","GMB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","GHA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","KEN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","LSO","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MDG","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MWI","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MRT","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","MUS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","NAM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","NER","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","NGA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","RWA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","STP","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","SYC","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","SLE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","ZAF","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","TGO","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","ZMB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","ZWE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","ARG","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","BHS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","BRB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","BOL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","CAN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","CHL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","COL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","CRI","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","DMA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","DOM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","ECU","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","SLV","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","GRD","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","GTM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","GUY","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","HND","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","JAM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","MEX","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","PAN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","PER","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","KNA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","LCA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","VCT","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","SUR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","TTO","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","USA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AMR","URY","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","LBN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","SDN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","TUN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EMR","YEM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ALB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","AUT","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","BEL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","BIH","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","BGR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","HRV","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","CYP","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","CZE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","DNK","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","EST","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","FIN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","FRA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","DEU","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","GRC","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","HUN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ISL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","IRL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ISR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ITA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","KAZ","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","LVA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","LTU","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","LUX","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","MLT","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","MNE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","NLD","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","NOR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","POL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","PRT","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ROU","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","RUS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","SRB","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","SVK","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","SVN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","ESP","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","SWE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","CHE","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","MKD","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","TUR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","TKM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","EUR","GBR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","MMR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","THA","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","SEAR","TLS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","AUS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","BRN","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","KHM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","COK","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","KIR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","MYS","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","MNG","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","NZL","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","KOR","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","WSM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","SGP","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","TUV","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","WPR","VNM","Yes","","","",""
+"R_excise_uniform_varied","PUBLISHED","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"R_excise_uniform_varied","PUBLISHED","AFR","CMR","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_excise_uniform_varied","PUBLISHED","WPR","VUT","Not available","","","","Data not reported/not available"

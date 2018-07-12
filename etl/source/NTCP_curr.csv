@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-NTCP_curr,PUBLISHED,2014,EUR,ALB,ALL,,,,
-NTCP_curr,PUBLISHED,2014,EUR,ARM,AMD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,AUS,AUD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,TUV,AUD,,,,
-NTCP_curr,PUBLISHED,2014,EUR,BGR,BGN,,,,
-NTCP_curr,PUBLISHED,2014,AFR,BDI,BIF,,,,
-NTCP_curr,PUBLISHED,2014,WPR,BRN,BND,,,,
-NTCP_curr,PUBLISHED,2014,AMR,BRA,BRL,,,,
-NTCP_curr,PUBLISHED,2014,AMR,CAN,CAD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,CHL,CLP,,,,
-NTCP_curr,PUBLISHED,2014,WPR,CHN,CNY,,,,
-NTCP_curr,PUBLISHED,2014,AMR,CRI,CRC,,,,
-NTCP_curr,PUBLISHED,2014,AMR,CUB,CUP,,,,
-NTCP_curr,PUBLISHED,2014,AFR,CPV,CVE,,,,
-NTCP_curr,PUBLISHED,2014,EMR,DJI,DJF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,DZA,DZD,,,,
-NTCP_curr,PUBLISHED,2014,EUR,AUT,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,BEL,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,CYP,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,FIN,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,FRA,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,DEU,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,ITA,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,LUX,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,MLT,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,NLD,EUR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,SVN,EUR,,,,
-NTCP_curr,PUBLISHED,2014,AFR,TCD,FCFA,,,,
-NTCP_curr,PUBLISHED,2014,AFR,GHA,GHS,,,,
-NTCP_curr,PUBLISHED,2014,AMR,GUY,GYD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,HND,HNL,,,,
-NTCP_curr,PUBLISHED,2014,EUR,HRV,HRK,,,,
-NTCP_curr,PUBLISHED,2014,EUR,HUN,HUF,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,IDN,IDR,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,IND,INR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,ISL,ISK,,,,
-NTCP_curr,PUBLISHED,2014,AMR,JAM,JMD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,JOR,JOD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,JPN,JPY,,,,
-NTCP_curr,PUBLISHED,2014,EUR,KGZ,KGS,,,,
-NTCP_curr,PUBLISHED,2014,WPR,KHM,KHR,,,,
-NTCP_curr,PUBLISHED,2014,AFR,COM,KMF,,,,
-NTCP_curr,PUBLISHED,2014,WPR,KOR,KRW,,,,
-NTCP_curr,PUBLISHED,2014,EMR,KWT,KWD,,,,
-NTCP_curr,PUBLISHED,2014,EUR,KAZ,KZT,,,,
-NTCP_curr,PUBLISHED,2014,WPR,LAO,LAK,,,,
-NTCP_curr,PUBLISHED,2014,AFR,LSO,LSL,,,,
-NTCP_curr,PUBLISHED,2014,EUR,MDA,MDL,,,,
-NTCP_curr,PUBLISHED,2014,AFR,MDG,MGA,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,MMR,MMK,,,,
-NTCP_curr,PUBLISHED,2014,WPR,MNG,MNT,,,,
-NTCP_curr,PUBLISHED,2014,AFR,MUS,MUR,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,MDV,MVR,,,,
-NTCP_curr,PUBLISHED,2014,AMR,MEX,MXN,,,,
-NTCP_curr,PUBLISHED,2014,AFR,NAM,NAD,,,,
-NTCP_curr,PUBLISHED,2014,AFR,NGA,NGN,,,,
-NTCP_curr,PUBLISHED,2014,EUR,NOR,NOK,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,NPL,NPR,,,,
-NTCP_curr,PUBLISHED,2014,WPR,COK,NZD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,NZL,NZD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,FJI,FJD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,OMN,OMR,,,,
-NTCP_curr,PUBLISHED,2014,WPR,PNG,PGK,,,,
-NTCP_curr,PUBLISHED,2014,WPR,PHL,PHP,,,,
-NTCP_curr,PUBLISHED,2014,EMR,PAK,PKR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,POL,PLN,,,,
-NTCP_curr,PUBLISHED,2014,AMR,PRY,PYG,,,,
-NTCP_curr,PUBLISHED,2014,EMR,QAT,QAR,,,,
-NTCP_curr,PUBLISHED,2014,EUR,ROU,RON,,,,
-NTCP_curr,PUBLISHED,2014,EUR,SRB,RSD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,SAU,SAR,,,,
-NTCP_curr,PUBLISHED,2014,WPR,SLB,SBD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,SDN,SDG,,,,
-NTCP_curr,PUBLISHED,2014,EUR,SWE,SEK,,,,
-NTCP_curr,PUBLISHED,2014,EUR,SVK,SKK,,,,
-NTCP_curr,PUBLISHED,2014,AMR,SUR,SRD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,SYR,SYP,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,THA,THB,,,,
-NTCP_curr,PUBLISHED,2014,EUR,TUR,TRY,,,,
-NTCP_curr,PUBLISHED,2014,AFR,TZA,TZS,,,,
-NTCP_curr,PUBLISHED,2014,AFR,UGA,UGX,,,,
-NTCP_curr,PUBLISHED,2014,AFR,KEN,USD,,,,
-NTCP_curr,PUBLISHED,2014,AFR,SYC,USD,,,,
-NTCP_curr,PUBLISHED,2014,AFR,ZMB,USD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,ARG,USD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,BLZ,USD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,ECU,USD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,EGY,USD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,IRN,USD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,LBN,USD,,,,
-NTCP_curr,PUBLISHED,2014,EMR,YEM,USD,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,BGD,USD,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,BTN,USD,,,,
-NTCP_curr,PUBLISHED,2014,SEAR,TLS,USD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,FSM,USD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,PLW,USD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,VUT,USD,,,,
-NTCP_curr,PUBLISHED,2014,WPR,VNM,USD,,,,
-NTCP_curr,PUBLISHED,2014,AMR,VEN,VEF,,,,
-NTCP_curr,PUBLISHED,2014,WPR,WSM,WST,,,,
-NTCP_curr,PUBLISHED,2014,AFR,CMR,XAF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,CAF,XAF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,BFA,XOF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,CIV,XOF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,MLI,XOF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,NER,XOF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,SEN,XOF,,,,
-NTCP_curr,PUBLISHED,2014,AFR,TGO,XOF,,,,
-NTCP_curr,PUBLISHED,2012,EUR,ALB,ALL,,,,
-NTCP_curr,PUBLISHED,2012,EUR,ARM,AMD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,AUS,AUD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,TUV,AUD,,,,
-NTCP_curr,PUBLISHED,2012,EUR,BGR,BGN,,,,
-NTCP_curr,PUBLISHED,2012,AFR,BDI,BIF,,,,
-NTCP_curr,PUBLISHED,2012,WPR,BRN,BND,,,,
-NTCP_curr,PUBLISHED,2012,AMR,BRA,BRL,,,,
-NTCP_curr,PUBLISHED,2012,AMR,CAN,CAD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,CHL,CLP,,,,
-NTCP_curr,PUBLISHED,2012,WPR,CHN,CNY,,,,
-NTCP_curr,PUBLISHED,2012,AMR,CUB,CUP,,,,
-NTCP_curr,PUBLISHED,2012,AFR,CPV,CVE,,,,
-NTCP_curr,PUBLISHED,2012,EMR,DJI,DJF,,,,
-NTCP_curr,PUBLISHED,2012,EUR,DNK,DKK,,,,
-NTCP_curr,PUBLISHED,2012,AFR,DZA,DZD,,,,
-NTCP_curr,PUBLISHED,2012,EUR,AUT,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,BEL,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,CYP,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,FIN,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,FRA,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,DEU,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,ITA,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,LUX,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,MLT,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,NLD,EUR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,SVN,EUR,,,,
-NTCP_curr,PUBLISHED,2012,AFR,TCD,FCFA,,,,
-NTCP_curr,PUBLISHED,2012,WPR,FJI,FJD,,,,
-NTCP_curr,PUBLISHED,2012,AFR,GHA,GHS,,,,
-NTCP_curr,PUBLISHED,2012,AMR,GUY,GYD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,HND,HNL,,,,
-NTCP_curr,PUBLISHED,2012,EUR,HRV,HRK,,,,
-NTCP_curr,PUBLISHED,2012,EUR,HUN,HUF,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,IDN,IDR,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,IND,INR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,ISL,ISK,,,,
-NTCP_curr,PUBLISHED,2012,AMR,JAM,JMD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,JOR,JOD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,JPN,JPY,,,,
-NTCP_curr,PUBLISHED,2012,EUR,KGZ,KGS,,,,
-NTCP_curr,PUBLISHED,2012,WPR,KHM,KHR,,,,
-NTCP_curr,PUBLISHED,2012,AFR,COM,KMF,,,,
-NTCP_curr,PUBLISHED,2012,WPR,KOR,KRW,,,,
-NTCP_curr,PUBLISHED,2012,EMR,KWT,KWD,,,,
-NTCP_curr,PUBLISHED,2012,EUR,KAZ,KZT,,,,
-NTCP_curr,PUBLISHED,2012,WPR,LAO,LAK,,,,
-NTCP_curr,PUBLISHED,2012,AFR,LSO,LSL,,,,
-NTCP_curr,PUBLISHED,2012,EUR,LTU,LTL,,,,
-NTCP_curr,PUBLISHED,2012,EUR,MDA,MDL,,,,
-NTCP_curr,PUBLISHED,2012,AFR,MDG,MGA,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,MMR,MMK,,,,
-NTCP_curr,PUBLISHED,2012,WPR,MNG,MNT,,,,
-NTCP_curr,PUBLISHED,2012,AFR,MUS,MUR,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,MDV,MVR,,,,
-NTCP_curr,PUBLISHED,2012,AMR,MEX,MXN,,,,
-NTCP_curr,PUBLISHED,2012,AFR,NAM,NAD,,,,
-NTCP_curr,PUBLISHED,2012,AFR,NGA,NGN,,,,
-NTCP_curr,PUBLISHED,2012,EUR,NOR,NOK,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,NPL,NPR,,,,
-NTCP_curr,PUBLISHED,2012,WPR,COK,NZD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,NZL,NZD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,OMN,OMR,,,,
-NTCP_curr,PUBLISHED,2012,WPR,PNG,PGK,,,,
-NTCP_curr,PUBLISHED,2012,WPR,PHL,PHP,,,,
-NTCP_curr,PUBLISHED,2012,EMR,PAK,PKR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,POL,PLN,,,,
-NTCP_curr,PUBLISHED,2012,AMR,PRY,PYG,,,,
-NTCP_curr,PUBLISHED,2012,EMR,QAT,QAR,,,,
-NTCP_curr,PUBLISHED,2012,EUR,ROU,RON,,,,
-NTCP_curr,PUBLISHED,2012,EUR,SRB,RSD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,SAU,SAR,,,,
-NTCP_curr,PUBLISHED,2012,WPR,SLB,SBD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,SDN,SDG,,,,
-NTCP_curr,PUBLISHED,2012,EUR,SWE,SEK,,,,
-NTCP_curr,PUBLISHED,2012,EUR,SVK,SKK,,,,
-NTCP_curr,PUBLISHED,2012,EMR,SYR,SYP,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,THA,THB,,,,
-NTCP_curr,PUBLISHED,2012,EUR,TUR,TRY,,,,
-NTCP_curr,PUBLISHED,2012,AFR,TZA,TZS,,,,
-NTCP_curr,PUBLISHED,2012,AFR,UGA,UGX,,,,
-NTCP_curr,PUBLISHED,2012,AFR,KEN,USD,,,,
-NTCP_curr,PUBLISHED,2012,AFR,SYC,USD,,,,
-NTCP_curr,PUBLISHED,2012,AFR,ZMB,USD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,ARG,USD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,BLZ,USD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,ECU,USD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,EGY,USD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,IRN,USD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,LBN,USD,,,,
-NTCP_curr,PUBLISHED,2012,EMR,YEM,USD,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,BGD,USD,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,BTN,USD,,,,
-NTCP_curr,PUBLISHED,2012,SEAR,TLS,USD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,FSM,USD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,PLW,USD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,VUT,USD,,,,
-NTCP_curr,PUBLISHED,2012,WPR,VNM,USD,,,,
-NTCP_curr,PUBLISHED,2012,AMR,VEN,VEF,,,,
-NTCP_curr,PUBLISHED,2012,WPR,WSM,WST,,,,
-NTCP_curr,PUBLISHED,2012,AFR,CMR,XAF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,CAF,XAF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,BFA,XOF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,CIV,XOF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,MLI,XOF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,NER,XOF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,SEN,XOF,,,,
-NTCP_curr,PUBLISHED,2012,AFR,TGO,XOF,,,,
-NTCP_curr,PUBLISHED,2010,EUR,ALB,ALL,,,,
-NTCP_curr,PUBLISHED,2010,WPR,AUS,AUD,,,,
-NTCP_curr,PUBLISHED,2010,EUR,BGR,BGN,,,,
-NTCP_curr,PUBLISHED,2010,AFR,BDI,BIF,,,,
-NTCP_curr,PUBLISHED,2010,WPR,BRN,BND,,,,
-NTCP_curr,PUBLISHED,2010,AMR,BRA,BRL,,,,
-NTCP_curr,PUBLISHED,2010,AMR,CAN,CAD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,CHL,CLP,,,,
-NTCP_curr,PUBLISHED,2010,WPR,CHN,CNY,,,,
-NTCP_curr,PUBLISHED,2010,AMR,CUB,CUP,,,,
-NTCP_curr,PUBLISHED,2010,AFR,CPV,CVE,,,,
-NTCP_curr,PUBLISHED,2010,EMR,DJI,DJF,,,,
-NTCP_curr,PUBLISHED,2010,EUR,DNK,DKK,,,,
-NTCP_curr,PUBLISHED,2010,AFR,DZA,DZD,,,,
-NTCP_curr,PUBLISHED,2010,EUR,AUT,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,BEL,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,CYP,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,FIN,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,FRA,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,DEU,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,ITA,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,MLT,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,NLD,EUR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,SVN,EUR,,,,
-NTCP_curr,PUBLISHED,2010,WPR,FJI,FJD,,,,
-NTCP_curr,PUBLISHED,2010,AFR,GHA,GHS,,,,
-NTCP_curr,PUBLISHED,2010,AMR,GTM,GTQ,,,,
-NTCP_curr,PUBLISHED,2010,AMR,GUY,GYD,,,,
-NTCP_curr,PUBLISHED,2010,EUR,HRV,HRK,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,IDN,IDR,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,IND,INR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,ISL,ISK,,,,
-NTCP_curr,PUBLISHED,2010,AMR,JAM,JMD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,JOR,JOD,,,,
-NTCP_curr,PUBLISHED,2010,WPR,JPN,JPY,,,,
-NTCP_curr,PUBLISHED,2010,EUR,KGZ,KGS,,,,
-NTCP_curr,PUBLISHED,2010,WPR,KHM,KHR,,,,
-NTCP_curr,PUBLISHED,2010,AFR,COM,KMF,,,,
-NTCP_curr,PUBLISHED,2010,WPR,KOR,KRW,,,,
-NTCP_curr,PUBLISHED,2010,EMR,KWT,KWD,,,,
-NTCP_curr,PUBLISHED,2010,EUR,KAZ,KZT,,,,
-NTCP_curr,PUBLISHED,2010,WPR,LAO,LAK,,,,
-NTCP_curr,PUBLISHED,2010,AFR,LSO,LSL,,,,
-NTCP_curr,PUBLISHED,2010,EUR,LTU,LTL,,,,
-NTCP_curr,PUBLISHED,2010,EUR,LVA,LVL,,,,
-NTCP_curr,PUBLISHED,2010,EUR,MDA,MDL,,,,
-NTCP_curr,PUBLISHED,2010,AFR,MDG,MGA,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,MMR,MMK,,,,
-NTCP_curr,PUBLISHED,2010,WPR,MNG,MNT,,,,
-NTCP_curr,PUBLISHED,2010,AFR,MUS,MUR,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,MDV,MVR,,,,
-NTCP_curr,PUBLISHED,2010,AMR,MEX,MXN,,,,
-NTCP_curr,PUBLISHED,2010,AFR,NAM,NAD,,,,
-NTCP_curr,PUBLISHED,2010,AFR,NGA,NGN,,,,
-NTCP_curr,PUBLISHED,2010,EUR,NOR,NOK,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,NPL,NPR,,,,
-NTCP_curr,PUBLISHED,2010,WPR,COK,NZD,,,,
-NTCP_curr,PUBLISHED,2010,WPR,NZL,NZD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,OMN,OMR,,,,
-NTCP_curr,PUBLISHED,2010,WPR,PNG,PGK,,,,
-NTCP_curr,PUBLISHED,2010,WPR,PHL,PHP,,,,
-NTCP_curr,PUBLISHED,2010,EMR,PAK,PKR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,POL,PLN,,,,
-NTCP_curr,PUBLISHED,2010,AMR,PRY,PYG,,,,
-NTCP_curr,PUBLISHED,2010,EMR,QAT,QAR,,,,
-NTCP_curr,PUBLISHED,2010,EUR,ROU,RON,,,,
-NTCP_curr,PUBLISHED,2010,EUR,SRB,RSD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,SAU,SAR,,,,
-NTCP_curr,PUBLISHED,2010,WPR,SLB,SBD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,SDN,SDG,,,,
-NTCP_curr,PUBLISHED,2010,EUR,SWE,SEK,,,,
-NTCP_curr,PUBLISHED,2010,EUR,SVK,SKK,,,,
-NTCP_curr,PUBLISHED,2010,EMR,SYR,SYP,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,THA,THB,,,,
-NTCP_curr,PUBLISHED,2010,EUR,TUR,TRY,,,,
-NTCP_curr,PUBLISHED,2010,AFR,TZA,TZS,,,,
-NTCP_curr,PUBLISHED,2010,AFR,UGA,UGX,,,,
-NTCP_curr,PUBLISHED,2010,AFR,KEN,USD,,,,
-NTCP_curr,PUBLISHED,2010,AFR,LBR,USD,,,,
-NTCP_curr,PUBLISHED,2010,AFR,SYC,USD,,,,
-NTCP_curr,PUBLISHED,2010,AFR,ZMB,USD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,ARG,USD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,BLZ,USD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,ECU,USD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,USA,USD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,EGY,USD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,IRN,USD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,LBN,USD,,,,
-NTCP_curr,PUBLISHED,2010,EMR,YEM,USD,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,BGD,USD,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,BTN,USD,,,,
-NTCP_curr,PUBLISHED,2010,SEAR,TLS,USD,,,,
-NTCP_curr,PUBLISHED,2010,WPR,FSM,USD,,,,
-NTCP_curr,PUBLISHED,2010,WPR,PLW,USD,,,,
-NTCP_curr,PUBLISHED,2010,WPR,VNM,USD,,,,
-NTCP_curr,PUBLISHED,2010,AMR,VEN,VEF,,,,
-NTCP_curr,PUBLISHED,2010,WPR,WSM,WST,,,,
-NTCP_curr,PUBLISHED,2010,AFR,CMR,XAF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,CAF,XAF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,BFA,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,TCD,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,CIV,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,MLI,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,SEN,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,TGO,XOF,,,,
-NTCP_curr,PUBLISHED,2010,AFR,ZAF,ZAR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,ALB,ALL,,,,
-NTCP_curr,PUBLISHED,2008,EUR,ARM,AMD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,AUS,AUD,,,,
-NTCP_curr,PUBLISHED,2008,EUR,BGR,BGN,,,,
-NTCP_curr,PUBLISHED,2008,WPR,BRN,BND,,,,
-NTCP_curr,PUBLISHED,2008,AMR,BRA,BRL,,,,
-NTCP_curr,PUBLISHED,2008,AMR,CAN,CAD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,CHL,CLP,,,,
-NTCP_curr,PUBLISHED,2008,WPR,CHN,CNY,,,,
-NTCP_curr,PUBLISHED,2008,AMR,CUB,CUP,,,,
-NTCP_curr,PUBLISHED,2008,AFR,CPV,CVE,,,,
-NTCP_curr,PUBLISHED,2008,EMR,DJI,DJF,,,,
-NTCP_curr,PUBLISHED,2008,EUR,DNK,DKK,,,,
-NTCP_curr,PUBLISHED,2008,AFR,DZA,DZD,,,,
-NTCP_curr,PUBLISHED,2008,EUR,AUT,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,BEL,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,CYP,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,FIN,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,FRA,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,DEU,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,ITA,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,MLT,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,NLD,EUR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,SVN,EUR,,,,
-NTCP_curr,PUBLISHED,2008,WPR,FJI,FJD,,,,
-NTCP_curr,PUBLISHED,2008,AFR,GHA,GHS,,,,
-NTCP_curr,PUBLISHED,2008,AMR,GTM,GTQ,,,,
-NTCP_curr,PUBLISHED,2008,EUR,HRV,HRK,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,IDN,IDR,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,IND,INR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,ISL,ISK,,,,
-NTCP_curr,PUBLISHED,2008,AMR,JAM,JMD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,JOR,JOD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,JPN,JPY,,,,
-NTCP_curr,PUBLISHED,2008,EUR,KGZ,KGS,,,,
-NTCP_curr,PUBLISHED,2008,WPR,KHM,KHR,,,,
-NTCP_curr,PUBLISHED,2008,AFR,COM,KMF,,,,
-NTCP_curr,PUBLISHED,2008,WPR,KOR,KRW,,,,
-NTCP_curr,PUBLISHED,2008,EMR,KWT,KWD,,,,
-NTCP_curr,PUBLISHED,2008,EUR,KAZ,KZT,,,,
-NTCP_curr,PUBLISHED,2008,WPR,LAO,LAK,,,,
-NTCP_curr,PUBLISHED,2008,AFR,LSO,LSL,,,,
-NTCP_curr,PUBLISHED,2008,EUR,LTU,LTL,,,,
-NTCP_curr,PUBLISHED,2008,EUR,LVA,LVL,,,,
-NTCP_curr,PUBLISHED,2008,AFR,MDG,MGA,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,MMR,MMK,,,,
-NTCP_curr,PUBLISHED,2008,WPR,MNG,MNT,,,,
-NTCP_curr,PUBLISHED,2008,AFR,MUS,MUR,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,MDV,MVR,,,,
-NTCP_curr,PUBLISHED,2008,AMR,MEX,MXN,,,,
-NTCP_curr,PUBLISHED,2008,AFR,NAM,NAD,,,,
-NTCP_curr,PUBLISHED,2008,AFR,NGA,NGN,,,,
-NTCP_curr,PUBLISHED,2008,EUR,NOR,NOK,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,NPL,NPR,,,,
-NTCP_curr,PUBLISHED,2008,WPR,COK,NZD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,NZL,NZD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,OMN,OMR,,,,
-NTCP_curr,PUBLISHED,2008,WPR,PNG,PGK,,,,
-NTCP_curr,PUBLISHED,2008,WPR,PHL,PHP,,,,
-NTCP_curr,PUBLISHED,2008,EMR,PAK,PKR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,POL,PLN,,,,
-NTCP_curr,PUBLISHED,2008,AMR,PRY,PYG,,,,
-NTCP_curr,PUBLISHED,2008,EMR,QAT,QAR,,,,
-NTCP_curr,PUBLISHED,2008,EUR,ROU,RON,,,,
-NTCP_curr,PUBLISHED,2008,EUR,SRB,RSD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,SAU,SAR,,,,
-NTCP_curr,PUBLISHED,2008,EMR,SDN,SDG,,,,
-NTCP_curr,PUBLISHED,2008,EUR,SWE,SEK,,,,
-NTCP_curr,PUBLISHED,2008,EUR,SVK,SKK,,,,
-NTCP_curr,PUBLISHED,2008,EMR,SYR,SYP,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,THA,THB,,,,
-NTCP_curr,PUBLISHED,2008,EUR,TUR,TRY,,,,
-NTCP_curr,PUBLISHED,2008,AFR,TZA,TZS,,,,
-NTCP_curr,PUBLISHED,2008,AFR,UGA,UGX,,,,
-NTCP_curr,PUBLISHED,2008,AFR,KEN,USD,,,,
-NTCP_curr,PUBLISHED,2008,AFR,SYC,USD,,,,
-NTCP_curr,PUBLISHED,2008,AFR,ZMB,USD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,ARG,USD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,BLZ,USD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,ECU,USD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,USA,USD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,EGY,USD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,IRN,USD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,LBN,USD,,,,
-NTCP_curr,PUBLISHED,2008,EMR,YEM,USD,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,BGD,USD,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,BTN,USD,,,,
-NTCP_curr,PUBLISHED,2008,SEAR,TLS,USD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,FSM,USD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,PLW,USD,,,,
-NTCP_curr,PUBLISHED,2008,WPR,VNM,USD,,,,
-NTCP_curr,PUBLISHED,2008,AMR,VEN,VEF,,,,
-NTCP_curr,PUBLISHED,2008,WPR,WSM,WST,,,,
-NTCP_curr,PUBLISHED,2008,AFR,CMR,XAF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,CAF,XAF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,BFA,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,TCD,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,CIV,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,MLI,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,NER,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,SEN,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,TGO,XOF,,,,
-NTCP_curr,PUBLISHED,2008,AFR,ZAF,ZAR,,,,
-NTCP_curr,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
-NTCP_curr,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-NTCP_curr,PUBLISHED,2014,AFR,ZAF,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,BRB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,GTM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,PER,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,IRL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,MNE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,RUS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,SEAR,PRK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,MWI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,ZAF,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,ZWE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,DMA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,GRD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,NIC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,SOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,ARE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,GEO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,MNE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,ESP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,MKD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,UZB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,MHL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,NIU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,ETH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,BHS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,RWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,ATG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,BHS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,COL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,DOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,SLV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,GRD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,TTO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,LBY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,ARE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,BLR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,DNK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,GRC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,SMR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,MYS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,LCA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,IRQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,COG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,GMB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,RWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,SLE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,AFG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,LBY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,GRC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,IRL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,LVA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,ETH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,LBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,BOL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,AFG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,AZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,LVA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,MKD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,MHL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,TON,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,KIR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,BWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,COD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,GNB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,ATG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,BOL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,PER,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,SUR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,CZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,MYS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,STP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,ZWE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,USA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,URY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,BIH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,UKR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,UZB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,COG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,COD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,COL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,GTM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,TTO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,BHR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,IRQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,AZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,BIH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,UKR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,GBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,CRI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,KNA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,RUS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,SEAR,LKA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,HTI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,ERI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,GMB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,MRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,DMA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,ESP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,CHE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,GBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,PRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,PAN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,TKM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,SEAR,LKA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,ISR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,LTU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,SGP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,BEN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,GIN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,DOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,SLV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,LCA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,USA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,PRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,TON,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,AGO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,BEN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,MWI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AFR,SLE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,AMR,KNA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,BHR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,MAR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,CZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,EST,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EUR,GEO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,WPR,NIU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,GAB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,LBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,MRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AFR,STP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,BRB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,PAN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,AMR,URY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,MAR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EMR,TUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,EST,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,CHE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,WPR,SGP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,RWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,BWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,BIH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,NER,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,SLV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,GRD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,PER,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,IRL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,NRU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,PRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,KNA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,ARE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,SEAR,LKA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,PAN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,BHR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,AGO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,ERI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,UKR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,KIR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,SLB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,TUV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,VCT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,MDA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,MKD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,GIN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,GNB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,NIC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,LCA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,SUR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,URY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,IRQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,TUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,ARM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,HUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,LUX,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,BWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,COG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,GAB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,MOZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,STP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,SLE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,BRB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,BOL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,COL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,DOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,PER,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,SUR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,TTO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,TUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,CZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,EST,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,RUS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,GBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,MHL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,NRU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,SGP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,GAB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,MWI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,SWZ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,LBY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,CZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,EST,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,GBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,UZB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,ISR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,STP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,MRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,GMB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,BHS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,CRI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,ARE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,LUX,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,MWI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,ZWE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,KNA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,AND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,AZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,ESP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,UZB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,DMA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,SLV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,AFG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,TON,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,NIU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,BEN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,GNQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,GIN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,SLE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,ATG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,CRI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,DMA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,HND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,TTO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,BHR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,SOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,AND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,AZE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,BLR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,ESP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,SEAR,PRK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,MYS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,TON,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,TUV,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,COD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,ETH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,MRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,ATG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,GRD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,IRQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,LBY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,SOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,BLR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,GEO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,GRC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,ISR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,TJK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,SEAR,LKA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,PRT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2014,EMR,TUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2012,EUR,BLR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,COG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,COD,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,GMB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,ZWE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,BHS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,BRB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,BOL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,COL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,DOM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,MAR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,GEO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,GRC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,MCO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,MHL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,BDI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,RWA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,GUY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,URY,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EMR,MAR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,BIH,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,MCO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,SMR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,TKM,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,SEAR,PRK,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,MYS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,WPR,VUT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,AGO,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AFR,ERI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,CHE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EMR,AFG,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,PAN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,AMR,HTI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,VUT,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,SGP,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,NIU,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2010,EUR,RUS,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,HTI,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,HND,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,BEN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,GNQ,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,MNE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,GNB,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,LBR,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,LCA,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,HUN,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,IRL,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AMR,NIC,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,EUR,CHE,Not available,,,,Data not reported/not available
-NTCP_curr,PUBLISHED,2008,AFR,SWZ,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"NTCP_curr","PUBLISHED","2014","EUR","ALB","ALL","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","ARM","AMD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","AUS","AUD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","TUV","AUD","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","BGR","BGN","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","BDI","BIF","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","BRN","BND","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","BRA","BRL","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","CAN","CAD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","CHL","CLP","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","CHN","CNY","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","CRI","CRC","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","CUB","CUP","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","CPV","CVE","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","DJI","DJF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","DZA","DZD","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","AUT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","BEL","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","CYP","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","FIN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","FRA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","DEU","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","ITA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","LUX","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","MLT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","NLD","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","SVN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","TCD","FCFA","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","FJI","FJD","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","GHA","GHS","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","GUY","GYD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","HND","HNL","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","HRV","HRK","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","HUN","HUF","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","IDN","IDR","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","IND","INR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","ISL","ISK","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","JAM","JMD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","JOR","JOD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","JPN","JPY","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","KGZ","KGS","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","KHM","KHR","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","COM","KMF","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","KOR","KRW","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","KWT","KWD","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","KAZ","KZT","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","LAO","LAK","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","LSO","LSL","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","MDA","MDL","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","MDG","MGA","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","MMR","MMK","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","MNG","MNT","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","MUS","MUR","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","MDV","MVR","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","MEX","MXN","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","NAM","NAD","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","NGA","NGN","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","NOR","NOK","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","NPL","NPR","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","COK","NZD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","NZL","NZD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","OMN","OMR","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","PNG","PGK","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","PHL","PHP","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","PAK","PKR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","POL","PLN","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","PRY","PYG","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","QAT","QAR","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","ROU","RON","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","SRB","RSD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","SAU","SAR","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","SLB","SBD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","SDN","SDG","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","SWE","SEK","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","SVK","SKK","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","SUR","SRD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","SYR","SYP","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","THA","THB","","","",""
+"NTCP_curr","PUBLISHED","2014","EUR","TUR","TRY","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","TZA","TZS","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","UGA","UGX","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","KEN","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","SYC","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","ZMB","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","ARG","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","BLZ","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","ECU","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","EGY","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","IRN","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","LBN","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","EMR","YEM","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","BGD","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","BTN","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","SEAR","TLS","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","FSM","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","PLW","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","VUT","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","VNM","USD","","","",""
+"NTCP_curr","PUBLISHED","2014","AMR","VEN","VEF","","","",""
+"NTCP_curr","PUBLISHED","2014","WPR","WSM","WST","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","CMR","XAF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","CAF","XAF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","BFA","XOF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","CIV","XOF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","MLI","XOF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","NER","XOF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","SEN","XOF","","","",""
+"NTCP_curr","PUBLISHED","2014","AFR","TGO","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","ALB","ALL","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","ARM","AMD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","AUS","AUD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","TUV","AUD","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","BGR","BGN","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","BDI","BIF","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","BRN","BND","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","BRA","BRL","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","CAN","CAD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","CHL","CLP","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","CHN","CNY","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","CUB","CUP","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","CPV","CVE","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","DJI","DJF","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","DNK","DKK","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","DZA","DZD","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","AUT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","BEL","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","CYP","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","FIN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","FRA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","DEU","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","ITA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","LUX","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","MLT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","NLD","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","SVN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","TCD","FCFA","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","FJI","FJD","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","GHA","GHS","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","GUY","GYD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","HND","HNL","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","HRV","HRK","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","HUN","HUF","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","IDN","IDR","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","IND","INR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","ISL","ISK","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","JAM","JMD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","JOR","JOD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","JPN","JPY","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","KGZ","KGS","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","KHM","KHR","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","COM","KMF","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","KOR","KRW","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","KWT","KWD","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","KAZ","KZT","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","LAO","LAK","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","LSO","LSL","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","LTU","LTL","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","MDA","MDL","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","MDG","MGA","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","MMR","MMK","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","MNG","MNT","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","MUS","MUR","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","MDV","MVR","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","MEX","MXN","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","NAM","NAD","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","NGA","NGN","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","NOR","NOK","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","NPL","NPR","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","COK","NZD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","NZL","NZD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","OMN","OMR","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","PNG","PGK","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","PHL","PHP","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","PAK","PKR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","POL","PLN","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","PRY","PYG","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","QAT","QAR","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","ROU","RON","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","SRB","RSD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","SAU","SAR","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","SLB","SBD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","SDN","SDG","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","SWE","SEK","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","SVK","SKK","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","SYR","SYP","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","THA","THB","","","",""
+"NTCP_curr","PUBLISHED","2012","EUR","TUR","TRY","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","TZA","TZS","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","UGA","UGX","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","KEN","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","SYC","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","ZMB","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","ARG","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","BLZ","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","ECU","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","EGY","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","IRN","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","LBN","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","EMR","YEM","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","BGD","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","BTN","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","SEAR","TLS","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","FSM","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","PLW","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","VUT","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","VNM","USD","","","",""
+"NTCP_curr","PUBLISHED","2012","AMR","VEN","VEF","","","",""
+"NTCP_curr","PUBLISHED","2012","WPR","WSM","WST","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","CMR","XAF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","CAF","XAF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","BFA","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","CIV","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","MLI","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","NER","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","SEN","XOF","","","",""
+"NTCP_curr","PUBLISHED","2012","AFR","TGO","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","ALB","ALL","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","AUS","AUD","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","BGR","BGN","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","BDI","BIF","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","BRN","BND","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","BRA","BRL","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","CAN","CAD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","CHL","CLP","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","CHN","CNY","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","CUB","CUP","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","CPV","CVE","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","DJI","DJF","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","DNK","DKK","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","DZA","DZD","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","AUT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","BEL","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","CYP","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","FIN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","FRA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","DEU","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","ITA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","MLT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","NLD","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","SVN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","FJI","FJD","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","GHA","GHS","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","GTM","GTQ","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","GUY","GYD","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","HRV","HRK","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","IDN","IDR","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","IND","INR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","ISL","ISK","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","JAM","JMD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","JOR","JOD","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","JPN","JPY","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","KGZ","KGS","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","KHM","KHR","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","COM","KMF","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","KOR","KRW","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","KWT","KWD","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","KAZ","KZT","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","LAO","LAK","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","LSO","LSL","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","LTU","LTL","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","LVA","LVL","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","MDA","MDL","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","MDG","MGA","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","MMR","MMK","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","MNG","MNT","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","MUS","MUR","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","MDV","MVR","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","MEX","MXN","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","NAM","NAD","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","NGA","NGN","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","NOR","NOK","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","NPL","NPR","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","COK","NZD","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","NZL","NZD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","OMN","OMR","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","PNG","PGK","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","PHL","PHP","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","PAK","PKR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","POL","PLN","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","PRY","PYG","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","QAT","QAR","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","ROU","RON","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","SRB","RSD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","SAU","SAR","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","SLB","SBD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","SDN","SDG","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","SWE","SEK","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","SVK","SKK","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","SYR","SYP","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","THA","THB","","","",""
+"NTCP_curr","PUBLISHED","2010","EUR","TUR","TRY","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","TZA","TZS","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","UGA","UGX","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","KEN","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","LBR","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","SYC","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","ZMB","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","ARG","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","BLZ","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","ECU","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","USA","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","EGY","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","IRN","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","LBN","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","EMR","YEM","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","BGD","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","BTN","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","SEAR","TLS","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","FSM","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","PLW","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","VNM","USD","","","",""
+"NTCP_curr","PUBLISHED","2010","AMR","VEN","VEF","","","",""
+"NTCP_curr","PUBLISHED","2010","WPR","WSM","WST","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","CMR","XAF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","CAF","XAF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","BFA","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","TCD","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","CIV","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","MLI","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","SEN","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","TGO","XOF","","","",""
+"NTCP_curr","PUBLISHED","2010","AFR","ZAF","ZAR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","ALB","ALL","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","ARM","AMD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","AUS","AUD","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","BGR","BGN","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","BRN","BND","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","BRA","BRL","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","CAN","CAD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","CHL","CLP","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","CHN","CNY","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","CUB","CUP","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","CPV","CVE","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","DJI","DJF","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","DNK","DKK","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","DZA","DZD","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","AUT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","BEL","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","CYP","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","FIN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","FRA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","DEU","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","ITA","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","MLT","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","NLD","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","SVN","EUR","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","FJI","FJD","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","GHA","GHS","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","GTM","GTQ","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","HRV","HRK","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","IDN","IDR","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","IND","INR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","ISL","ISK","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","JAM","JMD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","JOR","JOD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","JPN","JPY","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","KGZ","KGS","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","KHM","KHR","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","COM","KMF","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","KOR","KRW","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","KWT","KWD","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","KAZ","KZT","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","LAO","LAK","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","LSO","LSL","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","LTU","LTL","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","LVA","LVL","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","MDG","MGA","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","MMR","MMK","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","MNG","MNT","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","MUS","MUR","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","MDV","MVR","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","MEX","MXN","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","NAM","NAD","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","NGA","NGN","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","NOR","NOK","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","NPL","NPR","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","COK","NZD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","NZL","NZD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","OMN","OMR","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","PNG","PGK","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","PHL","PHP","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","PAK","PKR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","POL","PLN","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","PRY","PYG","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","QAT","QAR","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","ROU","RON","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","SRB","RSD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","SAU","SAR","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","SDN","SDG","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","SWE","SEK","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","SVK","SKK","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","SYR","SYP","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","THA","THB","","","",""
+"NTCP_curr","PUBLISHED","2008","EUR","TUR","TRY","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","TZA","TZS","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","UGA","UGX","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","KEN","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","SYC","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","ZMB","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","ARG","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","BLZ","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","ECU","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","USA","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","EGY","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","IRN","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","LBN","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","EMR","YEM","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","BGD","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","BTN","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","SEAR","TLS","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","FSM","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","PLW","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","VNM","USD","","","",""
+"NTCP_curr","PUBLISHED","2008","AMR","VEN","VEF","","","",""
+"NTCP_curr","PUBLISHED","2008","WPR","WSM","WST","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","CMR","XAF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","CAF","XAF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","BFA","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","TCD","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","CIV","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","MLI","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","NER","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","SEN","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","TGO","XOF","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","ZAF","ZAR","","","",""
+"NTCP_curr","PUBLISHED","2008","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"NTCP_curr","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"NTCP_curr","PUBLISHED","2014","AFR","ZAF","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","BRB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","GTM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","PER","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","SOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","AND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","IRL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","MNE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","RUS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","GIN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","MOZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","SEAR","PRK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","MWI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","ZAF","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","ZWE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","DMA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","GRD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","NIC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","SOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","ARE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","GEO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","MNE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","ESP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","MKD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","UZB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","SEAR","PRK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","MHL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","NIU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","ETH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","BHS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","GNB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","RWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","ATG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","BHS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","COL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","DOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","SLV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","GRD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","TTO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","LBY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","ARE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","BLR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","DNK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","GRC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","SMR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","MYS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","HTI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","LCA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","IRQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","COG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","GNQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","GMB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","RWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","SLE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","AFG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","LBY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","GRC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","IRL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","LVA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","TKM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","AND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","BWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","ETH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","LBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","BOL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","AFG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","AZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","LVA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","TJK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","MKD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","MHL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","TON","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","KIR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","BWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","COD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","GNB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","SWZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","ATG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","BOL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","PER","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","SUR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","ISR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","CZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","MYS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","GNQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","STP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","ZWE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","USA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","URY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","BIH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","UKR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","UZB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","NRU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","COG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","COD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","COL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","GTM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","TTO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","BHR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","IRQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","AZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","BIH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","AGO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","UKR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","GBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","MOZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","CRI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","KNA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","RUS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","SEAR","LKA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","HTI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","ERI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","GMB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","MRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","SWZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","DMA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","ESP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","CHE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","GBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","MCO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","PRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","PAN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","VCT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","TKM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","SEAR","LKA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","ISR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","LTU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","SGP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","BEN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","ERI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","GIN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","DOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","SLV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","LCA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","USA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","MCO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","PRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","SMR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","TON","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","NRU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","AGO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","BEN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","GAB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","MWI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AFR","SLE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","NIC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","AMR","KNA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","BHR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","MAR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","CZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","EST","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EUR","GEO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","WPR","NIU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","GAB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","LBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","MRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AFR","STP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","BRB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","PAN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","VCT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","AMR","URY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","MAR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EMR","TUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","EST","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","CHE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","KIR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","WPR","SGP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","RWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","BWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","BIH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","NER","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","SLV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","GRD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","PER","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","IRL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","NRU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","PRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","KNA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","ARE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","TKM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","UKR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","SEAR","LKA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","PAN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","BHR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","AGO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","ERI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","UKR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","KIR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","SLB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","TUV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","VCT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","MDA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","MKD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","GIN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","ETH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","GNB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","NIC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","LCA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","VCT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","SUR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","URY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","IRQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","TUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","ARM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","HUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","LUX","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","BWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","COG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","GAB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","MOZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","STP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","SLE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","BRB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","BOL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","COL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","DOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","PER","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","SUR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","TTO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","TUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","CZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","EST","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","RUS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","GBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","MHL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","NRU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","SGP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","GAB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","MWI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","MOZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","SWZ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","LBY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","CZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","EST","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","MKD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","GBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","UZB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","ISR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","STP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","MRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","GMB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","BHS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","CRI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","ARE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","LUX","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","MWI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","ZWE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","KNA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","AND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","AZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","ESP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","UZB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","DMA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","SLV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","AFG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","TON","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","NIU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","BEN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","GNQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","GIN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","SLE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","ATG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","CRI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","DMA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","HND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","TTO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","BHR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","SOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","AND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","AZE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","BLR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","SMR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","ESP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","SEAR","PRK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","MYS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","TON","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","TUV","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","COD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","ETH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","MRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","ATG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","GRD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","IRQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","LBY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","SOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","BLR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","GEO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","GRC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","ISR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","TJK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","SEAR","LKA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","PRT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2014","EMR","TUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2012","EUR","BLR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","COG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","COD","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","GMB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","ZWE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","BHS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","BRB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","BOL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","COL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","DOM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","MAR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","GEO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","GRC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","MCO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","MNE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","TJK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","MHL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","BDI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","RWA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","GUY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","URY","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EMR","MAR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","BIH","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","MCO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","SMR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","TKM","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","SEAR","PRK","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","MYS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","WPR","VUT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","AGO","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AFR","ERI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","CHE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EMR","AFG","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","PAN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","AMR","HTI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","VUT","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","SGP","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","NIU","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","WPR","KIR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2010","EUR","RUS","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","HTI","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","HND","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","BEN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","GNQ","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","MNE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","GNB","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","LBR","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","LCA","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","HUN","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","IRL","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AMR","NIC","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","EUR","CHE","Not available","","","","Data not reported/not available"
+"NTCP_curr","PUBLISHED","2008","AFR","SWZ","Not available","","","","Data not reported/not available"

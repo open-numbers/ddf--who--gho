@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,LSO,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,SYC,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,TZA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,CRI,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,CUB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,HND,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,MEX,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,PAN,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,PRY,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,URY,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,KWT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,BIH,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,DNK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,KAZ,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,NLD,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,MDA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ROU,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,RUS,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,SRB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ESP,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,TKM,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,GBR,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,PRK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,THA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,MYS,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,FSM,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,DZA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,BEN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,BFA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,TCD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,CIV,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,COD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GHA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,KEN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,LBR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,NAM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,SWZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,ZMB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,ATG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,BHS,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,BRB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,BRA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,CHL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,COL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,DOM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,GTM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,GUY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,NIC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,PER,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,TTO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,MAR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,SYR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,ARE,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,BGR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,EST,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ITA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,NOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,PRT,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,TUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,IDN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,LKA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,KHM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,NRU,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,COG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,NGA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,ARG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,BOL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,CAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,ECU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,JAM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,USA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,VEN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,IRN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,LBN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,PAK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,TUN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,AND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,AUT,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,BLR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,BEL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,HRV,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,CZE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,FIN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,FRA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,DEU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,GRC,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,HUN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,IRL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,KGZ,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,LVA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,LTU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,LUX,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,MCO,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,POL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,SMR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,SVK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,SWE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,CHE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,IND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,AUS,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,CHN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,COK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,NZL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,PHL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,SGP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,TZA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,CUB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,HND,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,PRY,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,URY,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,KWT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,DNK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,HUN,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,KAZ,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,MLT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,NLD,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ROU,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,SRB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ESP,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,GBR,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,PRK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,THA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,BEN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,BFA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,TCD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,COD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GHA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,LBR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MDG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MUS,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,NAM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,SYC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,SWZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,TGO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,ZMB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,ATG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,BRB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,LSO,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,BRA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,CHL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,COL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,DOM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,SLV,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,GTM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,GUY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,MEX,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,NIC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,PER,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,SUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,TTO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,BHR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,IRN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,MAR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,PAK,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,SYR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,ARE,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,EST,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ITA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,NOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,PRT,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,TUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,IDN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,MMR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,LKA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,KHM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,CHN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,FSM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,MNG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,NRU,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,COG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,KEN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,NGA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,ARG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,BOL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,CAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,CRI,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,JAM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,PAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,USA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,VEN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,JOR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,LBN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,TUN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,AND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,AUT,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,BLR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,BEL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,BIH,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,BGR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,HRV,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,CZE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,FIN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,FRA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,DEU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,GRC,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,IRL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,KGZ,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,LVA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,LTU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,LUX,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,MCO,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,POL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,SVK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,SWE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,CHE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,TKM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,IND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,AUS,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,COK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,JPN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,NZL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,PHL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,SGP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,LSO,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,TZA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,CUB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,KWT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,DNK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,HUN,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,MLT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,NLD,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ROU,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,GBR,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,THA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,BFA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,COG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,COD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GHA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,KEN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,LBR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MDG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MUS,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,SYC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,ZAF,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,SWZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,TGO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,ZMB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,ATG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,BOL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,BRA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,CHL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,COL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,CRI,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,DOM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,SLV,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,GTM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,GUY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,HND,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,MEX,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,NIC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,PER,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,SUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,TTO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,URY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,BHR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,JOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,MAR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,PAK,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,SYR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,TUN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,ARE,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,EST,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,GRC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,IRL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ITA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,KAZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,KGZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,NOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,PRT,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,SRB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,TUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,IND,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,IDN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,MMR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,LKA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,KHM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,CHN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,FSM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,MNG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,NRU,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,NGA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,ARG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,CAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,JAM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,PAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,PRY,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,USA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,VEN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,LBN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,AND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,AUT,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,BLR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,BEL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,BGR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,HRV,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,CZE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,FIN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,FRA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,DEU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,LVA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,LTU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,LUX,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,MCO,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,POL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,SVK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ESP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,SWE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,CHE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,TKM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,PRK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,AUS,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,COK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,JPN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,NZL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,PHL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,KOR,partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,SGP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,TZA,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,CUB,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,KWT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,DNK,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,MLT,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ROU,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,GBR,Fully,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,BFA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,COG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,COD,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GHA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,KEN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,LSO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,LBR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MDG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MUS,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,SYC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,SWZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,TGO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,ZMB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,ATG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,BOL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,BRA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,CAN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,CHL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,COL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,CRI,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,DOM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,SLV,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,GTM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,GUY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,HND,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,MEX,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,NIC,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,PER,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,SUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,TTO,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,USA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,URY,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,BHR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,JOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,MAR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,SYR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,TUN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,ARE,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,CZE,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,EST,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,IRL,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ITA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,KAZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,KGZ,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,LTU,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,NOR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,PRT,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,SRB,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,TUR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,MMR,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,LKA,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,KHM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,CHN,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,FSM,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,MNG,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,NRU,No,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,NGA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,ARG,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,JAM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,PAN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,PRY,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,VEN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,LBN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,AND,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,AUT,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,BLR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,BEL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,BGR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,FIN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,FRA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,DEU,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,POL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ESP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,SWE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,CHE,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,TKM,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,PRK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,THA,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,AUS,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,COK,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,JPN,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,NZL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,PHL,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,KOR,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,SGP,Partially,,,,
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,NER,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,BHR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,SAU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,MLT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,SVN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,BRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,MHL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,MNG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MUS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,TGO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,UGA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,SUR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,DJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,EGY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,TJK,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,BWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,SEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,OMN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,KIR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,SLV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,JOR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,LBY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,AZE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,GEO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ISR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,JPN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,SLB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,CMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MDG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MLI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ARM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,MKD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,UKR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,UZB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,WSM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,VUT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GAB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,CYP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,CMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,DJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,EGY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,MDA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,RUS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,BRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,SLB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,DZA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,BHS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,LBY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,SVN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,CMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,IRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ISR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,CIV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,NER,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,OMN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,AZE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,MHL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,WSM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,COM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,CYP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,UZB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,BWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GAB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MLI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,UGA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ISR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,MYS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,VUT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,DZA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MLI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,DJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,SAU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,GEO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,BRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,MYS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,CAF,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,EGY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,RUS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,DZA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,BWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,SAU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,CYP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,BRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,CIV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,NAM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,NER,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,EGY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,UZB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,MHL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,VUT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,CMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,MDA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,SVK,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,UZB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,MHL,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,VUT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,SEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,LBY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,OMN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,PAK,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,LVA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,RUS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,FJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,VNM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,UGA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ARM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,MDA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,SLB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,TON,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,TUV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,CIV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,DJI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,IRN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,HRV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ISR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,PNG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,SEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,SAU,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ALB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ARM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,GEO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,SMR,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,BEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,CYP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,SVN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,WSM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,BEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GAB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MLI,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,NER,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,SEN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,UGA,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,BHS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ARM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,GEO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,MNE,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,SVN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,MYS,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,LCA,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,EUR,ISL,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,EMR,QAT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,WPR,KOR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AMR,GRD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GIN,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,EMR,QAT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,UKR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,WPR,KOR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,CPV,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,MKD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,LCA,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,ISL,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,GRD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GNQ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,LCA,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,ISL,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,CPV,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,EMR,QAT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,VCT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,ISL,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,MCO,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,SEAR,IND,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,GIN,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,GRD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,HUN,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,COM,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GIN,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,ZAF,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,GRD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,LCA,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,UKR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AMR,ECU,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,CPV,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,GNQ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,NLD,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,WPR,KIR,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AFR,MOZ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,GRC,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,LUX,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,AMR,ECU,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2010,AFR,COM,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,AMR,ECU,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EMR,QAT,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,TJK,Not available,,,,Data not reported/not available
-O_Ins_off_hlth_prof,PUBLISHED,2007,EUR,MKD,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","LSO","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","SYC","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","TZA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","CRI","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","CUB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","HND","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","MEX","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","PAN","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","PRY","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","URY","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","KWT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","BIH","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","DNK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","KAZ","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","NLD","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","MDA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ROU","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","RUS","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","SRB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ESP","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","TKM","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","GBR","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","PRK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","THA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","MYS","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","FSM","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","DZA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","BEN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","BFA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","TCD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","CIV","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","COD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GHA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","KEN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","LBR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","NAM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","SWZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","ZMB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","ATG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","BHS","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","BRB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","BRA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","CHL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","COL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","DOM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","GTM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","GUY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","NIC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","PER","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","TTO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","MAR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","SYR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","ARE","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","BGR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","EST","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ITA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","NOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","PRT","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","TUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","IDN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","LKA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","KHM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","NRU","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","COG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","NGA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","ARG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","BOL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","CAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","ECU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","JAM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","USA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","VEN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","IRN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","LBN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","PAK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","TUN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","AND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","AUT","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","BLR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","BEL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","HRV","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","CZE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","FIN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","FRA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","DEU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","GRC","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","HUN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","IRL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","KGZ","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","LVA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","LTU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","LUX","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","MCO","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","POL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","SMR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","SVK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","SWE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","CHE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","IND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","AUS","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","CHN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","COK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","NZL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","PHL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","SGP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","LSO","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","TZA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","CUB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","HND","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","PRY","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","URY","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","KWT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","DNK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","HUN","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","KAZ","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","MLT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","NLD","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ROU","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","SRB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ESP","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","GBR","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","PRK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","THA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","BEN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","BFA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","TCD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","COD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GHA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","LBR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MDG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MUS","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","NAM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","SYC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","SWZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","TGO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","ZMB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","ATG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","BRB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","BRA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","CHL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","COL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","DOM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","SLV","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","GTM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","GUY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","MEX","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","NIC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","PER","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","SUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","TTO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","BHR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","IRN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","MAR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","PAK","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","SYR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","ARE","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","EST","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ITA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","NOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","PRT","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","TUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","IDN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","MMR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","LKA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","KHM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","CHN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","FSM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","MNG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","NRU","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","COG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","KEN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","NGA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","ARG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","BOL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","CAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","CRI","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","JAM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","PAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","USA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","VEN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","JOR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","LBN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","TUN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","AND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","AUT","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","BLR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","BEL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","BIH","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","BGR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","HRV","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","CZE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","FIN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","FRA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","DEU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","GRC","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","IRL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","KGZ","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","LVA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","LTU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","LUX","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","MCO","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","POL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","SVK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","SWE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","CHE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","TKM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","IND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","AUS","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","COK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","JPN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","NZL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","PHL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","SGP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","LSO","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","TZA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","CUB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","KWT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","DNK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","HUN","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","MLT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","NLD","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ROU","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","GBR","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","THA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","BFA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","COG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","COD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GHA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","KEN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","LBR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MDG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MUS","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","SYC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","ZAF","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","SWZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","TGO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","ZMB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","ATG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","BOL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","BRA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","CHL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","COL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","CRI","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","DOM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","SLV","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","GTM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","GUY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","HND","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","MEX","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","NIC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","PER","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","SUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","TTO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","URY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","BHR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","JOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","MAR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","PAK","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","SYR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","TUN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","ARE","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","EST","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","GRC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","IRL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ITA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","KAZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","KGZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","NOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","PRT","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","SRB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","TUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","IND","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","IDN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","MMR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","LKA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","KHM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","CHN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","FSM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","MNG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","NRU","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","NGA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","ARG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","CAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","JAM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","PAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","PRY","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","USA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","VEN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","LBN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","AND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","AUT","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","BLR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","BEL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","BGR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","HRV","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","CZE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","FIN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","FRA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","DEU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","LVA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","LTU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","LUX","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","MCO","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","POL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","SVK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ESP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","SWE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","CHE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","TKM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","PRK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","AUS","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","COK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","JPN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","NZL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","PHL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","KOR","partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","SGP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","TZA","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","CUB","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","KWT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","DNK","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","MLT","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ROU","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","GBR","Fully","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","BFA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","COG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","COD","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GHA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","KEN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","LSO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","LBR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MDG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MUS","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","SYC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","SWZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","TGO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","ZMB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","ATG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","BOL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","BRA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","CAN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","CHL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","COL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","CRI","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","DOM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","SLV","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","GTM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","GUY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","HND","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","MEX","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","NIC","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","PER","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","SUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","TTO","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","USA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","URY","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","BHR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","JOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","MAR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","SYR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","TUN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","ARE","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","CZE","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","EST","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","IRL","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ITA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","KAZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","KGZ","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","LTU","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","NOR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","PRT","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","SRB","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","TUR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","MMR","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","LKA","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","KHM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","CHN","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","FSM","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","MNG","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","NRU","No","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","NGA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","ARG","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","JAM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","PAN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","PRY","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","VEN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","LBN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","AND","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","AUT","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","BLR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","BEL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","BGR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","FIN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","FRA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","DEU","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","POL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ESP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","SWE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","CHE","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","TKM","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","PRK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","THA","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","AUS","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","COK","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","JPN","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","NZL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","PHL","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","KOR","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","SGP","Partially","","","",""
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","MNG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","SLV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MDG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","UKR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","MDA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","CIV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","CIV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","MDA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","SVK","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","LVA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","MDA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","CIV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","HRV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","BEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","BEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GIN","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","LCA","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","VCT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EUR","ISL","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","CPV","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","GNQ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","EMR","QAT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","WPR","KOR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AMR","GRD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2014","AFR","MOZ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GIN","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EMR","QAT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","UKR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","WPR","KOR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","VCT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","CPV","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","MKD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","MOZ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","LCA","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","ISL","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","GRD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GNQ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","LCA","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","ISL","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","MKD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","CPV","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EMR","QAT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","WPR","KIR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","VCT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","ISL","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","MCO","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","SEAR","IND","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","GIN","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","GRD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","VCT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","EUR","UKR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","HUN","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","COM","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GIN","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","ZAF","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","GRD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","LCA","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","UKR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AMR","ECU","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","CPV","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","MOZ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","GNQ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","NLD","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","WPR","KIR","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AFR","MOZ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","GRC","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","LUX","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AFR","GNQ","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","AMR","ECU","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2010","AFR","COM","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","AMR","ECU","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EMR","QAT","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","TJK","Not available","","","","Data not reported/not available"
+"O_Ins_off_hlth_prof","PUBLISHED","2007","EUR","MKD","Not available","","","","Data not reported/not available"

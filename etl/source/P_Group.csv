@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-P_Group,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required / not applicable
-P_Group,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required / not applicable
-P_Group,PUBLISHED,2007,EMR,AFG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,AGO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ALB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EUR,AND,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,ARE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,ARG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ARM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,ATG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,AUS,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EUR,AUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,AZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,BDI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,BEL,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,AFR,BEN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,BFA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,BGD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,BGR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,BHR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,BHS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,BIH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,BLR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,BLZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,BOL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,BRA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,BRB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,BRN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,SEAR,BTN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,AFR,BWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,CAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,CAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EUR,CHE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,CHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,WPR,CHN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,CIV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,CMR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,COD,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,COG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,COK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,COL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,COM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,CPV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,CRI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,CUB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,CYP,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,CZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,DEU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,DJI,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,AMR,DMA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,DNK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,DOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,DZA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,ECU,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,EMR,EGY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,ERI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ESP,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,EUR,EST,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,ETH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,FIN,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,WPR,FJI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,FRA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,WPR,FSM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,GAB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,GBR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EUR,GEO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,GHA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,GIN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,GMB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,GNB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,GNQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,GRC,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,GRD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,GTM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,GUY,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,HND,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,HRV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,HTI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,HUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,IDN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,SEAR,IND,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,IRL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EMR,IRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EMR,IRQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ISL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ISR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ITA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,AMR,JAM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,JOR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,JPN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,KAZ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,KEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,KGZ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,WPR,KHM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,KIR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,KNA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,KOR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,KWT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,LAO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EMR,LBN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,LBR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,LBY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,LCA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,LKA,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,AFR,LSO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,LTU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,LUX,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,EUR,LVA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,MAR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,MCO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,MDA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,MDG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,MDV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,MEX,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,MHL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EUR,MKD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,MLI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,MLT,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,SEAR,MMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,MNE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,WPR,MNG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,MOZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,MRT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,MUS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,MWI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,MYS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,NAM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,NER,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,NGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,NIC,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,NIU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,NLD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,NOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,SEAR,NPL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,NRU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,NZL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,EMR,OMN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,PAK,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,AMR,PAN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,PER,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,WPR,PHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,WPR,PLW,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,PNG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,POL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,PRK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,PRT,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AMR,PRY,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,QAT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,ROU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,RUS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,RWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,SAU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EMR,SDN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,SEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,SGP,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,WPR,SLB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,SLE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,SLV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,SMR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,SOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,SRB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,STP,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,SUR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,SVK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,EUR,SVN,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,EUR,SWE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,SWZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,SYC,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,SYR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,TCD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,TGO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,SEAR,THA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,TJK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,TKM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,SEAR,TLS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,TON,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,TTO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,TUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,TUR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,TUV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,TZA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,UGA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2007,EUR,UKR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,URY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2007,AMR,USA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EUR,UZB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,VCT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AMR,VEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,VNM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2007,WPR,VUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,WPR,WSM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,EMR,YEM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,ZAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2007,AFR,ZMB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2007,AFR,ZWE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EMR,AFG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,AGO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ALB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,AND,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,ARE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,ARG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ARM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,ATG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,AUS,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,AUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,AZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,BDI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,BEL,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,AFR,BEN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,BFA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,SEAR,BGD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,BGR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,BHR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,BHS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,BIH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,BLR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,BLZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,BOL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,BRA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,BRB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,WPR,BRN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,SEAR,BTN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AFR,BWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,CAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,CAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,CHE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,CHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,CHN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,CIV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,CMR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,COD,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,COG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,COK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,COL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AFR,COM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,CPV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,CRI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,CUB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,CYP,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,EUR,CZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,DEU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,DJI,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AMR,DMA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,DNK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,DOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,DZA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,ECU,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,EMR,EGY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,ERI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ESP,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,EST,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,ETH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,FIN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,FJI,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,FRA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,WPR,FSM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,GAB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,GBR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,GEO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,GHA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,GIN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,GMB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,GNB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,GNQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,GRC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,GRD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,GTM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,GUY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,HND,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,HRV,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,AMR,HTI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,HUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,SEAR,IDN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,SEAR,IND,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EUR,IRL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EMR,IRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EMR,IRQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ISL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ISR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ITA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,AMR,JAM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,JOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,JPN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,KAZ,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,KEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,KGZ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,KHM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,KIR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,KNA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,KOR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,KWT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,LAO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EMR,LBN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,LBR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,LBY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,LCA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,SEAR,LKA,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,LSO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,LTU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,LUX,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EUR,LVA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EMR,MAR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,MCO,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EUR,MDA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,MDG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,SEAR,MDV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,MEX,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,WPR,MHL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,MKD,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,MLI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,MLT,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,SEAR,MMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,MNE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,MNG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,MOZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,MRT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,MUS,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,MWI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,MYS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,NAM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AFR,NER,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,NGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,NIC,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,WPR,NIU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,NLD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,NOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,SEAR,NPL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,NRU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,WPR,NZL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EMR,OMN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,PAK,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,PAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,PER,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,WPR,PHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,WPR,PLW,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,PNG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,POL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,SEAR,PRK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,PRT,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,PRY,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,QAT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,ROU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,RUS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,RWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EMR,SAU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EMR,SDN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,SEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,SGP,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,WPR,SLB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,SLE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,SLV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,SMR,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EMR,SOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,SRB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,STP,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,SUR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,SVK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,EUR,SVN,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EUR,SWE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,SWZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,SYC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EMR,SYR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,TCD,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AFR,TGO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,SEAR,THA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EUR,TJK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,TKM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,SEAR,TLS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,TON,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,TTO,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,EMR,TUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,TUR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,WPR,TUV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AFR,TZA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,UGA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2010,EUR,UKR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2010,AMR,URY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2010,AMR,USA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,EUR,UZB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,VCT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AMR,VEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,VNM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,WPR,VUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,WPR,WSM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,EMR,YEM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,ZAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2010,AFR,ZMB,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2010,AFR,ZWE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EMR,AFG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,AGO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ALB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,AND,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EMR,ARE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,ARG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,ARM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,ATG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,AUS,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,AUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,AZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,BDI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,BEL,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,AFR,BEN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,BFA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,SEAR,BGD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,BGR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,BHR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,BHS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,BIH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,BLR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,BLZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,BOL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,BRA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,BRB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,BRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,SEAR,BTN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,BWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,CAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,CAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,CHE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,CHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,CHN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,CIV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,CMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,COD,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,COG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,COK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,COL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,COM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,CPV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,CRI,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,CUB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,CYP,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,EUR,CZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,DEU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,DJI,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AMR,DMA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,DNK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,DOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,DZA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,ECU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,EGY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,ERI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ESP,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,EST,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,ETH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,FIN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,FJI,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,FRA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,WPR,FSM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,GAB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,GBR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,GEO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,GHA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,GIN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,GMB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,GNB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,GNQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,GRC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,GRD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,GTM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,GUY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,HND,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,HRV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,HTI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,HUN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,SEAR,IDN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,SEAR,IND,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,EUR,IRL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,IRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,IRQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ISL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ISR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ITA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,AMR,JAM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,JOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,JPN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,KAZ,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,KEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,KGZ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,KHM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,KIR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,KNA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,KOR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,KWT,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,WPR,LAO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EMR,LBN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,LBR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,LBY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,LCA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,SEAR,LKA,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,LSO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,LTU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,LUX,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,LVA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EMR,MAR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,MCO,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,EUR,MDA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,MDG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,SEAR,MDV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,MEX,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,WPR,MHL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,MKD,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,MLI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,MLT,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,SEAR,MMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,MNE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,MNG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,MOZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,MRT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,MUS,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,MWI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,MYS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,NAM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,NER,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,NGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,NIC,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,WPR,NIU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,NLD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,NOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,SEAR,NPL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,NRU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,NZL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,OMN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,PAK,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,PAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,PER,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,PHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,PLW,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,WPR,PNG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,POL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,SEAR,PRK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,PRT,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AMR,PRY,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,QAT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,ROU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,RUS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,RWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EMR,SAU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,SDN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,SEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,SGP,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,WPR,SLB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,SLE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,SLV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,SMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EMR,SOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,SRB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,SSD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,STP,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,SUR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,SVK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,SVN,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2012,EUR,SWE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,SWZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,SYC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,SYR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,TCD,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AFR,TGO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,SEAR,THA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EUR,TJK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,TKM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,SEAR,TLS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,TON,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,TTO,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,EMR,TUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,TUR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,TUV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,AFR,TZA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,UGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2012,EUR,UKR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AMR,URY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,AMR,USA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,EUR,UZB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,VCT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AMR,VEN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2012,WPR,VNM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,WPR,VUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,WPR,WSM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,EMR,YEM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,ZAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2012,AFR,ZMB,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2012,AFR,ZWE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EMR,AFG,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,AGO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,ALB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,AND,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EMR,ARE,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,AMR,ARG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,ARM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,ATG,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,AUS,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,AUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,AZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,BDI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,BEL,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,AFR,BEN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,BFA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,SEAR,BGD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,BGR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,BHR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,BHS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,BIH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,BLR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,BLZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,BOL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,BRA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,BRB,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,BRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,SEAR,BTN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,BWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,CAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,CAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,CHE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,CHL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,CHN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,CIV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,CMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,COD,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,COG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,COK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,COL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,COM,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,CPV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,CRI,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,CUB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,CYP,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,EUR,CZE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,DEU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,DJI,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AMR,DMA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,DNK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,DOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,DZA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,ECU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,EGY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,ERI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,ESP,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,EST,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,ETH,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,FIN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,FJI,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,FRA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,WPR,FSM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,GAB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,GBR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,GEO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,GHA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,GIN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,GMB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,GNB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,GNQ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,GRC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,GRD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,GTM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,GUY,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,HND,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,HRV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,HTI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,HUN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,SEAR,IDN,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,SEAR,IND,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,EUR,IRL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,IRN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,IRQ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,ISL,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,ISR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,ITA,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,AMR,JAM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,JOR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,WPR,JPN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,KAZ,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,KEN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,KGZ,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,WPR,KHM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,KIR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,KNA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,KOR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,KWT,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,LAO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EMR,LBN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,LBR,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,LBY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,LCA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,SEAR,LKA,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,LSO,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,LTU,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,LUX,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,LVA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EMR,MAR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,MCO,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,EUR,MDA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,MDG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,SEAR,MDV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,MEX,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,WPR,MHL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,MKD,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,MLI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,MLT,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,SEAR,MMR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,EUR,MNE,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,WPR,MNG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,MOZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,MRT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,MUS,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,MWI,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,MYS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,NAM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,NER,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,NGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,NIC,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,NIU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,NLD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,NOR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,SEAR,NPL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,NRU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,NZL,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,OMN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,PAK,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,PAN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,PER,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,PHL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,WPR,PLW,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,PNG,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,POL,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,SEAR,PRK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,PRT,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AMR,PRY,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,QAT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,ROU,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,RUS,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,RWA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EMR,SAU,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,SDN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,SEN,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,SGP,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,WPR,SLB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,SLE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,SLV,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,SMR,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EMR,SOM,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,SRB,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,SSD,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,STP,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,SUR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,SVK,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,SVN,Data not reported/not categorized,1.0,,,
-P_Group,PUBLISHED,2014,EUR,SWE,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,SWZ,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,SYC,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,SYR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,TCD,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AFR,TGO,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,SEAR,THA,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EUR,TJK,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,TKM,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,SEAR,TLS,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,TON,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,TTO,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,EMR,TUN,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,TUR,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,TUV,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,AFR,TZA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,UGA,Three to five public places completely smoke-free,3.0,,,
-P_Group,PUBLISHED,2014,EUR,UKR,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AMR,URY,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,AMR,USA,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,EUR,UZB,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,VCT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AMR,VEN,All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation),5.0,,,
-P_Group,PUBLISHED,2014,WPR,VNM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,WPR,VUT,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,WPR,WSM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,EMR,YEM,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,ZAF,Up to two public places completely smoke-free,2.0,,,
-P_Group,PUBLISHED,2014,AFR,ZMB,Six to seven public places completely smoke-free,4.0,,,
-P_Group,PUBLISHED,2014,AFR,ZWE,Three to five public places completely smoke-free,3.0,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"P_Group","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"P_Group","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"P_Group","PUBLISHED","2007","EMR","AFG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","AGO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ALB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","AND","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","ARE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","ARG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ARM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","ATG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","AUS","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","AUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","AZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","BDI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","BEL","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","BEN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","BFA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","BGD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","BGR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","BHR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","BHS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","BIH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","BLR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","BLZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","BOL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","BRA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","BRB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","BRN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","BTN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","BWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","CAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","CAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","CHE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","CHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","CHN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","CIV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","CMR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","COD","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","COG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","COK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","COL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","COM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","CPV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","CRI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","CUB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","CYP","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","CZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","DEU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","DJI","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","DMA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","DNK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","DOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","DZA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","ECU","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","EGY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","ERI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ESP","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","EST","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","ETH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","FIN","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","FJI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","FRA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","FSM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GAB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","GBR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","GEO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GHA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GIN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GMB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GNB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","GNQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","GRC","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","GRD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","GTM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","GUY","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","HND","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","HRV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","HTI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","HUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","IDN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","IND","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","IRL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","IRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","IRQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ISL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ISR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ITA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","JAM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","JOR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","JPN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","KAZ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","KEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","KGZ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","KHM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","KIR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","KNA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","KOR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","KWT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","LAO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","LBN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","LBR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","LBY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","LCA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","LKA","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","LSO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","LTU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","LUX","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","LVA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","MAR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","MCO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","MDA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MDG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","MDV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","MEX","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","MHL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","MKD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MLI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","MLT","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","MMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","MNE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","MNG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MOZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MRT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MUS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","MWI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","MYS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","NAM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","NER","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","NGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","NIC","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","NIU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","NLD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","NOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","NPL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","NRU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","NZL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","OMN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","PAK","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","PAN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","PER","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","PHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","PLW","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","PNG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","POL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","PRK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","PRT","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","PRY","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","QAT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","ROU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","RUS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","RWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","SAU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","SDN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","SEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","SGP","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","SLB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","SLE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","SLV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","SMR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","SOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","SRB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","STP","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","SUR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","SVK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","SVN","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","SWE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","SWZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","SYC","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","SYR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","TCD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","TGO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","THA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","TJK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","TKM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","SEAR","TLS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","TON","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","TTO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","TUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","TUR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","TUV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","TZA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","UGA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","UKR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","URY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","USA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EUR","UZB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","VCT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AMR","VEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","VNM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","VUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","WPR","WSM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","EMR","YEM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","ZAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","ZMB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2007","AFR","ZWE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","AFG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","AGO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ALB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","AND","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","ARE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","ARG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ARM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","ATG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","AUS","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","AUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","AZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","BDI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","BEL","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","BEN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","BFA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","BGD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","BGR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","BHR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","BHS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","BIH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","BLR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","BLZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","BOL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","BRA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","BRB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","BRN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","BTN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","BWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","CAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","CAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","CHE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","CHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","CHN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","CIV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","CMR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","COD","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","COG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","COK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","COL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","COM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","CPV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","CRI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","CUB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","CYP","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","CZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","DEU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","DJI","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","DMA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","DNK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","DOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","DZA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","ECU","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","EGY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","ERI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ESP","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","EST","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","ETH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","FIN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","FJI","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","FRA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","FSM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GAB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","GBR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","GEO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GHA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GIN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GMB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GNB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","GNQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","GRC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","GRD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","GTM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","GUY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","HND","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","HRV","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","HTI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","HUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","IDN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","IND","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","IRL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","IRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","IRQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ISL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ISR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ITA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","JAM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","JOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","JPN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","KAZ","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","KEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","KGZ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","KHM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","KIR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","KNA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","KOR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","KWT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","LAO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","LBN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","LBR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","LBY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","LCA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","LKA","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","LSO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","LTU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","LUX","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","LVA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","MAR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","MCO","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","MDA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MDG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","MDV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","MEX","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","MHL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","MKD","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MLI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","MLT","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","MMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","MNE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","MNG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MOZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MRT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MUS","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","MWI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","MYS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","NAM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","NER","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","NGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","NIC","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","NIU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","NLD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","NOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","NPL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","NRU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","NZL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","OMN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","PAK","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","PAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","PER","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","PHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","PLW","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","PNG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","POL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","PRK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","PRT","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","PRY","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","QAT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","ROU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","RUS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","RWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","SAU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","SDN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","SEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","SGP","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","SLB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","SLE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","SLV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","SMR","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","SOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","SRB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","STP","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","SUR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","SVK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","SVN","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","SWE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","SWZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","SYC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","SYR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","TCD","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","TGO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","THA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","TJK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","TKM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","SEAR","TLS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","TON","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","TTO","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","TUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","TUR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","TUV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","TZA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","UGA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","UKR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","URY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","USA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","EUR","UZB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","VCT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AMR","VEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","VNM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","VUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","WPR","WSM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","EMR","YEM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","ZAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","ZMB","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2010","AFR","ZWE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","AFG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","AGO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ALB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","AND","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","ARE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","ARG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ARM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","ATG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","AUS","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","AUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","AZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","BDI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","BEL","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","BEN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","BFA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","BGD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","BGR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","BHR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","BHS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","BIH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","BLR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","BLZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","BOL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","BRA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","BRB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","BRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","BTN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","BWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","CAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","CAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","CHE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","CHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","CHN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","CIV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","CMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","COD","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","COG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","COK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","COL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","COM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","CPV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","CRI","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","CUB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","CYP","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","CZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","DEU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","DJI","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","DMA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","DNK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","DOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","DZA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","ECU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","EGY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","ERI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ESP","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","EST","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","ETH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","FIN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","FJI","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","FRA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","FSM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GAB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","GBR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","GEO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GHA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GIN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GMB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GNB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","GNQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","GRC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","GRD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","GTM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","GUY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","HND","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","HRV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","HTI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","HUN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","IDN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","IND","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","IRL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","IRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","IRQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ISL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ISR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ITA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","JAM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","JOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","JPN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","KAZ","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","KEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","KGZ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","KHM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","KIR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","KNA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","KOR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","KWT","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","LAO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","LBN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","LBR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","LBY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","LCA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","LKA","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","LSO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","LTU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","LUX","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","LVA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","MAR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","MCO","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","MDA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MDG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","MDV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","MEX","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","MHL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","MKD","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MLI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","MLT","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","MMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","MNE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","MNG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MOZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MRT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MUS","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","MWI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","MYS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","NAM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","NER","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","NGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","NIC","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","NIU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","NLD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","NOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","NPL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","NRU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","NZL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","OMN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","PAK","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","PAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","PER","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","PHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","PLW","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","PNG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","POL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","PRK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","PRT","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","PRY","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","QAT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","ROU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","RUS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","RWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","SAU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","SDN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","SEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","SGP","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","SLB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","SLE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","SLV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","SMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","SOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","SRB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","SSD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","STP","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","SUR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","SVK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","SVN","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","SWE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","SWZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","SYC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","SYR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","TCD","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","TGO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","THA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","TJK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","TKM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","SEAR","TLS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","TON","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","TTO","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","TUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","TUR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","TUV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","TZA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","UGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","UKR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","URY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","USA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","EUR","UZB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","VCT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AMR","VEN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","VNM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","VUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","WPR","WSM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","EMR","YEM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","ZAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","ZMB","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2012","AFR","ZWE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","AFG","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","AGO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ALB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","AND","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","ARE","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","ARG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ARM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","ATG","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","AUS","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","AUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","AZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","BDI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","BEL","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","BEN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","BFA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","BGD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","BGR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","BHR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","BHS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","BIH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","BLR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","BLZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","BOL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","BRA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","BRB","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","BRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","BTN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","BWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","CAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","CAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","CHE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","CHL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","CHN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","CIV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","CMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","COD","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","COG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","COK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","COL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","COM","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","CPV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","CRI","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","CUB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","CYP","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","CZE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","DEU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","DJI","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","DMA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","DNK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","DOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","DZA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","ECU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","EGY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","ERI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ESP","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","EST","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","ETH","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","FIN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","FJI","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","FRA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","FSM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GAB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","GBR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","GEO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GHA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GIN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GMB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GNB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","GNQ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","GRC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","GRD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","GTM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","GUY","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","HND","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","HRV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","HTI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","HUN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","IDN","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","IND","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","IRL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","IRN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","IRQ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ISL","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ISR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ITA","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","JAM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","JOR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","JPN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","KAZ","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","KEN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","KGZ","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","KHM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","KIR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","KNA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","KOR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","KWT","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","LAO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","LBN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","LBR","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","LBY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","LCA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","LKA","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","LSO","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","LTU","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","LUX","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","LVA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","MAR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","MCO","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","MDA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MDG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","MDV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","MEX","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","MHL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","MKD","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MLI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","MLT","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","MMR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","MNE","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","MNG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MOZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MRT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MUS","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","MWI","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","MYS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","NAM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","NER","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","NGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","NIC","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","NIU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","NLD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","NOR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","NPL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","NRU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","NZL","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","OMN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","PAK","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","PAN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","PER","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","PHL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","PLW","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","PNG","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","POL","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","PRK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","PRT","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","PRY","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","QAT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","ROU","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","RUS","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","RWA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","SAU","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","SDN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","SEN","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","SGP","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","SLB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","SLE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","SLV","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","SMR","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","SOM","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","SRB","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","SSD","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","STP","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","SUR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","SVK","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","SVN","Data not reported/not categorized","1.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","SWE","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","SWZ","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","SYC","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","SYR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","TCD","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","TGO","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","THA","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","TJK","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","TKM","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","SEAR","TLS","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","TON","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","TTO","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","TUN","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","TUR","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","TUV","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","TZA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","UGA","Three to five public places completely smoke-free","3.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","UKR","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","URY","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","USA","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","EUR","UZB","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","VCT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AMR","VEN","All public places completely smoke-free (or at least 90% of the population covered by complete subnational smoke-free legislation)","5.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","VNM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","VUT","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","WPR","WSM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","EMR","YEM","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","ZAF","Up to two public places completely smoke-free","2.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","ZMB","Six to seven public places completely smoke-free","4.00000","","",""
+"P_Group","PUBLISHED","2014","AFR","ZWE","Three to five public places completely smoke-free","3.00000","","",""

@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-M_Group,PUBLISHED,2007,EMR,AFG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,AGO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,ALB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,AND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EMR,ARE,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,ARG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,ARM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,ATG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,AUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,AUT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,AZE,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,BDI,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,BEL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,BEN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,BFA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,SEAR,BGD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,BGR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,BHR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,BHS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,BIH,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,BLR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,BLZ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,BOL,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,BRA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,BRB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,BRN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,SEAR,BTN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,BWA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,CAF,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,CAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,CHE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,CHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,WPR,CHN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,CIV,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,CMR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,COD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,COG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,COK,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,COL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,COM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,CPV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,CRI,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,CUB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,CYP,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,CZE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,DEU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EMR,DJI,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,DMA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,DNK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,DOM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,DZA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,ECU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,EGY,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,ERI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,ESP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,EST,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,ETH,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,FIN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,WPR,FJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,FRA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,WPR,FSM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,GAB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,GBR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,GEO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,GHA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,GIN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,GMB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,GNB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,GNQ,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,GRC,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,GRD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,GTM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,GUY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,HND,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,HRV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,HTI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,HUN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,SEAR,IDN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,SEAR,IND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,IRL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EMR,IRN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EMR,IRQ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,ISL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,ISR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,ITA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,JAM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EMR,JOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,WPR,JPN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,KAZ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,KEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,KGZ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,KHM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,KIR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,KNA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,KOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EMR,KWT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,LAO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,LBN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,LBR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EMR,LBY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,LCA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,SEAR,LKA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,LSO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,LTU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,LUX,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,LVA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EMR,MAR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,MCO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,MDA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,MDG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,SEAR,MDV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,MEX,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,MHL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,MKD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,MLI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,MLT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,SEAR,MMR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,MNE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,MNG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,MOZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,MRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,MUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,MWI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,MYS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,NAM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,NER,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,NGA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,NIC,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,WPR,NIU,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,NLD,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,NOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,SEAR,NPL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,NRU,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,NZL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,OMN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EMR,PAK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,PAN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AMR,PER,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,PHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,WPR,PLW,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,PNG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,POL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,SEAR,PRK,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,PRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,PRY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EMR,QAT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,ROU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,RUS,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,RWA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EMR,SAU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,SDN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,SEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,SGP,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,SLB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,SLE,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,SLV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,SMR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EMR,SOM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,EUR,SRB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,STP,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AMR,SUR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,SVK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,SVN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,SWE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,SWZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,SYC,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,SYR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,TCD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,TGO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,SEAR,THA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,TJK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,TKM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,SEAR,TLS,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,TON,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,TTO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EMR,TUN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EUR,TUR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,TUV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,TZA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,UGA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,EUR,UKR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,URY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AMR,USA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,EUR,UZB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AMR,VCT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,VNM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,WPR,VUT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,WPR,WSM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,EMR,YEM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2007,AFR,ZAF,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2007,AFR,ZMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2007,AFR,ZWE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,AFG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,AGO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,ALB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,AND,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EMR,ARE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,ARG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,ARM,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,ATG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,AUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,AUT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,AZE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,BDI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,BEL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,BEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,BFA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,SEAR,BGD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,BGR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,BHR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,BHS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,BIH,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,BLR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,BLZ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,BOL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,BRA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,BRB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,BRN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,SEAR,BTN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,BWA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,CAF,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AMR,CAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,CHE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,CHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,CHN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,CIV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,CMR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,COD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,COG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,COK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,COL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,COM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,CPV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,CRI,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,CUB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,CYP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,CZE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,DEU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,DJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,DMA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,DNK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,DOM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,DZA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,ECU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EMR,EGY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,ERI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,ESP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,EST,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,ETH,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,FIN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,FJI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,FRA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,FSM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,GAB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,GBR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,GEO,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,GHA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,GIN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,GMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,GNB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,GNQ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,GRC,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,GRD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,GTM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,GUY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,HND,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,HRV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,HTI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,HUN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,SEAR,IDN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,SEAR,IND,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,IRL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,IRN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,IRQ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,ISL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,ISR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,ITA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,JAM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EMR,JOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,JPN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,KAZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,KEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,KGZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,KHM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,KIR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,KNA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,KOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,KWT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,LAO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EMR,LBN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,LBR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EMR,LBY,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,LCA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,SEAR,LKA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,LSO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,LTU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,LUX,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,LVA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,MAR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,MCO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,MDA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,MDG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,SEAR,MDV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,MEX,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,MHL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,MKD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,MLI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,MLT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,SEAR,MMR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,MNE,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,MNG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,MOZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,MRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,MUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,MWI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,MYS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,NAM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,NER,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,NGA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AMR,NIC,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,WPR,NIU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,NLD,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,NOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,SEAR,NPL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,NRU,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,WPR,NZL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,OMN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EMR,PAK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,PAN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,PER,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,PHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,WPR,PLW,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,PNG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,POL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,SEAR,PRK,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,PRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,PRY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,QAT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,ROU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,RUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,RWA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,SAU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EMR,SDN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,SEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,SGP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,SLB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,SLE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,SLV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,SMR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,SOM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,EUR,SRB,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,STP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,SUR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,EUR,SVK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,SVN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,SWE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,SWZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AFR,SYC,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,SYR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,TCD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,TGO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,SEAR,THA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,TJK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,TKM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,SEAR,TLS,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,TON,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AMR,TTO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,TUN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,TUR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,TUV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,TZA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,UGA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EUR,UKR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,URY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,AMR,USA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2010,EUR,UZB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AMR,VCT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,VNM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,WPR,VUT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,WPR,WSM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,EMR,YEM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2010,AFR,ZAF,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2010,AFR,ZMB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AFR,ZWE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,AFG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,AGO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,ALB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,AND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,ARE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,ARG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,ARM,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,ATG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,AUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,AUT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,AZE,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,BDI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,BEL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,BEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,BFA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,SEAR,BGD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,BGR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,BHR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,BHS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,BIH,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,BLR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,BLZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,BOL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,BRA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,BRB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,BRN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,SEAR,BTN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,BWA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,CAF,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AMR,CAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,CHE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,CHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,CHN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,CIV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,CMR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,COD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,COG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,COK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,COL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,COM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,CPV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,CRI,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,CUB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,CYP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,CZE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,DEU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,DJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,DMA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,DNK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,DOM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,DZA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,ECU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,EGY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,ERI,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,ESP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,EST,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,ETH,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,FIN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,FJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,FRA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,FSM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,GAB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,GBR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,GEO,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,GHA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,GIN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,GMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,GNB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,GNQ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,GRC,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,GRD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,GTM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,GUY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,HND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,HRV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,HTI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,HUN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,SEAR,IDN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,SEAR,IND,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,IRL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,IRN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,IRQ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,ISL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,ISR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,ITA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,JAM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,JOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,JPN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,KAZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,KEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,KGZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,KHM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,KIR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,KNA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,KOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,KWT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,LAO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,LBN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,LBR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,LBY,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,LCA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,SEAR,LKA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,LSO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,LTU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,LUX,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,LVA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,MAR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,MCO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,MDA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,MDG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,SEAR,MDV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,MEX,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,MHL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,MKD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,MLI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,MLT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,SEAR,MMR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,MNE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,MNG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,MOZ,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,MRT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,MUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,MWI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,MYS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,NAM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,NER,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AFR,NGA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,NIC,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,WPR,NIU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,NLD,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,NOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,SEAR,NPL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,NRU,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,NZL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EMR,OMN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,PAK,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,PAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,PER,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,PHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,PLW,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,PNG,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,POL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,SEAR,PRK,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,PRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,PRY,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,QAT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,ROU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,RUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,RWA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,SAU,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,SDN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,SEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,SGP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,SLB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,SLE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AMR,SLV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,SMR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,SOM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,SRB,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,SSD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,STP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,SUR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EUR,SVK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,SVN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,SWE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,SWZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,SYC,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,SYR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,TCD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,TGO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,SEAR,THA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,TJK,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,EUR,TKM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,SEAR,TLS,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,TON,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,AMR,TTO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,EMR,TUN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,TUR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,WPR,TUV,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AFR,TZA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,UGA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EUR,UKR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,URY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AMR,USA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,EUR,UZB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AMR,VCT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,WPR,VNM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,VUT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2012,WPR,WSM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,EMR,YEM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,ZAF,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2012,AFR,ZMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2012,AFR,ZWE,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EMR,AFG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,AGO,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,ALB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,AND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,ARE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,ARG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,ARM,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,ATG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,AUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,AUT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,AZE,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,BDI,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,BEL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,BEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,BFA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,SEAR,BGD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,BGR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,BHR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AMR,BHS,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,BIH,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,BLR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,BLZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,BOL,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,BRA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,BRB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,BRN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,SEAR,BTN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,BWA,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,CAF,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AMR,CAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,CHE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,CHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,CHN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,CIV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,CMR,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,COD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,COG,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,COK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,COL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,COM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,CPV,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AMR,CRI,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,CUB,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,CYP,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,CZE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,DEU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,DJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,DMA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,DNK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,DOM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,DZA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,ECU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EMR,EGY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,ERI,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,ESP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,EST,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,ETH,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,FIN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,FJI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,FRA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,FSM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,GAB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,GBR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,GEO,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,GHA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,GIN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,GMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,GNB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,GNQ,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,GRC,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,GRD,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,GTM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AMR,GUY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,HND,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,HRV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,HTI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,HUN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,SEAR,IDN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,SEAR,IND,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,IRL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,IRN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,IRQ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,ISL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,ISR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,ITA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,JAM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,JOR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,JPN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,KAZ,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,KEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,KGZ,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,KHM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,KIR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,KNA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,KOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,KWT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,LAO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EMR,LBN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,LBR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,LBY,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,LCA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,SEAR,LKA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,LSO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,LTU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,LUX,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,LVA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,MAR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,MCO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,MDA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,MDG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,SEAR,MDV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,MEX,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,MHL,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,MKD,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,MLI,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,MLT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,SEAR,MMR,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,MNE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,MNG,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,MOZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,MRT,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,MUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,MWI,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,MYS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,NAM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,NER,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,NGA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,NIC,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,WPR,NIU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,NLD,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,NOR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,SEAR,NPL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,NRU,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,NZL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EMR,OMN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,PAK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,PAN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,PER,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,PHL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,PLW,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,PNG,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,POL,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,SEAR,PRK,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,PRT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,PRY,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,QAT,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,ROU,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,RUS,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,RWA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,SAU,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EMR,SDN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,SEN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,SGP,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,SLB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,SLE,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AMR,SLV,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,SMR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,SOM,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,SRB,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,SSD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,STP,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,SUR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,SVK,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,SVN,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,SWE,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,SWZ,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,SYC,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EMR,SYR,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,TCD,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AFR,TGO,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,SEAR,THA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,TJK,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,EUR,TKM,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,SEAR,TLS,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,WPR,TON,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,TTO,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EMR,TUN,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,EUR,TUR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,WPR,TUV,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,TZA,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,UGA,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EUR,UKR,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,URY,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AMR,USA,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,EUR,UZB,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2014,AMR,VCT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,VNM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,VUT,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,WPR,WSM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,EMR,YEM,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AFR,ZAF,"Recent, representative and periodic data for both adults and youth",4.0,,,
-M_Group,PUBLISHED,2014,AFR,ZMB,Recent and representative data for either adults or youth,2.0,,,
-M_Group,PUBLISHED,2014,AFR,ZWE,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required / not applicable
-M_Group,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required / not applicable
-M_Group,PUBLISHED,2007,AMR,VEN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2010,AMR,VEN,No known data or no recent data or data that are not both recent and representative,1.0,,,
-M_Group,PUBLISHED,2012,AMR,VEN,Recent and representative data for both adults and youth,3.0,,,
-M_Group,PUBLISHED,2014,AMR,VEN,Recent and representative data for both adults and youth,3.0,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"M_Group","PUBLISHED","2007","EMR","AFG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","AGO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ALB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","AND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","ARE","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","ARG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ARM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","ATG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","AUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","AUT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","AZE","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","BDI","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","BEL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","BEN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","BFA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","BGD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","BGR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","BHR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","BHS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","BIH","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","BLR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","BLZ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","BOL","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","BRA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","BRB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","BRN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","BTN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","BWA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","CAF","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","CAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","CHE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","CHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","CHN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","CIV","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","CMR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","COD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","COG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","COK","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","COL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","COM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","CPV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","CRI","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","CUB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","CYP","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","CZE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","DEU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","DJI","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","DMA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","DNK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","DOM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","DZA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","ECU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","EGY","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","ERI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ESP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","EST","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","ETH","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","FIN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","FJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","FRA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","FSM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GAB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","GBR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","GEO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GHA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GIN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GMB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GNB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","GNQ","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","GRC","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","GRD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","GTM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","GUY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","HND","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","HRV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","HTI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","HUN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","IDN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","IND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","IRL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","IRN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","IRQ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ISL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ISR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ITA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","JAM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","JOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","JPN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","KAZ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","KEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","KGZ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","KHM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","KIR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","KNA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","KOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","KWT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","LAO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","LBN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","LBR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","LBY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","LCA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","LKA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","LSO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","LTU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","LUX","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","LVA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","MAR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","MCO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","MDA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MDG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","MDV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","MEX","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","MHL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","MKD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MLI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","MLT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","MMR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","MNE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","MNG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MOZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","MWI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","MYS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","NAM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","NER","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","NGA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","NIC","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","NIU","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","NLD","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","NOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","NPL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","NRU","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","NZL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","OMN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","PAK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","PAN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","PER","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","PHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","PLW","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","PNG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","POL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","PRK","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","PRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","PRY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","QAT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","ROU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","RUS","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","RWA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","SAU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","SDN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","SEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","SGP","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","SLB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","SLE","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","SLV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","SMR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","SOM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","SRB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","STP","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","SUR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","SVK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","SVN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","SWE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","SWZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","SYC","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","SYR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","TCD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","TGO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","THA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","TJK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","TKM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","SEAR","TLS","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","TON","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","TTO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","TUN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","TUR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","TUV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","TZA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","UGA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","UKR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","URY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","USA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","EUR","UZB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AMR","VCT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","VNM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","VUT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","WPR","WSM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","EMR","YEM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","ZAF","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","ZMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","ZWE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","AFG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","AGO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ALB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","AND","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","ARE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","ARG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ARM","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","ATG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","AUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","AUT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","AZE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","BDI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","BEL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","BEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","BFA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","BGD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","BGR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","BHR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","BHS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","BIH","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","BLR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","BLZ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","BOL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","BRA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","BRB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","BRN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","BTN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","BWA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","CAF","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","CAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","CHE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","CHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","CHN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","CIV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","CMR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","COD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","COG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","COK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","COL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","COM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","CPV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","CRI","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","CUB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","CYP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","CZE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","DEU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","DJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","DMA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","DNK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","DOM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","DZA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","ECU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","EGY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","ERI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ESP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","EST","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","ETH","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","FIN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","FJI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","FRA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","FSM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GAB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","GBR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","GEO","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GHA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GIN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GNB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","GNQ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","GRC","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","GRD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","GTM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","GUY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","HND","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","HRV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","HTI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","HUN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","IDN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","IND","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","IRL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","IRN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","IRQ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ISL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ISR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ITA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","JAM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","JOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","JPN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","KAZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","KEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","KGZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","KHM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","KIR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","KNA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","KOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","KWT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","LAO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","LBN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","LBR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","LBY","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","LCA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","LKA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","LSO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","LTU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","LUX","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","LVA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","MAR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","MCO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","MDA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MDG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","MDV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","MEX","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","MHL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","MKD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MLI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","MLT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","MMR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","MNE","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","MNG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MOZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","MWI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","MYS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","NAM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","NER","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","NGA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","NIC","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","NIU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","NLD","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","NOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","NPL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","NRU","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","NZL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","OMN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","PAK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","PAN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","PER","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","PHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","PLW","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","PNG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","POL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","PRK","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","PRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","PRY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","QAT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","ROU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","RUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","RWA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","SAU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","SDN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","SEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","SGP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","SLB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","SLE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","SLV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","SMR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","SOM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","SRB","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","STP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","SUR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","SVK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","SVN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","SWE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","SWZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","SYC","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","SYR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","TCD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","TGO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","THA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","TJK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","TKM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","SEAR","TLS","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","TON","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","TTO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","TUN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","TUR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","TUV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","TZA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","UGA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","UKR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","URY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","USA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2010","EUR","UZB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","VCT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","VNM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","VUT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","WPR","WSM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","EMR","YEM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","ZAF","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","ZMB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AFR","ZWE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","AFG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","AGO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ALB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","AND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","ARE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","ARG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ARM","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","ATG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","AUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","AUT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","AZE","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","BDI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","BEL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","BEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","BFA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","BGD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","BGR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","BHR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","BHS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","BIH","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","BLR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","BLZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","BOL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","BRA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","BRB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","BRN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","BTN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","BWA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","CAF","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","CAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","CHE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","CHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","CHN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","CIV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","CMR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","COD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","COG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","COK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","COL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","COM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","CPV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","CRI","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","CUB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","CYP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","CZE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","DEU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","DJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","DMA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","DNK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","DOM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","DZA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","ECU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","EGY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","ERI","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ESP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","EST","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","ETH","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","FIN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","FJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","FRA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","FSM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GAB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","GBR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","GEO","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GHA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GIN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GNB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","GNQ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","GRC","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","GRD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","GTM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","GUY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","HND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","HRV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","HTI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","HUN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","IDN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","IND","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","IRL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","IRN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","IRQ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ISL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ISR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ITA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","JAM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","JOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","JPN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","KAZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","KEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","KGZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","KHM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","KIR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","KNA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","KOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","KWT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","LAO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","LBN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","LBR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","LBY","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","LCA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","LKA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","LSO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","LTU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","LUX","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","LVA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","MAR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","MCO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","MDA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MDG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","MDV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","MEX","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","MHL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","MKD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MLI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","MLT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","MMR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","MNE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","MNG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MOZ","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MRT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","MWI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","MYS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","NAM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","NER","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","NGA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","NIC","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","NIU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","NLD","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","NOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","NPL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","NRU","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","NZL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","OMN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","PAK","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","PAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","PER","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","PHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","PLW","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","PNG","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","POL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","PRK","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","PRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","PRY","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","QAT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","ROU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","RUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","RWA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","SAU","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","SDN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","SEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","SGP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","SLB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","SLE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","SLV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","SMR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","SOM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","SRB","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","SSD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","STP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","SUR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","SVK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","SVN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","SWE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","SWZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","SYC","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","SYR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","TCD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","TGO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","THA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","TJK","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","TKM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","SEAR","TLS","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","TON","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","TTO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","TUN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","TUR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","TUV","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","TZA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","UGA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","UKR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","URY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","USA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","EUR","UZB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","VCT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","VNM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","VUT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2012","WPR","WSM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","EMR","YEM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","ZAF","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","ZMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2012","AFR","ZWE","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","AFG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","AGO","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ALB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","AND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","ARE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","ARG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ARM","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","ATG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","AUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","AUT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","AZE","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","BDI","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","BEL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","BEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","BFA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","BGD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","BGR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","BHR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","BHS","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","BIH","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","BLR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","BLZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","BOL","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","BRA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","BRB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","BRN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","BTN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","BWA","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","CAF","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","CAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","CHE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","CHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","CHN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","CIV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","CMR","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","COD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","COG","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","COK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","COL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","COM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","CPV","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","CRI","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","CUB","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","CYP","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","CZE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","DEU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","DJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","DMA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","DNK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","DOM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","DZA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","ECU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","EGY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","ERI","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ESP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","EST","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","ETH","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","FIN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","FJI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","FRA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","FSM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GAB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","GBR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","GEO","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GHA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GIN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GNB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","GNQ","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","GRC","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","GRD","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","GTM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","GUY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","HND","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","HRV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","HTI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","HUN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","IDN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","IND","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","IRL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","IRN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","IRQ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ISL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ISR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ITA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","JAM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","JOR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","JPN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","KAZ","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","KEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","KGZ","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","KHM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","KIR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","KNA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","KOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","KWT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","LAO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","LBN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","LBR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","LBY","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","LCA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","LKA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","LSO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","LTU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","LUX","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","LVA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","MAR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","MCO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","MDA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MDG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","MDV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","MEX","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","MHL","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","MKD","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MLI","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","MLT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","MMR","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","MNE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","MNG","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MOZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MRT","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","MWI","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","MYS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","NAM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","NER","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","NGA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","NIC","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","NIU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","NLD","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","NOR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","NPL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","NRU","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","NZL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","OMN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","PAK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","PAN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","PER","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","PHL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","PLW","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","PNG","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","POL","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","PRK","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","PRT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","PRY","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","QAT","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","ROU","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","RUS","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","RWA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","SAU","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","SDN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","SEN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","SGP","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","SLB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","SLE","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","SLV","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","SMR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","SOM","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","SRB","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","SSD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","STP","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","SUR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","SVK","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","SVN","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","SWE","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","SWZ","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","SYC","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","SYR","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","TCD","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","TGO","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","THA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","TJK","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","TKM","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","SEAR","TLS","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","TON","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","TTO","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","TUN","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","TUR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","TUV","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","TZA","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","UGA","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","UKR","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","URY","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","USA","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","EUR","UZB","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","VCT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","VNM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","VUT","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","WPR","WSM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","EMR","YEM","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","ZAF","Recent, representative and periodic data for both adults and youth","4.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","ZMB","Recent and representative data for either adults or youth","2.00000","","",""
+"M_Group","PUBLISHED","2014","AFR","ZWE","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"M_Group","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"M_Group","PUBLISHED","2007","AMR","VEN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2010","AMR","VEN","No known data or no recent data or data that are not both recent and representative","1.00000","","",""
+"M_Group","PUBLISHED","2012","AMR","VEN","Recent and representative data for both adults and youth","3.00000","","",""
+"M_Group","PUBLISHED","2014","AMR","VEN","Recent and representative data for both adults and youth","3.00000","","",""

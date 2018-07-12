@@ -1,481 +1,481 @@
-GHO,DATASOURCE,PUBLISHSTATE,YEAR,REGION,COUNTRY,EDUCATIONLEVEL,SEX,RESIDENCEAREATYPE,WEALTHQUINTILE,Display Value,Numeric,Low,High,Comments
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,MLE,,,4.2,4.15,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,MLE,,,1.2,1.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,FMLE,,,7.0,7.0,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,FMLE,,,2.1,2.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,FMLE,,,5.6,5.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,MLE,,,17.0,17.04,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,MLE,,,7.5,7.52,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,FMLE,,,3.1,3.14,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,MLE,,,5.0,4.98,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,FMLE,,,5.8,5.8,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,URB,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,URB,,6.9,6.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,URB,,4.6,4.65,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,URB,,3.5,3.46,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,URB,,4.4,4.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,RUR,,6.3,6.34,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,URB,,23.9,23.89,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,RUR,,13.4,13.4,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,URB,,21.4,21.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,RUR,,4.1,4.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,URB,,13.9,13.88,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,,WQ3,7.7,7.66,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,,WQ4,16.2,16.25,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,,WQ5,13.4,13.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,,WQ3, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,,WQ3,0.0,0.0,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,,WQ3,16.6,16.57,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,,WQ4,11.9,11.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,,WQ1,14.1,14.06,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,,WQ2,4.9,4.91,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,,WQ3,4.0,4.03,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,,WQ2,2.5,2.52,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,,WQ1,1.0,1.0,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,,WQ2,9.5,9.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,,WQ1,10.6,10.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,,WQ3,2.0,2.03,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,,WQ2, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,,WQ4,3.0,3.04,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,,WQ3,8.5,8.48,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,,WQ1,1.8,1.82,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,,WQ2,22.3,22.29,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,,WQ4,24.6,24.55,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,,WQ2,8.6,8.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,,WQ3,3.5,3.52,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,,WQ4,25.8,25.78,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,,WQ1,3.2,3.24,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,,WQ3,2.5,2.51,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,,WQ1,5.1,5.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,,WQ4,9.0,8.97,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,NHLM,,,,7.0,7.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,SHLM,,,,23.4,23.39,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,NHLM,,,,1.4,1.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,NHLM,,,,0.1,0.14,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,SHLM,,,,0.8,0.85,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,PRLM,,,,3.6,3.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,NHLM,,,,1.5,1.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,NHLM,,,,8.8,8.81,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,PRLM,,,,14.9,14.94,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,NHLM,,,,11.0,10.98,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,NHLM,,,,5.8,5.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,SHLM,,,,5.8,5.83,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,SHLM,,,,7.4,7.4,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,PRLM,,,,17.0,17.02,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,NHLM,,,,3.0,2.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,NHLM,,,,19.0,18.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,PRLM,,,,2.6,2.61,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,NHLM,,,,1.8,1.78,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,PRLM,,,,3.3,3.27,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,PRLM,,,,4.8,4.82,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,FMLE,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,FMLE,,,9.2,9.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,MLE,,,12.7,12.69,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,FMLE,,,6.1,6.08,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,FMLE,,,3.6,3.6,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,MLE,,,17.6,17.57,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,MLE,,,6.6,6.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,FMLE,,,5.6,5.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,FMLE,,,6.3,6.33,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,MLE,,,24.1,24.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,FMLE,,,2.0,2.03,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,MLE,,,5.8,5.81,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,URB,,27.1,27.06,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,RUR,,9.3,9.27,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,URB,,17.4,17.4,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,URB,,2.4,2.41,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,URB,,6.5,6.49,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,RUR,,5.7,5.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,RUR,,19.7,19.71,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,URB,,24.2,24.21,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,,WQ2,7.1,7.09,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,,WQ3,25.0,25.03,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,,WQ5,14.8,14.82,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,,WQ4,15.2,15.16,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,,WQ5,30.7,30.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,,WQ1,4.5,4.49,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,,WQ1,1.7,1.71,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,,WQ2,2.4,2.39,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,,WQ4,0.6,0.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,,WQ1,8.0,8.04,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,,WQ4,4.6,4.65,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,,WQ5,5.1,5.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,,WQ5,19.7,19.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,,WQ2,5.1,5.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,,WQ3,7.2,7.17,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,,WQ5,3.3,3.26,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,,WQ3,15.4,15.43,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,,WQ4,12.7,12.74,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,,WQ5,10.1,10.12,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,,WQ3,14.9,14.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,,WQ4,2.5,2.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,,WQ5,3.8,3.8,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,,WQ1,0.6,0.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,,WQ1,2.2,2.25,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,,WQ5,12.0,12.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,,WQ4,9.0,9.04,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,,WQ3,4.0,3.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,,WQ4,3.5,3.5,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,,WQ3,4.0,3.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,,WQ5,16.8,16.82,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,SHLM,,,,12.5,12.52,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,PRLM,,,,10.2,10.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,NHLM,,,,3.6,3.56,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,SHLM,,,,1.6,1.65,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,NHLM,,,,0.0,0.0,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,PRLM,,,,2.4,2.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,SHLM,,,,3.3,3.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,NHLM,,,,5.8,5.76,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,PRLM,,,,6.8,6.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,SHLM,,,,10.3,10.3,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,NHLM,,,,21.0,20.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,SHLM,,,,0.0,0.0,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,NHLM,,,,1.6,1.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,PRLM,,,,2.0,2.05,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,NHLM,,,,4.3,4.3,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,PRLM,,,,3.0,3.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,NHLM,,,,11.9,11.88,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,SHLM,,,,8.4,8.35,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,MLE,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,MLE,,,16.0,15.99,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,FMLE,,,5.7,5.69,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,FMLE,,,1.6,1.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,MLE,,,14.0,14.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,MLE,,,2.8,2.77,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,MLE,,,7.0,6.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,FMLE,,,19.0,18.95,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,MLE,,,21.4,21.35,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,FMLE,,,13.9,13.94,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,FMLE,,,7.5,7.53,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,FMLE,,,2.2,2.22,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,FMLE,,,4.0,3.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,RUR,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,URB,,19.3,19.27,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,URB,,1.6,1.61,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,URB,,17.9,17.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,RUR,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,URB,,9.3,9.31,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,URB,,2.1,2.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,URB,,19.8,19.79,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,RUR,,3.4,3.37,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,URB,,1.0,1.05,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,URB,,8.8,8.78,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,RUR,,4.6,4.6,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,,WQ3,12.6,12.65,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,,WQ4,12.2,12.2,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,,WQ4,0.4,0.41,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,,WQ5,4.5,4.52,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,,WQ2,14.0,14.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,,WQ1,3.2,3.16,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,,WQ3,17.7,17.72,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,,WQ1,5.9,5.86,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,,WQ1,7.1,7.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,,WQ1,4.9,4.94,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,,WQ2,9.0,8.97,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,,WQ1,9.9,9.9,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,,WQ2,3.2,3.19,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,,WQ3,2.9,2.91,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,,WQ4,8.0,7.98,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,,WQ5,7.7,7.68,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,,WQ1,11.6,11.61,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,,WQ3,29.8,29.77,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,,WQ5,28.2,28.15,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,,WQ3,31.6,31.64,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,,WQ3,21.0,21.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,,WQ4,18.1,18.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,,WQ1,20.7,20.74,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,,WQ2,22.9,22.89,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,,WQ3,22.2,22.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,,WQ1,1.0,0.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,,WQ1,3.2,3.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,,WQ2,1.8,1.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,,WQ3,5.7,5.67,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,,WQ1,3.8,3.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,,WQ3,7.3,7.26,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,PRLM,,,,7.1,7.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,SHLM,,,,13.0,13.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,SHLM,,,,6.2,6.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,PRLM,,,,3.7,3.68,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,SHLM,,,,8.4,8.37,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,SHLM,,,,6.0,6.04,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,PRLM,,,,6.0,5.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,PRLM,,,,6.6,6.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,SHLM,,,,6.8,6.82,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,SHLM,,,,19.1,19.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,SHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,SHLM,,,,15.7,15.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,PRLM,,,,2.4,2.39,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,NHLM,,,,4.7,4.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,NHLM,,,,1.6,1.6,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,SHLM,,,,31.1,31.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,PRLM,,,,7.0,7.03,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,FMLE,,,8.2,8.15,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,MLE,,,22.0,22.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,FMLE,,,12.5,12.53,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,FMLE,,,22.8,22.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,FMLE,,,17.3,17.34,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,FMLE,,,5.6,5.64,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,MLE,,,6.0,5.97,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,MLE,,,5.0,5.05,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,MLE,,,2.7,2.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,MLE,,,25.0,25.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,FMLE,,,23.8,23.77,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,FMLE,,,20.4,20.41,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,MLE,,,3.5,3.48,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,FMLE,,,3.7,3.69,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,RUR,,7.7,7.72,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,URB,,9.4,9.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,RUR,,19.6,19.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,RUR,,1.3,1.29,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,RUR,,17.5,17.48,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,URB,,11.6,11.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,URB,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,RUR,,5.8,5.8,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,URB,,8.8,8.85,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,RUR,,18.8,18.77,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,URB,,3.2,3.19,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,RUR,,2.7,2.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,URB,,7.4,7.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,,WQ3, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,,WQ1,9.8,9.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,,WQ2,1.6,1.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,,WQ1,4.0,3.97,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,,WQ2,24.4,24.44,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,,WQ4,16.9,16.93,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,,WQ1,0.1,0.08,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,,WQ2,0.0,0.02,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,,WQ3,0.0,0.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,,WQ2, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,,WQ3,3.8,3.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,,WQ4,2.3,2.31,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,,WQ5,3.2,3.17,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,,WQ3,12.4,12.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,,WQ4,22.3,22.33,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,,WQ2,1.5,1.49,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,,WQ3,3.5,3.48,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,,WQ1,6.0,5.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,,WQ3,6.8,6.78,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,,WQ4,17.8,17.78,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,,WQ3,23.3,23.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,,WQ5,7.5,7.5,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,,WQ1,14.1,14.06,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,,WQ4,21.9,21.91,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,,WQ2,1.2,1.24,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,,WQ3,2.1,2.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,,WQ4,3.8,3.79,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,,WQ2,2.0,1.98,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,,WQ5,4.6,4.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,,WQ5,3.3,3.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,,WQ1,2.1,2.14,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,SHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,SHLM,,,,18.0,17.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,NHLM,,,,7.9,7.86,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,NHLM,,,,1.9,1.94,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,PRLM,,,,4.9,4.86,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,NHLM,,,,13.5,13.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,PRLM,,,,16.4,16.38,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,SHLM,,,,19.4,19.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,NHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,NHLM,,,,1.3,1.29,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,SHLM,,,,7.8,7.81,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,PRLM,,,,3.7,3.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,SHLM,,,,28.0,28.0,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,PRLM,,,,27.2,27.25,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,SHLM,,,,6.4,6.39,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,MLE,,,9.7,9.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,MLE,,,9.4,9.38,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,MLE,,,0.1,0.06,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,FMLE,,,2.8,2.85,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,MLE,,,12.2,12.2,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,FMLE,,,14.2,14.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,MLE,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,FMLE,,,11.2,11.17,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,MLE,,,2.4,2.41,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,MLE,,,1.9,1.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,MLE,,,6.3,6.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,RUR,,21.6,21.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,URB,,17.3,17.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,RUR,,4.4,4.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,,RUR,,1.5,1.5,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,URB,,1.3,1.33,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,RUR,,0.2,0.19,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,,RUR,,10.8,10.77,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,RUR,,3.7,3.66,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,RUR,,3.5,3.53,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,URB,,3.6,3.63,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,RUR,,6.3,6.29,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,,RUR,,11.4,11.38,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,RUR,,2.6,2.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,RUR,,23.0,22.99,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,URB,,12.6,12.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,RUR,,11.2,11.2,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,RUR,,17.7,17.68,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,RUR,,26.1,26.09,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,URB,,4.2,4.17,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,RUR,,7.0,6.99,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,RUR,,2.2,2.24,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,RUR,,2.6,2.56,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,RUR,,4.8,4.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,,WQ1, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,,WQ2, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,,WQ1,19.0,19.01,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,,WQ1,6.5,6.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,,,,WQ2,6.8,6.82,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,,WQ1,10.2,10.19,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,,WQ2,12.0,12.0,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,,WQ3,12.8,12.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,,WQ2,10.2,10.17,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,,,WQ5,1.4,1.4,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,,,WQ1,2.3,2.33,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,,WQ1,14.7,14.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,,WQ2,19.8,19.78,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,IDN,,,,WQ4,19.4,19.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,,WQ2, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,,WQ3, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,,WQ3,6.6,6.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,,WQ2,14.0,13.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,,,WQ1,2.2,2.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,,WQ3, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,,WQ5,7.0,6.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,,WQ2,5.9,5.94,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,,,,WQ5,12.8,12.8,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,,WQ2,1.7,1.69,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,,WQ1,2.7,2.66,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,,,,WQ4,4.1,4.12,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,,WQ2,4.0,4.05,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,,WQ2,3.2,3.16,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,,,,WQ4,11.9,11.92,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,PRLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,NHLM,,,,15.3,15.26,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,PRLM,,,,21.7,21.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,PRLM,,,,0.6,0.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,SHLM,,,,5.8,5.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,NHLM,,,,1.2,1.22,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,PRLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,NHLM,,,,7.7,7.67,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,SHLM,,,,5.2,5.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,SHLM,,,,11.9,11.91,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,PRLM,,,,14.7,14.72,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,PRLM,,,,12.1,12.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,SEAR,NPL,PRLM,,,,6.5,6.49,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,PRLM,,,,4.0,4.05,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,SHLM,,,,21.3,21.34,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,PRLM,,,,24.4,24.37,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,SHLM,,,,24.6,24.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,NHLM,,,,3.3,3.26,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,SHLM,,,,7.5,7.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,NHLM,,,,3.9,3.88,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,FMLE,,,20.2,20.23,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AMR,COL,,MLE,,,3.8,3.83,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,MLE,,,1.7,1.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,,FMLE,,,1.3,1.34,,,
-pnchome3,EQ_DHS,PUBLISHED,2011,AFR,ETH,,FMLE,,,0.5,0.49,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,MLE,,,11.9,11.89,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,,FMLE,,,11.8,11.85,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,MLE,,,20.4,20.42,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HTI,,MLE,,,4.2,4.21,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,MLE,,,2.4,2.43,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,LBR,,FMLE,,,10.6,10.6,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,,FMLE,,,2.4,2.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,FMLE,,,14.2,14.25,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,MLE,,,11.6,11.64,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,FMLE,,,3.1,3.11,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,MLE,,,2.2,2.22,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,FMLE,,,4.6,4.62,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,MLE,,,18.4,18.36,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,FMLE,,,21.8,21.79,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,MLE,,,2.4,2.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,URB,,8.7,8.74,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,,,RUR,,9.0,8.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,,,RUR,,12.4,12.39,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,URB,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,URB,,2.1,2.13,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,URB,,2.5,2.46,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,SEAR,NPL,,,RUR,,2.2,2.25,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,RUR,,2.2,2.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,URB,,13.2,13.2,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,URB,,27.6,27.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,RUR,,21.6,21.59,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,URB,,13.3,13.34,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,URB,,9.4,9.35,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,EUR,ALB,,,,WQ4, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,,,,WQ3,22.6,22.57,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,,WQ3, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,,WQ4,8.1,8.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,AMR,HND,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,,WQ2,1.3,1.29,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,,,,WQ3,1.4,1.41,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,EMR,JOR,,,,WQ5, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,KEN,,,,WQ4,5.8,5.79,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AFR,LSO,,,,WQ4,7.2,7.18,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,,WQ4,16.9,16.87,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,MDG,,,,WQ5,21.9,21.89,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,,,,WQ1, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,,WQ1,9.4,9.43,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,NAM,,,,WQ2,11.1,11.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,NGA,,,,WQ4,5.2,5.16,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EMR,PAK,,,,WQ2,4.4,4.45,,,
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,,,,WQ5, ,,,,Continuous DHS 2004-2008. Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,,WQ1,25.1,25.09,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,WPR,PHL,,,,WQ2,23.7,23.69,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,,WQ2,2.7,2.67,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,RWA,,,,WQ4,4.1,4.1,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,,,,WQ2,11.0,10.97,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,,WQ1,15.4,15.35,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,,,,WQ2,25.0,24.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,,,,WQ5,30.3,30.28,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,,,,WQ1,4.1,4.08,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,,,,WQ5,4.0,3.99,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,,,,WQ3,2.2,2.24,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,,WQ4,6.3,6.33,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,,,,WQ5,16.3,16.32,,,Attention. Low sample size- Estimate is based on 25-49 cases.
-pnchome3,EQ_DHS,PUBLISHED,2005,AFR,ZWE,,,,WQ2,4.4,4.44,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,EUR,AZE,PRLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2007,SEAR,BGD,NHLM,,,,5.7,5.73,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AMR,BOL,SHLM,,,,22.7,22.66,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,WPR,KHM,PRLM,,,,8.6,8.58,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,WPR,KHM,PRLM,,,,12.4,12.4,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,PRLM,,,,1.7,1.68,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,EMR,EGY,SHLM,,,,1.5,1.54,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,NHLM,,,,8.8,8.83,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,GHA,SHLM,,,,20.0,19.96,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,PRLM,,,,6.8,6.75,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,AMR,GUY,SHLM,,,,31.5,31.46,,,
-pnchome3,EQ_DHS,PUBLISHED,2005,SEAR,IND,PRLM,,,,1.8,1.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,MWI,NHLM,,,,3.0,2.95,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,MDV,PRLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2004,AMR,PER,NHLM,,,,16.7,16.74,,,Continuous DHS 2004-2008. 
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,PRLM,,,,18.9,18.91,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,STP,SHLM,,,, ,,,,Not reported due to very low sample size- Estimate is based on fewer than 25 cases.
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,SEN,PRLM,,,,21.0,20.98,,,
-pnchome3,EQ_DHS,PUBLISHED,2008,AFR,SLE,NHLM,,,,21.3,21.33,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,SWZ,SHLM,,,,10.1,10.12,,,
-pnchome3,EQ_DHS,PUBLISHED,2009,SEAR,TLS,SHLM,,,,2.7,2.7,,,
-pnchome3,EQ_DHS,PUBLISHED,2006,AFR,UGA,NHLM,,,,2.3,2.3,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,TZA,SHLM,,,,1.8,1.84,,,
-pnchome3,EQ_DHS,PUBLISHED,2007,AFR,ZMB,SHLM,,,,6.8,6.81,,,
-pnchome3,EQ_DHS,PUBLISHED,2010,AFR,ZWE,PRLM,,,,3.2,3.16,,,
+"GHO","DATASOURCE","PUBLISHSTATE","YEAR","REGION","COUNTRY","EDUCATIONLEVEL","SEX","RESIDENCEAREATYPE","WEALTHQUINTILE","Display Value","Numeric","Low","High","Comments"
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","FMLE","","","5.7","5.69000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","MLE","","","9.7","9.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","FMLE","","","2.8","2.85000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","FMLE","","","1.6","1.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","FMLE","","","7.0","7.00000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","FMLE","","","5.6","5.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","FMLE","","","13.9","13.94000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","FMLE","","","2.2","2.22000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","RUR",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","URB","","19.3","19.27000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","URB","","17.3","17.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","RUR","","4.4","4.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","URB","","1.6","1.61000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","RUR","","10.8","10.77000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","RUR","","3.7","3.66000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","URB","","3.5","3.46000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","RUR","","6.3","6.29000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","RUR","","13.4","13.40000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","URB","","2.1","2.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","RUR","","17.7","17.68000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","RUR","","26.1","26.09000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","RUR","","3.4","3.37000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","RUR","","4.1","4.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","URB","","13.9","13.88000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","","WQ1"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","","WQ3","7.7","7.66000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","","WQ5","13.4","13.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","","WQ2","6.8","6.82000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","","WQ4","12.2","12.20000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","","WQ3","0.0","0.00000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","","WQ5","4.5","4.52000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","","WQ2","14.0","14.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","","WQ4","11.9","11.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","","WQ1","3.2","3.16000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","","WQ2"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","","WQ1","7.1","7.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","","WQ2","9.5","9.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","","WQ2","5.9","5.94000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","","WQ4","8.0","7.98000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","","WQ1","1.8","1.82000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","","WQ2","22.3","22.29000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","","WQ3","3.5","3.52000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","","WQ1","5.1","5.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","PRLM","","","","7.1","7.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","NHLM","","","","15.3","15.26000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","PRLM","","","","0.6","0.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","PRLM","","","","3.6","3.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","PRLM","","","","3.7","3.68000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","PRLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","NHLM","","","","7.7","7.67000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","SHLM","","","","5.2","5.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","PRLM","","","","2.4","2.39000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","SHLM","","","","24.6","24.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","PRLM","","","","3.3","3.27000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","FMLE","","","8.2","8.15000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","FMLE","","","12.5","12.53000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","MLE","","","1.7","1.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","MLE","","","17.6","17.57000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","MLE","","","6.0","5.97000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","FMLE","","","3.1","3.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","FMLE","","","20.4","20.41000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","MLE","","","24.1","24.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","MLE","","","3.5","3.48000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","RUR","","12.4","12.39000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","URB","","2.1","2.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","RUR","","5.8","5.80000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","URB","","6.5","6.49000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","RUR","","19.7","19.71000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","URB","","24.2","24.21000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","RUR","","2.7","2.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","URB","","9.4","9.35000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","","WQ5","14.8","14.82000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","","WQ5","30.7","30.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","","WQ2","2.4","2.39000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","","WQ4","4.6","4.65000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","","WQ4","8.1","8.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","","WQ3","15.4","15.43000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","","WQ5","10.1","10.12000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","","WQ3","14.9","14.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","","WQ5","21.9","21.89000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","","WQ4","5.2","5.16000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","","WQ2","4.4","4.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","","WQ4","9.0","9.04000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","","WQ3","4.0","3.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","","WQ5","7.5","7.50000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","","WQ1","15.4","15.35000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","","WQ2","2.0","1.98000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","","WQ4","3.5","3.50000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","","WQ4","6.3","6.33000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","SHLM","","","","12.5","12.52000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","NHLM","","","","5.7","5.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","NHLM","","","","7.9","7.86000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","NHLM","","","","1.9","1.94000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","SHLM","","","","1.5","1.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","PRLM","","","","10.2","10.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","NHLM","","","","3.6","3.56000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","PRLM","","","","1.8","1.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","NHLM","","","","0.0","0.00000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","NHLM","","","","3.0","2.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","SHLM","","","","3.3","3.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","SHLM","","","","7.8","7.81000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","PRLM","","","","21.0","20.98000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","NHLM","","","","4.3","4.30000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","SHLM","","","","6.4","6.39000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","NHLM","","","","11.9","11.88000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","SHLM","","","","8.4","8.35000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","MLE","","","9.4","9.38000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","MLE","","","0.1","0.06000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","MLE","","","14.0","14.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","MLE","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","FMLE","","","2.1","2.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","MLE","","","1.9","1.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","URB",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","RUR","","21.6","21.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","RUR","","1.5","1.50000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","URB","","3.6","3.63000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","URB","","12.6","12.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","URB","","19.8","19.79000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","URB","","4.2","4.17000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","RUR","","2.2","2.24000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","RUR","","4.8","4.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","","WQ2"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","","WQ3","12.6","12.65000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","","WQ4","0.4","0.41000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","","WQ3","16.6","16.57000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","","WQ3","4.0","4.03000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","","WQ1","1.0","1.00000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","","WQ4","19.4","19.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","","WQ1","5.9","5.86000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","","WQ1","9.9","9.90000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","","WQ2","14.0","13.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","","WQ2","3.2","3.19000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","","WQ4","3.0","3.04000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","","WQ5","12.8","12.80000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","","WQ5","7.7","7.68000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","","WQ1","11.6","11.61000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","","WQ4","25.8","25.78000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","","WQ1","3.2","3.24000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","","WQ1","3.2","3.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","","WQ4","11.9","11.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","PRLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","NHLM","","","","0.1","0.14000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","SHLM","","","","5.8","5.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","SHLM","","","","8.4","8.37000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","SHLM","","","","6.0","6.04000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","PRLM","","","","14.7","14.72000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","SHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","NHLM","","","","5.8","5.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","NHLM","","","","4.7","4.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","PRLM","","","","4.0","4.05000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","SHLM","","","","21.3","21.34000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","PRLM","","","","24.4","24.37000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","NHLM","","","","3.0","2.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","NHLM","","","","19.0","18.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","SHLM","","","","31.1","31.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","PRLM","","","","7.0","7.03000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","FMLE","","","20.2","20.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","FMLE","","","9.2","9.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","FMLE","","","6.1","6.08000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","FMLE","","","0.5","0.49000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","MLE","","","11.9","11.89000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","FMLE","","","22.8","22.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","FMLE","","","3.6","3.60000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","MLE","","","2.4","2.43000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","FMLE","","","5.6","5.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","FMLE","","","14.2","14.25000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","FMLE","","","6.3","6.33000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","MLE","","","25.0","25.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","MLE","","","2.2","2.22000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","URB","","27.1","27.06000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","RUR","","9.0","8.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","RUR","","9.3","9.27000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","RUR","","19.6","19.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","RUR","","17.5","17.48000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","URB","","2.5","2.46000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","RUR","","5.7","5.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","URB","","27.6","27.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","","WQ3"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","","WQ1","9.8","9.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","","WQ2","1.6","1.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","","WQ1","4.0","3.97000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","","WQ4","16.9","16.93000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","","WQ2","0.0","0.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","","WQ3","0.0","0.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","","WQ1","8.0","8.04000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","","WQ2","1.3","1.29000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","","WQ3","1.4","1.41000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","","WQ5","19.7","19.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","","WQ2","5.1","5.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","","WQ5","3.3","3.26000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","","WQ4","2.5","2.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","","WQ1","9.4","9.43000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","","WQ4","22.3","22.33000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","","WQ2","1.5","1.49000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","","WQ1","25.1","25.09000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","","WQ2","23.7","23.69000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","","WQ5","30.3","30.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","","WQ4","3.8","3.79000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","","WQ5","4.0","3.99000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","","WQ1","2.1","2.14000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","","WQ5","16.8","16.82000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","SHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","SHLM","","","","18.0","17.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","SHLM","","","","31.5","31.46000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","NHLM","","","","13.5","13.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","PRLM","","","","16.4","16.38000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","PRLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","PRLM","","","","6.8","6.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","SHLM","","","","10.3","10.30000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","PRLM","","","","3.7","3.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","SHLM","","","","0.0","0.00000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","SHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","NHLM","","","","21.3","21.33000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","PRLM","","","","27.2","27.25000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","SHLM","","","","10.1","10.12000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","NHLM","","","","1.6","1.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","MLE","","","12.2","12.20000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","FMLE","","","14.2","14.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","MLE","","","2.4","2.41000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","MLE","","","17.0","17.04000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","MLE","","","7.5","7.52000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","FMLE","","","3.1","3.14000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","MLE","","","5.0","4.98000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","MLE","","","6.3","6.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","RUR","","0.2","0.19000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","RUR",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","RUR","","6.3","6.34000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","RUR","","23.0","22.99000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","RUR","","11.2","11.20000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","URB","","1.0","1.05000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","URB","","8.8","8.78000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","","WQ1","10.2","10.19000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","","WQ3","12.8","12.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","","WQ2","10.2","10.17000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","","WQ5","1.4","1.40000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","","WQ2","4.9","4.91000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","","WQ1","14.7","14.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","","WQ3","17.7","17.72000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","","WQ1","4.9","4.94000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","","WQ3","6.6","6.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","","WQ1","10.6","10.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","","WQ1","2.2","2.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","","WQ3","2.0","2.03000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","","WQ2"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","","WQ3","2.9","2.91000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","","WQ5","7.0","6.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","","WQ4","24.6","24.55000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","","WQ1","2.7","2.66000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","","WQ3","21.0","21.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","","WQ1","20.7","20.74000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","","WQ3","22.2","22.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","","WQ2","1.8","1.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","","WQ4","4.1","4.12000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","","WQ3","5.7","5.67000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","","WQ1","3.8","3.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","","WQ3","7.3","7.26000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","NHLM","","","","7.0","7.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","NHLM","","","","1.4","1.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","SHLM","","","","6.8","6.82000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","NHLM","","","","8.8","8.81000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","SHLM","","","","11.9","11.91000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","NHLM","","","","11.0","10.98000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","SHLM","","","","19.1","19.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","PRLM","","","","12.1","12.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","PRLM","","","","6.5","6.49000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","NHLM","","","","1.6","1.60000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","PRLM","","","","17.0","17.02000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","NHLM","","","","3.3","3.26000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","SHLM","","","","7.5","7.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","PRLM","","","","4.8","4.82000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","FMLE","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","MLE","","","22.0","22.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","MLE","","","3.8","3.83000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","FMLE","","","11.8","11.85000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","MLE","","","20.4","20.42000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","MLE","","","4.2","4.21000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","FMLE","","","5.6","5.64000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","MLE","","","6.6","6.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","FMLE","","","2.4","2.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","MLE","","","11.6","11.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","MLE","","","5.0","5.05000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","FMLE","","","23.8","23.77000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","FMLE","","","4.6","4.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","MLE","","","5.8","5.81000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","RUR","","7.7","7.72000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","URB","","8.7","8.74000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","URB","","9.4","9.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","URB",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","URB","","17.4","17.40000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","URB","","11.6","11.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","RUR","","2.2","2.25000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","URB","","8.8","8.85000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","RUR","","21.6","21.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","URB","","13.3","13.34000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","URB","","7.4","7.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","","WQ3","22.6","22.57000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","","WQ4"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","","WQ2","7.1","7.09000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","","WQ2","24.4","24.44000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","","WQ3","25.0","25.03000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","","WQ1","0.1","0.08000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","","WQ4","0.6","0.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","","WQ2"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","","WQ3"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","","WQ4","2.3","2.31000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","","WQ5","3.2","3.17000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","","WQ3","7.2","7.17000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","","WQ4","5.8","5.79000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","","WQ5","3.8","3.80000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","","WQ2","11.1","11.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","","","WQ3","12.4","12.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","","","","WQ1","0.6","0.64000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","","WQ1","2.2","2.25000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","","WQ4","17.8","17.78000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","","WQ5"," ","","","","Continuous DHS 2004-2008. Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","","WQ3","23.3","23.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","","WQ1","14.1","14.06000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","","WQ2","11.0","10.97000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","","WQ4","21.9","21.91000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","","WQ2","1.2","1.24000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","","WQ3","2.1","2.11000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","","WQ2","4.4","4.44000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","PRLM","","","","8.6","8.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","NHLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","PRLM","","","","6.8","6.75000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","SHLM","","","","19.4","19.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","NHLM","","","","1.3","1.29000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","NHLM","","","","5.8","5.76000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","PRLM","","","","18.9","18.91000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","PRLM","","","","2.0","2.05000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","SHLM","","","","2.7","2.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","NHLM","","","","2.3","2.30000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","SHLM","","","","1.8","1.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","MLE","","","12.7","12.69000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","FMLE","","","1.3","1.34000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","FMLE","","","17.3","17.34000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","FMLE","","","10.6","10.60000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","MLE","","","2.7","2.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","MLE","","","18.4","18.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","FMLE","","","21.8","21.79000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","MLE","","","2.4","2.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","FMLE","","","2.0","2.03000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","FMLE","","","3.7","3.69000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","","RUR","","1.3","1.29000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","URB",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","URB","","2.4","2.41000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","RUR","","2.2","2.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","URB","","13.2","13.20000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","RUR","","18.8","18.77000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","URB","","3.2","3.19000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","","WQ4","15.2","15.16000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","","WQ1","4.5","4.49000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","","","","WQ1","1.7","1.71000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","","WQ5","5.1","5.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","","WQ3","3.8","3.84000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","","WQ4","7.2","7.18000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","","WQ4","12.7","12.74000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","","WQ4","16.9","16.87000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","","WQ1"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","","WQ3","3.5","3.48000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","","WQ5","12.0","12.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","","WQ1","6.0","5.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","","","WQ3","6.8","6.78000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","","WQ2","2.7","2.67000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","RWA","","","","WQ4","4.1","4.10000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","","WQ2","25.0","24.95000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","","WQ1","4.1","4.08000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","","WQ3","2.2","2.24000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","","WQ5","4.6","4.62000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","","WQ5","3.3","3.28000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","","WQ3","4.0","3.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","","WQ5","16.3","16.32000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","PRLM","","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","SHLM","","","","22.7","22.66000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","PRLM","","","","12.4","12.40000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","PRLM","","","","4.9","4.86000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EMR","EGY","PRLM","","","","1.7","1.68000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","NHLM","","","","8.8","8.83000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","SHLM","","","","20.0","19.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","SHLM","","","","1.6","1.65000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","PRLM","","","","2.4","2.36000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","NHLM","","","","16.7","16.74000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","NHLM","","","","21.0","20.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","SHLM","","","","28.0","28.00000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","SHLM","","","","6.8","6.81000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","PRLM","","","","3.0","3.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","PRLM","","","","3.2","3.16000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","EUR","ALB","","MLE","",""," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","MLE","","","16.0","15.99000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","MLE","","","4.2","4.15000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","","MLE","","","1.2","1.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","MLE","","","2.8","2.77000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","","FMLE","","","11.2","11.17000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EMR","PAK","","MLE","","","7.0","6.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","FMLE","","","19.0","18.95000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","MLE","","","21.4","21.35000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","FMLE","","","7.5","7.53000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","FMLE","","","4.0","3.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","FMLE","","","5.8","5.80000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","URB","","6.9","6.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","","","URB","","1.3","1.33000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","URB","","17.9","17.92000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","URB","","4.6","4.65000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","RUR","","3.5","3.53000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","","","URB","","4.4","4.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","URB","","9.3","9.31000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","","","RUR","","11.4","11.38000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","MDG","","","URB","","23.9","23.89000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","MWI","","","RUR","","2.6","2.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","URB","","21.4","21.45000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","RUR","","7.0","6.99000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","","","RUR","","2.6","2.56000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","RUR","","4.6","4.60000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","EUR","AZE","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","","","","WQ4","16.2","16.25000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","","","","WQ1","19.0","19.01000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","WPR","KHM","","","","WQ1","6.5","6.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","","","","WQ2","12.0","12.00000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","","","","WQ3"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","GHA","","","","WQ5"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AMR","GUY","","","","WQ1","14.1","14.06000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HTI","","","","WQ1","2.3","2.33000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","","","","WQ2","2.5","2.52000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","IDN","","","","WQ2","19.8","19.78000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","EMR","JOR","","","","WQ3"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","","","","WQ2","9.0","8.97000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","MDV","","","","WQ3"," ","","","","Not reported due to very low sample size- Estimate is based on fewer than 25 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","","","","WQ3","8.5","8.48000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","NGA","","","","WQ2","1.7","1.69000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2004","AMR","PER","","","","WQ3","29.8","29.77000","","","Continuous DHS 2004-2008. "
+"pnchome3","EQ_DHS","PUBLISHED","2008","WPR","PHL","","","","WQ5","28.2","28.15000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","STP","","","","WQ3","31.6","31.64000","","","Attention. Low sample size- Estimate is based on 25-49 cases."
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","SEN","","","","WQ4","18.1","18.13000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","SLE","","","","WQ2","22.9","22.89000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","SWZ","","","","WQ2","8.6","8.58000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","SEAR","TLS","","","","WQ1","1.0","0.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","","","","WQ3","2.5","2.51000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","","","","WQ2","4.0","4.05000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AFR","ZWE","","","","WQ4","9.0","8.97000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","ZWE","","","","WQ2","3.2","3.16000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","SEAR","BGD","SHLM","","","","13.0","13.02000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AMR","BOL","PRLM","","","","21.7","21.73000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","WPR","KHM","SHLM","","","","23.4","23.39000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AMR","COL","SHLM","","","","6.2","6.23000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","AFR","ETH","SHLM","","","","0.8","0.85000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","AMR","HND","NHLM","","","","1.5","1.54000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2005","SEAR","IND","NHLM","","","","1.2","1.22000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2008","AFR","KEN","PRLM","","","","6.0","5.96000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2009","AFR","LSO","PRLM","","","","6.6","6.59000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","LBR","PRLM","","","","14.9","14.94000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","NAM","SHLM","","","","15.7","15.70000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","SEAR","NPL","SHLM","","","","5.8","5.83000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2011","SEAR","NPL","SHLM","","","","7.4","7.40000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2006","AFR","UGA","PRLM","","","","2.6","2.61000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2010","AFR","TZA","NHLM","","","","1.8","1.78000","","",""
+"pnchome3","EQ_DHS","PUBLISHED","2007","AFR","ZMB","NHLM","","","","3.9","3.88000","","",""

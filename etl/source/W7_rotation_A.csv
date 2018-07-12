@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-W7_rotation_A,PUBLISHED,2014,AFR,BEN,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,CPV,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,CMR,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,CAF,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,TCD,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,COM,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,COG,No,,,,Regulations pending
-W7_rotation_A,PUBLISHED,2014,AFR,CIV,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,ETH,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,GAB,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,GMB,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,GIN,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,MLI,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,MOZ,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,RWA,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,STP,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,SEN,No,,,,Regulations are pending
-W7_rotation_A,PUBLISHED,2014,AFR,SWZ,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,UGA,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,ZMB,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,ZWE,No,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,BHS,No,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,BLZ,No,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,DOM,No,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,GUY,No,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,PRY,No,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,MAR,No,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,SYR,No,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,TUN,No,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,AZE,No,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,TJK,No,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,BTN,No,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,PRK,No,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,MMR,No,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,MHL,No,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,PNG,No,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,DZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,BFA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,COD,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,ERI,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,GHA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,KEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,MDG,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,MUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,NAM,Yes,,,,Provision adopted but not implemented by 31 December 2014.
-W7_rotation_A,PUBLISHED,2014,AFR,NER,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,NGA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,SYC,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,ZAF,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,TGO,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,TZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,ARG,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,BOL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,BRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,CAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,CHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,COL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,CRI,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,CUB,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,ECU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,SLV,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,GTM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,HND,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,JAM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,MEX,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,NIC,Yes,,,,Policy adopted in 2010 but not yet regulated and implemented by 31 December 2014
-W7_rotation_A,PUBLISHED,2014,AMR,PAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,PER,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,SUR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,TTO,Yes,,,,Provision adopted but not implemented by 31 December 2014.
-W7_rotation_A,PUBLISHED,2014,AMR,USA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,URY,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AMR,VEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,BHR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,DJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,EGY,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,IRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,IRQ,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,JOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,KWT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,LBN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,LBY,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,OMN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,PAK,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,QAT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,SAU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,SDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,ARE,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EMR,YEM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ALB,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ARM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,AUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,BLR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,BEL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,BGR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,HRV,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,CYP,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,CZE,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,DNK,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,EST,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,FIN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,FRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,GEO,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,DEU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,GRC,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,HUN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ISL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,IRL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ISR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ITA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,KAZ,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,KGZ,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,LVA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,LTU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,LUX,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,MLT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,MNE,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,NLD,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,NOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,POL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,PRT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,MDA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ROU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,RUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,SRB,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,SVK,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,SVN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,ESP,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,SWE,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,CHE,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,MKD,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,TUR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,TKM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,UKR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,GBR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,EUR,UZB,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,BGD,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,IND,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,IDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,MDV,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,NPL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,LKA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,THA,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,SEAR,TLS,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,AUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,BRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,KHM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,CHN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,COK,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,FJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,JPN,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,KIR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,LAO,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,MYS,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,MNG,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,NRU,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,NZL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,PHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,KOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,WSM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,SGP,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,SLB,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,TON,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,TUV,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,VUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,WPR,VNM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,BEN,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,CPV,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,CMR,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,CAF,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,TCD,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,COM,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,COG,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,CIV,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,GAB,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,GMB,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,GIN,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,MLI,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,MOZ,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,NAM,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,SEN,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,UGA,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,ZMB,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,ZWE,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,BHS,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,BLZ,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,DOM,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,GUY,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,PRY,No,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,TTO,No,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,IRQ,No,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,MAR,No,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,SYR,No,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,TUN,No,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,AZE,No,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,TJK,No,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,BTN,No,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,PRK,No,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,MMR,No,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,MHL,No,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,PNG,No,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,DZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,BFA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,COD,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,ERI,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,GHA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,KEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,MDG,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,MUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,NER,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,NGA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,SYC,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,ZAF,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,TGO,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AFR,TZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,ARG,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,BOL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,BRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,CAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,CHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,COL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,CRI,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,CUB,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,ECU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,SLV,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,GTM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,HND,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,JAM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,MEX,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,NIC,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,PAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,PER,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,USA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,URY,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,AMR,VEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,BHR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,DJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,EGY,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,IRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,JOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,KWT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,LBN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,LBY,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,OMN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,PAK,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,QAT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,SAU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,SDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,ARE,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EMR,YEM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ALB,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ARM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,AUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,BLR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,BEL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,BGR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,HRV,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,CYP,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,CZE,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,DNK,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,EST,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,FIN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,FRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,GEO,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,DEU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,GRC,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,HUN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ISL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,IRL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ISR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ITA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,KAZ,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,KGZ,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,LVA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,LTU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,LUX,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,MLT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,MNE,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,NLD,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,NOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,POL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,PRT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,MDA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ROU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,RUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,SRB,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,SVK,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,SVN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,ESP,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,SWE,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,CHE,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,MKD,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,TUR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,TKM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,UKR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,GBR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,EUR,UZB,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,BGD,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,IND,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,IDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,MDV,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,NPL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,LKA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,THA,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,SEAR,TLS,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,AUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,BRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,KHM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,CHN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,COK,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,FJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,JPN,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,LAO,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,MYS,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,MNG,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,NRU,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,NZL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,PHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,KOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,WSM,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,SGP,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,SLB,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,TON,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,TUV,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,VUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2012,WPR,VNM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,BEN,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,BFA,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,CPV,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,CMR,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,CAF,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,TCD,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,CIV,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,GAB,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,GMB,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,GHA,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,GIN,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,MDG,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,MLI,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,MOZ,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,NAM,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,NER,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,SEN,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,SYC,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,TGO,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,UGA,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,ZMB,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,ZWE,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,ARG,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,BHS,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,BLZ,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,CAN,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,DOM,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,ECU,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,SLV,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,GUY,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,PRY,No,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,TTO,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,BHR,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,IRQ,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,JOR,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,KWT,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,LBN,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,MAR,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,OMN,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,QAT,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,SAU,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,SYR,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,TUN,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,ARE,No,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,YEM,No,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,AZE,No,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,KAZ,No,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,TJK,No,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,BTN,No,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,PRK,No,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,IDN,No,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,MMR,No,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,LKA,No,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,MHL,No,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,PNG,No,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,DZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,COD,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,ERI,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,KEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,MUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,NGA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,ZAF,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AFR,TZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,BOL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,BRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,CHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,COL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,CRI,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,CUB,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,GTM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,HND,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,JAM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,MEX,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,NIC,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,PAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,PER,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,USA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,URY,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,AMR,VEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,DJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,EGY,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,IRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,LBY,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,PAK,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EMR,SDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ALB,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ARM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,AUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,BLR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,BEL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,BGR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,HRV,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,CYP,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,CZE,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,DNK,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,EST,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,FIN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,FRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,GEO,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,DEU,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,GRC,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,HUN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ISL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,IRL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ISR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ITA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,KGZ,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,LVA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,LTU,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,LUX,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,MLT,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,MNE,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,NLD,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,NOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,POL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,PRT,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,MDA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ROU,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,RUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,SRB,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,SVK,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,SVN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,ESP,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,SWE,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,CHE,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,MKD,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,TUR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,TKM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,UKR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,GBR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,EUR,UZB,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,BGD,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,IND,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,MDV,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,NPL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,THA,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,SEAR,TLS,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,AUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,BRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,KHM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,CHN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,COK,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,FJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,JPN,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,LAO,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,MYS,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,MNG,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,NRU,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,NZL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,PHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,KOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,WSM,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,SGP,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,SLB,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,TON,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,TUV,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,VUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2010,WPR,VNM,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,BEN,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,BFA,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,CPV,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,CMR,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,CAF,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,TCD,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,CIV,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,GAB,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,GHA,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,GIN,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,MDG,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,MLI,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,MUS,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,MOZ,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,NER,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,SEN,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,UGA,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,ZMB,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,ZWE,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,ARG,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,BHS,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,BLZ,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,CAN,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,COL,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,DOM,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,ECU,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,SLV,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,GUY,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,HND,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,NIC,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,PRY,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,PER,No,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,TTO,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,EGY,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,IRN,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,IRQ,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,JOR,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,KWT,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,LBN,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,MAR,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,OMN,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,PAK,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,QAT,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,SAU,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,TUN,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,ARE,No,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,YEM,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ALB,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,AZE,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,BLR,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,GEO,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,KAZ,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,KGZ,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,RUS,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,TKM,No,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,UZB,No,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,IDN,No,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,MMR,No,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,LKA,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,CHN,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,FJI,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,MYS,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,MHL,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,PNG,No,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,VUT,No,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,DZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,COD,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,ERI,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,KEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,NGA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,ZAF,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AFR,TZA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,BOL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,BRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,CHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,CRI,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,CUB,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,GTM,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,JAM,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,MEX,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,PAN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,USA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,URY,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,AMR,VEN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,DJI,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EMR,SDN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ARM,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,AUT,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,BEL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,BGR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,HRV,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,CYP,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,CZE,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,DNK,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,EST,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,FIN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,FRA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,DEU,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,GRC,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,HUN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ISL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,IRL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ISR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ITA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,LVA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,LTU,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,LUX,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,MLT,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,MNE,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,NLD,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,NOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,POL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,PRT,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,MDA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ROU,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,SRB,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,SVK,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,SVN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,ESP,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,SWE,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,CHE,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,MKD,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,TUR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,UKR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,EUR,GBR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,BGD,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,IND,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,MDV,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,THA,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,SEAR,TLS,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,AUS,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,BRN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,COK,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,JPN,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,LAO,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,MNG,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,NZL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,PHL,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,KOR,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,SGP,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,TON,Yes,,,,
-W7_rotation_A,PUBLISHED,2007,WPR,VNM,Yes,,,,
-W7_rotation_A,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EUR,AND,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EUR,AND,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EUR,TJK,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,EUR,AND,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2014,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W7_rotation_A,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"W7_rotation_A","PUBLISHED","2014","AFR","BEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","CPV","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","CMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","CAF","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","TCD","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","COM","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","COG","No","","","","Regulations pending"
+"W7_rotation_A","PUBLISHED","2014","AFR","CIV","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","ETH","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","GAB","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","GMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","GIN","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","MLI","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","MOZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","RWA","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","STP","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","SEN","No","","","","Regulations are pending"
+"W7_rotation_A","PUBLISHED","2014","AFR","SWZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","UGA","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","ZMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","ZWE","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","BHS","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","BLZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","DOM","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","GUY","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","PRY","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","MAR","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","SYR","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","TUN","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","AZE","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","TJK","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","BTN","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","PRK","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","MMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","MHL","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","PNG","No","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","DZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","BFA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","COD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","ERI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","GHA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","KEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","MDG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","MUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","NAM","Yes","","","","Provision adopted but not implemented by 31 December 2014."
+"W7_rotation_A","PUBLISHED","2014","AFR","NER","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","NGA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","SYC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","ZAF","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","TGO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","TZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","ARG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","BOL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","BRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","CAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","CHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","COL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","CRI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","CUB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","ECU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","SLV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","GTM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","HND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","JAM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","MEX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","NIC","Yes","","","","Policy adopted in 2010 but not yet regulated and implemented by 31 December 2014"
+"W7_rotation_A","PUBLISHED","2014","AMR","PAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","PER","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","SUR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","TTO","Yes","","","","Provision adopted but not implemented by 31 December 2014."
+"W7_rotation_A","PUBLISHED","2014","AMR","USA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","URY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AMR","VEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","BHR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","DJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","EGY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","IRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","IRQ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","JOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","KWT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","LBN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","LBY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","OMN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","PAK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","QAT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","SAU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","SDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","ARE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EMR","YEM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ALB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ARM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","AUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","BLR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","BEL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","BGR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","HRV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","CYP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","CZE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","DNK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","EST","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","FIN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","FRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","GEO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","DEU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","GRC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","HUN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ISL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","IRL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ISR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ITA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","KAZ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","KGZ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","LVA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","LTU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","LUX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","MLT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","MNE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","NLD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","NOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","POL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","PRT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","MDA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ROU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","RUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","SRB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","SVK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","SVN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","ESP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","SWE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","CHE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","MKD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","TUR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","TKM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","UKR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","GBR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","EUR","UZB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","BGD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","IND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","IDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","MDV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","NPL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","LKA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","THA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","SEAR","TLS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","AUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","BRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","KHM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","CHN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","COK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","FJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","JPN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","KIR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","LAO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","MYS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","MNG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","NRU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","NZL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","PHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","KOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","WSM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","SGP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","SLB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","TON","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","TUV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","VUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","WPR","VNM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","BEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","CPV","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","CMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","CAF","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","TCD","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","COM","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","COG","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","CIV","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","GAB","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","GMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","GIN","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","MLI","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","MOZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","NAM","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","SEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","UGA","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","ZMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","ZWE","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","BHS","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","BLZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","DOM","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","GUY","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","PRY","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","TTO","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","IRQ","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","MAR","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","SYR","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","TUN","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","AZE","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","TJK","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","BTN","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","PRK","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","MMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","MHL","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","PNG","No","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","DZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","BFA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","COD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","ERI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","GHA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","KEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","MDG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","MUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","NER","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","NGA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","SYC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","ZAF","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","TGO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AFR","TZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","ARG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","BOL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","BRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","CAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","CHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","COL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","CRI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","CUB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","ECU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","SLV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","GTM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","HND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","JAM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","MEX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","NIC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","PAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","PER","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","USA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","URY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","AMR","VEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","BHR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","DJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","EGY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","IRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","JOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","KWT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","LBN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","LBY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","OMN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","PAK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","QAT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","SAU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","SDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","ARE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EMR","YEM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ALB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ARM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","AUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","BLR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","BEL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","BGR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","HRV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","CYP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","CZE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","DNK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","EST","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","FIN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","FRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","GEO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","DEU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","GRC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","HUN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ISL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","IRL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ISR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ITA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","KAZ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","KGZ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","LVA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","LTU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","LUX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","MLT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","MNE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","NLD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","NOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","POL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","PRT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","MDA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ROU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","RUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","SRB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","SVK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","SVN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","ESP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","SWE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","CHE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","MKD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","TUR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","TKM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","UKR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","GBR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","EUR","UZB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","BGD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","IND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","IDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","MDV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","NPL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","LKA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","THA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","SEAR","TLS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","AUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","BRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","KHM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","CHN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","COK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","FJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","JPN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","LAO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","MYS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","MNG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","NRU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","NZL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","PHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","KOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","WSM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","SGP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","SLB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","TON","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","TUV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","VUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2012","WPR","VNM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","BEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","BFA","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","CPV","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","CMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","CAF","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","TCD","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","CIV","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","GAB","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","GMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","GHA","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","GIN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","MDG","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","MLI","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","MOZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","NAM","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","NER","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","SEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","SYC","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","TGO","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","UGA","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","ZMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","ZWE","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","ARG","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","BHS","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","BLZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","CAN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","DOM","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","ECU","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","SLV","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","GUY","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","PRY","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","TTO","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","BHR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","IRQ","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","JOR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","KWT","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","LBN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","MAR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","OMN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","QAT","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","SAU","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","SYR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","TUN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","ARE","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","YEM","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","AZE","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","KAZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","TJK","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","BTN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","PRK","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","IDN","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","MMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","LKA","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","MHL","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","PNG","No","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","DZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","COD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","ERI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","KEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","MUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","NGA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","ZAF","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AFR","TZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","BOL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","BRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","CHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","COL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","CRI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","CUB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","GTM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","HND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","JAM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","MEX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","NIC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","PAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","PER","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","USA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","URY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","AMR","VEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","DJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","EGY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","IRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","LBY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","PAK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EMR","SDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ALB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ARM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","AUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","BLR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","BEL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","BGR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","HRV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","CYP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","CZE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","DNK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","EST","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","FIN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","FRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","GEO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","DEU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","GRC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","HUN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ISL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","IRL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ISR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ITA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","KGZ","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","LVA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","LTU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","LUX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","MLT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","MNE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","NLD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","NOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","POL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","PRT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","MDA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ROU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","RUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","SRB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","SVK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","SVN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","ESP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","SWE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","CHE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","MKD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","TUR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","TKM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","UKR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","GBR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","EUR","UZB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","BGD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","IND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","MDV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","NPL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","THA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","SEAR","TLS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","AUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","BRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","KHM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","CHN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","COK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","FJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","JPN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","LAO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","MYS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","MNG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","NRU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","NZL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","PHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","KOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","WSM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","SGP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","SLB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","TON","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","TUV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","VUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2010","WPR","VNM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","BEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","BFA","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","CPV","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","CMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","CAF","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","TCD","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","CIV","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","GAB","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","GHA","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","GIN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","MDG","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","MLI","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","MUS","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","MOZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","NER","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","SEN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","UGA","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","ZMB","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","ZWE","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","ARG","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","BHS","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","BLZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","CAN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","COL","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","DOM","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","ECU","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","SLV","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","GUY","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","HND","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","NIC","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","PRY","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","PER","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","TTO","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","EGY","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","IRN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","IRQ","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","JOR","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","KWT","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","LBN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","MAR","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","OMN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","PAK","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","QAT","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","SAU","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","TUN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","ARE","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","YEM","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ALB","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","AZE","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","BLR","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","GEO","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","KAZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","KGZ","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","RUS","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","TKM","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","UZB","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","IDN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","MMR","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","LKA","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","CHN","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","FJI","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","MYS","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","MHL","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","PNG","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","VUT","No","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","DZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","COD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","ERI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","KEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","NGA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","ZAF","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AFR","TZA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","BOL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","BRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","CHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","CRI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","CUB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","GTM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","JAM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","MEX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","PAN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","USA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","URY","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","AMR","VEN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","DJI","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EMR","SDN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ARM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","AUT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","BEL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","BGR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","HRV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","CYP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","CZE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","DNK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","EST","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","FIN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","FRA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","DEU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","GRC","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","HUN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ISL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","IRL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ISR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ITA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","LVA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","LTU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","LUX","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","MLT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","MNE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","NLD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","NOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","POL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","PRT","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","MDA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ROU","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","SRB","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","SVK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","SVN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","ESP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","SWE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","CHE","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","MKD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","TUR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","UKR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","EUR","GBR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","BGD","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","IND","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","MDV","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","THA","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","SEAR","TLS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","AUS","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","BRN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","COK","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","JPN","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","LAO","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","MNG","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","NZL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","PHL","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","KOR","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","SGP","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","TON","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2007","WPR","VNM","Yes","","","",""
+"W7_rotation_A","PUBLISHED","2014","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2012","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2010","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2014","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W7_rotation_A","PUBLISHED","2007","AMR","KNA","Not applicable","","","","Data not required/not applicable"

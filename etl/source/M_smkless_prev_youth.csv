@@ -1,583 +1,583 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,SEX,Display Value,Numeric,Low,High,Comments
-M_smkless_prev_youth,PUBLISHED,AMR,CRI,MLE,0.0,0.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NLD,FMLE,0.1,0.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NLD,BTSX,0.2,0.2,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NLD,MLE,0.3,0.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,CAN,FMLE,0.3,0.3,,,"*Moderate sampling variability, interpret with caution."
-M_smkless_prev_youth,PUBLISHED,EUR,KAZ,FMLE,0.4,0.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,CRI,BTSX,0.5,0.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,KAZ,BTSX,0.6,0.6,,,
-M_smkless_prev_youth,PUBLISHED,WPR,CHN,FMLE,0.6,0.6,,,
-M_smkless_prev_youth,PUBLISHED,WPR,BRN,FMLE,0.7,0.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,DZA,FMLE,0.8,0.8,,,
-M_smkless_prev_youth,PUBLISHED,EUR,KAZ,MLE,0.8,0.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,CAN,BTSX,0.8,0.8,,,"*Moderate sampling variability, interpret with caution."
-M_smkless_prev_youth,PUBLISHED,EMR,OMN,FMLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,TUN,FMLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BIH,FMLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MNE,FMLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,WPR,BRN,BTSX,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,WPR,KOR,MLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,WPR,KOR,FMLE,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,WPR,KOR,BTSX,0.9,0.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,POL,FMLE,1.0,1.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,POL,BTSX,1.0,1.0,,,
-M_smkless_prev_youth,PUBLISHED,WPR,CHN,BTSX,1.0,1.0,,,
-M_smkless_prev_youth,PUBLISHED,AMR,CRI,FMLE,1.1,1.1,,,
-M_smkless_prev_youth,PUBLISHED,EMR,JOR,FMLE,1.1,1.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MNE,MLE,1.1,1.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MNE,BTSX,1.1,1.1,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,IDN,FMLE,1.1,1.1,,,
-M_smkless_prev_youth,PUBLISHED,WPR,BRN,MLE,1.2,1.2,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GRC,FMLE,1.3,1.3,,,
-M_smkless_prev_youth,PUBLISHED,WPR,CHN,MLE,1.3,1.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,CAN,MLE,1.3,1.3,,,"*Moderate sampling variability, interpret with caution."
-M_smkless_prev_youth,PUBLISHED,EUR,HUN,FMLE,1.4,1.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,OMN,BTSX,1.6,1.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BIH,BTSX,1.6,1.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,FIN,FMLE,1.6,1.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BLZ,FMLE,1.7,1.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,USA,FMLE,1.7,1.7,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ALB,FMLE,1.7,1.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SEN,FMLE,1.8,1.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TGO,FMLE,1.8,1.8,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SAU,FMLE,1.8,1.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BEN,FMLE,1.9,1.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GRC,BTSX,1.9,1.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,LBY,MLE,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ALB,BTSX,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,POL,MLE,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MDA,BTSX,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,SWE,FMLE,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,BGD,FMLE,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,HUN,BTSX,2.0,2.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TGO,BTSX,2.1,2.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,SRB,FMLE,2.1,2.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BIH,MLE,2.2,2.2,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MDA,MLE,2.2,2.2,,,
-M_smkless_prev_youth,PUBLISHED,EUR,RUS,FMLE,2.2,2.2,,,
-M_smkless_prev_youth,PUBLISHED,EUR,TJK,FMLE,2.2,2.2,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BLZ,BTSX,2.3,2.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,LBY,FMLE,2.3,2.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,LBY,BTSX,2.3,2.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,TUN,BTSX,2.3,2.3,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ALB,MLE,2.3,2.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TGO,MLE,2.4,2.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,MDA,FMLE,2.4,2.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,JOR,BTSX,2.5,2.5,,,
-M_smkless_prev_youth,PUBLISHED,EMR,OMN,MLE,2.5,2.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BLR,FMLE,2.5,2.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GRC,MLE,2.5,2.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,HUN,MLE,2.6,2.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,VEN,FMLE,2.6,2.6,,,
-M_smkless_prev_youth,PUBLISHED,EMR,YEM,FMLE,2.6,2.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,SRB,BTSX,2.7,2.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SLV,FMLE,2.8,2.8,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GEO,FMLE,2.8,2.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BLZ,MLE,2.9,2.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,KGZ,FMLE,2.9,2.9,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MDV,FMLE,2.9,2.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ARG,FMLE,3.0,3.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ARM,FMLE,3.0,3.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,IDN,MLE,3.0,3.0,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BHS,FMLE,3.1,3.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BLR,BTSX,3.1,3.1,,,
-M_smkless_prev_youth,PUBLISHED,EMR,QAT,FMLE,3.2,3.2,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MYS,FMLE,3.2,3.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,KEN,FMLE,3.3,3.3,,,
-M_smkless_prev_youth,PUBLISHED,EUR,SRB,MLE,3.3,3.3,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PHL,FMLE,3.3,3.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,EGY,FMLE,3.4,3.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SAU,BTSX,3.4,3.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GEO,BTSX,3.4,3.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,LVA,FMLE,3.4,3.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,DZA,BTSX,3.5,3.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,TJK,BTSX,3.5,3.5,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SYR,FMLE,3.6,3.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ARG,BTSX,3.7,3.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SLV,BTSX,3.7,3.7,,,
-M_smkless_prev_youth,PUBLISHED,EMR,PAK,FMLE,3.7,3.7,,,
-M_smkless_prev_youth,PUBLISHED,EUR,BLR,MLE,3.7,3.7,,,
-M_smkless_prev_youth,PUBLISHED,EUR,FIN,BTSX,3.7,3.7,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ISL,FMLE,3.8,3.8,,,
-M_smkless_prev_youth,PUBLISHED,EUR,RUS,BTSX,3.8,3.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,KEN,BTSX,3.9,3.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,MEX,FMLE,3.9,3.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,JOR,MLE,3.9,3.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,TUN,MLE,3.9,3.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,GEO,MLE,4.0,4.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MMR,FMLE,4.0,4.0,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MYS,BTSX,4.0,4.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BEN,BTSX,4.1,4.1,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,LKA,FMLE,4.1,4.1,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,THA,FMLE,4.1,4.1,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PAN,FMLE,4.2,4.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,KEN,MLE,4.3,4.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SEN,BTSX,4.3,4.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BHS,BTSX,4.3,4.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PER,MLE,4.3,4.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SUR,FMLE,4.3,4.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CMR,FMLE,4.4,4.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ARG,MLE,4.4,4.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,ARE,FMLE,4.4,4.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ARM,BTSX,4.4,4.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SLV,MLE,4.5,4.5,,,
-M_smkless_prev_youth,PUBLISHED,EUR,EST,FMLE,4.5,4.5,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MYS,MLE,4.5,4.5,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PHL,BTSX,4.5,4.5,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PAN,BTSX,4.6,4.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,TJK,MLE,4.6,4.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PER,BTSX,4.7,4.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PAN,MLE,4.8,4.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,PER,FMLE,4.8,4.8,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRN,FMLE,4.8,4.8,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SAU,MLE,4.8,4.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CIV,FMLE,4.9,4.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,MEX,BTSX,4.9,4.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SWZ,FMLE,5.0,5.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZWE,FMLE,5.0,5.0,,,
-M_smkless_prev_youth,PUBLISHED,EMR,ARE,BTSX,5.0,5.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,LVA,BTSX,5.0,5.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BEN,MLE,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CMR,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SUR,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,AMR,VEN,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRN,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,EMR,YEM,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,KGZ,BTSX,5.1,5.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SYC,MLE,5.2,5.2,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BHS,MLE,5.3,5.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,PAK,BTSX,5.3,5.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CMR,MLE,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MDG,FMLE,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SYC,FMLE,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SWZ,BTSX,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRN,MLE,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,RUS,MLE,5.4,5.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SYC,BTSX,5.5,5.5,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TZA,FMLE,5.5,5.5,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CIV,BTSX,5.6,5.6,,,
-M_smkless_prev_youth,PUBLISHED,EMR,ARE,MLE,5.6,5.6,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MDG,BTSX,5.7,5.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZWE,BTSX,5.7,5.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,USA,BTSX,5.7,5.7,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,THA,BTSX,5.7,5.7,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MNG,FMLE,5.7,5.7,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ATG,FMLE,5.8,5.8,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRQ,FMLE,5.8,5.8,,,
-M_smkless_prev_youth,PUBLISHED,EUR,FIN,MLE,5.8,5.8,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PHL,MLE,5.8,5.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,MEX,MLE,5.9,5.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SYR,BTSX,5.9,5.9,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,BGD,MLE,5.9,5.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,RWA,FMLE,6.0,6.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SWZ,MLE,6.0,6.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ARM,MLE,6.0,6.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,IND,FMLE,6.0,6.0,,,
-M_smkless_prev_youth,PUBLISHED,EMR,QAT,BTSX,6.1,6.1,,,
-M_smkless_prev_youth,PUBLISHED,EUR,LVA,MLE,6.1,6.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CIV,MLE,6.2,6.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MDG,MLE,6.2,6.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TZA,BTSX,6.2,6.2,,,
-M_smkless_prev_youth,PUBLISHED,AMR,SUR,MLE,6.2,6.2,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MDV,BTSX,6.2,6.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZWE,MLE,6.4,6.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,DMA,FMLE,6.4,6.4,,,
-M_smkless_prev_youth,PUBLISHED,EMR,PAK,MLE,6.4,6.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MOZ,FMLE,6.5,6.5,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LBR,FMLE,6.6,6.6,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SEN,MLE,6.6,6.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GUY,FMLE,6.6,6.6,,,
-M_smkless_prev_youth,PUBLISHED,EMR,YEM,MLE,6.7,6.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NGA,FMLE,6.8,6.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ATG,BTSX,6.8,6.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,DZA,MLE,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZAF,FMLE,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,TZA,MLE,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GRD,FMLE,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,VEN,MLE,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRQ,BTSX,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,EST,BTSX,6.9,6.9,,,
-M_smkless_prev_youth,PUBLISHED,EMR,IRQ,MLE,7.2,7.2,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,THA,MLE,7.3,7.3,,,
-M_smkless_prev_youth,PUBLISHED,WPR,COK,FMLE,7.3,7.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MWI,FMLE,7.4,7.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,RWA,BTSX,7.4,7.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MOZ,BTSX,7.5,7.5,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GUY,BTSX,7.5,7.5,,,
-M_smkless_prev_youth,PUBLISHED,EMR,EGY,BTSX,7.5,7.5,,,
-M_smkless_prev_youth,PUBLISHED,EMR,SYR,MLE,7.6,7.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,KGZ,MLE,7.6,7.6,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,TLS,MLE,7.7,7.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZAF,BTSX,7.9,7.9,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GUY,MLE,7.9,7.9,,,
-M_smkless_prev_youth,PUBLISHED,WPR,NIU,FMLE,7.9,7.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CAF,FMLE,8.0,8.0,,,
-M_smkless_prev_youth,PUBLISHED,EMR,DJI,FMLE,8.0,8.0,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BRB,FMLE,8.2,8.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LBR,BTSX,8.3,8.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MOZ,MLE,8.3,8.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,RWA,MLE,8.3,8.3,,,
-M_smkless_prev_youth,PUBLISHED,AMR,ATG,MLE,8.4,8.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,DMA,BTSX,8.4,8.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GRD,BTSX,8.4,8.4,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,TLS,BTSX,8.4,8.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,JAM,MLE,8.5,8.5,,,
-M_smkless_prev_youth,PUBLISHED,AMR,JAM,FMLE,8.5,8.5,,,
-M_smkless_prev_youth,PUBLISHED,AMR,JAM,BTSX,8.5,8.5,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,LKA,BTSX,8.5,8.5,,,
-M_smkless_prev_youth,PUBLISHED,WPR,NIU,BTSX,8.6,8.6,,,
-M_smkless_prev_youth,PUBLISHED,WPR,COK,BTSX,8.7,8.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NGA,BTSX,8.8,8.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LBR,MLE,9.0,9.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NOR,FMLE,9.0,9.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,IND,BTSX,9.0,9.0,,,
-M_smkless_prev_youth,PUBLISHED,WPR,NIU,MLE,9.0,9.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,ZAF,MLE,9.1,9.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BFA,FMLE,9.2,9.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MWI,BTSX,9.2,9.2,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MDV,MLE,9.2,9.2,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,TLS,FMLE,9.3,9.3,,,
-M_smkless_prev_youth,PUBLISHED,EMR,QAT,MLE,9.4,9.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,EST,MLE,9.4,9.4,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MNG,BTSX,9.5,9.5,,,
-M_smkless_prev_youth,PUBLISHED,AMR,USA,MLE,9.6,9.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,SWE,MLE,9.6,9.6,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BRB,BTSX,9.8,9.8,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MMR,BTSX,9.8,9.8,,,
-M_smkless_prev_youth,PUBLISHED,AMR,GRD,MLE,10.1,10.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BFA,BTSX,10.2,10.2,,,
-M_smkless_prev_youth,PUBLISHED,AMR,DMA,MLE,10.2,10.2,,,
-M_smkless_prev_youth,PUBLISHED,WPR,COK,MLE,10.5,10.5,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NGA,MLE,10.6,10.6,,,
-M_smkless_prev_youth,PUBLISHED,EMR,DJI,BTSX,10.7,10.7,,,
-M_smkless_prev_youth,PUBLISHED,EMR,EGY,MLE,11.0,11.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,IND,MLE,11.1,11.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BFA,MLE,11.2,11.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,MWI,MLE,11.2,11.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BWA,MLE,11.3,11.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BWA,BTSX,11.3,11.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BWA,FMLE,11.4,11.4,,,
-M_smkless_prev_youth,PUBLISHED,AMR,BRB,MLE,11.5,11.5,,,
-M_smkless_prev_youth,PUBLISHED,EMR,DJI,MLE,12.9,12.9,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,NPL,FMLE,12.9,12.9,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NOR,BTSX,13.0,13.0,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,LKA,MLE,13.0,13.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LSO,FMLE,13.6,13.6,,,
-M_smkless_prev_youth,PUBLISHED,WPR,MNG,MLE,13.6,13.6,,,
-M_smkless_prev_youth,PUBLISHED,EUR,ISL,MLE,14.0,14.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COG,FMLE,14.1,14.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SLE,MLE,14.1,14.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LSO,BTSX,14.4,14.4,,,
-M_smkless_prev_youth,PUBLISHED,EUR,HRV,FMLE,14.5,14.5,,,
-M_smkless_prev_youth,PUBLISHED,AFR,LSO,MLE,14.7,14.7,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,MMR,MLE,15.2,15.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CAF,BTSX,15.4,15.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NAM,MLE,15.6,15.6,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NAM,FMLE,15.8,15.8,,,
-M_smkless_prev_youth,PUBLISHED,AFR,NAM,BTSX,16.0,16.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,HRV,BTSX,16.1,16.1,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,NPL,BTSX,16.2,16.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COG,BTSX,16.4,16.4,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PLW,FMLE,17.0,17.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,HRV,MLE,17.2,17.2,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SLE,BTSX,17.7,17.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,AGO,MLE,18.0,18.0,,,
-M_smkless_prev_youth,PUBLISHED,EUR,NOR,MLE,18.0,18.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COG,MLE,18.3,18.3,,,
-M_smkless_prev_youth,PUBLISHED,AFR,AGO,BTSX,18.7,18.7,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,BTN,FMLE,18.9,18.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,AGO,FMLE,19.0,19.0,,,
-M_smkless_prev_youth,PUBLISHED,AFR,SLE,FMLE,19.1,19.1,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PLW,BTSX,19.5,19.5,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,NPL,MLE,19.7,19.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COD,FMLE,20.1,20.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,GMB,MLE,20.1,20.1,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COD,MLE,20.6,20.6,,,
-M_smkless_prev_youth,PUBLISHED,AFR,COD,BTSX,20.8,20.8,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,BTN,BTSX,21.6,21.6,,,
-M_smkless_prev_youth,PUBLISHED,WPR,FSM,FMLE,21.7,21.7,,,
-M_smkless_prev_youth,PUBLISHED,WPR,PLW,MLE,21.7,21.7,,,
-M_smkless_prev_youth,PUBLISHED,AFR,CAF,MLE,21.9,21.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,GMB,BTSX,21.9,21.9,,,
-M_smkless_prev_youth,PUBLISHED,AFR,GMB,FMLE,23.3,23.3,,,
-M_smkless_prev_youth,PUBLISHED,WPR,FSM,BTSX,23.8,23.8,,,
-M_smkless_prev_youth,PUBLISHED,SEAR,BTN,MLE,25.0,25.0,,,
-M_smkless_prev_youth,PUBLISHED,WPR,FSM,MLE,26.4,26.4,,,
-M_smkless_prev_youth,PUBLISHED,AFR,BDI,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,COM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ETH,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GAB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GHA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GIN,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MRT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MRT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,NER,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,UGA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BRA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CHL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CHL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CUB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CUB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,ECU,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,PRY,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,VCT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,LBN,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SOM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SOM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AUT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AUT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AUT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BEL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BGR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,FRA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LTU,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MLT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SMR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MKD,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TUR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TUR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TKM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,AUS,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,AUS,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,FJI,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,JPN,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,LAO,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,MHL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,MHL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NRU,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NZL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,PNG,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,WSM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SGP,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SGP,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SLB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VNM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,COM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNQ,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ERI,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GAB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GHA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GIN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MLI,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,NER,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,NER,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,STP,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,STP,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BOL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BOL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CHL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,DOM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,GTM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,GTM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HTI,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,NIC,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,NIC,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,LCA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,TTO,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,URY,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,URY,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,AFG,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,BHR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BGR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CZE,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CZE,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DNK,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DEU,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ISR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LTU,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LUX,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LUX,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LUX,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,PRT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ROU,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ROU,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ESP,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ESP,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SWE,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CHE,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UKR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KHM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,JPN,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NZL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,WSM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TON,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VUT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,BDI,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,TCD,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,TCD,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNQ,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GNQ,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ERI,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MLI,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,STP,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,SSD,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ZMB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ZMB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BOL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,CUB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,ECU,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HND,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HND,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,KNA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,KNA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,MAR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AND,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AND,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AND,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CYP,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CYP,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CZE,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DNK,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,FRA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DEU,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DEU,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ISL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,IRL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MLT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MCO,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SMR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVK,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVK,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CHE,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MKD,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TKM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UZB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UZB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,SEAR,PRK,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,SEAR,PRK,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KIR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KIR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,WSM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SLB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TUV,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TUV,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VNM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,CPV,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MRT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,SSD,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ZMB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,COL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,DOM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,ECU,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,GTM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HTI,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HTI,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,HND,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,NIC,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,LCA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,LCA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,TTO,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,URY,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,AFG,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,AFG,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,BHR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,BHR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,KWT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,MAR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,MAR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SOM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BEL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CYP,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,DNK,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ISR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ITA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ITA,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,LTU,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MLT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MCO,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MCO,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,PRT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,PRT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ESP,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,CHE,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,GBR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,GBR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UZB,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,SEAR,IDN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KHM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KHM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,JPN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,PNG,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TON,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TUV,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VNM,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,BDI,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,TCD,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,COM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ETH,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ETH,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MLI,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MUS,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,UGA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,COL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,DOM,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,VCT,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,VCT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,TTO,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,KWT,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,LBN,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,LBN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SDN,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AZE,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BGR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,IRL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ISR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SMR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVN,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,MKD,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TUR,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,TKM,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UKR,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,GBR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,SEAR,PRK,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,KIR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VUT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SGP,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,LAO,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,CPV,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,CPV,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,ERI,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GAB,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GHA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,GIN,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MUS,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,MUS,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,SSD,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AFR,UGA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BRA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,BRA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,COL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,PRY,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,PRY,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,AMR,KNA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,KWT,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SDN,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EMR,SDN,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AZE,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,AZE,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,BEL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,FRA,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,IRL,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ITA,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,ROU,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVK,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,SVN,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,EUR,UKR,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,SEAR,BGD,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,AUS,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,FJI,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,FJI,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,LAO,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,MHL,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NRU,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NRU,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,NZL,MLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,PNG,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,SLB,FMLE,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,TON,BTSX,Not available,,,,Data not reported/not available
-M_smkless_prev_youth,PUBLISHED,WPR,VUT,BTSX,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","SEX","Display Value","Numeric","Low","High","Comments"
+"M_smkless_prev_youth","PUBLISHED","AMR","CRI","MLE","0.0","0.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NLD","FMLE","0.1","0.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NLD","BTSX","0.2","0.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NLD","MLE","0.3","0.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","CAN","FMLE","0.3","0.30000","","","*Moderate sampling variability, interpret with caution."
+"M_smkless_prev_youth","PUBLISHED","EUR","KAZ","FMLE","0.4","0.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","CRI","BTSX","0.5","0.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","KAZ","BTSX","0.6","0.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","CHN","FMLE","0.6","0.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","BRN","FMLE","0.7","0.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","DZA","FMLE","0.8","0.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","KAZ","MLE","0.8","0.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","CAN","BTSX","0.8","0.80000","","","*Moderate sampling variability, interpret with caution."
+"M_smkless_prev_youth","PUBLISHED","EMR","OMN","FMLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","TUN","FMLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BIH","FMLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MNE","FMLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","BRN","BTSX","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","KOR","MLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","KOR","FMLE","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","KOR","BTSX","0.9","0.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","POL","FMLE","1.0","1.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","POL","BTSX","1.0","1.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","CHN","BTSX","1.0","1.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","CRI","FMLE","1.1","1.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","JOR","FMLE","1.1","1.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MNE","MLE","1.1","1.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MNE","BTSX","1.1","1.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","IDN","FMLE","1.1","1.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","BRN","MLE","1.2","1.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GRC","FMLE","1.3","1.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","CHN","MLE","1.3","1.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","CAN","MLE","1.3","1.30000","","","*Moderate sampling variability, interpret with caution."
+"M_smkless_prev_youth","PUBLISHED","EUR","HUN","FMLE","1.4","1.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","OMN","BTSX","1.6","1.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BIH","BTSX","1.6","1.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","FIN","FMLE","1.6","1.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BLZ","FMLE","1.7","1.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","USA","FMLE","1.7","1.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ALB","FMLE","1.7","1.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SEN","FMLE","1.8","1.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TGO","FMLE","1.8","1.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SAU","FMLE","1.8","1.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BEN","FMLE","1.9","1.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GRC","BTSX","1.9","1.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","LBY","MLE","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ALB","BTSX","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","POL","MLE","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MDA","BTSX","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","SWE","FMLE","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","BGD","FMLE","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","HUN","BTSX","2.0","2.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TGO","BTSX","2.1","2.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","SRB","FMLE","2.1","2.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BIH","MLE","2.2","2.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MDA","MLE","2.2","2.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","RUS","FMLE","2.2","2.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","TJK","FMLE","2.2","2.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BLZ","BTSX","2.3","2.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","LBY","FMLE","2.3","2.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","LBY","BTSX","2.3","2.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","TUN","BTSX","2.3","2.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ALB","MLE","2.3","2.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TGO","MLE","2.4","2.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","MDA","FMLE","2.4","2.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","JOR","BTSX","2.5","2.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","OMN","MLE","2.5","2.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BLR","FMLE","2.5","2.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GRC","MLE","2.5","2.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","HUN","MLE","2.6","2.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","VEN","FMLE","2.6","2.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","YEM","FMLE","2.6","2.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","SRB","BTSX","2.7","2.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SLV","FMLE","2.8","2.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GEO","FMLE","2.8","2.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BLZ","MLE","2.9","2.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","KGZ","FMLE","2.9","2.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MDV","FMLE","2.9","2.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ARG","FMLE","3.0","3.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ARM","FMLE","3.0","3.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","IDN","MLE","3.0","3.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BHS","FMLE","3.1","3.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BLR","BTSX","3.1","3.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","QAT","FMLE","3.2","3.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MYS","FMLE","3.2","3.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","KEN","FMLE","3.3","3.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","SRB","MLE","3.3","3.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PHL","FMLE","3.3","3.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","EGY","FMLE","3.4","3.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SAU","BTSX","3.4","3.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GEO","BTSX","3.4","3.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","LVA","FMLE","3.4","3.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","DZA","BTSX","3.5","3.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","TJK","BTSX","3.5","3.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SYR","FMLE","3.6","3.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ARG","BTSX","3.7","3.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SLV","BTSX","3.7","3.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","PAK","FMLE","3.7","3.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","BLR","MLE","3.7","3.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","FIN","BTSX","3.7","3.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ISL","FMLE","3.8","3.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","RUS","BTSX","3.8","3.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","KEN","BTSX","3.9","3.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","MEX","FMLE","3.9","3.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","JOR","MLE","3.9","3.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","TUN","MLE","3.9","3.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","GEO","MLE","4.0","4.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MMR","FMLE","4.0","4.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MYS","BTSX","4.0","4.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BEN","BTSX","4.1","4.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","LKA","FMLE","4.1","4.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","THA","FMLE","4.1","4.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PAN","FMLE","4.2","4.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","KEN","MLE","4.3","4.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SEN","BTSX","4.3","4.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BHS","BTSX","4.3","4.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PER","MLE","4.3","4.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SUR","FMLE","4.3","4.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CMR","FMLE","4.4","4.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ARG","MLE","4.4","4.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","ARE","FMLE","4.4","4.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ARM","BTSX","4.4","4.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SLV","MLE","4.5","4.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","EST","FMLE","4.5","4.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MYS","MLE","4.5","4.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PHL","BTSX","4.5","4.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PAN","BTSX","4.6","4.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","TJK","MLE","4.6","4.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PER","BTSX","4.7","4.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PAN","MLE","4.8","4.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","PER","FMLE","4.8","4.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRN","FMLE","4.8","4.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SAU","MLE","4.8","4.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CIV","FMLE","4.9","4.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","MEX","BTSX","4.9","4.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SWZ","FMLE","5.0","5.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZWE","FMLE","5.0","5.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","ARE","BTSX","5.0","5.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","LVA","BTSX","5.0","5.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BEN","MLE","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CMR","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SUR","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","VEN","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRN","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","YEM","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","KGZ","BTSX","5.1","5.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SYC","MLE","5.2","5.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BHS","MLE","5.3","5.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","PAK","BTSX","5.3","5.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CMR","MLE","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MDG","FMLE","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SYC","FMLE","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SWZ","BTSX","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRN","MLE","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","RUS","MLE","5.4","5.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SYC","BTSX","5.5","5.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TZA","FMLE","5.5","5.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CIV","BTSX","5.6","5.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","ARE","MLE","5.6","5.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MDG","BTSX","5.7","5.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZWE","BTSX","5.7","5.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","USA","BTSX","5.7","5.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","THA","BTSX","5.7","5.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MNG","FMLE","5.7","5.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ATG","FMLE","5.8","5.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRQ","FMLE","5.8","5.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","FIN","MLE","5.8","5.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PHL","MLE","5.8","5.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","MEX","MLE","5.9","5.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SYR","BTSX","5.9","5.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","BGD","MLE","5.9","5.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","RWA","FMLE","6.0","6.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SWZ","MLE","6.0","6.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ARM","MLE","6.0","6.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","IND","FMLE","6.0","6.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","QAT","BTSX","6.1","6.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","LVA","MLE","6.1","6.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CIV","MLE","6.2","6.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MDG","MLE","6.2","6.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TZA","BTSX","6.2","6.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","SUR","MLE","6.2","6.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MDV","BTSX","6.2","6.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZWE","MLE","6.4","6.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","DMA","FMLE","6.4","6.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","PAK","MLE","6.4","6.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MOZ","FMLE","6.5","6.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LBR","FMLE","6.6","6.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SEN","MLE","6.6","6.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GUY","FMLE","6.6","6.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","YEM","MLE","6.7","6.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NGA","FMLE","6.8","6.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ATG","BTSX","6.8","6.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","DZA","MLE","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZAF","FMLE","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","TZA","MLE","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GRD","FMLE","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","VEN","MLE","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRQ","BTSX","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","EST","BTSX","6.9","6.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","IRQ","MLE","7.2","7.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","THA","MLE","7.3","7.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","COK","FMLE","7.3","7.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MWI","FMLE","7.4","7.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","RWA","BTSX","7.4","7.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MOZ","BTSX","7.5","7.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GUY","BTSX","7.5","7.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","EGY","BTSX","7.5","7.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","SYR","MLE","7.6","7.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","KGZ","MLE","7.6","7.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","TLS","MLE","7.7","7.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZAF","BTSX","7.9","7.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GUY","MLE","7.9","7.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","NIU","FMLE","7.9","7.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CAF","FMLE","8.0","8.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","DJI","FMLE","8.0","8.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BRB","FMLE","8.2","8.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LBR","BTSX","8.3","8.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MOZ","MLE","8.3","8.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","RWA","MLE","8.3","8.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","ATG","MLE","8.4","8.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","DMA","BTSX","8.4","8.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GRD","BTSX","8.4","8.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","TLS","BTSX","8.4","8.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","JAM","MLE","8.5","8.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","JAM","FMLE","8.5","8.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","JAM","BTSX","8.5","8.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","LKA","BTSX","8.5","8.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","NIU","BTSX","8.6","8.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","COK","BTSX","8.7","8.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NGA","BTSX","8.8","8.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LBR","MLE","9.0","9.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NOR","FMLE","9.0","9.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","IND","BTSX","9.0","9.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","NIU","MLE","9.0","9.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","ZAF","MLE","9.1","9.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BFA","FMLE","9.2","9.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MWI","BTSX","9.2","9.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MDV","MLE","9.2","9.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","TLS","FMLE","9.3","9.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","QAT","MLE","9.4","9.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","EST","MLE","9.4","9.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MNG","BTSX","9.5","9.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","USA","MLE","9.6","9.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","SWE","MLE","9.6","9.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BRB","BTSX","9.8","9.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MMR","BTSX","9.8","9.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","GRD","MLE","10.1","10.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BFA","BTSX","10.2","10.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","DMA","MLE","10.2","10.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","COK","MLE","10.5","10.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NGA","MLE","10.6","10.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","DJI","BTSX","10.7","10.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","EGY","MLE","11.0","11.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","IND","MLE","11.1","11.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BFA","MLE","11.2","11.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","MWI","MLE","11.2","11.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BWA","MLE","11.3","11.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BWA","BTSX","11.3","11.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BWA","FMLE","11.4","11.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AMR","BRB","MLE","11.5","11.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","EMR","DJI","MLE","12.9","12.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","NPL","FMLE","12.9","12.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NOR","BTSX","13.0","13.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","LKA","MLE","13.0","13.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LSO","FMLE","13.6","13.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","MNG","MLE","13.6","13.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","ISL","MLE","14.0","14.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COG","FMLE","14.1","14.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SLE","MLE","14.1","14.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LSO","BTSX","14.4","14.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","HRV","FMLE","14.5","14.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","LSO","MLE","14.7","14.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","MMR","MLE","15.2","15.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CAF","BTSX","15.4","15.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NAM","MLE","15.6","15.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NAM","FMLE","15.8","15.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","NAM","BTSX","16.0","16.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","HRV","BTSX","16.1","16.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","NPL","BTSX","16.2","16.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COG","BTSX","16.4","16.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PLW","FMLE","17.0","17.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","HRV","MLE","17.2","17.20000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SLE","BTSX","17.7","17.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","AGO","MLE","18.0","18.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","EUR","NOR","MLE","18.0","18.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COG","MLE","18.3","18.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","AGO","BTSX","18.7","18.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","BTN","FMLE","18.9","18.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","AGO","FMLE","19.0","19.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","SLE","FMLE","19.1","19.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PLW","BTSX","19.5","19.50000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","NPL","MLE","19.7","19.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COD","FMLE","20.1","20.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","GMB","MLE","20.1","20.10000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COD","MLE","20.6","20.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","COD","BTSX","20.8","20.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","BTN","BTSX","21.6","21.60000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","FSM","FMLE","21.7","21.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","PLW","MLE","21.7","21.70000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","CAF","MLE","21.9","21.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","GMB","BTSX","21.9","21.90000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","GMB","FMLE","23.3","23.30000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","FSM","BTSX","23.8","23.80000","","",""
+"M_smkless_prev_youth","PUBLISHED","SEAR","BTN","MLE","25.0","25.00000","","",""
+"M_smkless_prev_youth","PUBLISHED","WPR","FSM","MLE","26.4","26.40000","","",""
+"M_smkless_prev_youth","PUBLISHED","AFR","BDI","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","COM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ETH","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GAB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GHA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GIN","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MRT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MRT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","NER","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","UGA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BRA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CHL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CHL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CUB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CUB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","ECU","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","PRY","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","VCT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","LBN","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SOM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SOM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AUT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AUT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AUT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BEL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BGR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","FRA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LTU","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MLT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SMR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MKD","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TUR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TUR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TKM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","AUS","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","AUS","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","FJI","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","JPN","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","LAO","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","MHL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","MHL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NRU","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NZL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","PNG","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","WSM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SGP","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SGP","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SLB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VNM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","COM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNQ","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ERI","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GAB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GHA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GIN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MLI","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","NER","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","NER","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","STP","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","STP","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BOL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BOL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CHL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","DOM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","GTM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","GTM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HTI","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","NIC","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","NIC","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","LCA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","TTO","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","URY","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","URY","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","AFG","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","BHR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BGR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CZE","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CZE","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DNK","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DEU","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ISR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LTU","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LUX","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LUX","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LUX","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","PRT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ROU","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ROU","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ESP","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ESP","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SWE","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CHE","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UKR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KHM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","JPN","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NZL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","WSM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TON","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VUT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","BDI","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","TCD","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","TCD","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNQ","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GNQ","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ERI","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MLI","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","STP","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","SSD","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ZMB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ZMB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BOL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","CUB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","ECU","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HND","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HND","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","KNA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","KNA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","MAR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AND","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AND","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AND","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CYP","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CYP","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CZE","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DNK","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","FRA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DEU","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DEU","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ISL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","IRL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MLT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MCO","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SMR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVK","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVK","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CHE","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MKD","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TKM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UZB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UZB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","SEAR","PRK","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","SEAR","PRK","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KIR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KIR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","WSM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SLB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TUV","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TUV","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VNM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","CPV","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MRT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","SSD","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ZMB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","COL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","DOM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","ECU","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","GTM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HTI","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HTI","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","HND","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","NIC","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","LCA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","LCA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","TTO","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","URY","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","AFG","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","AFG","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","BHR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","BHR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","KWT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","MAR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","MAR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SOM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BEL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CYP","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","DNK","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ISR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ITA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ITA","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","LTU","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MLT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MCO","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MCO","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","PRT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","PRT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ESP","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","CHE","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","GBR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","GBR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UZB","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","SEAR","IDN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KHM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KHM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","JPN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","PNG","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TON","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TUV","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VNM","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","BDI","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","TCD","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","COM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ETH","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ETH","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MLI","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MUS","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","UGA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","COL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","DOM","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","VCT","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","VCT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","TTO","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","KWT","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","LBN","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","LBN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SDN","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AZE","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BGR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","IRL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ISR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SMR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVN","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","MKD","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TUR","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","TKM","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UKR","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","GBR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","SEAR","PRK","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","KIR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VUT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SGP","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","LAO","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","CPV","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","CPV","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","ERI","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GAB","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GHA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","GIN","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MUS","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","MUS","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","SSD","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AFR","UGA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BRA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","BRA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","COL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","PRY","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","PRY","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","AMR","KNA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","KWT","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SDN","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EMR","SDN","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AZE","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","AZE","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","BEL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","FRA","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","IRL","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ITA","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","ROU","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVK","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","SVN","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","EUR","UKR","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","SEAR","BGD","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","AUS","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","FJI","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","FJI","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","LAO","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","MHL","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NRU","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NRU","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","NZL","MLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","PNG","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","SLB","FMLE","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","TON","BTSX","Not available","","","","Data not reported/not available"
+"M_smkless_prev_youth","PUBLISHED","WPR","VUT","BTSX","Not available","","","","Data not reported/not available"

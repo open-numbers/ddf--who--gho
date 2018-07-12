@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-Rev_curr,PUBLISHED,EUR,ALB,ALL,,,,
-Rev_curr,PUBLISHED,EUR,ARM,AMD,,,,
-Rev_curr,PUBLISHED,AFR,AGO,AOA,,,,
-Rev_curr,PUBLISHED,AMR,ARG,ARS,,,,
-Rev_curr,PUBLISHED,WPR,AUS,AUD,,,,
-Rev_curr,PUBLISHED,WPR,KIR,AUD,,,,
-Rev_curr,PUBLISHED,WPR,TUV,AUD,,,,
-Rev_curr,PUBLISHED,EUR,BIH,BAM,,,,
-Rev_curr,PUBLISHED,AMR,BRB,BBD,,,,
-Rev_curr,PUBLISHED,SEAR,BGD,BDT,,,,
-Rev_curr,PUBLISHED,EUR,BGR,BGN,,,,
-Rev_curr,PUBLISHED,EMR,BHR,BHD,,,,
-Rev_curr,PUBLISHED,AFR,BDI,BIF,,,,
-Rev_curr,PUBLISHED,WPR,BRN,BND,,,,
-Rev_curr,PUBLISHED,AMR,BOL,BOB,,,,
-Rev_curr,PUBLISHED,AMR,BRA,BRL,,,,
-Rev_curr,PUBLISHED,AFR,BWA,BWP,,,,
-Rev_curr,PUBLISHED,EUR,BLR,BYR,,,,
-Rev_curr,PUBLISHED,AMR,BLZ,BZD,,,,
-Rev_curr,PUBLISHED,AMR,CAN,CAD,,,,
-Rev_curr,PUBLISHED,AFR,COD,CDF,,,,
-Rev_curr,PUBLISHED,EUR,CHE,CHF,,,,
-Rev_curr,PUBLISHED,AMR,CHL,CLP,,,,
-Rev_curr,PUBLISHED,WPR,CHN,CNY,,,,
-Rev_curr,PUBLISHED,AMR,COL,COP,,,,
-Rev_curr,PUBLISHED,AMR,CRI,CRC,,,,
-Rev_curr,PUBLISHED,AFR,CPV,CVE,,,,
-Rev_curr,PUBLISHED,EUR,CZE,CZK,,,,
-Rev_curr,PUBLISHED,EUR,DNK,DKK,,,,
-Rev_curr,PUBLISHED,AMR,DOM,DOP,,,,
-Rev_curr,PUBLISHED,AFR,DZA,DZD,,,,
-Rev_curr,PUBLISHED,EMR,EGY,EGP,,,,
-Rev_curr,PUBLISHED,AFR,ERI,ERN,,,,
-Rev_curr,PUBLISHED,AFR,ETH,ETB,,,,
-Rev_curr,PUBLISHED,EUR,AND,EUR,,,,
-Rev_curr,PUBLISHED,EUR,AUT,EUR,,,,
-Rev_curr,PUBLISHED,EUR,BEL,EUR,,,,
-Rev_curr,PUBLISHED,EUR,CYP,EUR,,,,
-Rev_curr,PUBLISHED,EUR,EST,EUR,,,,
-Rev_curr,PUBLISHED,EUR,FIN,EUR,,,,
-Rev_curr,PUBLISHED,EUR,FRA,EUR,,,,
-Rev_curr,PUBLISHED,EUR,DEU,EUR,,,,
-Rev_curr,PUBLISHED,EUR,GRC,EUR,,,,
-Rev_curr,PUBLISHED,EUR,IRL,EUR,,,,
-Rev_curr,PUBLISHED,EUR,ITA,EUR,,,,
-Rev_curr,PUBLISHED,EUR,LUX,EUR,,,,
-Rev_curr,PUBLISHED,EUR,MLT,EUR,,,,
-Rev_curr,PUBLISHED,EUR,MNE,EUR,,,,
-Rev_curr,PUBLISHED,EUR,NLD,EUR,,,,
-Rev_curr,PUBLISHED,EUR,PRT,EUR,,,,
-Rev_curr,PUBLISHED,EUR,SMR,EUR,,,,
-Rev_curr,PUBLISHED,EUR,SVK,EUR,,,,
-Rev_curr,PUBLISHED,EUR,SVN,EUR,,,,
-Rev_curr,PUBLISHED,EUR,ESP,EUR,,,,
-Rev_curr,PUBLISHED,EUR,GBR,GBP,,,,
-Rev_curr,PUBLISHED,EUR,GEO,GEL,,,,
-Rev_curr,PUBLISHED,AFR,GHA,GHS,,,,
-Rev_curr,PUBLISHED,AMR,GTM,GTQ,,,,
-Rev_curr,PUBLISHED,AMR,GUY,GYD,,,,
-Rev_curr,PUBLISHED,AMR,HND,HNL,,,,
-Rev_curr,PUBLISHED,EUR,HRV,HRK,,,,
-Rev_curr,PUBLISHED,EUR,HUN,HUF,,,,
-Rev_curr,PUBLISHED,SEAR,IDN,IDR,,,,
-Rev_curr,PUBLISHED,SEAR,IND,INR,,,,
-Rev_curr,PUBLISHED,EMR,IRN,IRR,,,,
-Rev_curr,PUBLISHED,EUR,ISL,ISK,,,,
-Rev_curr,PUBLISHED,AMR,JAM,JMD,,,,
-Rev_curr,PUBLISHED,EMR,JOR,JOD,,,,
-Rev_curr,PUBLISHED,WPR,JPN,JPY,,,,
-Rev_curr,PUBLISHED,AFR,KEN,KES,,,,
-Rev_curr,PUBLISHED,EUR,KGZ,KGS,,,,
-Rev_curr,PUBLISHED,WPR,KHM,KHR,,,,
-Rev_curr,PUBLISHED,AFR,COM,KMF,,,,
-Rev_curr,PUBLISHED,WPR,KOR,KRW,,,,
-Rev_curr,PUBLISHED,EUR,KAZ,KZT,,,,
-Rev_curr,PUBLISHED,WPR,LAO,LAK,,,,
-Rev_curr,PUBLISHED,EMR,LBN,LBP,,,,
-Rev_curr,PUBLISHED,SEAR,LKA,LKR,,,,
-Rev_curr,PUBLISHED,AFR,LSO,LSL,,,,
-Rev_curr,PUBLISHED,EUR,LTU,LTL,,,,
-Rev_curr,PUBLISHED,EUR,LVA,LVL,,,,
-Rev_curr,PUBLISHED,EMR,LBY,LYD,,,,
-Rev_curr,PUBLISHED,EMR,MAR,MAD,,,,
-Rev_curr,PUBLISHED,WPR,SLB,SBD,,,,
-Rev_curr,PUBLISHED,AFR,SYC,SCR,,,,
-Rev_curr,PUBLISHED,EMR,SDN,SDG,,,,
-Rev_curr,PUBLISHED,EUR,SWE,SEK,,,,
-Rev_curr,PUBLISHED,WPR,SGP,SGD,,,,
-Rev_curr,PUBLISHED,AFR,SLE,SLL,,,,
-Rev_curr,PUBLISHED,AFR,RWA,RWF,,,,
-Rev_curr,PUBLISHED,EUR,RUS,RUB,,,,
-Rev_curr,PUBLISHED,EUR,SRB,RSD,,,,
-Rev_curr,PUBLISHED,EMR,QAT,QAR,,,,
-Rev_curr,PUBLISHED,EUR,POL,PLN,,,,
-Rev_curr,PUBLISHED,EMR,PAK,PKR,,,,
-Rev_curr,PUBLISHED,WPR,PHL,PHP,,,,
-Rev_curr,PUBLISHED,AMR,PER,PEN,,,,
-Rev_curr,PUBLISHED,AMR,PAN,PAB,,,,
-Rev_curr,PUBLISHED,EMR,OMN,OMR,,,,
-Rev_curr,PUBLISHED,WPR,NIU,NZD,,,,
-Rev_curr,PUBLISHED,WPR,NZL,NZD,,,,
-Rev_curr,PUBLISHED,WPR,COK,NZD,,,,
-Rev_curr,PUBLISHED,SEAR,NPL,NPR,,,,
-Rev_curr,PUBLISHED,EUR,NOR,NOK,,,,
-Rev_curr,PUBLISHED,AFR,MOZ,MZN,,,,
-Rev_curr,PUBLISHED,WPR,MYS,MYR,,,,
-Rev_curr,PUBLISHED,AMR,MEX,MXN,,,,
-Rev_curr,PUBLISHED,AFR,MWI,MWK,,,,
-Rev_curr,PUBLISHED,SEAR,MDV,MVR,,,,
-Rev_curr,PUBLISHED,AFR,MUS,MUR,,,,
-Rev_curr,PUBLISHED,WPR,MNG,MNT,,,,
-Rev_curr,PUBLISHED,AFR,MDG,MGA,,,,
-Rev_curr,PUBLISHED,EUR,MDA,MDL,,,,
-Rev_curr,PUBLISHED,AMR,SUR,SRD,,,,
-Rev_curr,PUBLISHED,AMR,LCA,XCD,,,,
-Rev_curr,PUBLISHED,AMR,VCT,XCD,,,,
-Rev_curr,PUBLISHED,AFR,BFA,XOF,,,,
-Rev_curr,PUBLISHED,AFR,CIV,XOF,,,,
-Rev_curr,PUBLISHED,AFR,SEN,XOF,,,,
-Rev_curr,PUBLISHED,AFR,TGO,XOF,,,,
-Rev_curr,PUBLISHED,EUR,UZB,UZS,,,,
-Rev_curr,PUBLISHED,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-Rev_curr,PUBLISHED,AFR,GNQ,Not available,,,,
-Rev_curr,PUBLISHED,AFR,GMB,Not available,,,,
-Rev_curr,PUBLISHED,AFR,GNB,Not available,,,,
-Rev_curr,PUBLISHED,AFR,LBR,Not available,,,,
-Rev_curr,PUBLISHED,AFR,NER,Not available,,,,
-Rev_curr,PUBLISHED,AFR,SSD,Not available,,,,
-Rev_curr,PUBLISHED,AFR,ZMB,Not available,,,,
-Rev_curr,PUBLISHED,EUR,MCO,Not available,,,,
-Rev_curr,PUBLISHED,EUR,MKD,Not available,,,,
-Rev_curr,PUBLISHED,WPR,WSM,Not available,,,,
-Rev_curr,PUBLISHED,WPR,TON,Not available,,,,
-Rev_curr,PUBLISHED,AFR,GAB,Not available,,,,
-Rev_curr,PUBLISHED,AFR,GIN,Not available,,,,
-Rev_curr,PUBLISHED,AFR,TZA,Not available,,,,
-Rev_curr,PUBLISHED,EMR,SYR,Not available,,,,
-Rev_curr,PUBLISHED,EMR,ARE,Not available,,,,
-Rev_curr,PUBLISHED,WPR,PNG,Not available,,,,
-Rev_curr,PUBLISHED,AFR,NGA,Not available,,,,
-Rev_curr,PUBLISHED,AMR,PRY,Not available,,,,
-Rev_curr,PUBLISHED,EMR,DJI,Not available,,,,
-Rev_curr,PUBLISHED,EMR,KWT,Not available,,,,
-Rev_curr,PUBLISHED,EMR,SOM,Not available,,,,
-Rev_curr,PUBLISHED,WPR,NRU,Not available,,,,
-Rev_curr,PUBLISHED,AFR,MRT,Not available,,,,
-Rev_curr,PUBLISHED,AMR,CUB,Not available,,,,
-Rev_curr,PUBLISHED,EMR,IRQ,Not available,,,,
-Rev_curr,PUBLISHED,EUR,AZE,Not available,,,,
-Rev_curr,PUBLISHED,WPR,FJI,Not available,,,,
-Rev_curr,PUBLISHED,AFR,BEN,Not available,,,,
-Rev_curr,PUBLISHED,AFR,CMR,Not available,,,,
-Rev_curr,PUBLISHED,AFR,STP,Not available,,,,
-Rev_curr,PUBLISHED,AMR,VEN,VEF,,,,
-Rev_curr,PUBLISHED,WPR,VNM,VND,,,,
-Rev_curr,PUBLISHED,AFR,CAF,XAF,,,,
-Rev_curr,PUBLISHED,AFR,TCD,XAF,,,,
-Rev_curr,PUBLISHED,AFR,COG,XAF,,,,
-Rev_curr,PUBLISHED,AMR,ATG,XCD,,,,
-Rev_curr,PUBLISHED,AMR,DMA,XCD,,,,
-Rev_curr,PUBLISHED,AMR,GRD,XCD,,,,
-Rev_curr,PUBLISHED,AMR,KNA,XCD,,,,
-Rev_curr,PUBLISHED,SEAR,THA,THB,,,,
-Rev_curr,PUBLISHED,EUR,TJK,TJS,,,,
-Rev_curr,PUBLISHED,EMR,TUN,TND,,,,
-Rev_curr,PUBLISHED,EUR,TUR,TRY,,,,
-Rev_curr,PUBLISHED,AMR,TTO,TTD,,,,
-Rev_curr,PUBLISHED,EUR,UKR,UAH,,,,
-Rev_curr,PUBLISHED,AFR,UGA,UGX,,,,
-Rev_curr,PUBLISHED,AFR,ZWE,USD,,,,
-Rev_curr,PUBLISHED,AMR,ECU,USD,,,,
-Rev_curr,PUBLISHED,AMR,SLV,USD,,,,
-Rev_curr,PUBLISHED,AMR,USA,USD,,,,Data not approved by national authorities.
-Rev_curr,PUBLISHED,WPR,MHL,USD,,,,
-Rev_curr,PUBLISHED,WPR,FSM,USD,,,,
-Rev_curr,PUBLISHED,AMR,URY,UYU,,,,
-Rev_curr,PUBLISHED,AFR,ZAF,ZAR,,,,
-Rev_curr,PUBLISHED,AMR,BHS,Not available,,,,
-Rev_curr,PUBLISHED,AMR,HTI,Not available,,,,
-Rev_curr,PUBLISHED,EMR,AFG,Not available,,,,
-Rev_curr,PUBLISHED,EMR,SAU,Not available,,,,
-Rev_curr,PUBLISHED,EMR,YEM,Not available,,,,
-Rev_curr,PUBLISHED,EUR,ROU,Not available,,,,
-Rev_curr,PUBLISHED,SEAR,TLS,Not available,,,,
-Rev_curr,PUBLISHED,WPR,PLW,Not available,,,,
-Rev_curr,PUBLISHED,WPR,VUT,Not available,,,,
-Rev_curr,PUBLISHED,AFR,MLI,Not available,,,,
-Rev_curr,PUBLISHED,AFR,NAM,Not available,,,,
-Rev_curr,PUBLISHED,AFR,SWZ,Not available,,,,
-Rev_curr,PUBLISHED,AMR,NIC,Not available,,,,
-Rev_curr,PUBLISHED,EUR,ISR,Not available,,,,Data not reported/not available
-Rev_curr,PUBLISHED,EUR,TKM,Not available,,,,Data not reported/not available
-Rev_curr,PUBLISHED,SEAR,PRK,Not available,,,,Data not reported/not available
-Rev_curr,PUBLISHED,SEAR,MMR,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"Rev_curr","PUBLISHED","EUR","ALB","ALL","","","",""
+"Rev_curr","PUBLISHED","EUR","ARM","AMD","","","",""
+"Rev_curr","PUBLISHED","AFR","AGO","AOA","","","",""
+"Rev_curr","PUBLISHED","AMR","ARG","ARS","","","",""
+"Rev_curr","PUBLISHED","WPR","AUS","AUD","","","",""
+"Rev_curr","PUBLISHED","WPR","KIR","AUD","","","",""
+"Rev_curr","PUBLISHED","WPR","TUV","AUD","","","",""
+"Rev_curr","PUBLISHED","EUR","BIH","BAM","","","",""
+"Rev_curr","PUBLISHED","AMR","BRB","BBD","","","",""
+"Rev_curr","PUBLISHED","SEAR","BGD","BDT","","","",""
+"Rev_curr","PUBLISHED","EUR","BGR","BGN","","","",""
+"Rev_curr","PUBLISHED","EMR","BHR","BHD","","","",""
+"Rev_curr","PUBLISHED","AFR","BDI","BIF","","","",""
+"Rev_curr","PUBLISHED","WPR","BRN","BND","","","",""
+"Rev_curr","PUBLISHED","AMR","BOL","BOB","","","",""
+"Rev_curr","PUBLISHED","AMR","BRA","BRL","","","",""
+"Rev_curr","PUBLISHED","AFR","BWA","BWP","","","",""
+"Rev_curr","PUBLISHED","EUR","BLR","BYR","","","",""
+"Rev_curr","PUBLISHED","AMR","BLZ","BZD","","","",""
+"Rev_curr","PUBLISHED","AMR","CAN","CAD","","","",""
+"Rev_curr","PUBLISHED","AFR","COD","CDF","","","",""
+"Rev_curr","PUBLISHED","EUR","CHE","CHF","","","",""
+"Rev_curr","PUBLISHED","AMR","CHL","CLP","","","",""
+"Rev_curr","PUBLISHED","WPR","CHN","CNY","","","",""
+"Rev_curr","PUBLISHED","AMR","COL","COP","","","",""
+"Rev_curr","PUBLISHED","AMR","CRI","CRC","","","",""
+"Rev_curr","PUBLISHED","AFR","CPV","CVE","","","",""
+"Rev_curr","PUBLISHED","EUR","CZE","CZK","","","",""
+"Rev_curr","PUBLISHED","EUR","DNK","DKK","","","",""
+"Rev_curr","PUBLISHED","AMR","DOM","DOP","","","",""
+"Rev_curr","PUBLISHED","AFR","DZA","DZD","","","",""
+"Rev_curr","PUBLISHED","EMR","EGY","EGP","","","",""
+"Rev_curr","PUBLISHED","AFR","ERI","ERN","","","",""
+"Rev_curr","PUBLISHED","AFR","ETH","ETB","","","",""
+"Rev_curr","PUBLISHED","EUR","AND","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","AUT","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","BEL","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","CYP","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","EST","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","FIN","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","FRA","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","DEU","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","GRC","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","IRL","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","ITA","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","LUX","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","MLT","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","MNE","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","NLD","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","PRT","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","SMR","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","SVK","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","SVN","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","ESP","EUR","","","",""
+"Rev_curr","PUBLISHED","EUR","GBR","GBP","","","",""
+"Rev_curr","PUBLISHED","EUR","GEO","GEL","","","",""
+"Rev_curr","PUBLISHED","AFR","GHA","GHS","","","",""
+"Rev_curr","PUBLISHED","AMR","GTM","GTQ","","","",""
+"Rev_curr","PUBLISHED","AMR","GUY","GYD","","","",""
+"Rev_curr","PUBLISHED","AMR","HND","HNL","","","",""
+"Rev_curr","PUBLISHED","EUR","HRV","HRK","","","",""
+"Rev_curr","PUBLISHED","EUR","HUN","HUF","","","",""
+"Rev_curr","PUBLISHED","SEAR","IDN","IDR","","","",""
+"Rev_curr","PUBLISHED","SEAR","IND","INR","","","",""
+"Rev_curr","PUBLISHED","EMR","IRN","IRR","","","",""
+"Rev_curr","PUBLISHED","EUR","ISL","ISK","","","",""
+"Rev_curr","PUBLISHED","AMR","JAM","JMD","","","",""
+"Rev_curr","PUBLISHED","EMR","JOR","JOD","","","",""
+"Rev_curr","PUBLISHED","WPR","JPN","JPY","","","",""
+"Rev_curr","PUBLISHED","AFR","KEN","KES","","","",""
+"Rev_curr","PUBLISHED","EUR","KGZ","KGS","","","",""
+"Rev_curr","PUBLISHED","WPR","KHM","KHR","","","",""
+"Rev_curr","PUBLISHED","AFR","COM","KMF","","","",""
+"Rev_curr","PUBLISHED","WPR","KOR","KRW","","","",""
+"Rev_curr","PUBLISHED","EUR","KAZ","KZT","","","",""
+"Rev_curr","PUBLISHED","WPR","LAO","LAK","","","",""
+"Rev_curr","PUBLISHED","EMR","LBN","LBP","","","",""
+"Rev_curr","PUBLISHED","SEAR","LKA","LKR","","","",""
+"Rev_curr","PUBLISHED","AFR","LSO","LSL","","","",""
+"Rev_curr","PUBLISHED","EUR","LTU","LTL","","","",""
+"Rev_curr","PUBLISHED","EUR","LVA","LVL","","","",""
+"Rev_curr","PUBLISHED","EMR","LBY","LYD","","","",""
+"Rev_curr","PUBLISHED","EMR","MAR","MAD","","","",""
+"Rev_curr","PUBLISHED","EUR","MDA","MDL","","","",""
+"Rev_curr","PUBLISHED","AFR","MDG","MGA","","","",""
+"Rev_curr","PUBLISHED","WPR","MNG","MNT","","","",""
+"Rev_curr","PUBLISHED","AFR","MUS","MUR","","","",""
+"Rev_curr","PUBLISHED","SEAR","MDV","MVR","","","",""
+"Rev_curr","PUBLISHED","AFR","MWI","MWK","","","",""
+"Rev_curr","PUBLISHED","AMR","MEX","MXN","","","",""
+"Rev_curr","PUBLISHED","WPR","MYS","MYR","","","",""
+"Rev_curr","PUBLISHED","AFR","MOZ","MZN","","","",""
+"Rev_curr","PUBLISHED","EUR","NOR","NOK","","","",""
+"Rev_curr","PUBLISHED","SEAR","NPL","NPR","","","",""
+"Rev_curr","PUBLISHED","WPR","COK","NZD","","","",""
+"Rev_curr","PUBLISHED","WPR","NZL","NZD","","","",""
+"Rev_curr","PUBLISHED","WPR","NIU","NZD","","","",""
+"Rev_curr","PUBLISHED","EMR","OMN","OMR","","","",""
+"Rev_curr","PUBLISHED","AMR","PAN","PAB","","","",""
+"Rev_curr","PUBLISHED","AMR","PER","PEN","","","",""
+"Rev_curr","PUBLISHED","WPR","PHL","PHP","","","",""
+"Rev_curr","PUBLISHED","EMR","PAK","PKR","","","",""
+"Rev_curr","PUBLISHED","EUR","POL","PLN","","","",""
+"Rev_curr","PUBLISHED","EMR","QAT","QAR","","","",""
+"Rev_curr","PUBLISHED","EUR","SRB","RSD","","","",""
+"Rev_curr","PUBLISHED","EUR","RUS","RUB","","","",""
+"Rev_curr","PUBLISHED","AFR","RWA","RWF","","","",""
+"Rev_curr","PUBLISHED","WPR","SLB","SBD","","","",""
+"Rev_curr","PUBLISHED","AFR","SYC","SCR","","","",""
+"Rev_curr","PUBLISHED","EMR","SDN","SDG","","","",""
+"Rev_curr","PUBLISHED","EUR","SWE","SEK","","","",""
+"Rev_curr","PUBLISHED","WPR","SGP","SGD","","","",""
+"Rev_curr","PUBLISHED","AFR","SLE","SLL","","","",""
+"Rev_curr","PUBLISHED","AMR","SUR","SRD","","","",""
+"Rev_curr","PUBLISHED","SEAR","THA","THB","","","",""
+"Rev_curr","PUBLISHED","EUR","TJK","TJS","","","",""
+"Rev_curr","PUBLISHED","EMR","TUN","TND","","","",""
+"Rev_curr","PUBLISHED","EUR","TUR","TRY","","","",""
+"Rev_curr","PUBLISHED","AMR","TTO","TTD","","","",""
+"Rev_curr","PUBLISHED","EUR","UKR","UAH","","","",""
+"Rev_curr","PUBLISHED","AFR","UGA","UGX","","","",""
+"Rev_curr","PUBLISHED","AFR","ZWE","USD","","","",""
+"Rev_curr","PUBLISHED","AMR","ECU","USD","","","",""
+"Rev_curr","PUBLISHED","AMR","SLV","USD","","","",""
+"Rev_curr","PUBLISHED","AMR","USA","USD","","","","Data not approved by national authorities."
+"Rev_curr","PUBLISHED","WPR","MHL","USD","","","",""
+"Rev_curr","PUBLISHED","WPR","FSM","USD","","","",""
+"Rev_curr","PUBLISHED","AMR","URY","UYU","","","",""
+"Rev_curr","PUBLISHED","EUR","UZB","UZS","","","",""
+"Rev_curr","PUBLISHED","AMR","VEN","VEF","","","",""
+"Rev_curr","PUBLISHED","WPR","VNM","VND","","","",""
+"Rev_curr","PUBLISHED","AFR","CAF","XAF","","","",""
+"Rev_curr","PUBLISHED","AFR","TCD","XAF","","","",""
+"Rev_curr","PUBLISHED","AFR","COG","XAF","","","",""
+"Rev_curr","PUBLISHED","AMR","ATG","XCD","","","",""
+"Rev_curr","PUBLISHED","AMR","DMA","XCD","","","",""
+"Rev_curr","PUBLISHED","AMR","GRD","XCD","","","",""
+"Rev_curr","PUBLISHED","AMR","KNA","XCD","","","",""
+"Rev_curr","PUBLISHED","AMR","LCA","XCD","","","",""
+"Rev_curr","PUBLISHED","AMR","VCT","XCD","","","",""
+"Rev_curr","PUBLISHED","AFR","BFA","XOF","","","",""
+"Rev_curr","PUBLISHED","AFR","CIV","XOF","","","",""
+"Rev_curr","PUBLISHED","AFR","SEN","XOF","","","",""
+"Rev_curr","PUBLISHED","AFR","TGO","XOF","","","",""
+"Rev_curr","PUBLISHED","AFR","ZAF","ZAR","","","",""
+"Rev_curr","PUBLISHED","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"Rev_curr","PUBLISHED","AFR","GNQ","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","GMB","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","GNB","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","LBR","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","NER","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","SSD","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","ZMB","Not available","","","",""
+"Rev_curr","PUBLISHED","EUR","MCO","Not available","","","",""
+"Rev_curr","PUBLISHED","EUR","MKD","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","WSM","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","TON","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","GAB","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","GIN","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","TZA","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","SYR","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","ARE","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","PNG","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","NGA","Not available","","","",""
+"Rev_curr","PUBLISHED","AMR","PRY","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","DJI","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","KWT","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","SOM","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","NRU","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","MRT","Not available","","","",""
+"Rev_curr","PUBLISHED","AMR","CUB","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","IRQ","Not available","","","",""
+"Rev_curr","PUBLISHED","EUR","AZE","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","FJI","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","BEN","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","CMR","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","STP","Not available","","","",""
+"Rev_curr","PUBLISHED","AMR","BHS","Not available","","","",""
+"Rev_curr","PUBLISHED","AMR","HTI","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","AFG","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","SAU","Not available","","","",""
+"Rev_curr","PUBLISHED","EMR","YEM","Not available","","","",""
+"Rev_curr","PUBLISHED","EUR","ROU","Not available","","","",""
+"Rev_curr","PUBLISHED","SEAR","TLS","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","PLW","Not available","","","",""
+"Rev_curr","PUBLISHED","WPR","VUT","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","MLI","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","NAM","Not available","","","",""
+"Rev_curr","PUBLISHED","AFR","SWZ","Not available","","","",""
+"Rev_curr","PUBLISHED","AMR","NIC","Not available","","","",""
+"Rev_curr","PUBLISHED","EUR","ISR","Not available","","","","Data not reported/not available"
+"Rev_curr","PUBLISHED","EUR","TKM","Not available","","","","Data not reported/not available"
+"Rev_curr","PUBLISHED","SEAR","PRK","Not available","","","","Data not reported/not available"
+"Rev_curr","PUBLISHED","SEAR","MMR","Not available","","","","Data not reported/not available"

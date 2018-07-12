@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-W16_number_hw_C,PUBLISHED,2014,AFR,COG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,ERI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,ETH,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,MOZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,RWA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,STP,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,SWZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,BRA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,HND,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,SUR,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,DJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,IRQ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,KWT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,OMN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,QAT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,SAU,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,ARE,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,YEM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,MDA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,BTN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,PRK,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,THA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,FJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,KIR,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,LAO,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,MHL,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,MNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,PNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,SLB,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,TUV,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,VUT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,DZA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,BEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,BFA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,CMR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,CAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,TCD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,COM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,CIV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,GAB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,GIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,MLI,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,SEN,1,1.0,,,Regulations are pending
-W16_number_hw_C,PUBLISHED,2014,AFR,ZAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,ZMB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,CUB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,DOM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,LBY,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,MAR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,SDN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,SYR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,TUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ALB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,AUT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,BEL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,BGR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,HRV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,CYP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,CZE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,DNK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,EST,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,FIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,FRA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,DEU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,GRC,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,HUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ISL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,IRL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ITA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,LTU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,LUX,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,MNE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,NLD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,NOR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,POL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ROU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,RUS,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,SVK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,SVN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ESP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,SWE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,CHE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,TUR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,TKM,1,1.0,,,Provision adopted but not implemented by 31 December 2014.
-W16_number_hw_C,PUBLISHED,2014,EUR,GBR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,KOR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,GMB,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,ZWE,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,MEX,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,BHR,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,BGD,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,NPL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,AUS,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,NZL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,WSM,2,2.0,,,Other than tobacco for oral use which is banned
-W16_number_hw_C,PUBLISHED,2014,AFR,KEN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,IND,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,BRN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,SGP,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,MDG,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,SYC,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,CAN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,USA,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,URY,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,EGY,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,JPN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,TON,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,CHL,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,PAN,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,IDN,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2014,SEAR,MDV,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,COL,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,ECU,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,GTM,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,NIC,6,6.0,,,Policy adopted in 2010 but not yet regulated and implemented by 31 December 2014
-W16_number_hw_C,PUBLISHED,2014,WPR,COK,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,NRU,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,VNM,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,UZB,7,7.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,TZA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,ARG,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,UKR,11,11.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,GHA,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,NAM,12,12.0,,,Provision adopted but not implemented by 31 December 2014.
-W16_number_hw_C,PUBLISHED,2014,AFR,TGO,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,CRI,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,PER,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,EMR,LBN,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,GEO,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,KAZ,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,KGZ,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2014,WPR,PHL,12,12.0,,,Provision adopted but not implemented by 31 December 2014.
-W16_number_hw_C,PUBLISHED,2014,EMR,IRN,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,ISR,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,JAM,16,16.0,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,PRT,16,16.0,,,
-W16_number_hw_C,PUBLISHED,2014,AMR,TTO,24,24.0,,,Provision adopted but not implemented by 31 December 2014.
-W16_number_hw_C,PUBLISHED,2014,EUR,LVA,No,,,,
-W16_number_hw_C,PUBLISHED,2014,EUR,TJK,No,,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,COG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,ERI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,MOZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,NAM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,BRA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,CRI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,HND,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,TTO,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,DJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,IRQ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,KWT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,OMN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,QAT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,SAU,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,ARE,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,YEM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,MDA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,BTN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,PRK,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,THA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,FJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,LAO,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,MHL,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,MNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,PNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,WSM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,SLB,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,TUV,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,VUT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,VNM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,DZA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,BEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,BFA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,CMR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,CAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,TCD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,COM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,CIV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,GIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,MLI,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,SEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,ZAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,ZMB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,CHL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,CUB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,DOM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,LBY,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,MAR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,SDN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,SYR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,TUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ALB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,AUT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,BEL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,BGR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,HRV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,CYP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,CZE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,DNK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,EST,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,FIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,FRA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,DEU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,GRC,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,HUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ISL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,IRL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ITA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,LTU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,LUX,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,MNE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,NLD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,NOR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,POL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ROU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,RUS,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,SVK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,SVN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ESP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,SWE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,CHE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,TUR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,GBR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,GMB,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,ZWE,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,MEX,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,BHR,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,NPL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,AUS,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,NZL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,KEN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,IND,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,BRN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,SGP,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,MDG,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,SYC,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,CAN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,USA,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,URY,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,EGY,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,JPN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,PHL,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,TON,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,PAN,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,IDN,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2012,SEAR,MDV,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,COL,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,ECU,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,GTM,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,NIC,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,COK,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,WPR,NRU,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,UZB,7,7.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,KGZ,9,9.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,TZA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,ARG,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,UKR,11,11.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,GHA,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,AFR,TGO,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,AMR,PER,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,LBN,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,GEO,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,KAZ,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2012,EMR,IRN,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,ISR,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,PRT,16,16.0,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,LVA,No,,,,
-W16_number_hw_C,PUBLISHED,2012,EUR,TJK,No,,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,GHA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,MOZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,NAM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,SYC,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,HND,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,TTO,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,DJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,SAU,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,YEM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,KAZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,MDA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,BTN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,NPL,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,FJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,LAO,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,MHL,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,MNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,PNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,WSM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,SLB,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,TUV,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,VUT,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,DZA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,BEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,BFA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,CMR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,CAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,TCD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,CIV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,GIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,MDG,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,MLI,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,SEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,ZAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,TGO,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,ZMB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,CHL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,CUB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,DOM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,SLV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,LBN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,LBY,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,MAR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,QAT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,SDN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,SYR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,TUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ALB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,AUT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,BEL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,BGR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,HRV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,CYP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,CZE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,DNK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,EST,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,FIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,FRA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,DEU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,GRC,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,HUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ISL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,IRL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ITA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,LTU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,LUX,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,MNE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,NLD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,NOR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,POL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ROU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,RUS,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,SVK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,SVN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ESP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,SWE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,CHE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,TUR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,GBR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,UZB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,PRK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,IND,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,GMB,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,ZWE,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,THA,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,AUS,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,NZL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,KEN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,COL,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,ECU,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,BRN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,SGP,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,CAN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,MEX,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,USA,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,EGY,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,JPN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,PHL,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,TON,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,ERI,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,PAN,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2010,SEAR,MDV,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,GTM,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,NIC,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,URY,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,COK,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2010,WPR,NRU,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2010,EMR,IRN,8,8.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,KGZ,9,9.0,,,
-W16_number_hw_C,PUBLISHED,2010,AFR,TZA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,BRA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2010,AMR,PER,11,11.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,UKR,11,11.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,GEO,12,12.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,ISR,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,PRT,16,16.0,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,LVA,No,,,,
-W16_number_hw_C,PUBLISHED,2010,EUR,TJK,No,,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,MOZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,PER,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,DJI,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,IRN,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,SAU,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,YEM,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ALB,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,KAZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,KGZ,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,UZB,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,SEAR,THA,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,COK,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,MHL,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,MNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,PNG,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,TON,0,0.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,DZA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,BEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,BFA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,CMR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,CAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,TCD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,CIV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,GIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,MDG,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,MLI,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,SEN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,ZAF,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,ZMB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,CHL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,COL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,CUB,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,DOM,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,SLV,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,HND,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,NIC,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,PAN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,EGY,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,LBN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,MAR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,QAT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,SDN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EMR,TUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,AUT,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,BEL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,BGR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,CYP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,CZE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,DNK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,EST,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,FIN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,FRA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,DEU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,GRC,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,HUN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ISL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,IRL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ITA,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,LTU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,LUX,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,MNE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,NLD,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,NOR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,POL,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ROU,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,SVK,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,SVN,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ESP,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,SWE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,CHE,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,TUR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,GBR,1,1.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,ZWE,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,AUS,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,NZL,2,2.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,KEN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,ECU,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2007,SEAR,IND,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,BRN,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,SGP,3,3.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,JPN,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2007,WPR,PHL,4,4.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,ERI,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,HRV,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2007,SEAR,MDV,5,5.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,GTM,6,6.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,UKR,7,7.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,URY,8,8.0,,,
-W16_number_hw_C,PUBLISHED,2007,AFR,TZA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2007,AMR,BRA,10,10.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,ISR,13,13.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,GEO,15,15.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,PRT,16,16.0,,,
-W16_number_hw_C,PUBLISHED,2007,EUR,LVA,No,,,,
-W16_number_hw_C,PUBLISHED,2007,SEAR,BTN,No,,,,
-W16_number_hw_C,PUBLISHED,2014,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,CHN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,BOL,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,SLV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,MKD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,MYS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,COD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,AND,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,BLR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,MLT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,MUS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,NGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,VEN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,AZE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,UGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,PRY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,ARM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EUR,SRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,MUS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,STP,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,BLR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,CPV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,ARM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,TKM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,COD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,NER,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,COD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,GUY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EMR,PAK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,MKD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,CHN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,BOL,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,SLV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,JAM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,AZE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,NGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,JAM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,CPV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,MUS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,ARG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,BHS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,PRY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EMR,JOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,MYS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,UGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,PRY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,PAK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,ARE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,MKD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,ARM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,JAM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,VEN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,JOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,SRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,GMB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,MWI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,STP,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,ARG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,CRI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,GUY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,AND,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,AZE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,BLR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,MLT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,CPV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,COG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,COD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,NAM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,LCA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,USA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,BHR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,LBY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,ARM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,MLT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,MCO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,TJK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,BOL,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,CRI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,KWT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,TKM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,BWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,COM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,KNA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,VEN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,BIH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,SRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,BHR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,NER,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,UGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,GRD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,PRY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,MYS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,KOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,AGO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,GAB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,GHA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,MUS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,TGO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,BOL,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,CAN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,SYR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,ARE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,NIU,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,WSM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,VUT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,FJI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,KIR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,PLW,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,SLE,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,NER,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,RWA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,WPR,KOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,GUY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EMR,JOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,EMR,PAK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,GUY,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,TTO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,CHN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,BLR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,RUS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,TKM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,CPV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,NER,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,BRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,GAB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,CHN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,NGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,KWT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,PAK,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,SYC,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,JOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EUR,MKD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,KHM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,MYS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,SLB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,TUV,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,VNM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,HTI,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EMR,AFG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AFR,LBR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,BHS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,NRU,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AFR,GNB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,BHS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,SUR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,AND,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,MLT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,KOR,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2014,AMR,VCT,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,ETH,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,LSO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,NGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AFR,UGA,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,AMR,VEN,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2012,EUR,SRB,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,AMR,MEX,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,LAO,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,WPR,FSM,Not applicable,,,,Data not required/not applicable
-W16_number_hw_C,PUBLISHED,2007,EMR,OMN,Not available,,,,Data not reported/not available
-W16_number_hw_C,PUBLISHED,2007,EUR,MDA,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"W16_number_hw_C","PUBLISHED","2014","AFR","COG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","ERI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","ETH","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","MOZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","RWA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","STP","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","SWZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","BRA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","HND","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","SUR","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","DJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","IRQ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","KWT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","OMN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","QAT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","SAU","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","ARE","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","YEM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","MDA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","BTN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","PRK","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","THA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","FJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","KIR","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","LAO","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","MHL","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","MNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","PNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","SLB","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","TUV","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","VUT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","DZA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","BEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","BFA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","CMR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","CAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","TCD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","COM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","CIV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","GAB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","GIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","MLI","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","SEN","1","1.00000","","","Regulations are pending"
+"W16_number_hw_C","PUBLISHED","2014","AFR","ZAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","ZMB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","CUB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","DOM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","LBY","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","MAR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","SDN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","SYR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","TUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ALB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","AUT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","BEL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","BGR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","HRV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","CYP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","CZE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","DNK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","EST","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","FIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","FRA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","DEU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","GRC","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","HUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ISL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","IRL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ITA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","LTU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","LUX","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","MNE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","NLD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","NOR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","POL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ROU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","RUS","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","SVK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","SVN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ESP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","SWE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","CHE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","TUR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","TKM","1","1.00000","","","Provision adopted but not implemented by 31 December 2014."
+"W16_number_hw_C","PUBLISHED","2014","EUR","GBR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","KOR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","GMB","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","ZWE","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","MEX","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","BHR","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","BGD","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","NPL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","AUS","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","NZL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","WSM","2","2.00000","","","Other than tobacco for oral use which is banned"
+"W16_number_hw_C","PUBLISHED","2014","AFR","KEN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","IND","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","BRN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","SGP","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","MDG","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","SYC","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","CAN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","USA","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","URY","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","EGY","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","JPN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","TON","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","CHL","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","PAN","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","IDN","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","SEAR","MDV","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","COL","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","ECU","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","GTM","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","NIC","6","6.00000","","","Policy adopted in 2010 but not yet regulated and implemented by 31 December 2014"
+"W16_number_hw_C","PUBLISHED","2014","WPR","COK","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","NRU","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","VNM","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","UZB","7","7.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","TZA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","ARG","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","UKR","11","11.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","GHA","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","NAM","12","12.00000","","","Provision adopted but not implemented by 31 December 2014."
+"W16_number_hw_C","PUBLISHED","2014","AFR","TGO","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","CRI","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","PER","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EMR","LBN","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","GEO","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","KAZ","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","KGZ","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","WPR","PHL","12","12.00000","","","Provision adopted but not implemented by 31 December 2014."
+"W16_number_hw_C","PUBLISHED","2014","EMR","IRN","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","ISR","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","JAM","16","16.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","PRT","16","16.00000","","",""
+"W16_number_hw_C","PUBLISHED","2014","AMR","TTO","24","24.00000","","","Provision adopted but not implemented by 31 December 2014."
+"W16_number_hw_C","PUBLISHED","2014","EUR","LVA","No","","","",""
+"W16_number_hw_C","PUBLISHED","2014","EUR","TJK","No","","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","COG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","ERI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","MOZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","NAM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","BRA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","CRI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","HND","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","TTO","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","DJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","IRQ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","KWT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","OMN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","QAT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","SAU","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","ARE","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","YEM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","MDA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","BTN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","PRK","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","THA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","FJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","LAO","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","MHL","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","MNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","PNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","WSM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","SLB","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","TUV","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","VUT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","VNM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","DZA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","BEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","BFA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","CMR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","CAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","TCD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","COM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","CIV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","GIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","MLI","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","SEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","ZAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","ZMB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","CHL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","CUB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","DOM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","LBY","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","MAR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","SDN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","SYR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","TUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ALB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","AUT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","BEL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","BGR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","HRV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","CYP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","CZE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","DNK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","EST","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","FIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","FRA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","DEU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","GRC","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","HUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ISL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","IRL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ITA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","LTU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","LUX","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","MNE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","NLD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","NOR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","POL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ROU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","RUS","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","SVK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","SVN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ESP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","SWE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","CHE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","TUR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","GBR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","GMB","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","ZWE","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","MEX","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","BHR","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","NPL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","AUS","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","NZL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","KEN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","IND","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","BRN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","SGP","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","MDG","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","SYC","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","CAN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","USA","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","URY","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","EGY","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","JPN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","PHL","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","TON","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","PAN","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","IDN","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","SEAR","MDV","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","COL","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","ECU","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","GTM","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","NIC","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","COK","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","WPR","NRU","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","UZB","7","7.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","KGZ","9","9.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","TZA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","ARG","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","UKR","11","11.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","GHA","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AFR","TGO","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","AMR","PER","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","LBN","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","GEO","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","KAZ","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EMR","IRN","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","ISR","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","PRT","16","16.00000","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","LVA","No","","","",""
+"W16_number_hw_C","PUBLISHED","2012","EUR","TJK","No","","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","GHA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","MOZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","NAM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","SYC","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","HND","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","TTO","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","DJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","SAU","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","YEM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","KAZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","MDA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","BTN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","NPL","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","FJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","LAO","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","MHL","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","MNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","PNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","WSM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","SLB","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","TUV","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","VUT","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","DZA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","BEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","BFA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","CMR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","CAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","TCD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","CIV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","GIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","MDG","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","MLI","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","SEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","ZAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","TGO","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","ZMB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","CHL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","CUB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","DOM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","SLV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","LBN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","LBY","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","MAR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","QAT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","SDN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","SYR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","TUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ALB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","AUT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","BEL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","BGR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","HRV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","CYP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","CZE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","DNK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","EST","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","FIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","FRA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","DEU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","GRC","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","HUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ISL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","IRL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ITA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","LTU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","LUX","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","MNE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","NLD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","NOR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","POL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ROU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","RUS","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","SVK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","SVN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ESP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","SWE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","CHE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","TUR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","GBR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","UZB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","PRK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","IND","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","GMB","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","ZWE","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","THA","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","AUS","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","NZL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","KEN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","COL","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","ECU","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","BRN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","SGP","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","CAN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","MEX","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","USA","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","EGY","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","JPN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","PHL","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","TON","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","ERI","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","PAN","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","SEAR","MDV","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","GTM","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","NIC","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","URY","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","COK","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","WPR","NRU","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EMR","IRN","8","8.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","KGZ","9","9.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AFR","TZA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","BRA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","AMR","PER","11","11.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","UKR","11","11.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","GEO","12","12.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","ISR","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","PRT","16","16.00000","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","LVA","No","","","",""
+"W16_number_hw_C","PUBLISHED","2010","EUR","TJK","No","","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","MOZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","PER","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","DJI","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","IRN","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","SAU","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","YEM","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ALB","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","KAZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","KGZ","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","UZB","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","SEAR","THA","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","COK","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","MHL","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","MNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","PNG","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","TON","0","0.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","DZA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","BEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","BFA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","CMR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","CAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","TCD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","CIV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","GIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","MDG","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","MLI","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","SEN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","ZAF","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","ZMB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","CHL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","COL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","CUB","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","DOM","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","SLV","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","HND","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","NIC","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","PAN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","EGY","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","LBN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","MAR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","QAT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","SDN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EMR","TUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","AUT","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","BEL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","BGR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","CYP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","CZE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","DNK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","EST","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","FIN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","FRA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","DEU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","GRC","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","HUN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ISL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","IRL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ITA","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","LTU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","LUX","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","MNE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","NLD","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","NOR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","POL","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ROU","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","SVK","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","SVN","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ESP","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","SWE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","CHE","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","TUR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","GBR","1","1.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","ZWE","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","AUS","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","NZL","2","2.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","KEN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","ECU","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","SEAR","IND","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","BRN","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","SGP","3","3.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","JPN","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","WPR","PHL","4","4.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","ERI","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","HRV","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","SEAR","MDV","5","5.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","GTM","6","6.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","UKR","7","7.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","URY","8","8.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AFR","TZA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","AMR","BRA","10","10.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","ISR","13","13.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","GEO","15","15.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","PRT","16","16.00000","","",""
+"W16_number_hw_C","PUBLISHED","2007","EUR","LVA","No","","","",""
+"W16_number_hw_C","PUBLISHED","2007","SEAR","BTN","No","","","",""
+"W16_number_hw_C","PUBLISHED","2014","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","SLV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","TKM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","SLV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","ARG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","ARG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","CRI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","CRI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","TKM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","TKM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2014","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2012","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2010","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","AMR","MEX","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"W16_number_hw_C","PUBLISHED","2007","EMR","OMN","Not available","","","","Data not reported/not available"
+"W16_number_hw_C","PUBLISHED","2007","EUR","MDA","Not available","","","","Data not reported/not available"

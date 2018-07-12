@@ -1,338 +1,338 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-DEVICES13,PUBLISHED,2010,EMR,AFG,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ALB,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,AGO,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,ATG,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,ARG,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ARM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,AUT,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,AZE,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,BHS,None,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,BGD,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,BRB,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,BLR,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,BEL,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,BLZ,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,BEN,None,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,BTN,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,BOL,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,BIH,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,BWA,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,BRA,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,BRN,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,BGR,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,AFR,BFA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,BDI,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,KHM,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,CMR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,CAN,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,CPV,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,CAF,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,TCD,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,CHL,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,CHN,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,COL,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,AFR,COM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,CRI,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EUR,HRV,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,CUB,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EUR,CYP,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EUR,CZE,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,COD,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,DNK,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,DMA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,DOM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,EGY,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,SLV,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,ERI,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,EST,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,ETH,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,FJI,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,FIN,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,FRA,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,GAB,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,GMB,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,GEO,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,DEU,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,GHA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,GRD,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,GTM,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,GIN,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,GNB,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,GUY,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,HND,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,HUN,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ISL,None,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,IDN,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,IRQ,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,IRL,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ISR,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ITA,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,JAM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,JPN,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EMR,JOR,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,KEN,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,KIR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,KGZ,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,LAO,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,LVA,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,LBN,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,LBR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,LBY,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,LTU,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,LUX,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MDG,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,MYS,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,MDV,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MLI,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,MLT,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,MHL,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MRT,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MUS,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,MEX,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,FSM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,MCO,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,MNG,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,MNE,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EMR,MAR,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MOZ,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,MMR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,NAM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,NRU,None,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,NPL,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,NLD,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,NZL,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,NIC,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,NER,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,NOR,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,OMN,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,EMR,PAK,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,PAN,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,PRY,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,PER,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,PHL,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,POL,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,PRT,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,QAT,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,MDA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ROU,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,KNA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,LCA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,VCT,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,WSM,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,SMR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,STP,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,SAU,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,SEN,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,SRB,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,SYC,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,SLE,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,SGP,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,SVK,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,SVN,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,SLB,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,ZAF,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,ESP,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,SEAR,LKA,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,SDN,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,SUR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,SWZ,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,CHE,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,SEAR,THA,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,TGO,None,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,TON,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,TTO,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,TUR,Based on more than one system*,0.0,,,"based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
-DEVICES13,PUBLISHED,2010,AFR,UGA,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,UKR,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,TZA,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,USA,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,URY,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,VUT,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,YEM,Other,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,ZMB,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,ZWE,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,COG,None,0.0,,,
-DEVICES13,PUBLISHED,2010,SEAR,PRK,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,AMR,ECU,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,KAZ,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,KOR,Nationally developed,0.0,,,
-DEVICES13,PUBLISHED,2010,EMR,SOM,Based on UMDNS (Universal Medical Device Nomenclature System),0.0,,,
-DEVICES13,PUBLISHED,2010,WPR,VNM,None,0.0,,,
-DEVICES13,PUBLISHED,2010,AFR,MWI,None,0.0,,,
-DEVICES13,PUBLISHED,2010,EUR,TJK,Based on GMDN (Global Medical Device Nomenclature),0.0,,,
-DEVICES13,PUBLISHED,2013,EUR,BEL,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,AMR,BRA,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,DNK,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,FIN,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,FRA,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,GRC,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,IRL,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,LVA,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,WPR,MYS,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,NLD,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,WPR,NZL,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,AMR,NIC,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,NOR,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,POL,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,PRT,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,TJK,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,AFR,TZA,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2013,EUR,BGR,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,EUR,CYP,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,AFR,GMB,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,SEAR,IDN,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,EUR,ESP,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,EUR,CHE,Based on more than one system,,,,
-DEVICES13,PUBLISHED,2013,AMR,ARG,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,AUT,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,AMR,BOL,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,AFR,BWA,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,WPR,CHN,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,CZE,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,DEU,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,ISR,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EMR,JOR,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,KGZ,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,WPR,LAO,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EMR,MAR,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EMR,QAT,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,AFR,SLE,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EMR,SOM,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,SEAR,LKA,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EMR,SDN,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,AMR,URY,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,AFR,ZMB,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
-DEVICES13,PUBLISHED,2013,EUR,ALB,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,BLR,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,SEAR,BTN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,WPR,KHM,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,CAN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,COL,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,CRI,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,CUB,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,SEAR,PRK,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,EGY,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,SLV,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,EST,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,ETH,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,GRD,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,GTM,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,HND,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,HUN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,ITA,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,WPR,JPN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,KAZ,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,KEN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,LBY,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,MDG,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,MLI,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,MEX,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,MCO,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,MNE,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,MOZ,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,OMN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,PAN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,PER,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,WPR,KOR,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,RUS,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,WPR,WSM,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,SAU,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,SEN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,SRB,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,SVK,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,SVN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,TTO,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,TUN,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,TUR,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AFR,UGA,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EUR,GBR,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,AMR,USA,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,WPR,VUT,Nationally developed,,,,
-DEVICES13,PUBLISHED,2013,EMR,AFG,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,AGO,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,ATG,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,ARM,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,AZE,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,BHS,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,BGD,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,BRB,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,BLZ,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,BEN,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,BIH,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,BRN,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,BFA,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,BDI,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,CMR,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,CPV,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,CAF,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,TCD,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,CHL,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,COM,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,COG,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,CIV,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,HRV,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,COD,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,DMA,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,DOM,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,ECU,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,ERI,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,FJI,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,GAB,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,GEO,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,GHA,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,GIN,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,GNB,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,GUY,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,HTI,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,ISL,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,IND,None,,,,
-DEVICES13,PUBLISHED,2013,EMR,IRQ,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,JAM,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,KIR,None,,,,
-DEVICES13,PUBLISHED,2013,EMR,LBN,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,LBR,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,LTU,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,LUX,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,MWI,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,MDV,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,MLT,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,MHL,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,MRT,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,MUS,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,FSM,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,MNG,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,MMR,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,NAM,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,NRU,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,NPL,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,NER,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,NGA,None,,,,
-DEVICES13,PUBLISHED,2013,EMR,PAK,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,PRY,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,PHL,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,MDA,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,ROU,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,KNA,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,LCA,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,VCT,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,SMR,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,STP,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,SYC,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,SGP,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,SLB,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,ZAF,None,,,,
-DEVICES13,PUBLISHED,2013,AMR,SUR,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,SWZ,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,THA,None,,,,
-DEVICES13,PUBLISHED,2013,SEAR,TLS,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,TGO,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,TON,None,,,,
-DEVICES13,PUBLISHED,2013,EUR,UKR,None,,,,
-DEVICES13,PUBLISHED,2013,WPR,VNM,None,,,,
-DEVICES13,PUBLISHED,2013,EMR,YEM,None,,,,
-DEVICES13,PUBLISHED,2013,AFR,ZWE,None,,,,
-DEVICES13,PUBLISHED,2014,EUR,SWE,Based on GMDN (Global Medical Device Nomenclature),,,,
-DEVICES13,PUBLISHED,2014,AFR,DZA,None,,,,
-DEVICES13,PUBLISHED,2014,EUR,MKD,None,,,,
-DEVICES13,PUBLISHED,2014,EUR,TUV,Based on UMDNS (Universal Medical Device Nomenclature System),,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"DEVICES13","PUBLISHED","2010","AMR","ARG","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","AUT","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","BGR","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","AFR","BDI","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","CZE","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","DNK","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","GHA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","GTM","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","KEN","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","KGZ","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","MHL","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MUS","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","FSM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","NER","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","OMN","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EUR","SMR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","SAU","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","CHE","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","AFR","TGO","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","PRT","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","TZA","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","JOR","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","LAO","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","CAN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","CRI","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","LBY","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MLI","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","SVN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","TUN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","BEN","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","BRN","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","ECU","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","FJI","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","LTU","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MWI","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","PRY","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","MDA","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","TGO","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","UKR","None","","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ALB","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","ATG","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","CAN","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","CAF","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","COM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","HRV","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","GIN","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","GUY","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ISR","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","JAM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","MCO","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","MNE","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EUR","NLD","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","NIC","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","SYC","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","SGP","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ESP","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EMR","SDN","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","SWZ","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","BEL","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","DNK","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","FRA","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","NLD","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","NIC","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","MAR","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","SLE","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","BLR","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","KHM","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","MNE","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","OMN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","SEN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","SVK","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","BGD","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","BLZ","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","GHA","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","GNB","None","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","IRQ","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","KIR","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ROU","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","LCA","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","ZAF","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","SWZ","None","","","",""
+"DEVICES13","PUBLISHED","2010","EMR","AFG","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","BLR","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","BWA","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","CMR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","CUB","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EMR","EGY","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","FRA","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","HND","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ITA","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","LAO","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","MLT","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","MNG","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","NPL","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","PHL","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","LCA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","SRB","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","SUR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","TUR","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EMR","YEM","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","COG","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MWI","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","FIN","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","NZL","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","BGR","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","CZE","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","QAT","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ALB","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","EST","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","JPN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","MCO","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","SRB","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","GBR","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","AFG","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","BRB","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","CMR","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","DOM","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","GIN","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","JAM","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MUS","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","NER","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","KNA","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","THA","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","ZWE","None","","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ARM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","AZE","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","BFA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","KHM","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","CYP","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","AFR","COD","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","DEU","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","GRD","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","JOR","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","KIR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MRT","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","MEX","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","NOR","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","PAK","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","STP","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","SEN","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","THA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","TON","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","POL","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","TJK","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ISR","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","KGZ","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","COL","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","CUB","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MDG","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","MEX","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","TTO","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","TUR","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","BIH","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","BFA","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","ERI","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","GAB","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","LBR","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","LUX","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","MDV","None","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","PAK","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","PHL","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","TLS","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","TON","None","","","",""
+"DEVICES13","PUBLISHED","2010","AFR","BEN","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","BTN","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","TCD","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","COL","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EUR","EST","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","ETH","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","IDN","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","IRQ","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","LBY","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MDG","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MOZ","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","MMR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","QAT","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","MDA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","SVK","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","ZAF","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","TZA","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","USA","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","KAZ","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","KOR","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","IRL","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","LVA","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ESP","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","AUT","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","LKA","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","SDN","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","GTM","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","HND","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","PAN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","RUS","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","WSM","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ARM","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","AZE","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","TCD","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","CHL","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","CIV","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","HTI","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ISL","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","MMR","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","NAM","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","SMR","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","STP","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","SLB","None","","","",""
+"DEVICES13","PUBLISHED","2010","EUR","BEL","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","BLZ","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","CHL","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","CHN","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","FJI","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","FIN","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","HUN","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ISL","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","LTU","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","LUX","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","NAM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","NRU","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","POL","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","PRT","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","ROU","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","SVN","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","SLB","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","URY","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","VUT","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","PRK","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","ECU","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","GRC","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","MYS","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","CHE","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","ARG","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","URY","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","ZMB","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","GRD","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","HUN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","PER","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","KOR","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","AGO","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","ATG","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","COM","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","COG","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","GUY","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","IND","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","FSM","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","MNG","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","SYC","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","SGP","None","","","",""
+"DEVICES13","PUBLISHED","2014","AFR","DZA","None","","","",""
+"DEVICES13","PUBLISHED","2014","EUR","MKD","None","","","",""
+"DEVICES13","PUBLISHED","2014","EUR","TUV","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2010","AFR","AGO","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","BGD","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","BOL","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","BRN","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","CPV","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","CRI","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","AMR","DMA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","ERI","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","GMB","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","GNB","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","IRL","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","JPN","Based on more than one system*","0.00000","","","based on more than one system:  such as a mixure of two or more of the following options: Based on GMDN (Global Medical Device Nomenclature), Nationally developped, other, etc."
+"DEVICES13","PUBLISHED","2010","EMR","LBN","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","MDV","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","MAR","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","NZL","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","PRY","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","WSM","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","SLE","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","SEAR","LKA","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","UKR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","ZWE","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EMR","SOM","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","AMR","BRA","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","NOR","Based on GMDN (Global Medical Device Nomenclature)","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","GMB","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","BWA","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","SOM","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","BTN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","EGY","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","KEN","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MOZ","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","SAU","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","VUT","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","BHS","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","CAF","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","COD","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","GEO","None","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","LBN","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","MHL","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","NRU","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","VCT","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","SUR","None","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","VNM","None","","","",""
+"DEVICES13","PUBLISHED","2010","AMR","BHS","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","BRB","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","BIH","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","BRA","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","DOM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","SLV","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","GAB","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","GEO","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","LVA","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","LBR","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","MYS","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","MLI","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","PAN","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","PER","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","KNA","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","VCT","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AMR","TTO","Other","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","UGA","Nationally developed","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","AFR","ZMB","Based on UMDNS (Universal Medical Device Nomenclature System)","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","WPR","VNM","None","0.00000","","",""
+"DEVICES13","PUBLISHED","2010","EUR","TJK","Based on GMDN (Global Medical Device Nomenclature)","0.00000","","",""
+"DEVICES13","PUBLISHED","2013","EUR","CYP","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","IDN","Based on more than one system","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","BOL","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","WPR","CHN","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","DEU","Based on UMDNS (Universal Medical Device Nomenclature System)","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","PRK","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","SLV","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","ETH","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","ITA","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","KAZ","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","UGA","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","USA","Nationally developed","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","BDI","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","CPV","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","HRV","None","","","",""
+"DEVICES13","PUBLISHED","2013","AMR","DMA","None","","","",""
+"DEVICES13","PUBLISHED","2013","EUR","MLT","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","MRT","None","","","",""
+"DEVICES13","PUBLISHED","2013","SEAR","NPL","None","","","",""
+"DEVICES13","PUBLISHED","2013","AFR","NGA","None","","","",""
+"DEVICES13","PUBLISHED","2013","EMR","YEM","None","","","",""
+"DEVICES13","PUBLISHED","2014","EUR","SWE","Based on GMDN (Global Medical Device Nomenclature)","","","",""

@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_Group,PUBLISHED,2007,EMR,AFG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,AGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,ALB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,AND,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EMR,ARE,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,ARG,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,ARM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,ATG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,WPR,AUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,AUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,AZE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,BDI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,BEL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,AFR,BEN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,BFA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,SEAR,BGD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,BGR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EMR,BHR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,BHS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,BIH,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,BLR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,BLZ,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,BOL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,BRA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,BRB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,BRN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,BWA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,CAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,CAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,CHE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,CHL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,WPR,CHN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,CIV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,CMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,COD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,COG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,COK,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,COL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,COM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,CPV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,CRI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,CUB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,CYP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,CZE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,DEU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EMR,DJI,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,DMA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,DNK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,DOM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,DZA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,ECU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EMR,EGY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,ERI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,ESP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,EST,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,AFR,ETH,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,FIN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,WPR,FJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,FRA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,WPR,FSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,GAB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,GBR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,GEO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,GHA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,GIN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,GMB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,GNB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,GNQ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,GRC,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,GRD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,GTM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,GUY,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,HND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,HRV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,HTI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EUR,HUN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,SEAR,IDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,SEAR,IND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,IRL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EMR,IRN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EMR,IRQ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,ISL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,ISR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,ITA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,AMR,JAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EMR,JOR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,WPR,JPN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,KAZ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,KEN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,KGZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,KHM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,WPR,KIR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,KNA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,WPR,KOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EMR,KWT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,LAO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EMR,LBN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,LBR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EMR,LBY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,LCA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,SEAR,LKA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,LSO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,LTU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,LUX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,LVA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EMR,MAR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,MCO,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EUR,MDA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,MDG,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,SEAR,MDV,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,MEX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,MHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,MKD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,MLI,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,MLT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,SEAR,MMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,MNE,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,MNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,MOZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,MRT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AFR,MUS,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,AFR,MWI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,MYS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,NAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,NER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,NGA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,NIC,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,WPR,NIU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,NLD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,NOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,SEAR,NPL,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,WPR,NRU,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,NZL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EMR,OMN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EMR,PAK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,PAN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,PER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,PHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,PLW,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,PNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,POL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,SEAR,PRK,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EUR,PRT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,AMR,PRY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EMR,QAT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,ROU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,RUS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,RWA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EMR,SAU,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EMR,SDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,SEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,SGP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,SLB,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,AFR,SLE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,SLV,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,SMR,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EMR,SOM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,EUR,SRB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,STP,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,SUR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,SVK,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,SVN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,SWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,SWZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,SYC,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EMR,SYR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,TCD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,TGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,SEAR,THA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,TJK,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,EUR,TKM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,SEAR,TLS,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,WPR,TON,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,TTO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EMR,TUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2007,EUR,TUR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,TUV,Data not reported,1.0,,,
-R_Group,PUBLISHED,2007,AFR,TZA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,UGA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EUR,UKR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,URY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AMR,USA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,EUR,UZB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AMR,VCT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2007,AMR,VEN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,VNM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,WPR,VUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,WPR,WSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,EMR,YEM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,AFR,ZAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,ZMB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2007,AFR,ZWE,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EMR,AFG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,AGO,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,ALB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,AND,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,ARE,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,ARG,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,ARM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,ATG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,WPR,AUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,AUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,AZE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,BDI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,BEL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AFR,BEN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,BFA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,SEAR,BGD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,BGR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EMR,BHR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,BHS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,BIH,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,BLR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,BLZ,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,BOL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,BRA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,BRB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,BRN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,BWA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,CAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,CAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,CHE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,CHL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,WPR,CHN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,CIV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,CMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,COD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,COG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,COK,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,COL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,COM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,CPV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,CRI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,CUB,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,CYP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,CZE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,DEU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,DJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,DMA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,DNK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,DOM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,DZA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,ECU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,EGY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,ERI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,ESP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,EST,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AFR,ETH,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,FIN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,WPR,FJI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,FRA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,WPR,FSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,GAB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EUR,GBR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,GEO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,GHA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,GIN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,GMB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,GNB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,GNQ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,GRC,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AMR,GRD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,GTM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,GUY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,HND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,HRV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,HTI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,HUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,SEAR,IDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,SEAR,IND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,IRL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EMR,IRN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EMR,IRQ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EUR,ISL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,ISR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,ITA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AMR,JAM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,JOR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,WPR,JPN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,KAZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,KEN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,KGZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,KHM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,WPR,KIR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,KNA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,WPR,KOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,KWT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,LAO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EMR,LBN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,LBR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EMR,LBY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,LCA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,SEAR,LKA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,LSO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,LTU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,LUX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,LVA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EMR,MAR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,MCO,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,MDA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,MDG,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,SEAR,MDV,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,MEX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,MHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,MKD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,MLI,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EUR,MLT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,SEAR,MMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EUR,MNE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,MNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,MOZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,MRT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,MUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,MWI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,WPR,MYS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,NAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,NER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,NGA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,NIC,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,NIU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,NLD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,NOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,SEAR,NPL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,NRU,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,NZL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EMR,OMN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EMR,PAK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,PAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,PER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,PHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,PLW,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,PNG,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,POL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,SEAR,PRK,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,EUR,PRT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AMR,PRY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EMR,QAT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,ROU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,RUS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,RWA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EMR,SAU,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EMR,SDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,SEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,SGP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,SLB,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,AFR,SLE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,SLV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,SMR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,SOM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,EUR,SRB,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,AFR,STP,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,SUR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,SVK,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,SVN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,SWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,SWZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,SYC,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,SYR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,TCD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,TGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,SEAR,THA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EUR,TJK,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,TKM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,SEAR,TLS,Data not reported,1.0,,,
-R_Group,PUBLISHED,2010,WPR,TON,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,TTO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EMR,TUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,EUR,TUR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2010,WPR,TUV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,TZA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AFR,UGA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,UKR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,URY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AMR,USA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,EUR,UZB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,AMR,VCT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AMR,VEN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,VNM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2010,WPR,VUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,WPR,WSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,EMR,YEM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,ZAF,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2010,AFR,ZMB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2010,AFR,ZWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,AFG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,AGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EUR,ALB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,AND,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,ARE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,ARG,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,ARM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,ATG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,WPR,AUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,AUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,AZE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,BDI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,BEL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AFR,BEN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,BFA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,SEAR,BGD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,BGR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EMR,BHR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,BHS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,BIH,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,BLR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,BLZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,BOL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,BRA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,BRB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,BRN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,BWA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,CAF,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,AMR,CAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,CHE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,CHL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,CHN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,CIV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,CMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,COD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,COG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,COK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,COL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,COM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,CPV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,CRI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,CUB,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,CYP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,CZE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,DEU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,DJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,DMA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EUR,DNK,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AMR,DOM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,DZA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,ECU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,EGY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,ERI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,ESP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,EST,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AFR,ETH,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,FIN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,FJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,FRA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,FSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,GAB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,GBR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,GEO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,GHA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,GIN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,GMB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,GNB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,GNQ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,GRC,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AMR,GRD,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,AMR,GTM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,GUY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,HND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,HRV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,HTI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,EUR,HUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,SEAR,IDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,SEAR,IND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,IRL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EMR,IRN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,IRQ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EUR,ISL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,ISR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,ITA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AMR,JAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EMR,JOR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,JPN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,KAZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,KEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,KGZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,KHM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,WPR,KIR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,KNA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,WPR,KOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,KWT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,LAO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,LBN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,LBR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,LBY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,LCA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,SEAR,LKA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,LSO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,LTU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,LUX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,LVA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EMR,MAR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,MCO,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,EUR,MDA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,MDG,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,SEAR,MDV,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,MEX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,WPR,MHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,MKD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,MLI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,MLT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,SEAR,MMR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,MNE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,MNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,MOZ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,MRT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,MUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,MWI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,MYS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,NAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,NER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,NGA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,NIC,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,NIU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,NLD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,NOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,SEAR,NPL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,NRU,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,WPR,NZL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,OMN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,PAK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,PAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,PER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,PHL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,PLW,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,WPR,PNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,POL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,SEAR,PRK,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,EUR,PRT,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AMR,PRY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,QAT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EUR,ROU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,RUS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,RWA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,SAU,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EMR,SDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,SEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,SGP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,WPR,SLB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,SLE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,SLV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,SMR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,SOM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,EUR,SRB,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,AFR,SSD,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,AFR,STP,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,SUR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,SVK,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,SVN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,SWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,SWZ,Data not reported,1.0,,,
-R_Group,PUBLISHED,2012,AFR,SYC,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,SYR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,TCD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,TGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,SEAR,THA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EUR,TJK,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,TKM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,SEAR,TLS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,TON,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,TTO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EMR,TUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,EUR,TUR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2012,WPR,TUV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,TZA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,UGA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,UKR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,URY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AMR,USA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,EUR,UZB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AMR,VCT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AMR,VEN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,WPR,VNM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,WPR,VUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,WPR,WSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,EMR,YEM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2012,AFR,ZAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2012,AFR,ZMB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2012,AFR,ZWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,AFG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,AGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,ALB,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,AND,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,ARE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,ARG,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,ARM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,ATG,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,WPR,AUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,AUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,AZE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,BDI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,BEL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AFR,BEN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,BFA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,SEAR,BGD,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,BGR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EMR,BHR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,BHS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,BIH,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,BLR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,BLZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,BOL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,BRA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,BRB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,BRN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,BWA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,CAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,CAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,CHE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,CHL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,CHN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,CIV,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,CMR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,COD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,COG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,COK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,COL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,COM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,CPV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,CRI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,CUB,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,EUR,CYP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,CZE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,DEU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,DJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,DMA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,DNK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,DOM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,DZA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,ECU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,EGY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,ERI,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,ESP,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,EST,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AFR,ETH,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,FIN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,FJI,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,FRA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,FSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,GAB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,GBR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,GEO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,GHA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,GIN,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,AFR,GMB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,GNB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,GNQ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,GRC,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AMR,GRD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,GTM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,GUY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,HND,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,HRV,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AMR,HTI,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,EUR,HUN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,SEAR,IDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,SEAR,IND,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,IRL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EMR,IRN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,IRQ,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,ISL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,ISR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,ITA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AMR,JAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EMR,JOR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,JPN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,KAZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,KEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,KGZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,KHM,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,WPR,KIR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AMR,KNA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,WPR,KOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,KWT,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,LAO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,LBN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,LBR,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,LBY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,LCA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,SEAR,LKA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,LSO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,LTU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,LUX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,LVA,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EMR,MAR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,MCO,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,EUR,MDA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,MDG,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,SEAR,MDV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,MEX,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,MHL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,MKD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,MLI,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,MLT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,SEAR,MMR,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,MNE,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,MNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,MOZ,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,MRT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,MUS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,MWI,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,WPR,MYS,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,NAM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,NER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,NGA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,NIC,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,NIU,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,NLD,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,NOR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,SEAR,NPL,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,NRU,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,WPR,NZL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EMR,OMN,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,PAK,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,PAN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,PER,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,PHL,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,PLW,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,PNG,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,POL,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,SEAR,PRK,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,PRT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,PRY,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,QAT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EUR,ROU,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,RUS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,RWA,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,SAU,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,EMR,SDN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,SEN,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,SGP,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,SLB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,SLE,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,SLV,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,SMR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,SOM,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,EUR,SRB,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,AFR,SSD,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,AFR,STP,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,SUR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,SVK,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,SVN,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EUR,SWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,SWZ,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,SYC,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,EMR,SYR,Data not reported,1.0,,,
-R_Group,PUBLISHED,2014,AFR,TCD,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,TGO,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,SEAR,THA,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,TJK,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,TKM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,SEAR,TLS,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,TON,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,TTO,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EMR,TUN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EUR,TUR,>75% of retail price is tax.,5.0,,,
-R_Group,PUBLISHED,2014,WPR,TUV,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,TZA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,UGA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,UKR,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,URY,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AMR,USA,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,EUR,UZB,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AMR,VCT,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AMR,VEN,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,VNM,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,WPR,VUT,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,WPR,WSM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,EMR,YEM,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2014,AFR,ZAF,26-50% of retail price is tax,3.0,,,
-R_Group,PUBLISHED,2014,AFR,ZMB,>= 25% of retail price is tax,2.0,,,
-R_Group,PUBLISHED,2014,AFR,ZWE,51-75% of retail price is tax,4.0,,,
-R_Group,PUBLISHED,2007,SEAR,BTN,Not applicable,,,,Data not required / not applicable
-R_Group,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required / not applicable
-R_Group,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required / not applicable
-R_Group,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required / not applicable
-R_Group,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required / not applicable
-R_Group,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required / not applicable
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_Group","PUBLISHED","2007","EMR","AFG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","AGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ALB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","AND","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","ARE","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","ARG","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ARM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","ATG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","AUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","AUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","AZE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","BDI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","BEL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","BEN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","BFA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","BGD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","BGR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","BHR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","BHS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","BIH","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","BLR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","BLZ","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","BOL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","BRA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","BRB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","BRN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","BWA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","CAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","CAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","CHE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","CHL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","CHN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","CIV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","CMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","COD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","COG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","COK","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","COL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","COM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","CPV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","CRI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","CUB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","CYP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","CZE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","DEU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","DJI",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","DMA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","DNK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","DOM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","DZA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","ECU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","EGY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","ERI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ESP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","EST",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","ETH",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","FIN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","FJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","FRA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","FSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GAB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","GBR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","GEO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GHA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GIN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GMB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GNB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","GNQ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","GRC","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","GRD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","GTM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","GUY","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","HND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","HRV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","HTI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","HUN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","IDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","IND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","IRL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","IRN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","IRQ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ISL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ISR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ITA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","JAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","JOR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","JPN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","KAZ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","KEN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","KGZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","KHM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","KIR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","KNA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","KOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","KWT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","LAO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","LBN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","LBR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","LBY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","LCA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","LKA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","LSO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","LTU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","LUX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","LVA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","MAR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","MCO","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","MDA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MDG","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","MDV","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","MEX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","MHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","MKD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MLI",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","MLT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","MMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","MNE","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","MNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MOZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MRT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MUS",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","MWI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","MYS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","NAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","NER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","NGA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","NIC",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","NIU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","NLD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","NOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","NPL",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","NRU","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","NZL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","OMN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","PAK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","PAN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","PER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","PHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","PLW","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","PNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","POL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","PRK","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","PRT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","PRY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","QAT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","ROU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","RUS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","RWA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","SAU","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","SDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","SEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","SGP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","SLB","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","SLE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","SLV","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","SMR","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","SOM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","SRB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","STP",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","SUR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","SVK",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","SVN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","SWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","SWZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","SYC",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","SYR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","TCD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","TGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","THA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","TJK","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","TKM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","TLS","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","TON","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","TTO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","TUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","TUR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","TUV","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","TZA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","UGA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","UKR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","URY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","USA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","EUR","UZB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","VCT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2007","AMR","VEN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","VNM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","VUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","WPR","WSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","EMR","YEM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","ZAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","ZMB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2007","AFR","ZWE","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","AFG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","AGO","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ALB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","AND","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","ARE","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","ARG","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ARM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","ATG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","AUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","AUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","AZE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","BDI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","BEL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","BEN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","BFA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","BGD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","BGR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","BHR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","BHS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","BIH","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","BLR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","BLZ","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","BOL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","BRA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","BRB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","BRN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","BWA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","CAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","CAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","CHE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","CHL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","CHN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","CIV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","CMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","COD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","COG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","COK","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","COL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","COM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","CPV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","CRI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","CUB","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","CYP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","CZE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","DEU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","DJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","DMA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","DNK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","DOM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","DZA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","ECU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","EGY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","ERI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ESP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","EST",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","ETH","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","FIN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","FJI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","FRA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","FSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GAB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","GBR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","GEO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GHA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GIN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GMB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GNB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","GNQ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","GRC",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","GRD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","GTM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","GUY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","HND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","HRV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","HTI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","HUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","IDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","IND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","IRL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","IRN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","IRQ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ISL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ISR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ITA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","JAM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","JOR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","JPN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","KAZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","KEN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","KGZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","KHM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","KIR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","KNA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","KOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","KWT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","LAO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","LBN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","LBR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","LBY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","LCA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","LKA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","LSO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","LTU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","LUX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","LVA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","MAR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","MCO","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","MDA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MDG",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","MDV","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","MEX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","MHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","MKD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MLI",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","MLT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","MMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","MNE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","MNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MOZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MRT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","MWI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","MYS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","NAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","NER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","NGA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","NIC","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","NIU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","NLD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","NOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","NPL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","NRU","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","NZL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","OMN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","PAK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","PAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","PER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","PHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","PLW","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","PNG","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","POL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","PRK","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","PRT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","PRY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","QAT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","ROU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","RUS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","RWA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","SAU","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","SDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","SEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","SGP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","SLB","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","SLE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","SLV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","SMR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","SOM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","SRB",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","STP",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","SUR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","SVK",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","SVN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","SWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","SWZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","SYC","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","SYR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","TCD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","TGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","THA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","TJK","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","TKM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","SEAR","TLS","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","TON","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","TTO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","TUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","TUR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","TUV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","TZA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","UGA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","UKR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","URY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","USA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","EUR","UZB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","VCT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AMR","VEN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","VNM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","VUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","WPR","WSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","EMR","YEM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","ZAF","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","ZMB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2010","AFR","ZWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","AFG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","AGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ALB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","AND","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","ARE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","ARG","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ARM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","ATG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","AUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","AUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","AZE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","BDI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","BEL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","BEN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","BFA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","BGD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","BGR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","BHR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","BHS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","BIH","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","BLR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","BLZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","BOL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","BRA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","BRB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","BRN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","BWA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","CAF","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","CAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","CHE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","CHL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","CHN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","CIV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","CMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","COD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","COG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","COK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","COL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","COM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","CPV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","CRI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","CUB",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","CYP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","CZE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","DEU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","DJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","DMA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","DNK",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","DOM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","DZA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","ECU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","EGY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","ERI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ESP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","EST",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","ETH","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","FIN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","FJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","FRA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","FSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GAB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","GBR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","GEO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GHA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GIN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GMB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GNB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","GNQ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","GRC",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","GRD","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","GTM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","GUY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","HND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","HRV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","HTI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","HUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","IDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","IND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","IRL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","IRN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","IRQ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ISL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ISR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ITA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","JAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","JOR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","JPN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","KAZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","KEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","KGZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","KHM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","KIR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","KNA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","KOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","KWT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","LAO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","LBN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","LBR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","LBY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","LCA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","LKA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","LSO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","LTU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","LUX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","LVA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","MAR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","MCO","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","MDA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MDG",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","MDV","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","MEX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","MHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","MKD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MLI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","MLT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","MMR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","MNE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","MNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MOZ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MRT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","MWI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","MYS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","NAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","NER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","NGA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","NIC","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","NIU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","NLD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","NOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","NPL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","NRU","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","NZL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","OMN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","PAK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","PAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","PER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","PHL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","PLW","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","PNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","POL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","PRK","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","PRT",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","PRY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","QAT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","ROU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","RUS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","RWA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","SAU",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","SDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","SEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","SGP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","SLB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","SLE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","SLV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","SMR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","SOM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","SRB",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","SSD","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","STP",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","SUR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","SVK",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","SVN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","SWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","SWZ","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","SYC","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","SYR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","TCD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","TGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","THA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","TJK","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","TKM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","SEAR","TLS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","TON","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","TTO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","TUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","TUR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","TUV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","TZA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","UGA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","UKR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","URY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","USA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","EUR","UZB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","VCT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AMR","VEN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","VNM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","VUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","WPR","WSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","EMR","YEM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","ZAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","ZMB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2012","AFR","ZWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","AFG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","AGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ALB","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","AND","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","ARE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","ARG","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ARM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","ATG",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","AUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","AUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","AZE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","BDI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","BEL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","BEN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","BFA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","BGD",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","BGR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","BHR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","BHS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","BIH",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","BLR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","BLZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","BOL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","BRA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","BRB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","BRN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","BWA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","CAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","CAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","CHE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","CHL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","CHN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","CIV","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","CMR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","COD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","COG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","COK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","COL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","COM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","CPV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","CRI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","CUB","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","CYP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","CZE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","DEU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","DJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","DMA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","DNK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","DOM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","DZA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","ECU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","EGY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","ERI","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ESP",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","EST",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","ETH",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","FIN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","FJI","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","FRA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","FSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GAB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","GBR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","GEO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GHA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GIN","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GMB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GNB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","GNQ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","GRC",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","GRD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","GTM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","GUY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","HND","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","HRV",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","HTI","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","HUN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","IDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","IND","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","IRL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","IRN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","IRQ",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ISL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ISR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ITA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","JAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","JOR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","JPN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","KAZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","KEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","KGZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","KHM",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","KIR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","KNA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","KOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","KWT","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","LAO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","LBN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","LBR",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","LBY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","LCA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","LKA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","LSO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","LTU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","LUX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","LVA",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","MAR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","MCO","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","MDA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MDG",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","MDV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","MEX","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","MHL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","MKD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MLI",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","MLT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","MMR","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","MNE",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","MNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MOZ","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MRT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MUS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","MWI",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","MYS","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","NAM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","NER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","NGA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","NIC","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","NIU","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","NLD","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","NOR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","NPL","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","NRU","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","NZL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","OMN",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","PAK","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","PAN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","PER","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","PHL","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","PLW","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","PNG","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","POL",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","PRK",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","PRT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","PRY",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","QAT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","ROU",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","RUS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","RWA",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","SAU",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","SDN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","SEN","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","SGP","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","SLB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","SLE",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","SLV","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","SMR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","SOM","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","SRB",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","SSD","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","STP",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","SUR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","SVK",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","SVN",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","SWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","SWZ","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","SYC",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","SYR","Data not reported","1.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","TCD","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","TGO",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","THA","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","TJK","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","TKM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","SEAR","TLS","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","TON","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","TTO","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","TUN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","TUR",">75% of retail price is tax.","5.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","TUV",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","TZA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","UGA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","UKR","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","URY","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","USA","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","EUR","UZB","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","VCT",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AMR","VEN","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","VNM","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","VUT","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","WPR","WSM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","EMR","YEM","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","ZAF","26-50% of retail price is tax","3.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","ZMB",">= 25% of retail price is tax","2.00000","","",""
+"R_Group","PUBLISHED","2014","AFR","ZWE","51-75% of retail price is tax","4.00000","","",""
+"R_Group","PUBLISHED","2007","SEAR","BTN","Not applicable","","","","Data not required / not applicable"
+"R_Group","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"R_Group","PUBLISHED","2010","SEAR","BTN","Not applicable","","","","Data not required / not applicable"
+"R_Group","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required / not applicable"
+"R_Group","PUBLISHED","2012","SEAR","BTN","Not applicable","","","","Data not required / not applicable"
+"R_Group","PUBLISHED","2014","SEAR","BTN","Not applicable","","","","Data not required / not applicable"

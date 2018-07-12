@@ -1,197 +1,197 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-SA_0000001405,PUBLISHED,2010,WPR,MYS,0.2,0.16,,,
-SA_0000001405,PUBLISHED,2010,WPR,WSM,0.2,0.19,,,
-SA_0000001405,PUBLISHED,2010,AFR,SWZ,0.2,0.24,,,
-SA_0000001405,PUBLISHED,2010,WPR,SGP,0.4,0.41,,,
-SA_0000001405,PUBLISHED,2010,AFR,BWA,0.4,0.44,,,
-SA_0000001405,PUBLISHED,2010,EUR,ISL,0.4,0.44,,,
-SA_0000001405,PUBLISHED,2010,AMR,DMA,0.5,0.45,,,
-SA_0000001405,PUBLISHED,2010,EUR,ALB,0.5,0.46,,,
-SA_0000001405,PUBLISHED,2010,EUR,IRL,0.5,0.48,,,
-SA_0000001405,PUBLISHED,2010,AMR,BRB,0.6,0.62,,,
-SA_0000001405,PUBLISHED,2010,AFR,SYC,0.7,0.68,,,
-SA_0000001405,PUBLISHED,2010,EUR,HRV,0.7,0.68,,,
-SA_0000001405,PUBLISHED,2010,SEAR,MDV,0.7,0.69,,,
-SA_0000001405,PUBLISHED,2010,EMR,QAT,0.8,0.76,,,
-SA_0000001405,PUBLISHED,2010,EUR,MNE,0.8,0.81,,,
-SA_0000001405,PUBLISHED,2010,EMR,BHR,0.8,0.84,,,
-SA_0000001405,PUBLISHED,2010,EMR,ARE,0.9,0.9,,,
-SA_0000001405,PUBLISHED,2010,AMR,GRD,1.0,1.03,,,
-SA_0000001405,PUBLISHED,2010,EUR,AND,1.3,1.3,,,
-SA_0000001405,PUBLISHED,2010,WPR,PLW,1.9,1.93,,,
-SA_0000001405,PUBLISHED,2010,AMR,LCA,2.0,1.96,,,
-SA_0000001405,PUBLISHED,2010,AMR,KNA,2.1,2.1,,,
-SA_0000001405,PUBLISHED,2010,EUR,AUT,2.3,2.25,,,
-SA_0000001405,PUBLISHED,2010,WPR,COK,2.3,2.34,,,
-SA_0000001405,PUBLISHED,2010,AMR,ATG,3.4,3.36,,,
-SA_0000001405,PUBLISHED,2010,AMR,BHS,4.2,4.24,,,
-SA_0000001405,PUBLISHED,2010,EMR,AFG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,BEN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,BFA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,BDI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,KHM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,CAF,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,TCD,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,COM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,PRK,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,COD,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,ERI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,ETH,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GIN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GNB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,KEN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,KGZ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,KGZ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,LAO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,LBR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MDG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MLI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MRT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MOZ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,MMR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,NER,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,RWA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,SEN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,SLE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,TGO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,UGA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,TZA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,UZB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,VNM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,YEM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,ZMB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,ZWE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,AGO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,ARM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,AZE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,BLZ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,BTN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,BOL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,CMR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,CPV,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,CHN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,COG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,CIV,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,DJI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,ECU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,EGY,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,SLV,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,GTM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,GUY,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,HND,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,IND,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,IDN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,IRN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,KIR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,LSO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,MHL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,MNG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,MAR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,NIC,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,NGA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,PAK,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,PNG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,PRY,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,PHL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,MDA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,STP,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,SLB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,LKA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,SYR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,THA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,TLS,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,TON,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,TUN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,TKM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,UKR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,VUT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,DZA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,ARG,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,BLR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,BIH,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,BRA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,BGR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,CHL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,COL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,CRI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,CUB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,DOM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,FJI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GAB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,JAM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MUS,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,NAM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,PAN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,PER,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,POL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,ROU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,RUS,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,SUR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,MKD,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,TUR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,URY,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,VEN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,AUS,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,BEL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,BRN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,CAN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,CYP,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,CZE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GNQ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,FIN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,DEU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,ISR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,ITA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,JPN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,LUX,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,MLT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,MCO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,NLD,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,KOR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,SMR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,SAU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,SVK,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,ESP,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,SWE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,CHE,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,TTO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,GBR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,USA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,TUV,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,NIU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,NIU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,BGD,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GMB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,GHA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,HTI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,MWI,,,,,missing data
-SA_0000001405,PUBLISHED,2010,SEAR,NPL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,NER,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,SOM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,TJK,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,GEO,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,IRQ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,JOR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,FSM,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,NIC,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,SDN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,KAZ,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,LVA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,LBN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,LBY,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,LTU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,MEX,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AMR,VCT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,SRB,,,,,missing data
-SA_0000001405,PUBLISHED,2010,AFR,ZAF,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,DNK,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,FRA,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,GRC,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,HUN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,KWT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,NZL,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,NOR,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EMR,OMN,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,PRT,,,,,missing data
-SA_0000001405,PUBLISHED,2010,WPR,NRU,,,,,missing data
-SA_0000001405,PUBLISHED,2010,EUR,EST,3.1,3.1,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"SA_0000001405","PUBLISHED","2010","WPR","MYS","0.2","0.16000","","",""
+"SA_0000001405","PUBLISHED","2010","WPR","WSM","0.2","0.19000","","",""
+"SA_0000001405","PUBLISHED","2010","AFR","SWZ","0.2","0.24000","","",""
+"SA_0000001405","PUBLISHED","2010","WPR","SGP","0.4","0.41000","","",""
+"SA_0000001405","PUBLISHED","2010","AFR","BWA","0.4","0.44000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","ISL","0.4","0.44000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","DMA","0.5","0.45000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","ALB","0.5","0.46000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","IRL","0.5","0.48000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","BRB","0.6","0.62000","","",""
+"SA_0000001405","PUBLISHED","2010","AFR","SYC","0.7","0.68000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","HRV","0.7","0.68000","","",""
+"SA_0000001405","PUBLISHED","2010","SEAR","MDV","0.7","0.69000","","",""
+"SA_0000001405","PUBLISHED","2010","EMR","QAT","0.8","0.76000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","MNE","0.8","0.81000","","",""
+"SA_0000001405","PUBLISHED","2010","EMR","BHR","0.8","0.84000","","",""
+"SA_0000001405","PUBLISHED","2010","EMR","ARE","0.9","0.90000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","GRD","1.0","1.03000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","AND","1.3","1.30000","","",""
+"SA_0000001405","PUBLISHED","2010","WPR","PLW","1.9","1.93000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","LCA","2.0","1.96000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","KNA","2.1","2.10000","","",""
+"SA_0000001405","PUBLISHED","2010","EUR","AUT","2.3","2.25000","","",""
+"SA_0000001405","PUBLISHED","2010","WPR","COK","2.3","2.34000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","ATG","3.4","3.36000","","",""
+"SA_0000001405","PUBLISHED","2010","AMR","BHS","4.2","4.24000","","",""
+"SA_0000001405","PUBLISHED","2010","EMR","AFG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","BEN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","BFA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","BDI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","KHM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","CAF","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","TCD","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","COM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","PRK","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","COD","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","ERI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","ETH","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GIN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GNB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","KEN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","KGZ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","KGZ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","LAO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","LBR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MDG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MLI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MRT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MOZ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","MMR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","NER","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","RWA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","SEN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","SLE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","TGO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","UGA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","TZA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","UZB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","VNM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","YEM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","ZMB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","ZWE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","AGO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","ARM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","AZE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","BLZ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","BTN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","BOL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","CMR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","CPV","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","CHN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","COG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","CIV","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","DJI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","ECU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","EGY","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","SLV","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","GTM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","GUY","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","HND","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","IND","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","IDN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","IRN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","KIR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","LSO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","MHL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","MNG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","MAR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","NIC","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","NGA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","PAK","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","PNG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","PRY","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","PHL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","MDA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","STP","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","SLB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","LKA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","SYR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","THA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","TLS","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","TON","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","TUN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","TKM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","UKR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","VUT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","DZA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","ARG","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","BLR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","BIH","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","BRA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","BGR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","CHL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","COL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","CRI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","CUB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","DOM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","FJI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GAB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","JAM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MUS","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","NAM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","PAN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","PER","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","POL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","ROU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","RUS","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","SUR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","MKD","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","TUR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","URY","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","VEN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","AUS","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","BEL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","BRN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","CAN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","CYP","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","CZE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GNQ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","FIN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","DEU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","ISR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","ITA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","JPN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","LUX","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","MLT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","MCO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","NLD","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","KOR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","SMR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","SAU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","SVK","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","ESP","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","SWE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","CHE","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","TTO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","GBR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","USA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","TUV","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","NIU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","NIU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","BGD","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GMB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","GHA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","HTI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","MWI","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","SEAR","NPL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","NER","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","SOM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","TJK","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","GEO","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","IRQ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","JOR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","FSM","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","NIC","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","SDN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","KAZ","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","LVA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","LBN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","LBY","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","LTU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","MEX","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AMR","VCT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","SRB","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","AFR","ZAF","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","DNK","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","FRA","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","GRC","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","HUN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","KWT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","NZL","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","NOR","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EMR","OMN","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","PRT","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","WPR","NRU","","","","","missing data"
+"SA_0000001405","PUBLISHED","2010","EUR","EST","3.1","3.10000","","",""

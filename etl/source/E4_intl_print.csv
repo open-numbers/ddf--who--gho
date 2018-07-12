@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-E4_intl_print,PUBLISHED,2014,AFR,AGO,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,BEN,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,BWA,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,BDI,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,CPV,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,CAF,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,COM,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,CIV,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,GNQ,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,GNB,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,LSO,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,LBR,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,MWI,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,MRT,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,NGA,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,RWA,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,STP,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,SLE,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,ZAF,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,SSD,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,UGA,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,ZMB,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,ZWE,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,ATG,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,BHS,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,BRB,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,BLZ,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,CAN,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,CUB,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,DMA,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,DOM,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,GRD,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,GTM,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,GUY,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,HTI,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,JAM,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,MEX,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,NIC,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,PRY,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,PER,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,KNA,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,LCA,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,VCT,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,TTO,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,USA,No,,,,
-E4_intl_print,PUBLISHED,2014,AMR,VEN,No,,,,
-E4_intl_print,PUBLISHED,2014,EMR,AFG,No,,,,
-E4_intl_print,PUBLISHED,2014,EMR,MAR,No,,,,
-E4_intl_print,PUBLISHED,2014,EMR,OMN,No,,,,
-E4_intl_print,PUBLISHED,2014,EMR,SOM,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,AND,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ARM,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,BEL,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,BGR,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,CYP,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,CZE,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,EST,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,FIN,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,FRA,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,GEO,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,GRC,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,HUN,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ISL,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,IRL,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ISR,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ITA,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,LVA,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,LTU,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,LUX,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,MLT,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,MCO,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,NLD,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,NOR,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,PRT,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ROU,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,ESP,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,CHE,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,GBR,No,,,,
-E4_intl_print,PUBLISHED,2014,EUR,UZB,No,,,,
-E4_intl_print,PUBLISHED,2014,SEAR,PRK,No,,,,
-E4_intl_print,PUBLISHED,2014,SEAR,IDN,No,,,,
-E4_intl_print,PUBLISHED,2014,SEAR,LKA,No,,,,
-E4_intl_print,PUBLISHED,2014,SEAR,THA,No,,,,
-E4_intl_print,PUBLISHED,2014,SEAR,TLS,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,AUS,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,BRN,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,COK,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,FJI,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,JPN,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,KIR,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,MHL,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,FSM,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,NRU,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,NZL,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,NIU,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,KOR,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,WSM,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,SLB,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,TON,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,TUV,No,,,,
-E4_intl_print,PUBLISHED,2014,WPR,VUT,No,,,,
-E4_intl_print,PUBLISHED,2014,AFR,DZA,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,BFA,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,CMR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,TCD,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,COG,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,COD,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,ERI,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,ETH,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,GAB,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,GMB,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,GHA,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,GIN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,KEN,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,MDG,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,MLI,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,MUS,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,MOZ,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,NAM,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,NER,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,SEN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AFR,SYC,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,SWZ,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,TGO,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AFR,TZA,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,ARG,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,BOL,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,BRA,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,CHL,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,COL,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,CRI,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,ECU,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,SLV,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,HND,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,AMR,PAN,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,SUR,Yes,,,,
-E4_intl_print,PUBLISHED,2014,AMR,URY,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,BHR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,DJI,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,EGY,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,IRN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,IRQ,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,JOR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,KWT,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,LBN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,LBY,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,PAK,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,QAT,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,SAU,Yes,,,,
-E4_intl_print,PUBLISHED,2014,EMR,SDN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,SYR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,TUN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,ARE,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EMR,YEM,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,ALB,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,AUT,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,AZE,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,BLR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,BIH,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,HRV,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,DNK,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,DEU,Yes,,,,
-E4_intl_print,PUBLISHED,2014,EUR,KAZ,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,KGZ,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,MNE,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,POL,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,MDA,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,RUS,Yes,,,,
-E4_intl_print,PUBLISHED,2014,EUR,SMR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,SRB,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,SVK,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,SVN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,SWE,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,TJK,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,MKD,Yes,,,,
-E4_intl_print,PUBLISHED,2014,EUR,TUR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,TKM,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on TV and radio, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,EUR,UKR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,BGD,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,BTN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,IND,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,MDV,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,MMR,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,SEAR,NPL,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,KHM,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,CHN,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,LAO,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,MYS,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,MNG,Yes,,,,
-E4_intl_print,PUBLISHED,2014,WPR,PLW,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,PNG,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,PHL,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2014,WPR,SGP,Yes,,,,
-E4_intl_print,PUBLISHED,2014,WPR,VNM,Yes,,,,"The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
-E4_intl_print,PUBLISHED,2012,AFR,AGO,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,BEN,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,BWA,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,BDI,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,CPV,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,CAF,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,COM,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,CIV,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GNQ,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GAB,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GNB,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,LSO,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,LBR,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MWI,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MRT,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,NGA,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,RWA,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,STP,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,SEN,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,SLE,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,ZAF,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,SSD,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,SWZ,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,UGA,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,ZMB,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,ZWE,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,ATG,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,BHS,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,BRB,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,BLZ,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,CAN,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,CUB,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,DMA,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,DOM,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,GRD,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,GTM,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,GUY,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,HTI,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,JAM,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,MEX,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,NIC,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,PRY,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,PER,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,KNA,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,LCA,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,VCT,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,SUR,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,TTO,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,USA,No,,,,
-E4_intl_print,PUBLISHED,2012,AMR,VEN,No,,,,
-E4_intl_print,PUBLISHED,2012,EMR,AFG,No,,,,
-E4_intl_print,PUBLISHED,2012,EMR,MAR,No,,,,
-E4_intl_print,PUBLISHED,2012,EMR,OMN,No,,,,
-E4_intl_print,PUBLISHED,2012,EMR,PAK,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,AND,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ARM,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,BEL,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,BGR,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,CYP,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,CZE,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,EST,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,FIN,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,FRA,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,GEO,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,GRC,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,HUN,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ISL,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,IRL,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ISR,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ITA,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,LVA,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,LTU,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,MCO,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,NLD,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,NOR,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,PRT,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ROU,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,RUS,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ESP,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,CHE,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,TKM,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,GBR,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,UZB,No,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,PRK,No,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,IDN,No,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,LKA,No,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,THA,No,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,TLS,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,AUS,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,BRN,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,COK,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,FJI,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,JPN,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,KIR,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,MHL,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,FSM,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,NRU,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,NZL,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,NIU,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,KOR,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,WSM,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,SLB,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,TON,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,TUV,No,,,,
-E4_intl_print,PUBLISHED,2012,WPR,VUT,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,DZA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,BFA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,CMR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,TCD,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,COG,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,COD,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,ERI,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,ETH,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GMB,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GHA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,BGD,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,MLT,No,,,,
-E4_intl_print,PUBLISHED,2012,EUR,LUX,No,,,,
-E4_intl_print,PUBLISHED,2012,EMR,SOM,No,,,,
-E4_intl_print,PUBLISHED,2012,AFR,GIN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,KEN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MDG,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MLI,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MUS,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,MOZ,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,NAM,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,NER,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,SYC,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,TGO,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AFR,TZA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,ARG,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,BOL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,BRA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,CHL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,COL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,CRI,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,ECU,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,SLV,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,HND,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,PAN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,AMR,URY,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,BHR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,DJI,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,EGY,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,IRN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,IRQ,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,JOR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,KWT,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,LBN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,LBY,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,QAT,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,SAU,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,SDN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,SYR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,TUN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,ARE,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EMR,YEM,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,ALB,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,AUT,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,AZE,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,BLR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,BIH,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,HRV,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,DNK,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,DEU,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,KAZ,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,KGZ,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,MNE,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,POL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,MDA,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,SMR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,SRB,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,SVK,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,SVN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,SWE,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,TJK,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,MKD,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,TUR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,EUR,UKR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,BTN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,IND,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,MDV,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,MMR,Yes,,,,
-E4_intl_print,PUBLISHED,2012,SEAR,NPL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,KHM,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,CHN,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,LAO,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,MYS,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,MNG,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,PLW,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,PNG,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,PHL,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,SGP,Yes,,,,
-E4_intl_print,PUBLISHED,2012,WPR,VNM,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,AGO,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,BEN,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,BWA,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,BDI,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,CPV,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,CAF,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,COM,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,CIV,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GNQ,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,ETH,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GAB,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GHA,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GIN,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GNB,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,LSO,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,LBR,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MWI,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MRT,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,NGA,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,RWA,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,STP,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,SEN,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,SLE,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,ZAF,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,SWZ,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,TGO,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,UGA,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,ZMB,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,ZWE,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,ATG,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,ARG,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,BHS,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,BRB,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,BLZ,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,BRA,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,CAN,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,CRI,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,CUB,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,DMA,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,DOM,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,ECU,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,SLV,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,GRD,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,GTM,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,GUY,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,HTI,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,JAM,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,MEX,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,NIC,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,PRY,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,PER,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,KNA,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,LCA,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,VCT,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,SUR,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,TTO,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,USA,No,,,,
-E4_intl_print,PUBLISHED,2010,AMR,VEN,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,AFG,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,BHR,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,IRQ,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,LBN,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,MAR,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,OMN,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,PAK,No,,,,
-E4_intl_print,PUBLISHED,2010,EMR,SOM,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,AND,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ARM,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,BEL,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,BGR,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,CYP,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,CZE,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,EST,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,FIN,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,FRA,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,GEO,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,GRC,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,HUN,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ISL,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,IRL,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ISR,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ITA,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,LVA,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,LTU,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,LUX,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,MLT,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,MCO,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,NLD,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,NOR,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,PRT,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ROU,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,RUS,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ESP,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,CHE,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,TKM,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,UKR,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,GBR,No,,,,
-E4_intl_print,PUBLISHED,2010,EUR,UZB,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,BGD,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,PRK,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,IDN,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,LKA,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,THA,No,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,TLS,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,AUS,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,BRN,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,KHM,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,COK,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,FJI,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,JPN,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,KIR,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,MHL,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,FSM,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,NRU,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,NZL,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,NIU,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,PLW,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,KOR,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,WSM,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,SLB,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,TON,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,TUV,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,VUT,No,,,,
-E4_intl_print,PUBLISHED,2010,WPR,VNM,No,,,,
-E4_intl_print,PUBLISHED,2010,AFR,DZA,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,BFA,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,CMR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,TCD,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,COG,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,COD,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,ERI,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,GMB,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,KEN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MDG,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MLI,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MUS,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,MOZ,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,NAM,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,NER,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,SYC,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,TZA,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,BOL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,CHL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,COL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,HND,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,PAN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AMR,URY,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,DJI,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,EGY,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,IRN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,JOR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,KWT,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,LBY,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,QAT,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,SAU,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,SDN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,SYR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,TUN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,ARE,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EMR,YEM,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,ALB,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,AUT,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,AZE,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,BLR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,BIH,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,HRV,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,DNK,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,DEU,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,KAZ,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,KGZ,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,MNE,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,POL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,MDA,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,SMR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,SRB,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,SVK,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,SVN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,SWE,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,TJK,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,MKD,Yes,,,,
-E4_intl_print,PUBLISHED,2010,EUR,TUR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,BTN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,IND,Yes,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,MDV,Yes,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,MMR,Yes,,,,
-E4_intl_print,PUBLISHED,2010,SEAR,NPL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,CHN,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,LAO,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,MYS,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,MNG,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,PNG,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,PHL,Yes,,,,
-E4_intl_print,PUBLISHED,2010,WPR,SGP,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,AGO,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,BEN,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,BWA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,BFA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,BDI,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,CPV,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,CAF,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,TCD,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,COM,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,CIV,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GNQ,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,ETH,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GAB,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GHA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GIN,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GNB,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,LSO,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,LBR,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MWI,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MLI,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MRT,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MUS,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,NAM,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,NGA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,RWA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,STP,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,SEN,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,SYC,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,SLE,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,ZAF,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,SWZ,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,TGO,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,UGA,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,ZMB,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,ZWE,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,ATG,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,ARG,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,BHS,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,BRB,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,BLZ,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,BRA,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,CAN,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,COL,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,CRI,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,CUB,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,DMA,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,DOM,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,ECU,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,SLV,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,GRD,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,GTM,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,GUY,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,HTI,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,HND,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,JAM,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,MEX,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,NIC,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,PAN,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,PRY,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,PER,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,KNA,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,LCA,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,VCT,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,SUR,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,TTO,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,USA,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,URY,No,,,,
-E4_intl_print,PUBLISHED,2007,AMR,VEN,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,AFG,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,BHR,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,IRQ,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,JOR,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,LBN,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,MAR,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,OMN,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,PAK,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,SOM,No,,,,
-E4_intl_print,PUBLISHED,2007,EMR,ARE,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,AND,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ARM,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,BEL,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,BGR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,HRV,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,CYP,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,CZE,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,EST,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,FIN,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,FRA,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,GEO,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,GRC,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,HUN,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ISL,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,IRL,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ISR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ITA,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,KGZ,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,LVA,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,LTU,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,LUX,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,MLT,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,MCO,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,NLD,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,NOR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,PRT,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ROU,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,RUS,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,SMR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ESP,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,CHE,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,TUR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,TKM,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,UKR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,GBR,No,,,,
-E4_intl_print,PUBLISHED,2007,EUR,UZB,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,BGD,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,BTN,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,PRK,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,IDN,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,MDV,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,NPL,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,LKA,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,THA,No,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,TLS,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,AUS,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,BRN,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,KHM,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,COK,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,FJI,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,JPN,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,KIR,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,MHL,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,FSM,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,NRU,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,NZL,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,NIU,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,PLW,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,PHL,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,KOR,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,WSM,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,SLB,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,TON,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,TUV,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,VUT,No,,,,
-E4_intl_print,PUBLISHED,2007,WPR,VNM,No,,,,
-E4_intl_print,PUBLISHED,2007,AFR,DZA,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,CMR,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,COG,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,COD,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,ERI,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,GMB,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,KEN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MDG,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,MOZ,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,NER,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AFR,TZA,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AMR,BOL,Yes,,,,
-E4_intl_print,PUBLISHED,2007,AMR,CHL,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,DJI,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,EGY,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,IRN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,KWT,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,LBY,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,QAT,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,SAU,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,SDN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,SYR,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,TUN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EMR,YEM,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,ALB,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,AUT,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,AZE,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,BLR,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,BIH,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,DNK,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,DEU,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,KAZ,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,MNE,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,POL,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,MDA,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,SRB,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,SVK,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,SVN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,SWE,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,TJK,Yes,,,,
-E4_intl_print,PUBLISHED,2007,EUR,MKD,Yes,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,IND,Yes,,,,
-E4_intl_print,PUBLISHED,2007,SEAR,MMR,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,CHN,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,LAO,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,MYS,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,MNG,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,PNG,Yes,,,,
-E4_intl_print,PUBLISHED,2007,WPR,SGP,Yes,,,,
-E4_intl_print,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-E4_intl_print,PUBLISHED,2007,AFR,SSD,Not applicable,,,,Data not required/not applicable
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"E4_intl_print","PUBLISHED","2014","AFR","AGO","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","BEN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","BWA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","BDI","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","CPV","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","CAF","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","COM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","CIV","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","GNQ","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","GNB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","LSO","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","LBR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","MWI","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","MRT","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","NGA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","RWA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","STP","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","SLE","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","ZAF","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","SSD","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","UGA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","ZMB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","ZWE","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","ATG","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","BHS","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","BRB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","BLZ","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","CAN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","CUB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","DMA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","DOM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","GRD","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","GTM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","GUY","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","HTI","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","JAM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","MEX","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","NIC","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","PRY","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","PER","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","KNA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","LCA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","VCT","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","TTO","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","USA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","VEN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EMR","AFG","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EMR","MAR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EMR","OMN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EMR","SOM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","AND","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ARM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","BEL","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","BGR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","CYP","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","CZE","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","EST","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","FIN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","FRA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","GEO","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","GRC","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","HUN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ISL","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","IRL","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ISR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ITA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","LVA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","LTU","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","LUX","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","MLT","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","MCO","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","NLD","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","NOR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","PRT","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ROU","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","ESP","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","CHE","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","GBR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","UZB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","SEAR","PRK","No","","","",""
+"E4_intl_print","PUBLISHED","2014","SEAR","IDN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","SEAR","LKA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","SEAR","THA","No","","","",""
+"E4_intl_print","PUBLISHED","2014","SEAR","TLS","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","AUS","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","BRN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","COK","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","FJI","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","JPN","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","KIR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","MHL","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","FSM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","NRU","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","NZL","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","NIU","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","KOR","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","WSM","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","SLB","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","TON","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","TUV","No","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","VUT","No","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","DZA","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","BFA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","CMR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","TCD","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","COG","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","COD","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","ERI","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","ETH","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","GAB","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","GMB","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","GHA","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","GIN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","KEN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","MDG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","MLI","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","MUS","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","MOZ","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","NAM","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","NER","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","SEN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AFR","SYC","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","SWZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","TGO","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AFR","TZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","ARG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","BOL","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","BRA","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","CHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","COL","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","CRI","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","ECU","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","SLV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","HND","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","AMR","PAN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","SUR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","AMR","URY","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","BHR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","DJI","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","EGY","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","IRN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","IRQ","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","JOR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","KWT","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","LBN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","LBY","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","PAK","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","QAT","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","SAU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","EMR","SDN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","SYR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","TUN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","ARE","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EMR","YEM","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","ALB","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","AUT","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","AZE","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","BLR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","BIH","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","HRV","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","DNK","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","DEU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","KAZ","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","KGZ","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","MNE","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","POL","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","MDA","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","RUS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","SMR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","SRB","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","SVK","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","SVN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","SWE","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","TJK","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","MKD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","EUR","TUR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","TKM","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on TV and radio, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","EUR","UKR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","BGD","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","BTN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","IND","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","MDV","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","MMR","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","SEAR","NPL","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","KHM","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","CHN","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","LAO","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","MYS","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","MNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","PLW","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned in all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","PNG","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","PHL","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2014","WPR","SGP","Yes","","","",""
+"E4_intl_print","PUBLISHED","2014","WPR","VNM","Yes","","","","The law does not explicitly address cross-border advertising. However, given that advertising is banned on all magazines and newspapers, it is interpreted that both domestic and international levels are covered by the ban."
+"E4_intl_print","PUBLISHED","2012","AFR","AGO","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","BEN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","BWA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","BDI","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","CPV","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","CAF","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","COM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","CIV","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GNQ","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GAB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GNB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","LSO","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","LBR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MWI","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MRT","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","NGA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","RWA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","STP","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","SEN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","SLE","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","ZAF","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","SSD","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","SWZ","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","UGA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","ZMB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","ZWE","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","ATG","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","BHS","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","BRB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","BLZ","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","CAN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","CUB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","DMA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","DOM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","GRD","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","GTM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","GUY","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","HTI","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","JAM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","MEX","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","NIC","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","PRY","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","PER","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","KNA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","LCA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","VCT","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","SUR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","TTO","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","USA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","VEN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","AFG","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","MAR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","OMN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","PAK","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","SOM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","AND","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ARM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","BEL","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","BGR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","CYP","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","CZE","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","EST","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","FIN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","FRA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","GEO","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","GRC","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","HUN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ISL","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","IRL","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ISR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ITA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","LVA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","LTU","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","LUX","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","MLT","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","MCO","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","NLD","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","NOR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","PRT","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ROU","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","RUS","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ESP","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","CHE","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","TKM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","GBR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","UZB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","BGD","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","PRK","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","IDN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","LKA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","THA","No","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","TLS","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","AUS","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","BRN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","COK","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","FJI","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","JPN","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","KIR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","MHL","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","FSM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","NRU","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","NZL","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","NIU","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","KOR","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","WSM","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","SLB","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","TON","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","TUV","No","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","VUT","No","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","DZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","BFA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","CMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","TCD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","COG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","COD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","ERI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","ETH","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GMB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GHA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","GIN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","KEN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MDG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MLI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MUS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","MOZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","NAM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","NER","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","SYC","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","TGO","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AFR","TZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","ARG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","BOL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","BRA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","CHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","COL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","CRI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","ECU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","SLV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","HND","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","PAN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","AMR","URY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","BHR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","DJI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","EGY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","IRN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","IRQ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","JOR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","KWT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","LBN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","LBY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","QAT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","SAU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","SDN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","SYR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","TUN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","ARE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EMR","YEM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","ALB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","AUT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","AZE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","BLR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","BIH","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","HRV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","DNK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","DEU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","KAZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","KGZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","MNE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","POL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","MDA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","SMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","SRB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","SVK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","SVN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","SWE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","TJK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","MKD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","TUR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","EUR","UKR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","BTN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","IND","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","MDV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","MMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","SEAR","NPL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","KHM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","CHN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","LAO","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","MYS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","MNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","PLW","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","PNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","PHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","SGP","Yes","","","",""
+"E4_intl_print","PUBLISHED","2012","WPR","VNM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","AGO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","BEN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","BWA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","BDI","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","CPV","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","CAF","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","COM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","CIV","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GNQ","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","ETH","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GAB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GHA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GIN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GNB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","LSO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","LBR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MWI","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MRT","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","NGA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","RWA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","STP","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","SEN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","SLE","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","ZAF","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","SWZ","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","TGO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","UGA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","ZMB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","ZWE","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","ATG","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","ARG","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","BHS","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","BRB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","BLZ","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","BRA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","CAN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","CRI","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","CUB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","DMA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","DOM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","ECU","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","SLV","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","GRD","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","GTM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","GUY","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","HTI","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","JAM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","MEX","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","NIC","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","PRY","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","PER","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","KNA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","LCA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","VCT","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","SUR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","TTO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","USA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","VEN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","AFG","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","BHR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","IRQ","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","LBN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","MAR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","OMN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","PAK","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","SOM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","AND","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ARM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","BEL","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","BGR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","CYP","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","CZE","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","EST","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","FIN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","FRA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","GEO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","GRC","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","HUN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ISL","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","IRL","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ISR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ITA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","LVA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","LTU","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","LUX","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","MLT","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","MCO","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","NLD","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","NOR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","PRT","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ROU","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","RUS","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ESP","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","CHE","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","TKM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","UKR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","GBR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","UZB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","BGD","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","PRK","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","IDN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","LKA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","THA","No","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","TLS","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","AUS","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","BRN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","KHM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","COK","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","FJI","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","JPN","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","KIR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","MHL","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","FSM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","NRU","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","NZL","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","NIU","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","PLW","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","KOR","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","WSM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","SLB","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","TON","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","TUV","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","VUT","No","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","VNM","No","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","DZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","BFA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","CMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","TCD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","COG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","COD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","ERI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","GMB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","KEN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MDG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MLI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MUS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","MOZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","NAM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","NER","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","SYC","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","TZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","BOL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","CHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","COL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","HND","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","PAN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AMR","URY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","DJI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","EGY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","IRN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","JOR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","KWT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","LBY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","QAT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","SAU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","SDN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","SYR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","TUN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","ARE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EMR","YEM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","ALB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","AUT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","AZE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","BLR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","BIH","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","HRV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","DNK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","DEU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","KAZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","KGZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","MNE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","POL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","MDA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","SMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","SRB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","SVK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","SVN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","SWE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","TJK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","MKD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","EUR","TUR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","BTN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","IND","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","MDV","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","MMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","SEAR","NPL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","CHN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","LAO","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","MYS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","MNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","PNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","PHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","WPR","SGP","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","AGO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","BEN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","BWA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","BFA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","BDI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","CPV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","CAF","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","TCD","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","COM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","CIV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GNQ","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","ETH","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GAB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GHA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GIN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GNB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","LSO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","LBR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MWI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MLI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MRT","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MUS","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","NAM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","NGA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","RWA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","STP","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","SEN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","SYC","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","SLE","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","ZAF","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","SWZ","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","TGO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","UGA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","ZMB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","ZWE","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","ATG","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","ARG","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","BHS","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","BRB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","BLZ","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","BRA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","CAN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","COL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","CRI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","CUB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","DMA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","DOM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","ECU","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","SLV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","GRD","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","GTM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","GUY","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","HTI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","HND","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","JAM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","MEX","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","NIC","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","PAN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","PRY","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","PER","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","KNA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","LCA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","VCT","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","SUR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","TTO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","USA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","URY","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","VEN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","AFG","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","BHR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","IRQ","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","JOR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","LBN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","MAR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","OMN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","PAK","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","SOM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","ARE","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","AND","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ARM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","BEL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","BGR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","HRV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","CYP","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","CZE","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","EST","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","FIN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","FRA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","GEO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","GRC","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","HUN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ISL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","IRL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ISR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ITA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","KGZ","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","LVA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","LTU","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","LUX","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","MLT","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","MCO","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","NLD","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","NOR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","PRT","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ROU","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","RUS","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","SMR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ESP","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","CHE","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","TUR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","TKM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","UKR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","GBR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","UZB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","BGD","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","BTN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","PRK","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","IDN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","MDV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","NPL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","LKA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","THA","No","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","TLS","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","AUS","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","BRN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","KHM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","COK","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","FJI","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","JPN","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","KIR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","MHL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","FSM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","NRU","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","NZL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","NIU","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","PLW","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","PHL","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","KOR","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","WSM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","SLB","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","TON","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","TUV","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","VUT","No","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","VNM","No","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","DZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","CMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","COG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","COD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","ERI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","GMB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","KEN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MDG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","MOZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","NER","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AFR","TZA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","BOL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","AMR","CHL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","DJI","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","EGY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","IRN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","KWT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","LBY","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","QAT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","SAU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","SDN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","SYR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","TUN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EMR","YEM","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","ALB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","AUT","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","AZE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","BLR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","BIH","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","DNK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","DEU","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","KAZ","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","MNE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","POL","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","MDA","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","SRB","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","SVK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","SVN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","SWE","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","TJK","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","EUR","MKD","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","IND","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","SEAR","MMR","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","CHN","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","LAO","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","MYS","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","MNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","PNG","Yes","","","",""
+"E4_intl_print","PUBLISHED","2007","WPR","SGP","Yes","","","",""
+"E4_intl_print","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"E4_intl_print","PUBLISHED","2007","AFR","SSD","Not applicable","","","","Data not required/not applicable"

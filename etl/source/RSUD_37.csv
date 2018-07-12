@@ -1,55 +1,55 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-RSUD_37,PUBLISHED,2008,EUR,ALB,NGOs,,,,
-RSUD_37,PUBLISHED,2008,AFR,AGO,Public health,,,,
-RSUD_37,PUBLISHED,2008,WPR,AUS,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,AZE,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,BLR,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,BEL,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,BGR,Private,,,,
-RSUD_37,PUBLISHED,2008,AFR,BFA,Public health,,,,
-RSUD_37,PUBLISHED,2008,WPR,CHN,Public health,,,,
-RSUD_37,PUBLISHED,2008,AMR,COL,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,HRV,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,CYP,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,DNK,Social care,,,,
-RSUD_37,PUBLISHED,2008,EUR,EST,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,FIN,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,FRA,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,GEO,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,DEU,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,GRC,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,HUN,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,ISL,NGOs,,,,
-RSUD_37,PUBLISHED,2008,SEAR,IND,NGOs,,,,
-RSUD_37,PUBLISHED,2008,SEAR,IDN,Public health,,,,
-RSUD_37,PUBLISHED,2008,EMR,IRN,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,IRL,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,ITA,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,LVA,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,LTU,Social care,,,,
-RSUD_37,PUBLISHED,2008,EUR,LUX,Public health,,,,
-RSUD_37,PUBLISHED,2008,WPR,MYS,Private,,,,
-RSUD_37,PUBLISHED,2008,EUR,MLT,Public health,,,,
-RSUD_37,PUBLISHED,2008,AFR,MUS,Public health,,,,
-RSUD_37,PUBLISHED,2008,AMR,MEX,Private,,,,
-RSUD_37,PUBLISHED,2008,SEAR,MMR,Public health,,,,
-RSUD_37,PUBLISHED,2008,SEAR,NPL,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,NLD,Public health,,,,
-RSUD_37,PUBLISHED,2008,WPR,NZL,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,NOR,Public health,,,,
-RSUD_37,PUBLISHED,2008,EMR,OMN,Public health,,,,
-RSUD_37,PUBLISHED,2008,EMR,PAK,Public health,,,,
-RSUD_37,PUBLISHED,2008,AMR,PAN,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,POL,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,SMR,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,SRB,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,SVK,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,SVN,Public health,,,,
-RSUD_37,PUBLISHED,2008,AFR,ZAF,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,ESP,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,CHE,Joint public/private,,,,
-RSUD_37,PUBLISHED,2008,SEAR,THA,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,UKR,Public health,,,,
-RSUD_37,PUBLISHED,2008,AMR,VEN,Public health,,,,
-RSUD_37,PUBLISHED,2008,AFR,ZWE,Public health,,,,
-RSUD_37,PUBLISHED,2008,EUR,MNE,Public health,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"RSUD_37","PUBLISHED","2008","EUR","ALB","NGOs","","","",""
+"RSUD_37","PUBLISHED","2008","AFR","AGO","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","WPR","AUS","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","AZE","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","BLR","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","BEL","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","BGR","Private","","","",""
+"RSUD_37","PUBLISHED","2008","AFR","BFA","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","WPR","CHN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AMR","COL","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","HRV","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","CYP","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","DNK","Social care","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","EST","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","FIN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","FRA","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","GEO","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","DEU","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","GRC","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","HUN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","ISL","NGOs","","","",""
+"RSUD_37","PUBLISHED","2008","SEAR","IND","NGOs","","","",""
+"RSUD_37","PUBLISHED","2008","SEAR","IDN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EMR","IRN","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","IRL","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","ITA","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","LVA","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","LTU","Social care","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","LUX","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","WPR","MYS","Private","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","MLT","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AFR","MUS","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AMR","MEX","Private","","","",""
+"RSUD_37","PUBLISHED","2008","SEAR","MMR","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","SEAR","NPL","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","NLD","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","WPR","NZL","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","NOR","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EMR","OMN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EMR","PAK","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AMR","PAN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","POL","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","SMR","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","SRB","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","SVK","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","SVN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AFR","ZAF","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","ESP","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","CHE","Joint public/private","","","",""
+"RSUD_37","PUBLISHED","2008","SEAR","THA","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","UKR","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AMR","VEN","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","AFR","ZWE","Public health","","","",""
+"RSUD_37","PUBLISHED","2008","EUR","MNE","Public health","","","",""

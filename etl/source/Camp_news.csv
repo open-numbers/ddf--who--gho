@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-Camp_news,PUBLISHED,AFR,COG,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,SYC,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,ZMB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,BOL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,DOM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,LCA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,JOR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,AZE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,CYP,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,POL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,SVN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,TJK,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,UKR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,UZB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,NRU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,PHL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,TUV,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,DZA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,COD,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,GAB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,GIN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,LBR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,DMA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,ECU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,GUY,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,VCT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,TTO,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,EGY,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,SYR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,GRC,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,ROU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,SRB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,TON,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,BFA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,COM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,ERI,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,ETH,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,KEN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,LSO,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,MDG,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,MWI,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,MRT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,NGA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,RWA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,CAN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,MAR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,SOM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,EST,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,ISR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,ESP,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,KHM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,BWA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,NAM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,GTM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,PRY,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,KNA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,AND,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,DNK,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,GEO,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,MNE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,SVK,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,SWE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,CHE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,COK,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,JPN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,CPV,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,TCD,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,MLI,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,NER,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,SLE,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,TZA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,BHS,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,GRD,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,NIC,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,VEN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,AUT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,BEL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,BIH,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,HRV,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,ISL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,MLT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,MKD,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,PNG,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,VUT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,BDI,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,GNB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,STP,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,SSD,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,BRB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,CHL,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,HTI,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,AMR,PER,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,ALB,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,LVA,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,LTU,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,MCO,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,EUR,SMR,Not applicable,,,,Data not required/not applicable
-Camp_news,PUBLISHED,WPR,NZL,Not available,,,,Data not reported/not available
-Camp_news,PUBLISHED,EUR,ITA,No,,,,
-Camp_news,PUBLISHED,AMR,ARG,No,,,,
-Camp_news,PUBLISHED,WPR,BRN,No,,,,
-Camp_news,PUBLISHED,AFR,CMR,Yes,,,,
-Camp_news,PUBLISHED,AFR,CAF,Yes,,,,Campaign not verified as no materials were provided.
-Camp_news,PUBLISHED,AMR,CRI,Yes,,,,
-Camp_news,PUBLISHED,AMR,JAM,Yes,,,,
-Camp_news,PUBLISHED,AMR,USA,Yes,,,,
-Camp_news,PUBLISHED,EMR,DJI,Yes,,,,Campaign not verified as no materials were provided.
-Camp_news,PUBLISHED,EMR,SDN,Yes,,,,
-Camp_news,PUBLISHED,EMR,TUN,Yes,,,,
-Camp_news,PUBLISHED,EUR,CZE,Yes,,,,
-Camp_news,PUBLISHED,EUR,FIN,Yes,,,,
-Camp_news,PUBLISHED,EUR,HUN,Yes,,,,
-Camp_news,PUBLISHED,SEAR,BGD,Yes,,,,
-Camp_news,PUBLISHED,WPR,KIR,Yes,,,,Campaign not verified as no materials were provided.
-Camp_news,PUBLISHED,AFR,TGO,Yes,,,,
-Camp_news,PUBLISHED,AMR,SLV,Yes,,,,
-Camp_news,PUBLISHED,EUR,PRT,Yes,,,,
-Camp_news,PUBLISHED,EUR,TKM,Yes,,,,
-Camp_news,PUBLISHED,EUR,GBR,Yes,,,,
-Camp_news,PUBLISHED,SEAR,BTN,Yes,,,,
-Camp_news,PUBLISHED,WPR,MNG,Yes,,,,
-Camp_news,PUBLISHED,WPR,VNM,Yes,,,,
-Camp_news,PUBLISHED,AFR,BEN,Yes,,,,
-Camp_news,PUBLISHED,AFR,SEN,Yes,,,,
-Camp_news,PUBLISHED,AMR,BRA,Yes,,,,
-Camp_news,PUBLISHED,EMR,KWT,Yes,,,,
-Camp_news,PUBLISHED,EMR,ARE,Yes,,,,
-Camp_news,PUBLISHED,EMR,YEM,Yes,,,,
-Camp_news,PUBLISHED,EUR,BLR,Yes,,,,
-Camp_news,PUBLISHED,EUR,DEU,Yes,,,,
-Camp_news,PUBLISHED,WPR,CHN,Yes,,,,
-Camp_news,PUBLISHED,WPR,LAO,Yes,,,,Campaign not verified as no materials were provided.
-Camp_news,PUBLISHED,WPR,MYS,Yes,,,,
-Camp_news,PUBLISHED,WPR,SGP,Yes,,,,
-Camp_news,PUBLISHED,WPR,SLB,Yes,,,,Campaign not verified as no materials were provided.
-Camp_news,PUBLISHED,AFR,GHA,Yes,,,,
-Camp_news,PUBLISHED,AMR,HND,Yes,,,,
-Camp_news,PUBLISHED,AMR,PAN,Yes,,,,
-Camp_news,PUBLISHED,EMR,IRN,Yes,,,,
-Camp_news,PUBLISHED,EMR,LBN,Yes,,,,
-Camp_news,PUBLISHED,EMR,PAK,Yes,,,,
-Camp_news,PUBLISHED,EUR,IRL,Yes,,,,
-Camp_news,PUBLISHED,EUR,KAZ,Yes,,,,
-Camp_news,PUBLISHED,EUR,MDA,Yes,,,,
-Camp_news,PUBLISHED,SEAR,THA,Yes,,,,
-Camp_news,PUBLISHED,WPR,FJI,Yes,,,,
-Camp_news,PUBLISHED,WPR,PLW,Yes,,,,
-Camp_news,PUBLISHED,AMR,COL,Yes,,,,
-Camp_news,PUBLISHED,AMR,URY,Yes,,,,
-Camp_news,PUBLISHED,EMR,LBY,Yes,,,,
-Camp_news,PUBLISHED,EUR,ARM,Yes,,,,
-Camp_news,PUBLISHED,EUR,BGR,Yes,,,,
-Camp_news,PUBLISHED,EUR,FRA,Yes,,,,
-Camp_news,PUBLISHED,EUR,NLD,Yes,,,,
-Camp_news,PUBLISHED,SEAR,IND,Yes,,,,
-Camp_news,PUBLISHED,WPR,KOR,Yes,,,,
-Camp_news,PUBLISHED,AFR,CIV,Yes,,,,
-Camp_news,PUBLISHED,AFR,GMB,Yes,,,,
-Camp_news,PUBLISHED,AFR,MUS,Yes,,,,
-Camp_news,PUBLISHED,AFR,UGA,Yes,,,,
-Camp_news,PUBLISHED,AMR,CUB,Yes,,,,
-Camp_news,PUBLISHED,AMR,MEX,Yes,,,,
-Camp_news,PUBLISHED,AMR,SUR,Yes,,,,
-Camp_news,PUBLISHED,EUR,LUX,Yes,,,,
-Camp_news,PUBLISHED,EUR,NOR,Yes,,,,
-Camp_news,PUBLISHED,EUR,RUS,Yes,,,,
-Camp_news,PUBLISHED,EUR,TUR,Yes,,,,
-Camp_news,PUBLISHED,SEAR,NPL,Yes,,,,
-Camp_news,PUBLISHED,WPR,AUS,Yes,,,,
-Camp_news,PUBLISHED,WPR,WSM,Yes,,,,
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"Camp_news","PUBLISHED","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","ZMB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","DOM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","POL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","UKR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","PHL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","GIN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","GRC","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","ROU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","BFA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","KEN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","MDG","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","MAR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","EST","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","ESP","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","GTM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","DNK","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","SVK","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","SWE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","CHE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","NIC","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","AUT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","BEL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","HRV","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","ISL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","CHL","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","AMR","PER","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","LVA","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","LTU","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"Camp_news","PUBLISHED","WPR","NZL","Not available","","","","Data not reported/not available"
+"Camp_news","PUBLISHED","EUR","ITA","No","","","",""
+"Camp_news","PUBLISHED","AMR","ARG","No","","","",""
+"Camp_news","PUBLISHED","WPR","BRN","No","","","",""
+"Camp_news","PUBLISHED","AFR","CMR","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","CAF","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_news","PUBLISHED","AMR","CRI","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","JAM","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","USA","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","DJI","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_news","PUBLISHED","EMR","SDN","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","TUN","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","CZE","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","FIN","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","HUN","Yes","","","",""
+"Camp_news","PUBLISHED","SEAR","BGD","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","KIR","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_news","PUBLISHED","AFR","TGO","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","SLV","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","PRT","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","TKM","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","GBR","Yes","","","",""
+"Camp_news","PUBLISHED","SEAR","BTN","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","MNG","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","VNM","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","BEN","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","SEN","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","BRA","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","KWT","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","ARE","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","YEM","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","BLR","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","DEU","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","CHN","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","LAO","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_news","PUBLISHED","WPR","MYS","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","SGP","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","SLB","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_news","PUBLISHED","AFR","GHA","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","HND","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","PAN","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","IRN","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","LBN","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","PAK","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","IRL","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","KAZ","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","MDA","Yes","","","",""
+"Camp_news","PUBLISHED","SEAR","THA","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","FJI","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","PLW","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","COL","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","URY","Yes","","","",""
+"Camp_news","PUBLISHED","EMR","LBY","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","ARM","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","BGR","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","FRA","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","NLD","Yes","","","",""
+"Camp_news","PUBLISHED","SEAR","IND","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","KOR","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","CIV","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","GMB","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","MUS","Yes","","","",""
+"Camp_news","PUBLISHED","AFR","UGA","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","CUB","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","MEX","Yes","","","",""
+"Camp_news","PUBLISHED","AMR","SUR","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","LUX","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","NOR","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","RUS","Yes","","","",""
+"Camp_news","PUBLISHED","EUR","TUR","Yes","","","",""
+"Camp_news","PUBLISHED","SEAR","NPL","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","AUS","Yes","","","",""
+"Camp_news","PUBLISHED","WPR","WSM","Yes","","","",""

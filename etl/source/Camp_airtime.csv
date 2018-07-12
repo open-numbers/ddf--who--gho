@@ -1,195 +1,195 @@
-GHO,PUBLISHSTATE,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-Camp_airtime,PUBLISHED,AFR,BWA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,BFA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,CPV,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,COG,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,KEN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,MDG,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,NGA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,SYC,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,ZMB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,BRB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,GTM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,PRY,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,KNA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,EGY,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,AND,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,AZE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,BIH,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,DNK,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,EST,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,GEO,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,ISR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,MCO,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,SWE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,CHE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,UKR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,MHL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,PHL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,TUV,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,DZA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,TCD,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,COD,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,MWI,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,VCT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,VEN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,BHR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,MAR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,QAT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,SYR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,ALB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,LVA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,POL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,SMR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,MKD,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,COK,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,ERI,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,MRT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,RWA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,BOL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,GRD,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,HTI,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,AFG,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,CYP,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,MNE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,SRB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,UZB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,AGO,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,COM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,LSO,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,NAM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,CHL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,DMA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,SOM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,AUT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,HRV,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,MLT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,SVK,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,SVN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,ESP,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,KHM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,JPN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,NRU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,TON,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,GAB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,MLI,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,SSD,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,BHS,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,DOM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,ECU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,GUY,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,LCA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,TTO,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,OMN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,SAU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,GRC,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,ISL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,FSM,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,NIU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,PNG,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,BDI,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,ETH,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,GIN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,GNB,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,LBR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,NER,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,STP,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,SLE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,TZA,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,ATG,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,CAN,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,NIC,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,AMR,PER,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EMR,JOR,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,BEL,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,LTU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,ROU,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,EUR,TJK,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,VUT,Not applicable,,,,Data not required/not applicable
-Camp_airtime,PUBLISHED,WPR,KIR,Not available,,,,Data not reported/not available
-Camp_airtime,PUBLISHED,AMR,HND,Not available,,,,Data not reported/not available
-Camp_airtime,PUBLISHED,EUR,TKM,Not available,,,,Data not reported/not available
-Camp_airtime,PUBLISHED,EUR,ITA,No,,,,
-Camp_airtime,PUBLISHED,WPR,LAO,No,,,,Campaign not verified as no materials were provided.
-Camp_airtime,PUBLISHED,AMR,JAM,No,,,,
-Camp_airtime,PUBLISHED,AFR,UGA,No,,,,
-Camp_airtime,PUBLISHED,WPR,SLB,No,,,,Campaign not verified as no materials were provided.
-Camp_airtime,PUBLISHED,EMR,DJI,No,,,,Campaign not verified as no materials were provided.
-Camp_airtime,PUBLISHED,AFR,CAF,Yes,,,,Campaign not verified as no materials were provided.
-Camp_airtime,PUBLISHED,AMR,PAN,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,PAK,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,SDN,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,BLR,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,FIN,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,FRA,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,HUN,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,MDA,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,TUR,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,MUS,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,TGO,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,COL,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,SLV,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,SUR,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,URY,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,ARE,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,BGR,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,KAZ,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,NOR,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,RUS,Yes,,,,
-Camp_airtime,PUBLISHED,SEAR,IND,Yes,,,,
-Camp_airtime,PUBLISHED,SEAR,NPL,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,AUS,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,BEN,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,CMR,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,GMB,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,BRA,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,MEX,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,USA,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,LBN,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,CZE,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,DEU,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,IRL,Yes,,,,
-Camp_airtime,PUBLISHED,SEAR,THA,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,MYS,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,PLW,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,WSM,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,GHA,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,SEN,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,ARG,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,CRI,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,KWT,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,TUN,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,YEM,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,CHN,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,FJI,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,SGP,Yes,,,,
-Camp_airtime,PUBLISHED,AMR,CUB,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,IRN,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,ARM,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,LUX,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,GBR,Yes,,,,
-Camp_airtime,PUBLISHED,SEAR,BGD,Yes,,,,
-Camp_airtime,PUBLISHED,SEAR,BTN,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,VNM,Yes,,,,
-Camp_airtime,PUBLISHED,AFR,CIV,Yes,,,,
-Camp_airtime,PUBLISHED,EMR,LBY,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,NLD,Yes,,,,
-Camp_airtime,PUBLISHED,EUR,PRT,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,BRN,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,MNG,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,NZL,Yes,,,,
-Camp_airtime,PUBLISHED,WPR,KOR,Yes,,,,
+"GHO","PUBLISHSTATE","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"Camp_airtime","PUBLISHED","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","BFA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","KEN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","MDG","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","ZMB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","GTM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","DNK","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","EST","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","SWE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","CHE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","UKR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","PHL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","MAR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","LVA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","POL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","CHL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","AUT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","HRV","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","SVK","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","ESP","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","DOM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","GRC","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","ISL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","GIN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","NIC","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","AMR","PER","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","BEL","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","LTU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","ROU","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"Camp_airtime","PUBLISHED","WPR","KIR","Not available","","","","Data not reported/not available"
+"Camp_airtime","PUBLISHED","AMR","HND","Not available","","","","Data not reported/not available"
+"Camp_airtime","PUBLISHED","EUR","TKM","Not available","","","","Data not reported/not available"
+"Camp_airtime","PUBLISHED","EUR","ITA","No","","","",""
+"Camp_airtime","PUBLISHED","WPR","LAO","No","","","","Campaign not verified as no materials were provided."
+"Camp_airtime","PUBLISHED","AMR","JAM","No","","","",""
+"Camp_airtime","PUBLISHED","AFR","UGA","No","","","",""
+"Camp_airtime","PUBLISHED","WPR","SLB","No","","","","Campaign not verified as no materials were provided."
+"Camp_airtime","PUBLISHED","EMR","DJI","No","","","","Campaign not verified as no materials were provided."
+"Camp_airtime","PUBLISHED","AFR","CAF","Yes","","","","Campaign not verified as no materials were provided."
+"Camp_airtime","PUBLISHED","AMR","PAN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","PAK","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","SDN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","BLR","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","FIN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","FRA","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","HUN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","MDA","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","TUR","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","MUS","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","TGO","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","COL","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","SLV","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","SUR","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","URY","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","ARE","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","BGR","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","KAZ","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","NOR","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","RUS","Yes","","","",""
+"Camp_airtime","PUBLISHED","SEAR","IND","Yes","","","",""
+"Camp_airtime","PUBLISHED","SEAR","NPL","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","AUS","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","BEN","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","CMR","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","GMB","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","BRA","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","MEX","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","USA","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","LBN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","CZE","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","DEU","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","IRL","Yes","","","",""
+"Camp_airtime","PUBLISHED","SEAR","THA","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","MYS","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","PLW","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","WSM","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","GHA","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","SEN","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","ARG","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","CRI","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","KWT","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","TUN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","YEM","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","CHN","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","FJI","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","SGP","Yes","","","",""
+"Camp_airtime","PUBLISHED","AMR","CUB","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","IRN","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","ARM","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","LUX","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","GBR","Yes","","","",""
+"Camp_airtime","PUBLISHED","SEAR","BGD","Yes","","","",""
+"Camp_airtime","PUBLISHED","SEAR","BTN","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","VNM","Yes","","","",""
+"Camp_airtime","PUBLISHED","AFR","CIV","Yes","","","",""
+"Camp_airtime","PUBLISHED","EMR","LBY","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","NLD","Yes","","","",""
+"Camp_airtime","PUBLISHED","EUR","PRT","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","BRN","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","MNG","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","NZL","Yes","","","",""
+"Camp_airtime","PUBLISHED","WPR","KOR","Yes","","","",""

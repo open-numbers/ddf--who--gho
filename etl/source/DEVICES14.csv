@@ -1,205 +1,205 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-DEVICES14,PUBLISHED,2010,EUR,AUT,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,BEL,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,AFR,BWA,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,BRA,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,WPR,KHM,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,CAN,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,COL,Used for regulatory purposes and procurement,0.0,,,
-DEVICES14,PUBLISHED,2013,EMR,AFG,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,AGO,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,ATG,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,BHS,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,BGD,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,BRB,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,BLZ,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,BEN,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,BIH,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,BRN,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,BFA,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,BDI,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,CMR,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,CPV,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,CAF,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,TCD,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,CHL,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,COM,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,COG,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,CIV,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,HRV,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,COD,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,DMA,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,DOM,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,ECU,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,ERI,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,FJI,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,GAB,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,GEO,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,GHA,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,GIN,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,GNB,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,GUY,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,HTI,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,ISL,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,IND,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,AZE,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,ARM,No,,,,
-DEVICES14,PUBLISHED,2010,AFR,ZMB,Used for regulatory purposes and procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EMR,YEM,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,WPR,VUT,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EMR,SDN,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,SVN,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,AFR,SLE,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AFR,SEN,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EMR,SAU,Used for regulatory purposes and procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,WPR,WSM,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,NOR,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,NIC,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,MNE,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,MCO,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,EMR,LBY,Used for regulatory purposes and procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,WPR,JPN,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,ITA,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,HND,Used for regulatory purposes and procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,GRD,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,EUR,FRA,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,SLV,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,CUB,Used for procurement,0.0,,,
-DEVICES14,PUBLISHED,2010,AMR,CRI,Used for regulatory purposes,0.0,,,
-DEVICES14,PUBLISHED,2013,EMR,IRQ,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,JAM,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,KIR,No,,,,
-DEVICES14,PUBLISHED,2013,EMR,LBN,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,LBR,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,LTU,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,LUX,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,MWI,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,MDV,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,MLT,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,MHL,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,MRT,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,MUS,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,FSM,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,MNG,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,MMR,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,NAM,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,NRU,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,NPL,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,NER,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,NGA,No,,,,
-DEVICES14,PUBLISHED,2013,EMR,PAK,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,PRY,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,PHL,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,MDA,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,ROU,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,KNA,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,LCA,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,VCT,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,SMR,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,STP,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,SYC,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,SGP,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,SLB,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,ZAF,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,SUR,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,SWZ,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,THA,No,,,,
-DEVICES14,PUBLISHED,2013,SEAR,TLS,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,TGO,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,TON,No,,,,
-DEVICES14,PUBLISHED,2013,EUR,UKR,No,,,,
-DEVICES14,PUBLISHED,2013,WPR,VNM,No,,,,
-DEVICES14,PUBLISHED,2013,EMR,YEM,No,,,,
-DEVICES14,PUBLISHED,2013,AFR,ZWE,No,,,,
-DEVICES14,PUBLISHED,2013,AMR,ARG,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,BLR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,SEAR,BTN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,BOL,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,BGR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,WPR,CHN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,CYP,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,CZE,Not specified,,,,
-DEVICES14,PUBLISHED,2013,SEAR,PRK,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,DNK,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,EGY,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,EST,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,FIN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,GMB,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,DEU,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,GRC,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,GTM,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,HUN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,SEAR,IDN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,IRL,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,ISR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,JOR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,KAZ,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,KEN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,KGZ,Not specified,,,,
-DEVICES14,PUBLISHED,2013,WPR,LAO,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,LVA,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,MDG,Not specified,,,,
-DEVICES14,PUBLISHED,2013,WPR,MYS,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,MLI,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,MEX,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,MAR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,MOZ,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,NLD,Not specified,,,,
-DEVICES14,PUBLISHED,2013,WPR,NZL,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,OMN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,PAN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,PER,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,POL,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,PRT,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,QAT,Not specified,,,,
-DEVICES14,PUBLISHED,2013,WPR,KOR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,RUS,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,SRB,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,SVK,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,SOM,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,ESP,Not specified,,,,
-DEVICES14,PUBLISHED,2013,SEAR,LKA,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,CHE,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EMR,TUN,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,TUR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,UGA,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,GBR,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AFR,TZA,Not specified,,,,
-DEVICES14,PUBLISHED,2013,AMR,USA,Not specified,,,,
-DEVICES14,PUBLISHED,2013,EUR,ALB,Used for inventory,,,,
-DEVICES14,PUBLISHED,2013,AFR,BWA,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,WPR,KHM,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,CUB,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,SLV,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AFR,ETH,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,GRD,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,WPR,WSM,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AFR,SEN,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AFR,SLE,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,EMR,SDN,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,EUR,TJK,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,TTO,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,URY,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,WPR,VUT,Used for procurement,,,,
-DEVICES14,PUBLISHED,2013,EUR,AUT,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,BEL,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,AMR,BRA,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,AMR,CAN,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,FRA,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,WPR,JPN,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,MCO,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,MNE,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,AMR,NIC,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,NOR,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,EUR,SVN,Used for regulatory purposes,,,,
-DEVICES14,PUBLISHED,2013,AMR,COL,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,CRI,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,AMR,HND,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,EUR,ITA,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,EMR,LBY,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,EMR,SAU,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2013,AFR,ZMB,Used for regulatory purposes and procurement,,,,
-DEVICES14,PUBLISHED,2014,AFR,DZA,No,,,,
-DEVICES14,PUBLISHED,2014,EUR,SWE,Not specified,,,,
-DEVICES14,PUBLISHED,2014,EUR,MKD,Not specified,,,,
-DEVICES14,PUBLISHED,2014,WPR,TUV,Not specified,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"DEVICES14","PUBLISHED","2010","AMR","CAN","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AMR","CRI","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AMR","SLV","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","WPR","JPN","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EUR","MCO","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","AFR","CMR","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","CAF","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","CIV","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","COD","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","MDV","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","MHL","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","NRU","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","NER","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","VNM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","ZWE","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","DEU","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","GTM","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","KEN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","LAO","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","CHE","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","TUR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","KHM","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","SLV","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","CRI","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ITA","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2010","AMR","CUB","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EMR","LBY","Used for regulatory purposes and procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AFR","SEN","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","EUR","AZE","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","CPV","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","HRV","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","GAB","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","KIR","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","MLT","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","NAM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","NGA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","LCA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","ZAF","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","UKR","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","CYP","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","HUN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","KGZ","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","MAR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","RUS","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","TUN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","BWA","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","TTO","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","FRA","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","COL","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2010","EUR","AUT","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AFR","SLE","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EMR","SDN","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","AMR","BHS","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","BRB","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","GEO","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","GIN","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","JAM","No","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","LBN","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","KNA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","VCT","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","SLB","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","SUR","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","ARG","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","CHN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","CZE","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","DNK","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","MEX","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MOZ","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","NZL","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","PRT","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","KOR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","SLE","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","TJK","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","CAN","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","JPN","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2014","AFR","DZA","No","","","",""
+"DEVICES14","PUBLISHED","2010","EUR","BEL","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AMR","BRA","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AMR","NIC","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","WPR","WSM","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","AMR","BLZ","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","BIH","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","BFA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","DOM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","ERI","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","LBR","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","LUX","No","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","PAK","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","PHL","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","TLS","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","TON","No","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","EGY","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","FIN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MDG","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MLI","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","SVK","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ESP","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","GRD","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","SEN","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","MCO","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","NIC","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","SVN","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2010","AFR","BWA","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","WPR","KHM","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EUR","NOR","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EMR","SAU","Used for regulatory purposes and procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","AFR","BEN","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","BRN","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","ECU","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","FJI","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","LTU","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MWI","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","PRY","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","MDA","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","THA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","TGO","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","EST","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","GMB","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","LVA","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","MYS","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","SRB","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","SOM","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","ETH","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","WSM","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","MNE","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","NOR","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2010","AMR","GRD","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AMR","HND","Used for regulatory purposes and procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","WPR","VUT","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","EMR","AFG","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","AGO","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","CHL","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","COM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","GNB","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ISL","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","IND","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MUS","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","FSM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","STP","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","SYC","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","BTN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","BOL","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ISR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","JOR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","OMN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","POL","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","GBR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","TZA","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","AUT","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","BEL","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","LBY","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2014","EUR","SWE","Not specified","","","",""
+"DEVICES14","PUBLISHED","2014","EUR","MKD","Not specified","","","",""
+"DEVICES14","PUBLISHED","2014","WPR","TUV","Not specified","","","",""
+"DEVICES14","PUBLISHED","2010","EUR","FRA","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EUR","ITA","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EMR","YEM","Used for procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","AFR","ZMB","Used for regulatory purposes and procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","AMR","ATG","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ARM","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","TCD","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","COG","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","GUY","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","HTI","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","MNG","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","MMR","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","SMR","No","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","SGP","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","BLR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","BGR","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","IDN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","IRL","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","PAN","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","PER","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","UGA","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","USA","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ALB","Used for inventory","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","URY","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","WPR","VUT","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","SAU","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","ZMB","Used for regulatory purposes and procurement","","","",""
+"DEVICES14","PUBLISHED","2010","AMR","COL","Used for regulatory purposes and procurement","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EUR","MNE","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2010","EUR","SVN","Used for regulatory purposes","0.00000","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","BGD","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","BDI","No","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","DMA","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","GHA","No","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","IRQ","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","MRT","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","NPL","No","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","ROU","No","","","",""
+"DEVICES14","PUBLISHED","2013","AFR","SWZ","No","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","YEM","No","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","PRK","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","GRC","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","KAZ","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EUR","NLD","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","QAT","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","SEAR","LKA","Not specified","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","CUB","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","EMR","SDN","Used for procurement","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","BRA","Used for regulatory purposes","","","",""
+"DEVICES14","PUBLISHED","2013","AMR","HND","Used for regulatory purposes and procurement","","","",""

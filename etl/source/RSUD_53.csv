@@ -1,56 +1,56 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-RSUD_53,PUBLISHED,2008,EUR,ALB,Tablets,,,,
-RSUD_53,PUBLISHED,2008,WPR,AUS,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,AUT,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,AZE,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EMR,BHR,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,BLR,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,BEL,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,BGR,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,AMR,CAN,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,WPR,CHN,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,AMR,COL,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,HRV,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,CYP,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,DNK,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,EST,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,FIN,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,FRA,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,AFR,GMB,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,GEO,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,DEU,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,GRC,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,HUN,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,ISL,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,SEAR,IDN,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EMR,IRN,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,IRL,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,ISR,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,ITA,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,KGZ,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,LVA,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,LTU,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,LUX,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,WPR,MYS,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,MLT,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,AFR,MUS,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,AMR,MEX,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,SEAR,MMR,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,SEAR,NPL,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,NLD,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,WPR,NZL,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,NOR,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EMR,OMN,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,POL,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,MDA,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,SRB,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,WPR,SGP,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,SVK,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,SVN,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,AFR,ZAF,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,ESP,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,SWE,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,CHE,Oral solution/syrup and tablets,,,,
-RSUD_53,PUBLISHED,2008,SEAR,THA,Oral solution/syrup,,,,
-RSUD_53,PUBLISHED,2008,EUR,UKR,Tablets,,,,
-RSUD_53,PUBLISHED,2008,EUR,MNE,Oral solution/syrup,,,,
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"RSUD_53","PUBLISHED","2008","EUR","ALB","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","WPR","AUS","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","AUT","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","AZE","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EMR","BHR","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","BLR","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","BEL","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","BGR","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","AMR","CAN","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","WPR","CHN","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","AMR","COL","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","HRV","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","CYP","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","DNK","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","EST","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","FIN","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","FRA","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","AFR","GMB","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","GEO","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","DEU","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","GRC","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","HUN","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","ISL","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","SEAR","IDN","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EMR","IRN","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","IRL","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","ISR","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","ITA","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","KGZ","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","LVA","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","LTU","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","LUX","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","WPR","MYS","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","MLT","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","AFR","MUS","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","AMR","MEX","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","SEAR","MMR","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","SEAR","NPL","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","NLD","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","WPR","NZL","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","NOR","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EMR","OMN","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","POL","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","MDA","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","SRB","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","WPR","SGP","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","SVK","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","SVN","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","AFR","ZAF","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","ESP","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","SWE","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","CHE","Oral solution/syrup and tablets","","","",""
+"RSUD_53","PUBLISHED","2008","SEAR","THA","Oral solution/syrup","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","UKR","Tablets","","","",""
+"RSUD_53","PUBLISHED","2008","EUR","MNE","Oral solution/syrup","","","",""

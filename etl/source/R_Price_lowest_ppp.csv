@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,IRQ,0.30,0.29905,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,KHM,0.31,0.31384,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,IRQ,0.33,0.33,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,MDA,0.35,0.34616,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ARM,0.36,0.35929,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,ARE,0.38,0.37793,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,KHM,0.39,0.39,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GNB,0.42,0.41837,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,AFG,0.44,0.44,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,BLR,0.44,0.44248,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,LBY,0.45,0.45,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,KGZ,0.49,0.49,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,AFG,0.50,0.49847,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,KGZ,0.51,0.5051,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,NPL,0.53,0.52773,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,UZB,0.53,0.5294800000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,PRY,0.54,0.54,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,TUN,0.54,0.54,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,VNM,0.54,0.54,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,QAT,0.55,0.54885,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,VNM,0.55,0.54956,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,ARE,0.57,0.57,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,NPL,0.57,0.57,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,CHN,0.58,0.58,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,TUN,0.59,0.58824,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,GEO,0.59,0.5888100000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,CHN,0.59,0.5899,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,MMR,0.60,0.5967,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GIN,0.61,0.61234,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,MMR,0.63,0.63,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,ETH,0.64,0.64,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,PRY,0.65,0.6461600000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,SLE,0.65,0.65,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,LBY,0.67,0.67069,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,YEM,0.68,0.68,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,MDA,0.70,0.7,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,UKR,0.70,0.70012,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,ETH,0.71,0.71367,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,YEM,0.72,0.7208600000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,SLE,0.72,0.7237600000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,AZE,0.73,0.7286,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,KWT,0.74,0.73746,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,LBN,0.74,0.74,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,RUS,0.76,0.7564,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,LBN,0.76,0.76285,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GHA,0.76,0.7630100000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,KAZ,0.78,0.7844399999999999,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,NER,0.79,0.79403,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,STP,0.80,0.79872,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,ZWE,0.80,0.8,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,PAK,0.81,0.80718,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,BEN,0.81,0.81,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,GEO,0.81,0.81,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,BDI,0.82,0.81601,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ARM,0.82,0.82,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,COM,0.83,0.83,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,QAT,0.83,0.83,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,BGD,0.83,0.83,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,TGO,0.84,0.83988,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,DZA,0.84,0.84,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MLI,0.84,0.84,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,KWT,0.84,0.84,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,TGO,0.85,0.85,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,BGD,0.85,0.85434,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,SUR,0.86,0.86,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MLI,0.87,0.86908,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,DZA,0.90,0.8951600000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,TJK,0.90,0.9,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,IDN,0.91,0.91,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GHA,0.92,0.92,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MRT,0.92,0.92328,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MDG,0.93,0.92914,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,NER,0.93,0.93,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,CAF,0.95,0.95,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,SDN,0.96,0.96,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,COD,0.98,0.98,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,PAK,1.01,1.01,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,COG,1.02,1.01741,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,BEN,1.02,1.02321,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,RWA,1.04,1.04038,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,COL,1.06,1.06,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,AZE,1.07,1.07,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GMB,1.09,1.09,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,SEN,1.10,1.09677,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,BLR,1.10,1.1,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,UZB,1.13,1.13,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,NGA,1.13,1.13055,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,RWA,1.14,1.14,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,CMR,1.15,1.15,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,BWA,1.16,1.15955,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,UKR,1.16,1.16,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,BOL,1.17,1.16857,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,KEN,1.17,1.17,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,CMR,1.17,1.17354,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,DJI,1.18,1.18111,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GMB,1.18,1.18259,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,ZMB,1.20,1.2,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,MNG,1.20,1.2,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,SAU,1.20,1.20156,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,KAZ,1.21,1.21,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,COD,1.22,1.21936,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,DJI,1.25,1.25,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,COL,1.27,1.26593,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,RUS,1.27,1.27,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,KEN,1.29,1.28689,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,BHS,1.31,1.3089,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,IRN,1.32,1.32,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,BFA,1.33,1.33,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MRT,1.33,1.33,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,CPV,1.33,1.33229,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,BOL,1.37,1.37,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,BFA,1.38,1.38127,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,STP,1.39,1.39,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MDG,1.40,1.4,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,THA,1.40,1.40473,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,IRN,1.42,1.42486,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,OMN,1.43,1.43266,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,LAO,1.45,1.45,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,SEN,1.47,1.47,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,UGA,1.47,1.47245,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GAB,1.48,1.4762,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,CIV,1.48,1.48,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,CIV,1.49,1.49208,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,ZMB,1.49,1.49497,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MOZ,1.51,1.50811,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,ARG,1.53,1.53,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,HTI,1.56,1.56226,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,OMN,1.58,1.58,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,BRA,1.60,1.59574,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,IND,1.61,1.61,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,ARG,1.63,1.6256,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,AGO,1.63,1.63,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,MNE,1.63,1.63399,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,SDN,1.65,1.6542599999999998,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,ATG,1.67,1.66985,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,BHR,1.71,1.71,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,JOR,1.72,1.72117,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,UGA,1.73,1.73,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,IDN,1.74,1.74259,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MOZ,1.76,1.76,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,MKD,1.78,1.78203,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,JOR,1.79,1.79,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,THA,1.80,1.8,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,MNE,1.82,1.82,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,COM,1.90,1.90276,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,MAR,1.91,1.90763,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,BRA,1.92,1.92,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,JPN,1.92,1.92493,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,MAR,2.01,2.01,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,BDI,2.05,2.05,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,TCD,2.05,2.05,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,JPN,2.06,2.06,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,EGY,2.09,2.08768,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,BHR,2.15,2.15385,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,PER,2.17,2.1726,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,NIC,2.19,2.18794,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ALB,2.27,2.27243,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,TTO,2.29,2.29,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,EGY,2.31,2.31,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ALB,2.32,2.32,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,GTM,2.42,2.42,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,SRB,2.42,2.42477,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,NAM,2.44,2.44,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,DOM,2.48,2.47606,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,KOR,2.48,2.4802,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,TUV,2.50,2.5,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,MDV,2.51,2.50733,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,KOR,2.51,2.51,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,PER,2.58,2.58,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,SUR,2.61,2.6065400000000003,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ESP,2.65,2.6455,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,MDV,2.68,2.68,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,CHL,2.69,2.68513,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,LKA,2.70,2.69696,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,SRB,2.74,2.74,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,GTM,2.76,2.76461,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,CRI,2.80,2.7964900000000004,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,KNA,2.88,2.88,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MWI,2.88,2.88317,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,KNA,2.92,2.91872,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,HND,2.94,2.94241,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,ATG,3.00,3.0,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,ZAF,3.01,3.01481,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,ZAF,3.04,3.04,,,
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,LKA,3.08,3.08,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,CHL,3.11,3.11,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,GUY,3.11,3.11,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,ERI,3.12,3.12,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,DMA,3.13,3.125,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,MEX,3.13,3.1257,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,HRV,3.13,3.12717,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,CRI,3.13,3.13,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,HND,3.16,3.16,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,LTU,3.20,3.2,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,TUV,3.23,3.23276,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,GUY,3.30,3.3,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,SLV,3.37,3.37,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,DMA,3.38,3.38,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,TUR,3.38,3.38346,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,URY,3.39,3.39,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,TTO,3.40,3.40017,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,VCT,3.44,3.44,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,LSO,3.45,3.44896,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,URY,3.47,3.46926,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,LUX,3.53,3.52595,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,CHE,3.53,3.5279800000000003,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,BIH,3.53,3.53,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,LTU,3.57,3.57,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,CHE,3.60,3.6,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,MYS,3.61,3.60825,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,MYS,3.63,3.63,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MWI,3.71,3.71,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,LUX,3.77,3.77,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,HUN,3.80,3.80161,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,LVA,3.81,3.80835,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,EST,3.83,3.82696,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,CYP,3.84,3.83615,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,TUR,3.86,3.86,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,GRD,3.89,3.88568,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,SMR,3.95,3.95,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,SLV,3.96,3.96226,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,FJI,3.98,3.98,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,GRC,3.99,3.99449,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,SVK,4.05,4.04858,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,HRV,4.07,4.07,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,ECU,4.09,4.08922,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,SVK,4.11,4.11,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,DNK,4.14,4.14,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,DNK,4.14,4.1446,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,MEX,4.18,4.18,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,SVN,4.23,4.23453,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,GRD,4.24,4.24,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,EST,4.25,4.25,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,FIN,4.27,4.27263,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,AUT,4.28,4.27746,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ROU,4.30,4.29864,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,LCA,4.40,4.4,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,DOM,4.43,4.43,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,SWE,4.44,4.43506,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,CZE,4.44,4.44214,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,CYP,4.45,4.45,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,LCA,4.47,4.46704,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,AUT,4.54,4.54,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,BRB,4.55,4.54866,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,FIN,4.60,4.6,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,ECU,4.64,4.64,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ITA,4.66,4.66,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ITA,4.67,4.6729,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,BLZ,4.69,4.69484,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,PLW,4.72,4.72,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,VEN,4.73,4.72915,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,SVN,4.74,4.74,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,SWE,4.74,4.74,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,BLZ,4.78,4.78,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,CZE,4.81,4.81,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,FSM,4.83,4.83,,,
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,IND,4.88,4.87999,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,GRC,4.91,4.91,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,POL,4.94,4.93952,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,NLD,4.95,4.94761,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,TKM,4.96,4.95595,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,DEU,4.97,4.96762,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,POL,4.99,4.99,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,BEL,5.02,5.01809,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,TKM,5.02,5.02,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,MUS,5.03,5.03,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,PRT,5.09,5.0946099999999985,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,BEL,5.21,5.21,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,PAN,5.27,5.27,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,MUS,5.31,5.3117800000000015,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,BGR,5.33,5.326230000000002,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,HUN,5.35,5.35,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,BHS,5.36,5.36,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,NLD,5.36,5.36,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ESP,5.44,5.44,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,WSM,5.46,5.4570300000000005,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,LSO,5.55,5.55,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,BGR,5.55,5.55,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,PRT,5.65,5.65,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ROU,5.66,5.66,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,TON,5.68,5.67644,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,DEU,5.71,5.71,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,MLT,5.83,5.83333,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,PAN,5.96,5.958469999999998,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,MHL,5.98,5.98,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,PNG,6.04,6.04,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,LVA,6.07,6.07,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,SLB,6.12,6.11777,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ISR,6.22,6.22,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,FRA,6.24,6.23632,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,BRN,6.27,6.26896,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,PNG,6.43,6.43432,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,JAM,6.50,6.5,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,MLT,6.63,6.63,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ISL,6.65,6.65027,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,BRN,6.72,6.72,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,TON,6.84,6.84,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,AUS,6.97,6.972010000000001,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,SLB,7.01,7.01,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,FRA,7.21,7.21,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,NOR,7.34,7.34,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,ISL,7.65,7.65,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,SGP,7.85,7.846889999999998,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,NZL,7.88,7.884060000000002,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,SGP,8.05,8.05,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,GBR,8.37,8.36795,,,
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,IRL,8.99,8.99072,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,GBR,9.23,9.23,,,
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,IRL,9.24,9.24,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,AUS,9.44,9.44,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,BRB,9.83,9.83,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,NZL,10.22,10.22,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,KIR,10.55,10.55,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,SYC,10.64,10.64,,,
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,VUT,11.90,11.9,,,
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,VUT,12.01,12.00727,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,JAM,12.19,12.18612,,,
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,SYC,12.98,12.97578,,,
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,CAN,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,USA,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,COG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,LBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,NGA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AFR,TZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,CUB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,AMR,VEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,SAU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EMR,SYR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,EUR,MKD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,COK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,NIU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,PHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2014,WPR,WSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,CAF,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,TCD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,LBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,NAM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,TZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,CAN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,CUB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,AMR,USA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,SOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EMR,SYR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,BIH,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,NOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,COK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,FJI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,LAO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,MHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,FSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,MNG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,NIU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,PLW,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2012,WPR,PHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,DZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,AGO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,BEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,BWA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,BFA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,BDI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,CPV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,CMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,CAF,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,TCD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,COM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,COG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,CIV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,COD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,ERI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,ETH,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GAB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GMB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GHA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GIN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,GNB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,KEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,LSO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,LBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MDG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MWI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MLI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MRT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,MOZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,NAM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,NER,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,NGA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,RWA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,STP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,SEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,SYC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,SLE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,ZAF,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,TGO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,UGA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,TZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,ZMB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,ATG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,ARG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,BHS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,BRB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,BLZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,BOL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,BRA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,CAN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,CHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,COL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,CRI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,CUB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,DMA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,DOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,ECU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,SLV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,GRD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,GTM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,GUY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,HTI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,HND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,JAM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,MEX,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,NIC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,PAN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,PRY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,PER,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,KNA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,LCA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,VCT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,SUR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,TTO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,USA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,URY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,AMR,VEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,AFG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,BHR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,DJI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,EGY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,IRN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,IRQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,JOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,KWT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,LBN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,LBY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,MAR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,OMN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,PAK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,QAT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,SAU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,SOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,SDN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,SYR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,TUN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,ARE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EMR,YEM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ALB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,AND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ARM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,AUT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,AZE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,BLR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,BEL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,BIH,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,BGR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,HRV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,CYP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,CZE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,DNK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,EST,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,FIN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,FRA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,GEO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,DEU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,GRC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,HUN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ISL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,IRL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ISR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ITA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,KAZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,KGZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,LVA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,LTU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,LUX,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,MLT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,MCO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,MNE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,NLD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,NOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,POL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,PRT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,MDA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ROU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,RUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,SMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,SRB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,SVK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,SVN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,ESP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,SWE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,CHE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,TJK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,MKD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,TUR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,TKM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,UKR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,GBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,EUR,UZB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,BGD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,BTN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,IND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,IDN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,MDV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,MMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,NPL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,LKA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,THA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,AUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,BRN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,KHM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,CHN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,COK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,FJI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,JPN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,KIR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,LAO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,MYS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,MHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,FSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,MNG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,NRU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,NZL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,NIU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,PLW,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,PNG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,PHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,KOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,WSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,SGP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,SLB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,TON,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,TUV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,VUT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2010,WPR,VNM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,DZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,AGO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,BEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,BWA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,BFA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,BDI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,CPV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,CMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,CAF,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,TCD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,COM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,COG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,CIV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,COD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GNQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,ERI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,ETH,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GAB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GMB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GHA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GIN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,GNB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,KEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,LSO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,LBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MDG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MWI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MLI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MRT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,MOZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,NAM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,NER,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,NGA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,RWA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,STP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,SEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,SYC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,SLE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,ZAF,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,SWZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,TGO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,UGA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,TZA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,ZMB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AFR,ZWE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,ATG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,ARG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,BHS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,BRB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,BLZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,BOL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,BRA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,CAN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,CHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,COL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,CRI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,CUB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,DMA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,DOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,ECU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,SLV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,GRD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,GTM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,GUY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,HTI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,HND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,JAM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,MEX,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,NIC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,PAN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,PRY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,PER,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,KNA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,LCA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,VCT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,SUR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,TTO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,USA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,URY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,AMR,VEN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,AFG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,BHR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,DJI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,EGY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,IRN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,IRQ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,JOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,KWT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,LBN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,LBY,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,MAR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,OMN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,PAK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,QAT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,SAU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,SOM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,SDN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,SYR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,TUN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,ARE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EMR,YEM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ALB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,AND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ARM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,AUT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,AZE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,BLR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,BEL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,BIH,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,BGR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,HRV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,CYP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,CZE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,DNK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,EST,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,FIN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,FRA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,GEO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,DEU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,GRC,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,HUN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ISL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,IRL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ISR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ITA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,KAZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,KGZ,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,LVA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,LTU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,LUX,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,MLT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,MCO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,MNE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,NLD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,NOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,POL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,PRT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,MDA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ROU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,RUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,SMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,SRB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,SVK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,SVN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,ESP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,SWE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,CHE,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,TJK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,MKD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,TUR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,TKM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,UKR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,GBR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,EUR,UZB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,BGD,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,BTN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,PRK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,IND,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,IDN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,MDV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,MMR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,NPL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,LKA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,THA,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,SEAR,TLS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,AUS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,BRN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,KHM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,CHN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,COK,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,FJI,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,JPN,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,KIR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,LAO,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,MYS,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,MHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,FSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,MNG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,NRU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,NZL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,NIU,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,PLW,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,PNG,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,PHL,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,KOR,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,WSM,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,SGP,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,SLB,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,TON,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,TUV,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,VUT,Not available,,,,Data not reported/not available
-R_Price_lowest_ppp,PUBLISHED,2008,WPR,VNM,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","IRQ","0.30","0.29905","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","KHM","0.31","0.31384","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","IRQ","0.33","0.33000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","MDA","0.35","0.34616","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ARM","0.36","0.35929","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","ARE","0.38","0.37793","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","KHM","0.39","0.39000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GNB","0.42","0.41837","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","AFG","0.44","0.44000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","BLR","0.44","0.44248","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","LBY","0.45","0.45000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","KGZ","0.49","0.49000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","AFG","0.50","0.49847","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","KGZ","0.51","0.50510","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","NPL","0.53","0.52773","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","UZB","0.53","0.52948","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","PRY","0.54","0.54000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","TUN","0.54","0.54000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","VNM","0.54","0.54000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","QAT","0.55","0.54885","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","VNM","0.55","0.54956","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","ARE","0.57","0.57000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","NPL","0.57","0.57000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","CHN","0.58","0.58000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","TUN","0.59","0.58824","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","GEO","0.59","0.58881","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","CHN","0.59","0.58990","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","MMR","0.60","0.59670","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GIN","0.61","0.61234","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","MMR","0.63","0.63000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","ETH","0.64","0.64000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","PRY","0.65","0.64616","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","SLE","0.65","0.65000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","LBY","0.67","0.67069","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","YEM","0.68","0.68000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","MDA","0.70","0.70000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","UKR","0.70","0.70012","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","ETH","0.71","0.71367","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","YEM","0.72","0.72086","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","SLE","0.72","0.72376","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","AZE","0.73","0.72860","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","KWT","0.74","0.73746","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","LBN","0.74","0.74000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","RUS","0.76","0.75640","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","LBN","0.76","0.76285","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GHA","0.76","0.76301","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","KAZ","0.78","0.78444","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","NER","0.79","0.79403","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","STP","0.80","0.79872","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","ZWE","0.80","0.80000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","PAK","0.81","0.80718","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","BEN","0.81","0.81000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","GEO","0.81","0.81000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","BDI","0.82","0.81601","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ARM","0.82","0.82000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","COM","0.83","0.83000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","QAT","0.83","0.83000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","BGD","0.83","0.83000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","TGO","0.84","0.83988","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","DZA","0.84","0.84000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MLI","0.84","0.84000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","KWT","0.84","0.84000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","TGO","0.85","0.85000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","BGD","0.85","0.85434","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","SUR","0.86","0.86000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MLI","0.87","0.86908","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","DZA","0.90","0.89516","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","TJK","0.90","0.90000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","IDN","0.91","0.91000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GHA","0.92","0.92000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MRT","0.92","0.92328","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MDG","0.93","0.92914","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","NER","0.93","0.93000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","CAF","0.95","0.95000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","SDN","0.96","0.96000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","COD","0.98","0.98000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","PAK","1.01","1.01000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","COG","1.02","1.01741","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","BEN","1.02","1.02321","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","RWA","1.04","1.04038","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","COL","1.06","1.06000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","AZE","1.07","1.07000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GMB","1.09","1.09000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","SEN","1.10","1.09677","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","BLR","1.10","1.10000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","UZB","1.13","1.13000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","NGA","1.13","1.13055","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","RWA","1.14","1.14000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","CMR","1.15","1.15000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","BWA","1.16","1.15955","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","UKR","1.16","1.16000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","BOL","1.17","1.16857","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","KEN","1.17","1.17000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","CMR","1.17","1.17354","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","DJI","1.18","1.18111","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GMB","1.18","1.18259","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","ZMB","1.20","1.20000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","MNG","1.20","1.20000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","SAU","1.20","1.20156","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","KAZ","1.21","1.21000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","COD","1.22","1.21936","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","DJI","1.25","1.25000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","COL","1.27","1.26593","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","RUS","1.27","1.27000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","KEN","1.29","1.28689","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","BHS","1.31","1.30890","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","IRN","1.32","1.32000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","BFA","1.33","1.33000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MRT","1.33","1.33000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","CPV","1.33","1.33229","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","BOL","1.37","1.37000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","BFA","1.38","1.38127","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","STP","1.39","1.39000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MDG","1.40","1.40000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","THA","1.40","1.40473","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","IRN","1.42","1.42486","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","OMN","1.43","1.43266","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","LAO","1.45","1.45000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","SEN","1.47","1.47000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","UGA","1.47","1.47245","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GAB","1.48","1.47620","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","CIV","1.48","1.48000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","CIV","1.49","1.49208","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","ZMB","1.49","1.49497","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MOZ","1.51","1.50811","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","ARG","1.53","1.53000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","HTI","1.56","1.56226","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","OMN","1.58","1.58000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","BRA","1.60","1.59574","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","IND","1.61","1.61000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","ARG","1.63","1.62560","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","AGO","1.63","1.63000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","MNE","1.63","1.63399","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","SDN","1.65","1.65426","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","ATG","1.67","1.66985","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","BHR","1.71","1.71000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","JOR","1.72","1.72117","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","UGA","1.73","1.73000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","IDN","1.74","1.74259","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MOZ","1.76","1.76000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","MKD","1.78","1.78203","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","JOR","1.79","1.79000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","THA","1.80","1.80000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","MNE","1.82","1.82000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","COM","1.90","1.90276","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","MAR","1.91","1.90763","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","BRA","1.92","1.92000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","JPN","1.92","1.92493","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","MAR","2.01","2.01000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","BDI","2.05","2.05000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","TCD","2.05","2.05000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","JPN","2.06","2.06000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","EGY","2.09","2.08768","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","BHR","2.15","2.15385","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","PER","2.17","2.17260","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","NIC","2.19","2.18794","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ALB","2.27","2.27243","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","TTO","2.29","2.29000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","EGY","2.31","2.31000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ALB","2.32","2.32000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","GTM","2.42","2.42000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","SRB","2.42","2.42477","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","NAM","2.44","2.44000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","DOM","2.48","2.47606","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","KOR","2.48","2.48020","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","TUV","2.50","2.50000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","MDV","2.51","2.50733","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","KOR","2.51","2.51000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","PER","2.58","2.58000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","SUR","2.61","2.60654","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ESP","2.65","2.64550","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","MDV","2.68","2.68000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","CHL","2.69","2.68513","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","LKA","2.70","2.69696","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","SRB","2.74","2.74000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","GTM","2.76","2.76461","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","CRI","2.80","2.79649","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","KNA","2.88","2.88000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MWI","2.88","2.88317","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","KNA","2.92","2.91872","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","HND","2.94","2.94241","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","ATG","3.00","3.00000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","ZAF","3.01","3.01481","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","ZAF","3.04","3.04000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","LKA","3.08","3.08000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","CHL","3.11","3.11000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","GUY","3.11","3.11000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","ERI","3.12","3.12000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","DMA","3.13","3.12500","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","MEX","3.13","3.12570","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","HRV","3.13","3.12717","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","CRI","3.13","3.13000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","HND","3.16","3.16000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","LTU","3.20","3.20000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","TUV","3.23","3.23276","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","GUY","3.30","3.30000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","SLV","3.37","3.37000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","DMA","3.38","3.38000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","TUR","3.38","3.38346","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","URY","3.39","3.39000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","TTO","3.40","3.40017","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","VCT","3.44","3.44000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","LSO","3.45","3.44896","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","URY","3.47","3.46926","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","LUX","3.53","3.52595","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","CHE","3.53","3.52798","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","BIH","3.53","3.53000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","LTU","3.57","3.57000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","CHE","3.60","3.60000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","MYS","3.61","3.60825","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","MYS","3.63","3.63000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MWI","3.71","3.71000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","LUX","3.77","3.77000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","HUN","3.80","3.80161","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","LVA","3.81","3.80835","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","EST","3.83","3.82696","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","CYP","3.84","3.83615","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","TUR","3.86","3.86000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","GRD","3.89","3.88568","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","SMR","3.95","3.95000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","SLV","3.96","3.96226","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","FJI","3.98","3.98000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","GRC","3.99","3.99449","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","SVK","4.05","4.04858","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","HRV","4.07","4.07000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","ECU","4.09","4.08922","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","SVK","4.11","4.11000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","DNK","4.14","4.14000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","DNK","4.14","4.14460","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","MEX","4.18","4.18000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","SVN","4.23","4.23453","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","GRD","4.24","4.24000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","EST","4.25","4.25000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","FIN","4.27","4.27263","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","AUT","4.28","4.27746","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ROU","4.30","4.29864","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","LCA","4.40","4.40000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","DOM","4.43","4.43000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","SWE","4.44","4.43506","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","CZE","4.44","4.44214","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","CYP","4.45","4.45000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","LCA","4.47","4.46704","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","AUT","4.54","4.54000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","BRB","4.55","4.54866","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","FIN","4.60","4.60000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","ECU","4.64","4.64000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ITA","4.66","4.66000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ITA","4.67","4.67290","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","BLZ","4.69","4.69484","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","PLW","4.72","4.72000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","VEN","4.73","4.72915","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","SVN","4.74","4.74000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","SWE","4.74","4.74000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","BLZ","4.78","4.78000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","CZE","4.81","4.81000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","FSM","4.83","4.83000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","IND","4.88","4.87999","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","GRC","4.91","4.91000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","POL","4.94","4.93952","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","NLD","4.95","4.94761","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","TKM","4.96","4.95595","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","DEU","4.97","4.96762","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","POL","4.99","4.99000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","BEL","5.02","5.01809","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","TKM","5.02","5.02000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","MUS","5.03","5.03000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","PRT","5.09","5.09461","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","BEL","5.21","5.21000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","PAN","5.27","5.27000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","MUS","5.31","5.31178","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","BGR","5.33","5.32623","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","HUN","5.35","5.35000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","BHS","5.36","5.36000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","NLD","5.36","5.36000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ESP","5.44","5.44000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","WSM","5.46","5.45703","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","LSO","5.55","5.55000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","BGR","5.55","5.55000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","PRT","5.65","5.65000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ROU","5.66","5.66000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","TON","5.68","5.67644","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","DEU","5.71","5.71000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","MLT","5.83","5.83333","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","PAN","5.96","5.95847","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","MHL","5.98","5.98000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","PNG","6.04","6.04000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","LVA","6.07","6.07000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","SLB","6.12","6.11777","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ISR","6.22","6.22000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","FRA","6.24","6.23632","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","BRN","6.27","6.26896","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","PNG","6.43","6.43432","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","JAM","6.50","6.50000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","MLT","6.63","6.63000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ISL","6.65","6.65027","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","BRN","6.72","6.72000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","TON","6.84","6.84000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","AUS","6.97","6.97201","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","SLB","7.01","7.01000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","FRA","7.21","7.21000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","NOR","7.34","7.34000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","ISL","7.65","7.65000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","SGP","7.85","7.84689","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","NZL","7.88","7.88406","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","SGP","8.05","8.05000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","GBR","8.37","8.36795","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","IRL","8.99","8.99072","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","GBR","9.23","9.23000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","IRL","9.24","9.24000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","AUS","9.44","9.44000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","BRB","9.83","9.83000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","NZL","10.22","10.22000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","KIR","10.55","10.55000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","SYC","10.64","10.64000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","VUT","11.90","11.90000","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","VUT","12.01","12.00727","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","JAM","12.19","12.18612","","",""
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","SYC","12.98","12.97578","","",""
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","COG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2014","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","AMR","USA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2012","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","DZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","BDI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","CMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","COM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","COG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","COD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","ETH","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GMB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GHA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","KEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MLI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","NER","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","RWA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","STP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","SEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","SLE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","ZAF","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","UGA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","ZMB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","ARG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","BHS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","BLZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","BOL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","BRA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","CHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","COL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","CRI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","DOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","ECU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","GTM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","HND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","JAM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","MEX","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","PAN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","PER","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","USA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","URY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","EGY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","IRN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","LBN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","MAR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","OMN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","PAK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","TUN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","ARE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EMR","YEM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ALB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ARM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","AUT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","AZE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","BLR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","BEL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","BGR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","HRV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","CYP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","CZE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","DNK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","EST","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","FIN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","FRA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","GEO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","DEU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","GRC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","HUN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ISL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","IRL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ITA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","KAZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","LVA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","LTU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","LUX","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","NLD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","POL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","PRT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","MDA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ROU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","RUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","SRB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","SVK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","SVN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","ESP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","SWE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","CHE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","TUR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","UKR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","GBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","EUR","UZB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","BGD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","IND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","IDN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","NPL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","LKA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","THA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","AUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","KHM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","CHN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","JPN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","MYS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","NZL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","KOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","SGP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","TON","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2010","WPR","VNM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","DZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","BDI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","CMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","COM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","COG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","COD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","ETH","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GMB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GHA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","KEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MLI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","NER","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","RWA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","STP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","SEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","SLE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","ZAF","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","UGA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","ZMB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AFR","ZWE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","ARG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","BHS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","BLZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","BOL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","BRA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","CAN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","CHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","COL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","CRI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","DOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","ECU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","GTM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","HND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","JAM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","MEX","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","PAN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","PER","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","USA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","URY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","EGY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","IRN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","LBN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","MAR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","OMN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","PAK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","TUN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","ARE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EMR","YEM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ALB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","AND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ARM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","AUT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","AZE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","BLR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","BEL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","BIH","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","BGR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","HRV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","CYP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","CZE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","DNK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","EST","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","FIN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","FRA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","GEO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","DEU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","GRC","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","HUN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ISL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","IRL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ITA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","KAZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","LVA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","LTU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","LUX","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","NLD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","NOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","POL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","PRT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","MDA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ROU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","RUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","SRB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","SVK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","SVN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","ESP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","SWE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","CHE","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","MKD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","TUR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","UKR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","GBR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","EUR","UZB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","BGD","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","IND","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","IDN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","NPL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","LKA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","THA","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","AUS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","KHM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","CHN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","COK","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","FJI","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","JPN","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","MYS","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","MNG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","NZL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","PHL","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","KOR","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","SGP","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","TON","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_Price_lowest_ppp","PUBLISHED","2008","WPR","VNM","Not available","","","","Data not reported/not available"

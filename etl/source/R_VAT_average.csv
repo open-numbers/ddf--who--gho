@@ -1,777 +1,777 @@
-GHO,PUBLISHSTATE,YEAR,REGION,COUNTRY,Display Value,Numeric,Low,High,Comments
-R_VAT_average,PUBLISHED,2012,WPR,JPN,4.80,4.8,,,
-R_VAT_average,PUBLISHED,2012,EMR,TUN,4.90,4.9,,,
-R_VAT_average,PUBLISHED,2014,WPR,SGP,6.50,6.5,,,
-R_VAT_average,PUBLISHED,2014,WPR,AUS,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,EUR,KAZ,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2012,WPR,PHL,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2014,SEAR,LKA,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2014,AMR,CRI,11.50,11.5,,,
-R_VAT_average,PUBLISHED,2012,SEAR,NPL,11.50,11.5,,,
-R_VAT_average,PUBLISHED,2014,WPR,NZL,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,AFR,GHA,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,WPR,NZL,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,HND,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,WPR,WSM,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,WPR,TON,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,MEX,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2014,AMR,JAM,14.20,14.2,,,
-R_VAT_average,PUBLISHED,2012,EUR,BIH,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2012,WPR,CHN,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2014,EUR,ISR,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,GEO,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,TUR,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,MKD,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EMR,MAR,15.80,15.8,,,
-R_VAT_average,PUBLISHED,2014,AFR,MLI,16.20,16.2,,,
-R_VAT_average,PUBLISHED,2012,EUR,SVN,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,BLR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,CZE,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,CZE,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,SVN,18.00,18.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,GRC,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,ROU,19.40,19.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,FIN,19.40,19.4,,,
-R_VAT_average,PUBLISHED,2012,EUR,SWE,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,HUN,21.30,21.3,,,
-R_VAT_average,PUBLISHED,2010,AFR,LSO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,STP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,SEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,FIN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,MLT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,TUV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GNB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,BRA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,BIH,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,TZA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,BOL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,HRV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,CHN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,ECU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,MEX,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,CYP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,LVA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ESP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,VNM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,SLE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,BHS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,GTM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,MAR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,SOM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,AUT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,BDI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MWI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,EMR,YEM,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,EMR,IRN,2.20,2.2,,,
-R_VAT_average,PUBLISHED,2012,AMR,VEN,3.50,3.5,,,
-R_VAT_average,PUBLISHED,2012,WPR,MYS,4.80,4.8,,,
-R_VAT_average,PUBLISHED,2014,AFR,GMB,5.00,5.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,USA,5.20,5.2,,,
-R_VAT_average,PUBLISHED,2012,AFR,CMR,6.70,6.7,,,
-R_VAT_average,PUBLISHED,2012,WPR,VNM,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,WPR,PHL,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2014,AFR,ZAF,12.30,12.3,,,
-R_VAT_average,PUBLISHED,2012,AFR,ZAF,12.30,12.3,,,
-R_VAT_average,PUBLISHED,2012,WPR,FJI,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,COL,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2012,AMR,DOM,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2012,AMR,KNA,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2012,AFR,UGA,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,AFR,SEN,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,AZE,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,NLD,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,CHL,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,SVK,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,UZB,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,EST,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,SEAR,IND,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,AUT,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,FRA,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,MDA,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,ITA,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,PRT,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,IRL,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,POL,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,POL,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,NOR,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,BRA,25.00,25.0,,,
-R_VAT_average,PUBLISHED,2010,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,ERI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,CAF,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,CIV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,COG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,LUX,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,TKM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,FJI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,BEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,SOM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,FIN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,MKD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,NZL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,LBR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,NOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,CHE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,IND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,VUT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,CPV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,JOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,ARE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ARM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,BLR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,GRC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,IRL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,TLS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ITA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,MCO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,MNE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,SVN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,JPN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,FSM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,SEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2012,EMR,ARE,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2014,AFR,ZMB,1.30,1.3,,,
-R_VAT_average,PUBLISHED,2012,AFR,ZMB,1.30,1.3,,,
-R_VAT_average,PUBLISHED,2012,SEAR,THA,6.50,6.5,,,
-R_VAT_average,PUBLISHED,2012,WPR,SGP,6.50,6.5,,,
-R_VAT_average,PUBLISHED,2014,SEAR,THA,6.50,6.5,,,
-R_VAT_average,PUBLISHED,2014,EMR,TUN,6.80,6.8,,,
-R_VAT_average,PUBLISHED,2014,WPR,JPN,7.40,7.4,,,
-R_VAT_average,PUBLISHED,2012,EUR,ARM,7.70,7.7,,,
-R_VAT_average,PUBLISHED,2014,WPR,KHM,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,WPR,KHM,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,EUR,KAZ,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2014,AFR,ZWE,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AFR,DZA,13.20,13.2,,,
-R_VAT_average,PUBLISHED,2012,EMR,PAK,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2014,WPR,CHN,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2014,SEAR,BGD,15.00,15.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,LUX,15.00,15.0,,,
-R_VAT_average,PUBLISHED,2012,AFR,SEN,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,ESP,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,AZE,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,BGR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,SRB,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,BLR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,GBR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,BEL,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,LTU,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,AMR,URY,18.00,18.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,IRL,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,PRT,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2010,AFR,TCD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MDG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,AGO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,GAB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,MDA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,TJK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,UZB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,MHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GAB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,COL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,VCT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,BHR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,PAK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,JPN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,UGA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,COL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,SYR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,BGR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,COG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MRT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,DOM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,NLD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,NOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,RUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,ZMB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,ARG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,CHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,ECU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,USA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,DJI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,OMN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,FRA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ISL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,BRN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,SYC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,CHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,GUY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,EMR,OMN,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,EMR,SAU,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,CHE,7.40,7.4,,,
-R_VAT_average,PUBLISHED,2012,AFR,ZWE,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,BOL,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,WPR,FJI,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,NIC,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,COL,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2012,AFR,KEN,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2014,EMR,PAK,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2014,AFR,GHA,14.90,14.9,,,
-R_VAT_average,PUBLISHED,2012,EMR,YEM,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,RUS,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,AMR,CHL,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,UZB,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,AMR,CAN,8.80,8.8,,,
-R_VAT_average,PUBLISHED,2014,AMR,CAN,8.80,8.8,,,
-R_VAT_average,PUBLISHED,2012,EMR,LBN,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,WPR,MNG,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,AMR,GTM,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,HRV,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,HRV,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,SWE,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,BRA,25.00,25.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,BLZ,11.10,11.1,,,
-R_VAT_average,PUBLISHED,2014,SEAR,NPL,11.50,11.5,,,
-R_VAT_average,PUBLISHED,2012,AFR,NGA,4.80,4.8,,,
-R_VAT_average,PUBLISHED,2014,AFR,ETH,4.80,4.8,,,
-R_VAT_average,PUBLISHED,2014,WPR,MYS,4.80,4.8,,,
-R_VAT_average,PUBLISHED,2014,AFR,CMR,5.60,5.6,,,
-R_VAT_average,PUBLISHED,2014,EUR,GBR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,AUT,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,FIN,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,DNK,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2014,EMR,MAR,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,AFR,BDI,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,AMR,DOM,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,SRB,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2010,AFR,GIN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,DZA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MLI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,ATG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,GRD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,KNA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,SDN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,CYP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,PNG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,COM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MDG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,RWA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,LBY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MOZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,NAM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,RWA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,SLV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,LCA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,GRC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ROU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,SVK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ESP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,BWA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,ZMB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,BHS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,PRY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,MNG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,PAK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,ARE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,BEL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,NIU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,TGO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,ATG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,DJI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,OMN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ISR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,MDA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,TUR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,EMR,ARE,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,WPR,MNG,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,EMR,EGY,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2014,EMR,EGY,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,BHS,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2012,EMR,OMN,0.00,0.0,,,
-R_VAT_average,PUBLISHED,2014,EMR,IRN,2.30,2.3,,,
-R_VAT_average,PUBLISHED,2014,AMR,USA,5.20,5.2,,,
-R_VAT_average,PUBLISHED,2014,AMR,ARG,5.50,5.5,,,
-R_VAT_average,PUBLISHED,2014,AFR,RWA,5.60,5.6,,,
-R_VAT_average,PUBLISHED,2014,AFR,UGA,9.00,9.0,,,
-R_VAT_average,PUBLISHED,2014,AFR,COM,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,WPR,KOR,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,WPR,VNM,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,AMR,ECU,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2012,SEAR,LKA,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2012,AFR,DZA,12.90,12.9,,,
-R_VAT_average,PUBLISHED,2012,AMR,PAN,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AFR,SLE,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,PAN,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2014,AFR,KEN,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2012,AMR,JAM,14.20,14.2,,,
-R_VAT_average,PUBLISHED,2014,EUR,BIH,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2014,EUR,LUX,15.00,15.0,,,
-R_VAT_average,PUBLISHED,2014,AMR,HND,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,AMR,PER,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,AMR,PER,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,CYP,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,DEU,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,FRA,16.40,16.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,ARM,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,EST,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,UKR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2014,EUR,UKR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,SVK,16.80,16.8,,,
-R_VAT_average,PUBLISHED,2014,EUR,LVA,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,NLD,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,ESP,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2014,EUR,ITA,18.00,18.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,HUN,21.30,21.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,NOR,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,ROU,19.40,19.4,,,
-R_VAT_average,PUBLISHED,2010,AFR,BFA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MWI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,ARG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,COD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,LBY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,SRB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,DNK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,NRU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,FJI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,DOM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,NGA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,NLD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,IRN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ALB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,AZE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,KOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,VNM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,EST,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,HUN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,CZE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,GBR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,IND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2012,AMR,ARG,5.30,5.3,,,
-R_VAT_average,PUBLISHED,2014,AFR,LBR,6.50,6.5,,,
-R_VAT_average,PUBLISHED,2012,EUR,CHE,7.40,7.4,,,
-R_VAT_average,PUBLISHED,2014,SEAR,IDN,8.40,8.4,,,
-R_VAT_average,PUBLISHED,2012,SEAR,IDN,8.40,8.4,,,
-R_VAT_average,PUBLISHED,2014,EMR,LBN,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,WPR,KOR,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2012,WPR,AUS,9.10,9.1,,,
-R_VAT_average,PUBLISHED,2014,AMR,GTM,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2014,AMR,ECU,10.70,10.7,,,
-R_VAT_average,PUBLISHED,2012,AMR,BOL,13.00,13.0,,,
-R_VAT_average,PUBLISHED,2012,AMR,MEX,13.80,13.8,,,
-R_VAT_average,PUBLISHED,2012,EUR,CYP,14.50,14.5,,,
-R_VAT_average,PUBLISHED,2012,SEAR,BGD,15.00,15.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,MKD,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,TUR,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,GEO,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,RUS,15.30,15.3,,,
-R_VAT_average,PUBLISHED,2014,EUR,DEU,16.00,16.0,,,
-R_VAT_average,PUBLISHED,2014,SEAR,IND,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,BGR,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,MDA,16.70,16.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,BEL,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2012,EUR,LVA,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2012,EUR,LTU,17.40,17.4,,,
-R_VAT_average,PUBLISHED,2012,AMR,URY,18.00,18.0,,,
-R_VAT_average,PUBLISHED,2012,EUR,GRC,18.70,18.7,,,
-R_VAT_average,PUBLISHED,2012,EUR,DNK,20.00,20.0,,,
-R_VAT_average,PUBLISHED,2014,EUR,ISL,20.30,20.3,,,
-R_VAT_average,PUBLISHED,2012,EUR,ISL,20.30,20.3,,,
-R_VAT_average,PUBLISHED,2010,AFR,BDI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,KEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,GNB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,BWA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,ETH,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MRT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,CRI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,JAM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,SUR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,SAU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,MNG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,COD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,NAM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,CAN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,CUB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,LTU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,DEU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,ERI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,UGA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,SDN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,MDV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,BRA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,GUY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,PER,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,VEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,KAZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,MKD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,THA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,KHM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GMB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,CZE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,GEO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ITA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ROU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,UKR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,CHN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,VUT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,CMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,GHA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,SYC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,BHR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,QAT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ISR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,GTM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,ZAF,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,AFG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,KWT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,DEU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,PHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,BRB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,LBN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,AND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,BTN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,PHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,WSM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,TZA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,GRD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,MAR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,SYR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,AND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,TUV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,NIC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,YEM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,AZE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,BLR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,COK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,LBR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,NIC,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,PAN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,AUT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,GBR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,COK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,COM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,PAN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,JOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,LVA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,PRT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,KEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,EGY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,TKM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,SLB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,AFR,BWA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,BHR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,SMR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,DMA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,BEN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,GIN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MWI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,GRD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,SYC,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,SEAR,MMR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,MHL,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MLI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,BLZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,SYR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,CAF,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,SOM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,TCD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,LSO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,KWT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,MNE,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,ERI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,MUS,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,MLT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,NER,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,VCT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,SUR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2008,EUR,FRA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,PRT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,BRN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,NIU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,TUN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,HUN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,SLB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,TON,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,CIV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,KNA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,LCA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,SAU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,PNG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,SGP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,PRY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,URY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,KWT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,PLW,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,CMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GNQ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,DMA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,JAM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,QAT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,ISL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,MLT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,MYS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,TTO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,LTU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,SRB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,SGP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,TCD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GIN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,HTI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,DNK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,SWE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,AUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,KIR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,WSM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,AFR,BEN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,DJI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,NIU,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MRT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,TTO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,SEAR,BTN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,LSO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,NAM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,BRB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,HTI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,JOR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,TJK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,GAB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,CUB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,PRY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,BHR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,GNB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,CUB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,MOZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,SWZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,SLV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,LCA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,VCT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,SYR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,KGZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,MCO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,SEAR,PRK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,GUY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,STP,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,NRU,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2008,WPR,TON,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,CPV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,GMB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,MUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,TGO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,DMA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,HTI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,UKR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,LAO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,BGR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,KAZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,HND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,MEX,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ARM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,GEO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,AUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,NRU,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,SLV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,YEM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,BGD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,MMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,BEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,NER,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,CUB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,IRN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,IDN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,AGO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,MLI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,STP,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,BRB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,CRI,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,SUR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,VEN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,LBN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,HRV,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,MCO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,AFR,COD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,NRU,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,PLW,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,NIC,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,SDN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,SYC,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,BRB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,GUY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,BFA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,CPV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,MHL,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,TUV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,VUT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,GIN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,TTO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,IRQ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,MCO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,QAT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,STP,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,KNA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,SUR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,AFG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,TON,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,LBR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,SEAR,PRK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,COK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,NIU,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2008,EUR,SMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,SVN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,KOR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,RUS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,LKA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,BFA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,NPL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,MHL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,FSM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,ZWE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,SWE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,KIR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,HND,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,USA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,KGZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,AMR,VEN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,BWA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,CAF,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,ATG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,SEAR,MMR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,BFA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,SEAR,BTN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,COG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,CIV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,AND,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,BRN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,SLB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,QAT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,NER,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,LAO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,PLW,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,MRT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,TUV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,TCD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,NGA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MDG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,TGO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,DMA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,LCA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,JOR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,AGO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,KGZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,SMR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,AGO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,GAB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,SSD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,SEAR,TLS,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,KIR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2008,AMR,BOL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,CHE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,ALB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,IRL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,NGA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,TTO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,MNE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,UZB,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,LAO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,VCT,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,SMR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,TUR,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,MYS,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,LSO,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,SSD,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,POL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,SVK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,KHM,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,CAN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,AFG,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,CAF,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,ETH,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,SWZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,TUN,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,BEL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,WPR,PLW,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2014,AFR,MWI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,TZA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,SLB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,COM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,ETH,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,NAM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,SWZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,MDG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,LBY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,TKM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,WSM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,BDI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,GMB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,PRY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,AFG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,SOM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,GRD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,FSM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,SLV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,HTI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,TJK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,SSD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AMR,ATG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,SAU,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,BRN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,COK,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,SLE,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,LBY,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,PNG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,GNB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EMR,KWT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,AND,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,LAO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,GNQ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,KIR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2008,AFR,NER,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,LUX,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,AMR,BLZ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EMR,IRQ,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,SEAR,THA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,POL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,SEAR,PRK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,EUR,TJK,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,WPR,NZL,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,DZA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,SLE,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,PER,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EMR,EGY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,BIH,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2010,EUR,EST,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AMR,URY,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2008,AFR,GHA,Not applicable,,,,Data not required/not applicable
-R_VAT_average,PUBLISHED,2012,AFR,COD,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,MLT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,CPV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,MNE,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,SEAR,TLS,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,GNQ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MUS,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,RWA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,TZA,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,BHS,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AFR,MOZ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,PNG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,WPR,VUT,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,SDN,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,ALB,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,SEAR,MDV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,CIV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,TGO,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,DJI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,TKM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,COG,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,SEAR,MDV,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,AMR,CRI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EMR,IRQ,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,EUR,ISR,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2012,WPR,FSM,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,AFR,ERI,Not available,,,,Data not reported/not available
-R_VAT_average,PUBLISHED,2014,EUR,ALB,Not available,,,,Data not reported/not available
+"GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value","Numeric","Low","High","Comments"
+"R_VAT_average","PUBLISHED","2012","WPR","JPN","4.80","4.80000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","TUN","4.90","4.90000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","SGP","6.50","6.50000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","AUS","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","KAZ","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","PHL","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","LKA","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","CRI","11.50","11.50000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","NPL","11.50","11.50000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","NZL","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","GHA","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","NZL","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","HND","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","WSM","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","TON","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","MEX","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","JAM","14.20","14.20000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","BIH","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","CHN","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ISR","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","GEO","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","TUR","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","MKD","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","MAR","15.80","15.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","MLI","16.20","16.20000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","SVN","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","BLR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","CZE","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","CZE","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","SVN","18.00","18.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","GRC","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ROU","19.40","19.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","FIN","19.40","19.40000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","SWE","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","HUN","21.30","21.30000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","FIN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","BRA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","HRV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","MEX","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","LVA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ESP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","GTM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","MAR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","AUT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","EMR","YEM","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","IRN","2.20","2.20000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","VEN","3.50","3.50000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","MYS","4.80","4.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","GMB","5.00","5.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","USA","5.20","5.20000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","CMR","6.70","6.70000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","VNM","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","PHL","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","ZAF","12.30","12.30000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","ZAF","12.30","12.30000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","FJI","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","COL","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","DOM","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","KNA","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","UGA","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","SEN","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","AZE","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","NLD","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","CHL","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","SVK","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","UZB","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","EST","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","IND","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","AUT","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","FRA","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","MDA","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","ITA","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","PRT","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","IRL","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","POL","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","POL","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","NOR","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","BRA","25.00","25.00000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","CIV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","LUX","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","TKM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","BEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","SOM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","FIN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","NZL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","NOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","CHE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","IND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","GRC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","IRL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","TLS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ITA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","SEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2012","EMR","ARE","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","ZMB","1.30","1.30000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","ZMB","1.30","1.30000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","THA","6.50","6.50000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","SGP","6.50","6.50000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","THA","6.50","6.50000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","TUN","6.80","6.80000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","JPN","7.40","7.40000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","ARM","7.70","7.70000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","KHM","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","KHM","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","KAZ","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","ZWE","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","DZA","13.20","13.20000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","PAK","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","CHN","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","BGD","15.00","15.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","LUX","15.00","15.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","SEN","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","ESP","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","AZE","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","BGR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","SRB","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","BLR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","GBR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","BEL","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","LTU","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","URY","18.00","18.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","IRL","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","PRT","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MDG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","MDA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GAB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","COL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","JPN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","COL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","BGR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","COG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","DOM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","NLD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","NOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","ZMB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","ARG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","CHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","ECU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","FRA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ISL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","CHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","EMR","OMN","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","SAU","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","CHE","7.40","7.40000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","ZWE","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","BOL","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","FJI","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","NIC","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","COL","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","KEN","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","PAK","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","GHA","14.90","14.90000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","YEM","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","RUS","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","CHL","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","UZB","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","CAN","8.80","8.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","CAN","8.80","8.80000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","LBN","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","MNG","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","GTM","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","HRV","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","HRV","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","SWE","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","BRA","25.00","25.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","BLZ","11.10","11.10000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","NPL","11.50","11.50000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","NGA","4.80","4.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","ETH","4.80","4.80000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","MYS","4.80","4.80000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","CMR","5.60","5.60000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","GBR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","AUT","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","FIN","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","DNK","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","MAR","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","BDI","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","DOM","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","SRB","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","GIN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","CYP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MDG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MOZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","RWA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","SLV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","GRC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ROU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","SVK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ESP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","ZMB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","BHS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","MNG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","PAK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","ARE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","BEL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","ATG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","DJI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","OMN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","MDA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","TUR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","EMR","ARE","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","MNG","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","EGY","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","EGY","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","BHS","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EMR","OMN","0.00","0.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","IRN","2.30","2.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","USA","5.20","5.20000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","ARG","5.50","5.50000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","RWA","5.60","5.60000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","UGA","9.00","9.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","COM","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","KOR","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","WPR","VNM","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","ECU","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","LKA","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2012","AFR","DZA","12.90","12.90000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","PAN","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","SLE","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","PAN","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","KEN","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","JAM","14.20","14.20000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","BIH","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","LUX","15.00","15.00000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","HND","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","PER","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","PER","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","CYP","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","DEU","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","FRA","16.40","16.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ARM","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","EST","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","UKR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","UKR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","SVK","16.80","16.80000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","LVA","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","NLD","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ESP","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ITA","18.00","18.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","HUN","21.30","21.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","NOR","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","ROU","19.40","19.40000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","BFA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MWI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","ARG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","LBY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","DNK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","FJI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","DOM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","NLD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","VNM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","EST","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","HUN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","CZE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","GBR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","IND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2012","AMR","ARG","5.30","5.30000","","",""
+"R_VAT_average","PUBLISHED","2014","AFR","LBR","6.50","6.50000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","CHE","7.40","7.40000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","IDN","8.40","8.40000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","IDN","8.40","8.40000","","",""
+"R_VAT_average","PUBLISHED","2014","EMR","LBN","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","KOR","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2012","WPR","AUS","9.10","9.10000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","GTM","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2014","AMR","ECU","10.70","10.70000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","BOL","13.00","13.00000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","MEX","13.80","13.80000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","CYP","14.50","14.50000","","",""
+"R_VAT_average","PUBLISHED","2012","SEAR","BGD","15.00","15.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","MKD","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","TUR","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","GEO","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","RUS","15.30","15.30000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","DEU","16.00","16.00000","","",""
+"R_VAT_average","PUBLISHED","2014","SEAR","IND","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","BGR","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","MDA","16.70","16.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","BEL","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","LVA","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","LTU","17.40","17.40000","","",""
+"R_VAT_average","PUBLISHED","2012","AMR","URY","18.00","18.00000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","GRC","18.70","18.70000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","DNK","20.00","20.00000","","",""
+"R_VAT_average","PUBLISHED","2014","EUR","ISL","20.30","20.30000","","",""
+"R_VAT_average","PUBLISHED","2012","EUR","ISL","20.30","20.30000","","",""
+"R_VAT_average","PUBLISHED","2010","AFR","BDI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","KEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","GNB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","BWA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MRT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","CRI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","MNG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","COD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","NAM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","LTU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","DEU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","ERI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","UGA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","SDN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","MDV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","BRA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","GUY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","PER","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","KAZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","MKD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","THA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","CZE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ITA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ROU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","UKR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","CHN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","VUT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","SYC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","BHR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ISR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","GTM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","ZAF","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","DEU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","PHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","LBN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","BTN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","PHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","TZA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","GRD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","MAR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","SYR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","AND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","TUV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","NIC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","AZE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","BLR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","LBR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","NIC","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","PAN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","AUT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","GBR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","COK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","COM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","PAN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","JOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","LVA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","PRT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","KEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","TKM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MLI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","BLZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","NER","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2008","EUR","FRA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","PRT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","BRN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","NIU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","TUN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","HUN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","SLB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","CIV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","KNA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","LCA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","SAU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","PNG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","SGP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","PRY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","URY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","KWT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","CMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GNQ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","JAM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","QAT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","ISL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","MLT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","LTU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","SRB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","SGP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","TCD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GIN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","DNK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","SWE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","AUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","WSM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","AFR","BEN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","LSO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","BHR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","CUB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","VCT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","SYR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","STP","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2008","WPR","TON","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","CPV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","GMB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","MUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","TGO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","DMA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","HTI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","UKR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","BGR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","KAZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","HND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","MEX","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ARM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","GEO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","AUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","NRU","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","SLV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","YEM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","BGD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","MMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","BEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","CUB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","IRN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","IDN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","AGO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","MLI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","STP","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","BRB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","CRI","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","SUR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","VEN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","LBN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","HRV","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","MCO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","AFR","COD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","NRU","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","NIC","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","SYC","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","BRB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","GUY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","MHL","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","GIN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","TTO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","MCO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","STP","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","KNA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","SUR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","TON","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","LBR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","SEAR","PRK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","COK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","NIU","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2008","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","SVN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","KOR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","RUS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","LKA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","BFA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","NPL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","MHL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","FSM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","ZWE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","SWE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","KIR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","HND","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","USA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","KGZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","AMR","VEN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","BWA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","CAF","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","SEAR","MMR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","BFA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","SEAR","BTN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","COG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","AND","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","QAT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","NER","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","PLW","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","MRT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","TUV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","TCD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","NGA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","DMA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","LCA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","JOR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","KGZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","SMR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","AGO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","GAB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2008","AMR","BOL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","CHE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","ALB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","IRL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","NGA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","TTO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","MNE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","UZB","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","LAO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","VCT","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","SMR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","TUR","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","MYS","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","LSO","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","SSD","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","POL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","SVK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","KHM","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","CAN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","AFG","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","CAF","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","ETH","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","SWZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","TUN","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","BEL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","WPR","PLW","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2014","AFR","MWI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","SLB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","COM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","ETH","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","NAM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","SWZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","MDG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","WSM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","BDI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","GMB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","PRY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","AFG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","SOM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","GRD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","SLV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","HTI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","TJK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","SSD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AMR","ATG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","SAU","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","BRN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","COK","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","SLE","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","LBY","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","GNB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EMR","KWT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","AND","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","LAO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","KIR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2008","AFR","NER","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","LUX","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","AMR","BLZ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EMR","IRQ","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","SEAR","THA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","POL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","SEAR","PRK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","EUR","TJK","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","WPR","NZL","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","DZA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","SLE","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","PER","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EMR","EGY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","BIH","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2010","EUR","EST","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AMR","URY","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2008","AFR","GHA","Not applicable","","","","Data not required/not applicable"
+"R_VAT_average","PUBLISHED","2012","AFR","COD","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","MLT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","CPV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","MNE","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","SEAR","TLS","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","GNQ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MUS","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","RWA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","TZA","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","BHS","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AFR","MOZ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","PNG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","WPR","VUT","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","SDN","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","ALB","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","CIV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","TGO","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","DJI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","TKM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","COG","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","SEAR","MDV","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","AMR","CRI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EMR","IRQ","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","EUR","ISR","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2012","WPR","FSM","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","AFR","ERI","Not available","","","","Data not reported/not available"
+"R_VAT_average","PUBLISHED","2014","EUR","ALB","Not available","","","","Data not reported/not available"
