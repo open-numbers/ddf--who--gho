@@ -15,16 +15,22 @@ source_dir = '../source/'
 out_dir = '../../'
 
 
-def extract_concepts():
+def load_indicator_list():
     print('reading indicators list from GHO api...')
     inds = 'http://apps.who.int/gho/athena/api/GHO/'
     xml = requests.get(inds)
     indi = xmltodict.parse(xml.content)
+    return indi
 
+
+def process_source_files():
+    """create datapoints from source files and return all concepts"""
     indi_list = []
     indi_desc_list = []
 
-    print('creating concept files...')
+    indi = load_indicator_list()
+
+    print('creating datapoint files...')
     # import ipdb; ipdb.set_trace()
     for i in indi['GHO']['Metadata']['Dimension']['Code']:
         path = os.path.join(source_dir, i['@Label']+'.csv')
@@ -33,24 +39,21 @@ def extract_concepts():
             try:
                 df = pd.read_csv(path)
             except FileNotFoundError:
-                print('not found: '+path)
+                print(f'{path} not found')
                 continue
             except pd.errors.EmptyDataError:
-                print('no data: '+path)
+                print(f'{path} has no data')
                 continue
+        result, reason = can_proceed(df)
+        if result is False:
+            print(f'{concept} skipped: {reason}')
+            continue
+        else:
+            create_datapoint(df, concept)
+            indi_list.append(concept)
+            indi_desc_list.append(i['Display'])
 
-            # TODO: for now I only keep indicators by country/year
-            # but later we should also consider other dimensions like
-            # age group or sex.
-            if (not df.empty
-                and (set(df.columns) ==
-                     set(["GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value",
-                          "Numeric","Low","High","Comments"]))):
-                indi_list.append(concept)
-                indi_desc_list.append(i['Display'])
-            else:
-                print('{}.csv: empty data or primary keys not "country,year"'.format(i['@Label']))
-
+    print('creating concept file...')
     conc = pd.DataFrame([], columns=['concept', 'concept_type', 'name'])
     conc['concept'] = indi_list
     conc['name'] = indi_desc_list
@@ -60,7 +63,45 @@ def extract_concepts():
                                     ['year', 'time', 'Year'],
                                     ['country', 'entity_domain', 'Country']], columns=conc.columns))
 
-    return conc
+    conc_path = os.path.join(out_dir, 'ddf--concepts.csv')
+    conc.sort_values(by='concept').to_csv(conc_path, index=False)
+
+
+def can_proceed(df):
+    # TODO: for now I only keep indicators by country/year
+    # but later we should also consider other dimensions like
+    # age group or sex.
+    if df.empty:
+        return (False, "empty dataframe")
+    if ("COUNTRY" not in df.columns) or ("YEAR" not in df.columns):
+        return (False, "no country/year column")
+    if df['Numeric'].isnull().all():
+        return (False, "no numeric data")
+    if (df.dropna(subset=['COUNTRY', 'YEAR'], how='any')
+        .duplicated(subset=['COUNTRY', 'YEAR']).any()):
+        return (False, "duplicated data found")
+    return (True, "")
+
+
+def create_datapoint(df, concept):
+    df.columns = list(map(to_concept_id, df.columns))
+    df = df[['country', 'year', 'numeric']]
+    df.columns = ['country', 'year', concept]
+    df = df.sort_values(by=['country', 'year']).dropna(how='any')
+    df['country'] = df['country'].map(to_concept_id)
+    df[concept] = df[concept].map(format_float_digits)
+
+    path = os.path.join(out_dir,
+                        'ddf--datapoints--{}--by--country--year.csv'.format(concept))
+    try:
+        df['year'] = df['year'].map(int)
+    except ValueError:
+        print(f'{concept}: can not convert the year column to int, '
+               'removing rows that are not int.')
+        df['year'] = df['year'].map(convert_year)
+        df = df.dropna(how='any')
+    if not df.empty:
+        df.to_csv(path, index=False)
 
 
 def extract_entities(dim):
@@ -87,52 +128,6 @@ def extract_entities(dim):
     return cdf
 
 
-def extract_datapoints(conc):
-    """conc: a list of all concepts"""
-    print('creating datapoints files...')
-
-    res = {}
-
-    for f in os.listdir(source_dir):
-        if '.csv' in f:
-            concept = to_concept_id(f[:-4])
-
-            if concept not in conc:
-                # print(f'{concept} was not found in the GHO indicator list. Skipping it.')
-                continue
-
-            df = pd.read_csv(os.path.join(source_dir, f))
-
-            # skip empty files
-            if df.empty:
-                # print(f'no data for {concept}')
-                continue
-
-            if (set(df.columns) !=
-                set(["GHO","PUBLISHSTATE","YEAR","REGION","COUNTRY","Display Value",
-                     "Numeric","Low","High","Comments"])):
-                # print(f'{concept}: dimensions for this indicator are not "country, year", skipping it.')
-                continue
-
-            df.columns = list(map(to_concept_id, df.columns))
-
-            if np.all(df['numeric'].isnull()) == True:
-                # df = df[['country', 'year', 'display_value']]
-                print(f'skipping {concept} because no numeric values')
-                continue
-            else:
-                df = df[['country', 'year', 'numeric']]
-
-            df.columns = ['country', 'year', concept]
-
-            df = df.sort_values(by=['country', 'year']).dropna(how='any')
-            df['country'] = df['country'].map(to_concept_id)
-            df[concept] = df[concept].map(format_float_digits)
-            res[concept] = df
-
-    return res
-
-
 def convert_year(s):
     try:
         s_ = int(s)
@@ -142,23 +137,9 @@ def convert_year(s):
 
 
 if __name__ == '__main__':
-    conc = extract_concepts()
+    process_source_files()
+
     ent = extract_entities('COUNTRY')  # TODO: more dimeisions
-    dps = extract_datapoints(conc['concept'].values)
-
-    conc.to_csv(os.path.join(out_dir, 'ddf--concepts.csv'), index=False)
     ent.to_csv(os.path.join(out_dir, 'ddf--entities--country.csv'), index=False)
-
-    for k, df in dps.items():
-        path = os.path.join(out_dir,
-                            'ddf--datapoints--{}--by--country--year.csv'.format(k))
-        try:
-            df['year'] = df['year'].map(int)
-        except ValueError:
-            print(f'{k}: can not convert the year column to int, removing rows that are not int.')
-            df['year'] = df['year'].map(convert_year)
-            df = df.dropna(how='any')
-        if not df.empty:
-            df.to_csv(path, index=False)
 
     print('Done.')
