@@ -1,37 +1,27 @@
 concept,concept_type,name
-air_1,measure,Ambient air pollution attributable deaths
-air_10,measure,Ambient air pollution  attributable DALYs per 100'000 children under 5 years
-air_12,measure,Household air pollution attributable deaths in children under 5 years
-air_13,measure,Household air pollution attributable deaths per 100'000 capita
-air_14,measure,Household air pollution  attributable deaths per 100'000 children under 5 years
-air_15,measure,Household air pollution attributable DALYs
-air_16,measure,Household air pollution attributable DALYs in children under 5 years
-air_17,measure,Household air pollution attributable DALYs (per 100 000 population)
-air_18,measure,Household air pollution  attributable DALYs per 100'000 children under 5 years
-air_2,measure,Ambient air pollution (Annual PM10 [ug/m3])
-air_2_1,measure,Ambient air pollution in urban areas (Annual PM<sub>10</sub> [&#956;g/m<sup>3</sup>])
-air_3,measure,Percentage of the total population living in cities > 100'000 inhabitants
-air_3_1,measure,Percent of urban inhabitants living in cities covered by PM measurements
-air_4,measure,Ambient air pollution attributable deaths in children under 5 years
-air_42,measure,"Ambient air pollution attributable deaths (per 100 000 population, age-standardized)"
 air_44,measure,DALYs attributable to ambient air pollution (age-standardized)
-air_5,measure,Ambient air pollution attributable deaths (per 100 000 population)
-air_50,measure,"Ambient air pollution attributable deaths (per 100 000 population, age-standardized)"
-air_6,measure,Ambient air pollution  attributable deaths per 100'000 children under 5 years
-air_7,measure,Ambient air pollution attributable DALYs ('000)
-air_8,measure,Ambient air pollution attributable DALYs  in children under 5 years
-air_9,measure,Ambient air pollution attributable DALYs  (per 100 000 population)
-air_90,measure,"Ambient air pollution attributable DALYs  (per 100 000 population, age-standardized)"
-anemianpw,measure,Prevalence of anaemia in non-pregnant women (%)
-anemiapw,measure,Prevalence of anaemia in pregnant women (%)
-anemiau5,measure,Prevalence of anaemia in children under 5 years (%)
-casecs,measure,Congenital syphilis number of reported cases
+amr_infect_ecoli,measure,Proportion of bloodstream infection due to Escherichia coli resistant to third-generation cephalosporins (%)
+amr_infect_mrsa,measure,Proportion of bloodstream infection due to methicillin-resistant Staphylococcus aureus (MRSA) (%)
+amrglass_survl01,measure,Number of national surveillance sites in each country providing data to GLASS: hospital category
+amrglass_survl02,measure,Number of National surveillance sites in each country providing data to GLASS: outpatient facility category
+amrglass_survl03,measure,Number of local clinical laboratories in each country performing AST to support national AMR surveillance sites
+amrglass_survl04,measure,Number of surveillance sites reporting to GLASS: In- and outpatient facilities
+amrglass_survl05,measure,Total number of surveillance sites reporting to GLASS
+anc_atleast1visit_percent,measure,Antenatal care coverage - at least one visit (percent)
+cc_1,measure,Climate change attributable deaths
+cc_2,measure,Climate change attributable DALYs ('000)
+cc_3,measure,Climate change attributable deaths per 100'000 capita
+cc_4,measure,Climate change attributable DALYs per 100'000 capita
+cc_5,measure,Climate change attributable deaths ('000) in children under 5 years
+cc_6,measure,Climate change  attributable deaths per 100'000 children under 5 years
+cc_7,measure,Climate change attributable DALYs ('000) in children under 5 years
+cc_8,measure,Climate change  attributable DALYs per 100'000 children under 5 years
+cco_1,measure,Poverty headcount ratio at $1.25 a day (PPP) (% of population)
 cco_2,measure,Human development index rank
 cco_3,measure,Gender inequality index rank
-childmort5to14,measure,Mortality rate for 5-14 year-olds (probability of dying per 1000 children aged 5-14 years)
-cm_01,measure,Number of under-five deaths (thousands)
-cm_02,measure,Number of infant deaths (thousands)
-cm_03,measure,Number of neonatal deaths (thousands)
+cholera_0000000001,measure,Number of reported cases of cholera
+cholera_0000000002,measure,Number of reported deaths from cholera
+cholera_0000000003,measure,Cholera case fatality rate
 country,entity_domain,Country
 devices00,measure,Total density per 100 000 population: Hospitals
 devices01,measure,Total density per 100 000 population: Health posts
@@ -68,132 +58,239 @@ e3_compliance,measure,Compliance of ban on advertising on local magazines and ne
 e5_compliance,measure,Compliance of ban on advertising on billboards and outdoor advertising
 e6_compliance,measure,Compliance of ban on advertising at point of sale
 e9_compliance,measure,Compliance of ban on free distribution of tobacco products in the mail or through other means
-e_group,measure,E Group
+e_compl_all_dir,measure,Overall compliance with bans on direct advertising (score)
+e_compl_e1,measure,Compliance with ban on advertising on national television and radio (score)
+e_compl_e10,measure,Compliance with ban on promotional discounts (score)
+e_compl_e11,measure,Compliance with ban on use of brand name of non-tobacco product for tobacco product (score)
+e_compl_e12,measure,Compliance with ban on indentifying non-tobacco products with tobacco brand names (score)
+e_compl_e13,measure,Compliance with ban on appearance of tobacco brands in TV and/or films (score)
+e_compl_e14,measure,Compliance with ban on appearance of tobacco products in TV and/or films (score)
+e_compl_e15,measure,Compliance with ban on sponsorship (contributions and/or publicity of contributions) (score)
+e_compl_e3,measure,Compliance with ban on advertising in local magazines and newspapers (score)
+e_compl_e5,measure,Compliance with ban on billboard and outdoor advertising (score)
+e_compl_e6,measure,Compliance with ban on advertising at point of sale (score)
+e_compl_e9,measure,Compliance with ban on free distribution in mail or through other means (score)
+e_compl_e_all_indir,measure,Overall compliance with bans on promotion and sponsorship (score)
 ec_direct_compliance,measure,Compliance with bans on direct advertising
 ec_indirect_compliance,measure,Compliance with bans on promotion and sponsorship
-eq_slum,measure,Proportion of urban residents living in a slum area
-eq_urbpop,measure,Population living in urban areas (%)
+familyplanningunpduhc,measure,"Women of reproductive age (15âˆ’49 years) who are married or in-union who have their need for family planning satisfied with modern methods (%), UNPD"
 finprotection_cata_estimate_available,measure,Availability of estimates on large  health expenditures as a share of total expenditure or income
-finprotection_cata_tot_10_pop,measure,Population with household expenditures on health greater than 10% of total household expenditure or income (SDG 3.8.2) (%)
-finprotection_cata_tot_25_pop,measure,Population with household expenditures on health greater than 25% of total household expenditure or income  ( SDG indicator 3.8.2) (%)
-finprotection_imp_np190_pop,measure,Population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
-finprotection_imp_np310_pop,measure,Population  pushed below the $3.10 a day  poverty line by household  health expenditures (%)
-finprotection_imp_pg_190,measure,"Increase in poverty gap  due to household  health expenditures at the $1.90 a day poverty line, in cents of international dollars"
-finprotection_imp_pg_190_std,measure,"Increase in poverty gap due to household  health expenditures, expressed as a proportion of the $1.90 a-day poverty line (%)"
-finprotection_imp_pg_310,measure,"Increase in poverty gap  due to household  health expenditures at the $3.10a day poverty line, in cents of international dollars"
-finprotection_imp_pg_310_std,measure,"Increase in poverty gap due to household  health expenditures, expressed as a proportion of the 3.10 a-day poverty line (%)"
+finprotection_cata_tot_10_level_million,measure,"Population with household spending on health greater than 10% of total household budget (SDG 3.8.2, estimated data) (millions)"
+finprotection_cata_tot_10_level_sh,measure,"Population with household spending on health greater than 10% of total household budget (SDG 3.8.2, estimated data) (%)"
+finprotection_cata_tot_25_level_million,measure,"Population with household spending on health greater than 25% of total household budget (SDG 3.8.2, estimated data) (millions)"
+finprotection_cata_tot_25_level_sh,measure,"Population with household spending on health greater than 25% of total household budget (SDG 3.8.2, estimated data) (%)"
+finprotection_imp_np_190_level_million,measure,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (millions)
+finprotection_imp_np_190_level_sh,measure,Total population  pushed below the $1.90 a day  poverty line by household  health expenditures (%)
+finprotection_imp_np_215_level_million,measure,"Total population pushed below the $2.15 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_np_215_level_sh,measure,"Total population pushed below the $2.15 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_np_310_level_million,measure,Total population pushed below the $3.20 a day poverty line by household health expenditures (millions)
+finprotection_imp_np_310_level_sh,measure,"Total population pushed below the $3.20 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_np_365_level_million,measure,"Total population pushed below the $3.65 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_np_365_level_sh,measure,"Total population pushed below the $3.65 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_np_rel_level_million,measure,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)"
+finprotection_imp_np_rel_level_sh,measure,"Total population pushed below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)"
+finprotection_imp_p190_level_million,measure,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_p190_level_sh,measure,"Total population pushed further below the $1.90 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_p310_level_million,measure,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_p310_level_sh,measure,"Total population pushed further below the $3.20 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_p_215_level_million,measure,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_p_215_level_sh,measure,"Total population pushed further below the $2.15 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_p_365_level_million,measure,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (millions, regional, global)"
+finprotection_imp_p_365_level_sh,measure,"Total population pushed further below the $3.65 a day poverty line by household health expenditures (%, regional, global)"
+finprotection_imp_prel_level_million,measure,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (millions, regional, global)"
+finprotection_imp_prel_level_sh,measure,"Total population pushed further below a relative poverty line by household health expenditures - 60% of median daily per capita consumption or income (%, regional, global)"
 finprotection_impov_estimate_available,measure,Availability of estimates on impoverishment due to out-of-pocket health expenditures
-gdo_q18x2x1_1,measure,"Total expenditure on dementia research (local currency, self-report)"
+gasprsazm,measure,Proportion of isolates with resistance to azithromycin reported to WHO-GASP
+gasprscfm,measure,Proportion of isolates with decreased susceptibility or resistance (DS/R) to cefixime reported to WHO-GASP
+gasprscip,measure,Proportion of isolates with resistance to ciprofloxacin reported to WHO-GASP
+gasprscro,measure,Proportion of isolates with decreased susceptibility or resistance (DS/R) to ceftriaxone reported to WHO-GASP
+gasprsesc,measure,Proportion of isolates with decreased susceptibility or resistance (DS/R) to extended-spectrum cephalosporins reported to WHO-GASP
+gasptiazm,measure,Number of isolates tested for azithromycin
+gaspticfm,measure,Number of isolates tested for cefixime
+gaspticip,measure,Number of isolates tested for ciprofloxacin
+gaspticro,measure,Number of isolates tested for ceftriaxone
+gasptiesc,measure,Number of isolates tested for extended-spectrum cephalosporins
 gdo_q20,measure,Total number of published dementia research output
 gdo_q35,measure,Estimated population-based prevalence of depression
-ghed_che_pc_ppp_sha2011,measure,Current health expenditure (CHE) per capita in PPP int$
+gdo_q9x1_3,measure,"Dementia-specific hospital beds (per 10,000 population)"
+gdo_q9x1_4,measure,"Geriatric-specific hospital beds (per 10,000 population)"
+gdo_q9x1_5,measure,"Total dementia hospital admissions (per 100,000)"
+gdo_q9x2_1,measure,"Density of residential long-term care facilities (per 100,000 population)"
+gdo_q9x2_2,measure,Residential long-term care beds (per 10 000 population)
+gdo_q9x2_3,measure,"Dementia-specific residential long-term care beds (per 10,000 population)"
+gdo_q9x3_1,measure,"Density of hospice centres (per 100,000 population)"
+gdo_q9x3_2,measure,Hospice centre beds (per 10 000 population)
+gdo_q9x3_3,measure,"Dementia-specific hospice care beds (per 10,000 population)"
+gdo_q9x4_1,measure,"Density of adult day centres (per 100,000 population)"
+gdo_q9x4_2,measure,"Adult day centre places (per 10,000 population)"
+gdo_q9x4_3,measure,"Dementia-specific adult day centre places (per 10,000 population)"
+gdo_q9x5_1,measure,"Density of outpatient health centres (per 100,000 population)"
+gdo_q9x6_1,measure,"Density of outpatient social centres (per 100,000 population)"
 ghed_che_pc_us_sha2011,measure,Current health expenditure (CHE) per capita in US$
 ghed_chegdp_sha2011,measure,Current health expenditure (CHE) as percentage of gross domestic product (GDP) (%)
-ghed_ext_pc_ppp_sha2011,measure,External health expenditure (EXT) per capita in PPP int$
 ghed_ext_pc_us_sha2011,measure,External health expenditure (EXT) per capita in US$
 ghed_extche_sha2011,measure,External health expenditure (EXT) as percentage of current health expenditure (CHE) (%)
-ghed_gghe_d_pc_ppp_sha2011,measure,Domestic general government health expenditure (GGHE-D) per capita in PPP int$
 ghed_gghe_d_pc_us_sha2011,measure,Domestic general government health expenditure (GGHE-D) per capita in US$
 ghed_gghe_dche_sha2011,measure,Domestic general government health expenditure (GGHE-D) as percentage of current health expenditure (CHE) (%)
 ghed_gghe_dgdp_sha2011,measure,Domestic general government health expenditure (GGHE-D) as percentage of gross domestic product (GDP) (%)
 ghed_gghe_dgge_sha2011,measure,Domestic general government health expenditure (GGHE-D) as percentage of general government expenditure (GGE) (%)
-ghed_oop_pc_ppp_sha2011,measure,Out-of-pocket expenditure (OOP) per capita in PPP int$
 ghed_oop_pc_us_sha2011,measure,Out-of-pocket expenditure (OOP) per capita in US$
 ghed_oopsche_sha2011,measure,Out-of-pocket expenditure as percentage of current health expenditure (CHE) (%)
-ghed_pvt_d_pc_ppp_sha2011,measure,Domestic private health expenditure (PVT-D) per capita in PPP int$
+ghed_phc_gghe_d_phc_sha2011,measure,Domestic general government expenditure on PHC as % of primary health care expenditure (PHCE) (%)
+ghed_phc_pc_us_sha2011,measure,Primary health care expenditure (PHCE) per сapita in US$
 ghed_pvt_d_pc_us_sha2011,measure,Domestic private health expenditure (PVT-D) per capita in US$
 ghed_pvt_dche_sha2011,measure,Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%)
+glassamc_tc,measure,Total use of antibacterials expressed as DDD per 1000 inhabitants per day
+hemoglobinlevel_children_mean,measure,Mean hemoglobin level of children aged 6-59 months
+hemoglobinlevel_nonpregnant_mean,measure,Mean hemoglobin level of non-pregnant women (aged 15-49 years)
+hemoglobinlevel_pregnant_mean,measure,Mean hemoglobin level of pregnant women (aged 15-49 years)
+hemoglobinlevel_reproductiveage_mean,measure,Mean hemoglobin level of women of reproductive age (aged 15-49 years)
+hepatitis_deaths_rate,measure,"Hepatitis, deaths caused by chronic hepatitis B and C (per 100 000 population)"
+hepatitis_hbv_addedtest_anc_percent,measure,Pregnant women attending antenatal care who received additional testing for HBV (percent)
+hepatitis_hbv_deaths_num,measure,Deaths caused by chronic hepatitis B (HBV) infection (number)
+hepatitis_hbv_diagnosed_num,measure,Chronic hepatitis B (HBV) infected persons diagnosed (number)
+hepatitis_hbv_diagnosis_perinfected_per100,measure,Chronic hepatitis B (HBV) diagnosis coverage as a percentage of infected (%)
+hepatitis_hbv_infections_new_num,measure,New chronic hepatitis B (HBV) infections (number)
+hepatitis_hbv_livingwith_num,measure,People living with chronic hepatitis B (HBV) (number)
+hepatitis_hbv_prevalence_per100,measure,Prevalence of chronic hepatitis B (HBV) in the general population (%)
+hepatitis_hbv_testing_anc_percent,measure,"Pregnant women attending antenatal care, tested for HBsAg (percent)"
+hepatitis_hbv_testpositive_anc_percent,measure,"Pregnant women attending antenatal care, tested positive for HBsAg (percent)"
+hepatitis_hbv_treatment_anc_percent,measure,Eligible women attending antenatal care who were treated for HBV
+hepatitis_hbv_treatment_num,measure,Persons on chronic hepatitis B (HBV) treatment (number)
+hepatitis_hbv_treatment_perdiagnosed_per100,measure,Chronic hepatitis B (HBV) treatment rate as percentage of diagnosed (%)
+hepatitis_hbv_treatment_perinfected_per100,measure,Chronic hepatitis B (HBV) treatment rate as percentage of total infected (%)
+hepatitis_hcv_deaths_num,measure,Deaths caused by chronic hepatitis C (HCV) infection (number)
+hepatitis_hcv_diagnosed_crd_num,measure,"Chronic hepatitis C (HCV) infected persons diagnosed, including cured (number)"
+hepatitis_hcv_diagnosed_num,measure,Chronic hepatitis C (HCV) infected persons diagnosed (number)
+hepatitis_hcv_diagnosis_perinfected_crd_per100,measure,"Chronic hepatitis C (HCV) diagnosis coverage as percentage of total HCV infected, including cured (%)"
+hepatitis_hcv_infections_new_num,measure,New chronic hepatitis C (HCV) infections (number)
+hepatitis_hcv_livingwith_crd_num,measure,People living with chronic hepatitis C (HCV) including cured (all ages) (adjusted number)
+hepatitis_hcv_livingwith_num,measure,People living with chronic hepatitis C (HCV) (number)
+hepatitis_hcv_prevalence_per100,measure,Prevalence of chronic hepatitis C (HCV) ) in the general population (%)
+hepatitis_hcv_testing_hiv_percent,measure,People living with HIV diagnosed with chronic hepatitis C infection (percent)
+hepatitis_hcv_testing_pwid_percent,measure,"People living with HIV who inject drugs, diagnosed with chronic hepatitis C infection (percent)"
+hepatitis_hcv_treatment_cum_num,measure,"Persons on chronic hepatitis C (HCV) treatment, cumulative (number)"
+hepatitis_hcv_treatment_cum_perinfected_crd_per100,measure,"Chronic hepatitis C (HCV) cumulative treatment rate as percentage of total infected, including cured  (%)"
+hepatitis_hcv_treatment_hiv_percent,measure,People living with HIV treated for chronic hepatitis C infection (percent)
+hepatitis_hcv_treatment_initiated_num,measure,Persons initiated chronic hepatitis C(HCV) treatment (number)
+hepatitis_hcv_treatment_perdiagnosed_per100,measure,Chronic hepatitis C (HCV) treatment rate as percentage of diagnosed (%)
+hepatitis_hcv_treatment_pwid_percent,measure,"People living with HIV who inject drugs, treated for chronic hepatitis C infection (percent)"
 hiv_0000000001,measure,Estimated number of people (all ages) living with HIV
-hiv_0000000006,measure,Number of deaths due to HIV/AIDS
+hiv_0000000006,measure,Number of people dying from HIV-related causes
 hiv_0000000007,measure,"Testing and counselling facilities, reported number"
 hiv_0000000008,measure,"Testing and counselling facilities, estimated number per 100 000 adult population"
 hiv_0000000009,measure,Reported number of people receiving antiretroviral therapy
 hiv_0000000011,measure,Reported number of children receiving antiretroviral therapy
 hiv_0000000012,measure,"Reported number of children receiving antiretroviral therapy, month and year of report"
-hiv_0000000015,measure,Number of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
-hiv_0000000017,measure,"Number of people aged 15 years and over who received HIV testing and counselling, reported number"
-hiv_0000000020,measure,Estimated percentage of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
-hiv_0000000021,measure,Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission based on WHO methods
+hiv_0000000016,measure,Number of pregnant women living with HIV who received antiretrovirals for preventing mother-to-child transmission
+hiv_0000000020,measure,Estimated number of pregnant women living with HIV
+hiv_0000000021,measure,Estimated number of pregnant women living with HIV needing antiretrovirals for preventing mother-to-child transmission
 hiv_0000000022,measure,Estimated number of people eligible for antiretroviral therapy according to 2010 guidelines
 hiv_0000000023,measure,Estimated number of children needing antiretroviral therapy based on WHO methods
 hiv_0000000024,measure,Estimated antiretroviral therapy coverage among children
+hiv_0000000026,measure,Number of new HIV infections
 hiv_artcoverage,measure,Estimated antiretroviral therapy coverage among people living with HIV (%)
-hrh_05,measure,Number of pharmaceutical technicians/assistants
-hrh_06,measure,Number of community health workers
-hrh_07,measure,Number of traditional birth attendants
-hrh_09,measure,Number of other health workers
-hrh_10,measure,Number of dental technicians/assistants
-hrh_11,measure,Number of health management & support workers
-hrh_12,measure,Number of environment and public health workers
-hrh_13,measure,Number of laboratory scientists
-hrh_14,measure,Number of laboratory technicians/assistants
-hrh_16,measure,Number of traditional medicine practitioners
-hrh_18,measure,Number of personal care workers
-hrh_19,measure,Number of pharmaceutical personnel
-hrh_20,measure,Number of laboratory health workers
-hrh_21,measure,Number of dentistry personnel
-hrh_22,measure,Number of community and traditional health workers
-hrh_23,measure,Number of other health workers
-hrh_25,measure,Pharmaceutical personnel density (per 1000 population)
-hrh_27,measure,Laboratory health workers density (per 1000 population)
-hrh_28,measure,Dentistry personnel density (per 1000 population)
-hrh_29,measure,Community and traditional health workers density (per 1000 population)
-hrh_30,measure,Other health workers density (per 1000 population)
-hrh_31,measure,Environmental and public health workers density (per 1000 population)
-hrh_32,measure,Health management & support workers density (per 1000 population)
-hrh_33,measure,Nursing and midwifery personnel density (per 1000 population)
+hiv_condomuse_percent,measure,Condom use at last high-risk sex (percent)
+hiv_nsp_coverage_rate,measure,NSP coverage among PWID per year (rate)
+hiv_oamt_coverage_percent,measure,Coverage of opioid agonist maintenance therapy (percent)
+hrh_40,measure,Biomedical engineers density (per 10 000 population)
 hrh_41,measure,Number of licensed qualified surgeons actively working
 hrh_42,measure,Number of licensed qualified obstetricians actively working
 hrh_43,measure,Number of licensed qualified anaesthesiologists actively working
+hrh_44,measure,Number of biomedical engineers
+hrh_45,measure,Biomedical technicians density (per 10 000 population)
+hrh_46,measure,Number of biomedical technicians
+hwf_0001,measure,"Medical doctors (per 10,000)"
+hwf_0002,measure,Medical doctors (number)
+hwf_0003,measure,Generalist medical practitioners (number)
+hwf_0004,measure,Specialist medical practitioners (number)
+hwf_0005,measure,Medical doctors not further defined (number)
+hwf_0006,measure,"Nursing and midwifery personnel (per 10,000)"
+hwf_0007,measure,Nursing and midwifery personnel  (number)
+hwf_0008,measure,Nursing personnel (number)
+hwf_0009,measure,Midwifery personnel (number)
+hwf_0010,measure,"Dentists (per 10,000)"
+hwf_0011,measure,Dentists (number)
+hwf_0012,measure,Dental Assistants and Therapists (number)
+hwf_0013,measure,Dental Prosthetic Technicians (number)
+hwf_0014,measure,"Pharmacists  (per 10,000)"
+hwf_0015,measure,Pharmacists  (number)
+hwf_0016,measure,Pharmaceutical Technicians and Assistants  (number)
+hwf_0017,measure,Environmental and Occupational Health and Hygiene Professionals  (number)
+hwf_0018,measure,Environmental and Occupational Health Inspectors and Associates  (number)
+hwf_0019,measure,Medical and Pathology Laboratory scientists  (number)
+hwf_0020,measure,Medical and Pathology Laboratory Technicians  (number)
+hwf_0021,measure,Physiotherapists (number)
+hwf_0022,measure,Physiotherapy Technicians and Assistants  (number)
+hwf_0023,measure,Traditional and Complementary Medicine Professionals  (number)
+hwf_0024,measure,Community Health Workers (number)
 hwws_1,measure,Handwashing with soap after using the toilet (%)
 hwws_2,measure,Handwashing with soap after cleaning child's stool (%)
-ihr01,measure,Legislation
-ihr02,measure,Coordination
-ihr03,measure,Surveillance
-ihr04,measure,Response
-ihr05,measure,Preparedness
-ihr06,measure,Risk communication
-ihr07,measure,Human resources
-ihr08,measure,Laboratory
-ihr09,measure,Points of entry
-ihr10,measure,Zoonosis
-ihr11,measure,Food safety
-ihr12,measure,Chemical
-ihr13,measure,Radionuclear
+icd11_impl_lvl,measure,ICD-11 implementation progress level
+ihrspar2_c01,measure,"Policy, Legal and normative Instruments to implement IHR"
+ihrspar2_c02,measure,"IHR Coordination, National IHR Focal Point functions and advocacy"
+ihrspar2_c03,measure,Financing
+ihrspar2_c04,measure,Laboratory
+ihrspar2_c05,measure,Surveillance
+ihrspar2_c06,measure,Human resources
+ihrspar2_c07,measure,Health emergency management
+ihrspar2_c08,measure,Health services provision
+ihrspar2_c09,measure,Infection prevention and control (IPC)
+ihrspar2_c10,measure,Risk communication and community engagement (RCCE)
+ihrspar2_c11,measure,Points of entry (PoEs) and border health
+ihrspar2_c12,measure,Zoonotic diseases
+ihrspar2_c13,measure,Food safety
+ihrspar2_c14,measure,Chemical events
+ihrspar2_c15,measure,Radiation emergencies
+immunization_vaccinationcardsseen,measure,Proportion of vaccination cards seen (%)
 ir_carbamate_extent,measure,Percentage of sites for which carbamate resistance was reported
+ir_insecticideresistance_prev,measure,Number of insecticide classes to which resistance was reported
+ir_organochlorine_extent,measure,Percentage of sites for which organochlorine resistance was reported
 ir_organophosphate_extent,measure,Percentage of sites for which organophosphate resistance was reported
 ir_pyrethroid_extent,measure,Percentage of sites for which pyrethroid resistance was reported
 itu_ict_1,measure,Percentage of individuals using the Internet
 itu_ict_2,measure,Mobile-cellular telephone subscriptions per 100 inhabitants
 itu_idi,measure,ICT Development Index (IDI)
 itu_idi_rank,measure,ICT Development Index (IDI) rank
-m_group,measure,Monitor
-malaria004,measure,Number of under-five deaths from malaria
-malaria005,measure,Malaria incidence per 100 000 population
-malaria_15040,measure,Number of mixed infections
-malaria_15136,measure,Number of households sprayed at least once
-malaria_15137,measure,Number of households targeted for spraying
-malaria_15150,measure,Number of ACT only treatment doses received (public facilities and community)
-malaria_15283,measure,Government health budget (USD)
-malaria_15284,measure,Government budget for malaria (USD)
-malaria_15287,measure,Contributions from the Global Fund (USD)
-malaria_15288,measure,Contributions from the Wolrdbank (USD)
-malaria_15309,measure,European Union (USD)
-malaria_15310,measure,Gov. expenditure on malaria (USD)
-malaria_20126,measure,Number of conventional insecticide-treated nets (ITNs) sold or delivered
-malaria_householditnirs,measure,Households with at least one insecticide-treated net (ITNs) or indoor residual spraying (IRS)(%)
+lbw_number,measure,Low birth weight number (in thousands)
+lbw_prevalence,measure,Low birth weight prevalence (%)
+lead_1,measure,Percentage of the children under 15 years with blood lead levels above 5ug/dl
+lead_10,measure,Lead attributable DALYs per 100'000 children under 5 years
+lead_2,measure,Percentage of the children under 15 years with blood lead levels above 10ug/dl
+lead_3,measure,Percentage of the adults (15+ years) with blood lead levels above 5ug/dl
+lead_4,measure,Percentage of the adults (15+ years) with blood lead levels above 10ug/dl
+lead_5,measure,Lead attributable deaths
+lead_6,measure,Lead attributable DALYs ('000)
+lead_7,measure,Lead attributable deaths per 100'000 capita
+lead_8,measure,Lead attributable DALYs per 100'000 capita
+lead_9,measure,Lead attributable DALYs ('000) in children under 5 years
+malaria_1stline_treated,measure,Number of malaria cases treated with any first  line tx courses (including artemisinin-based combination therapies (ACTs))
+malaria_act_treated,measure,Number of malaria cases treated with artemisinin-based combination therapies (ACTs)
+malaria_conf_cases,measure,Number of confirmed malaria cases
+malaria_est_cases,measure,Estimated number of malaria cases
+malaria_est_deaths,measure,Estimated number of malaria deaths
+malaria_est_incidence,measure,Estimated malaria incidence (per 1000 population at risk)
+malaria_est_mortality,measure,Estimated malaria mortality rate (per 100 000 population)
+malaria_imported,measure,Number of imported malaria cases
+malaria_indig,measure,Number of indigenous malaria cases
+malaria_iptp3_coverage,measure,Pregnant women attending antenatal care  at least once and receiving at least 3 doses of Intermittent Preventive Treatment of Malaria for Pregnant Women (IPTp3) (%)
+malaria_irs_coverage,measure,Number of people protected from malaria by indoor residual spraying (IRS)
+malaria_itn_coverage,measure,"Population with access to an insecticide-treated bed net (ITN) for malaria protection (%), modelled"
+malaria_micr_pos,measure,Number of malaria positive cases by microscopy
+malaria_micr_test,measure,Number of malaria suspects examined by microscopy
+malaria_nmcp_calculations,measure,Domestic Expenditure on Malaria
+malaria_pf_indig,measure,Number of indigenous P. falciparum malaria cases
+malaria_pres_cases,measure,Number of presumed malaria cases
+malaria_pv_indig,measure,Number of indigenous P. vivax malaria cases
+malaria_rdt_pos,measure,Number of malaria positive cases by rapid diagnostic test (RDT)
+malaria_rdt_test,measure,Number of malaria suspects examined by rapid diagnostic test (RDT)
+malaria_suspects,measure,Number of suspected malaria cases
+malaria_total_cases,measure,Total number of  malaria cases (presumed + confirmed cases)
 mcv2,measure,Measles-containing-vaccine second-dose (MCV2) immunization coverage by the nationally recommended age (%)
-mdg_0000000001,measure,Infant mortality rate (probability of dying between birth and age 1 per 1000 live births)
-mdg_0000000003,measure,Adolescent birth rate (per 1000 women aged 15-19 years)
-mdg_0000000005,measure,Contraceptive prevalence (%)
-mdg_0000000007,measure,Under-five mortality rate (probability of dying by age 5 per 1000 live births)
 mdg_0000000010,measure,Median availability of selected generic medicines (%) - Public
 mdg_0000000011,measure,Median consumer price ratio of selected generic medicines - Public
-mdg_0000000014,measure,Children aged <5 years with fever who received treatment with any antimalarial (%)
-mdg_0000000016,measure,Deaths due to malaria (per 100 000 population)
 mdg_0000000017,measure,Deaths due to tuberculosis among HIV-negative people (per 100 000 population)
 mdg_0000000020,measure,Incidence of tuberculosis (per 100 000 population per year)
-mdg_0000000023,measure,Prevalence of tuberculosis (per 100 000 population)
 mdg_0000000025,measure,Births attended by skilled health personnel (%)
 mdg_0000000026,measure,Maternal mortality ratio (per 100 000 live births)
 mdg_0000000029,measure,Prevalence of HIV among adults aged 15 to 49 (%)
@@ -202,52 +299,6 @@ mdg_0000000031,measure,Smear-positive tuberculosis treatment-success rate (%)
 mdg_0000000032,measure,Maternal mortality ratio (per 100 000 live births) - Country reported estimates
 mdg_0000000033,measure,Antiretroviral therapy coverage among people with HIV infection eligible for ART according to 2010 guidelines (%)
 mdg_0000000034,measure,"Antiretroviral therapy coverage among people with advanced HIV infection (%), WHO 2006 guidelines"
-meds201110200,measure,Total Pharmaceutical Expenditure (millions US$)
-meds201120200c,measure,Total Pharmaceutical Expenditure per capita (US$)rate)
-meds2011400c,measure,Share of Total Pharmaceutical Expenditure in Total Health Expenditure (%)
-meds2011600c,measure,Share of Public Pharmaceutical Expenditure in Total Pharmaceutical Expenditure (%)
-meds201170200c,measure,Public Pharmaceutical Expenditure per capita (US$)
-meds2012100s,measure,Market share of generic pharmaceuticals by value (%)
-meds2020200c,measure,Density of pharmacists (per 10 000 population)
-meds3010400,measure,Presence of National Medicines Policy
-meds3010700,measure,Presence of National Medicines Policy implementation plan
-meds3011000,measure,Right of access to essential medicines
-meds3011302,measure,For the pharmaceutical sector
-meds4020300,measure,Market share of domestic manufacturers (%)
-meds5010200,measure,Existence of formal Medicines Regulatory Authority
-meds5010700,measure,Website of the formal Medicines Regulatory Authority
-meds5020100,measure,Market Authorization for all pharmaceutical products required
-meds5020600,measure,Number of registered pharmaceutical products
-meds5021700s,measure,Registration Fee pharmaceutical containing New Chemical Entity
-meds5021800s,measure,Registration Fee generic pharmaceutical product
-meds5030200,measure,Inspectors are allowed to inspect premises where pharmaceutical activities are performed
-meds5050200,measure,Pharmaceutical manufacturers must comply with Good Manufacturing Practices
-meds5050900,measure,Licensing private pharmacies obligatory
-meds5060200,measure,National Quality Control Laboratory exists
-meds5070300,measure,Ban on Direct to Consumer Pharmaceutical Advertising
-meds5080100,measure,Legal provisions exist requiring authorization for conducting Clinical Trials by the MRA
-meds5090300,measure,Annual consumption of Morphine (mg/capita)
-meds5100400,measure,National pharmacovigilance centre linked to the MRA exists
-meds5100800,measure,Number of reports submitted in the last two year by the pharmacovigilance centre
-meds6010102,measure,Children <5 years receive free medicines
-meds6010103,measure,Pregnant women receive free medicines
-meds6010201,measure,All medicines included in the EML
-meds6010300,measure,Social (health) fund is providing at least partial medicine coverage
-meds6030100,measure,System in place to monitor prices of medicines
-meds6060100,measure,Duties on imported active pharmaceutical ingredients
-meds6060200,measure,Duties on imported finished pharmaceutical products
-meds6060300,measure,Value Added Tax is levied on finished pharmaceuticals products
-meds7010400,measure,Public sector tender awards are publicly available
-meds7020900s,measure,Availability of key medicines at the Central Medical Store in percentage (%)
-meds8010100,measure,National Essential Medicine List exists
-meds8010200,measure,Standard Treatment Guidelines for common illnesses are made by Ministry of Health
-meds8010500,measure,National Standard Treatment Guidelines specific to paediatric conditions exist
-meds8010800,measure,National Medicines Information Center provides information on medicines
-meds8011200,measure,Existence of National strategy to contain antimicrobial resistance
-meds8021201,measure,Public sector
-meds8021202,measure,Private sector
-meds8030400,measure,Substitution of generic equivalents at the point of dispensing in public sector facilities is allowed
-meds8030500,measure,Substitution of generic equivalents at the point of dispensing in private sector facilities is allowed
 mening_1,measure,Number of suspected meningitis deaths reported
 mening_2,measure,Number of suspected meningitis cases reported
 mening_3,measure,Number of meningitis epidemic districts
@@ -259,6 +310,9 @@ mh_15,measure,"Beds in community residential facilities (per 100,000)"
 mh_16,measure,"Beds in mental hospitals (per 100,000)"
 mh_17,measure,"Mental hospitals (per 100,000)"
 mh_18,measure,"Mental health units in general hospitals (per 100,000)"
+mh_19,measure,"Mental hospital admissions (per 100,000)"
+mh_20,measure,"Outpatient visits (per 100,000)"
+mh_24,measure,"Mental health units in general hospitals admissions (per 100,000)"
 mh_4,measure,Government expenditures on mental health as a percentage of total government expenditures on health (%)
 mh_5,measure,Government expenditures on mental hospitals as a percentage of total government expenditures on mental health (%)
 mh_6,measure,"Psychiatrists working in mental health sector (per 100,000)"
@@ -266,10 +320,11 @@ mh_7,measure,"Nurses working in mental health sector (per 100,000)"
 mh_8,measure,"Social workers working in mental health sector (per 100,000)"
 mh_9,measure,"Psychologists working in mental health sector (per 100,000)"
 mort_maternalnum,measure,Number of maternal deaths
-mortado,measure,Adolescent mortality rate (per 100 000 population)
+msm_condomuse_percent,measure,Men who have sex with men: Condom use (percent)
+msm_pse_num,measure,Men who have sex with men: Population size estimate (number)
+msm_syphilisprev_percent,measure,Men who have sex with men: Syphilis prevalence (percent)
 name,string,Name
 nhabasis,measure,Basis for NHA estimate
-ntcp_budget_year,measure,Budget year
 ntcp_fte,measure,Number of full-time equivalent staff in national agency
 ntcp_govt_exp,measure,Annual budget for tobacco control in currency reported
 ntd_1,measure,Number of new reported cases of Buruli ulcer
@@ -277,24 +332,70 @@ ntd_4,measure,Number of new reported cases of human African trypanosomiasis (T.b
 ntd_5,measure,Number of new reported cases of human African trypanosomiasis (T.b. rhodesiense)
 ntd_7,measure,"Population in areas that warrant treatment with antibiotics, facial cleanliness and environmental improvement for elimination of trachoma as a public health problem"
 ntd_8,measure,Number of people who received treatment with antibiotics for trachoma
+ntd_bu_conf,measure,Number of confirmed cases of Buruli ulcer reported
+ntd_bu_susp,measure,Number of suspected cases of Buruli ulcer reported
 ntd_leishcnum,measure,Number of cases of cutaneous leishmaniasis reported
 ntd_leishcnum_im,measure,Number of imported cases of cutaneous leishmaniasis reported
+ntd_leishvnum,measure,Number of cases of visceral leishmaniasis reported
 ntd_leishvnum_im,measure,Number of imported cases of visceral leishmaniasis reported
+ntd_lepr11,measure,Number of female leprosy new cases
+ntd_lepr13,measure,New leprosy child case detection rate (less than 15 years of age) per 1 000 000 child population
+ntd_lepr2,measure,New leprosy case detection rate per 1 000 000 population
+ntd_lepr3,measure,Leprosy - Number of cases registered for treatment
+ntd_lepr4,measure,Leprosy registered prevalence rate per 1 000 000 population
+ntd_lepr5,measure,Number of new G2D leprosy cases
+ntd_lepr7,measure,Leprosy - New leprosy cases with G2D rate per 1 000 000 population
+ntd_lepr8,measure,Leprosy - Number of new leprosy cases among children (less than 15 years of age)
+ntd_lepr9,measure,Number of new leprosy cases with G2D among children (less than 15 years of age)
 ntd_onchemo,measure,Estimated number of individuals in the country requiring preventive chemotherapy for onchocerciasis
 ntd_onctreat,measure,Reported number of individuals treated for onchocerciasis
 ntd_rab2,measure,Reported number of human rabies deaths
 ntd_tra5,measure,Number of people operated for trachomatous trichiasis
+ntd_tsol3,measure,Number of pigs in the country
 ntd_yawsnum,measure,Number of cases of yaws reported
+ntd_yawsnum_conf,measure,Number of confirmed yaws cases reported
+ntd_yawsnum_susp,measure,Number of suspected yaws cases reported
+nut_bf_ebf_numth,measure,Exclusive breastfeeding under six months (in thousands)
 nutrition_2005,measure,Proportion of children aged 6-23 months who receive a minimum acceptable diet
 nutrition_570,measure,Early initiation of breastfeeding (%)
-nutrition_ha_2,measure,Children aged <5 years stunted <br> (% height-for-age <-2 SD)
-nutrition_wa_2,measure,Children aged <5 years underweight <br> (% weight-for-age <-2 SD) (%)
-nutrition_wh2,measure,Children aged <5 years overweight <br> (% weight-for-height >+2 SD)
-o_group,measure,Offer help to quit tobacco use
+occ_1,measure,Occupational risk factors attributable deaths
+occ_10,measure,Occupational carcinogens attributable DALYs ('000)
+occ_11,measure,Occupational carcinogens attributable deaths per 100'000 capita
+occ_12,measure,Occupational carcinogens attributable DALYs per 100'000 capita
+occ_13,measure,Occupational noise attributable DALYs ('000)
+occ_14,measure,Occupational noise attributable DALYs per 100'000 capita
+occ_15,measure,Occupational ergonomic stressors attributable deaths
+occ_16,measure,Occupational ergonomic stressors attributable DALYs ('000)
+occ_17,measure,Occupational ergonomic stressors attributable deaths per 100'000 capita
+occ_18,measure,Occupational ergonomic stressors attributable DALYs per 100'000 capita
+occ_19,measure,Occupational injuries attributable deaths
+occ_2,measure,Occupational risk factors attributable DALYs ('000)
+occ_20,measure,Occupational injuries attributable DALYs ('000)
+occ_21,measure,Occupational injuries attributable deaths per 100'000 capita
+occ_22,measure,Occupational injuries attributable DALYs per 100'000 capita
+occ_3,measure,Occupational risk factors attributable deaths per 100'000 capita
+occ_4,measure,Occupational risk factors attributable DALYs per 100'000 capita
+occ_5,measure,Occupational airborne particulates attributable deaths
+occ_6,measure,Occupational airborne particulates attributable DALYs ('000)
+occ_7,measure,Occupational airborne particulates attributable deaths per 100'000 capita
+occ_8,measure,Occupational airborne particulates attributable DALYs per 100'000 capita
+occ_9,measure,Occupational carcinogens attributable deaths
 oda_1,measure,"Donor commitments (Million, constant 2009 US$)"
 oda_2,measure,"Commitments to recipient countries (Million, constant 2009 US$)"
 oda_3,measure,"Donor disbursements (Million, constant 2009 US$)"
 oda_4,measure,"Disbursements to recipient countries (Million, constant 2009 US$)"
+oralhealth_denominator_cheppp,measure,Per capita current health expenditure in PPP (oral health)
+oralhealth_denominator_ttlpop,measure,Total population in thousands (oral health)
+oralhealth_dentalhealthcare_exp_percap,measure,Per capita expenditure on dental healthcare (US$)
+oralhealth_dentalhealthcare_exp_total,measure,Total expenditure on dental healthcare in million (US$)
+oralhealth_edentulism_prevalence,measure,Prevalence of edentulism in people 20+ years (%)
+oralhealth_fluoridetoothphaste_labourdays,measure,Number of labour days needed to buy annual supply of fluoride toothpaste per person
+oralhealth_hwf_dentalprosthetictech_10k,measure,Dental prosthetic technicians (per 10 000 population)
+oralhealth_prodloss_oraldiseases,measure,Total productivity losses due to 5 oral diseases in million (US$)
+oralhealth_severeperiodontaldisease,measure,Prevalence of severe periodontal disease in people 15+ year (%)
+oralhealth_uhc_govscheme,measure,Oral health interventions as part of health benefit packages: Coverage of the largest government health financing scheme (%)
+oralhealth_untreatedcariesdeciduous,measure,Prevalence of untreated caries of deciduous teeth in children 1-9 years (%)
+oralhealth_untreatedcariespermanent,measure,Prevalence of untreated caries of permanent teeth in people 5+ years (%)
 p1_compliance,measure,Compliance of ban on smoking in HEALTH-CARE FACILITIES
 p2_compliance,measure,Compliance of ban on smoking in EDUCATIONAL FACILITIES EXCEPT UNIVERSITIES
 p3_compliance,measure,Compliance of ban on smoking in UNIVERSITIES
@@ -303,28 +404,68 @@ p5_compliance,measure,Compliance of ban on smoking in INDOOR OFFICES
 p6_compliance,measure,Compliance of ban on smoking in RESTAURANTS
 p7_compliance,measure,Compliance of ban on smoking in PUBS AND BARS
 p8_compliance,measure,Compliance of ban on smoking in PUBLIC TRANSPORT
+p_compl_all_sfe,measure,Overall compliance with regulations on smoke-free environments (score)
+p_compl_p1,measure,Compliance with smoke-free health-care facilities law (score)
+p_compl_p2,measure,Compliance with smoke-free education facilities except universities law (score)
+p_compl_p3,measure,Compliance with smoke-free universities law (score)
+p_compl_p4,measure,Compliance with smoke-free government facilities law (score)
+p_compl_p5,measure,Compliance with smoke-free indoor offices law (score)
+p_compl_p6,measure,Compliance with smoke-free restaurants law (score)
+p_compl_p7,measure,Compliance with smoke-free pubs and bars law (score)
+p_compl_p8,measure,Compliance with smoke-free public transport law (score)
 p_count_places_sf,measure,National smoking ban: NUMBER OF PLACES SMOKE-FREE
-p_group,measure,P_Group
 pc_sfe_compliance,measure,Compliance with regulations on smoke-free environments (national legislation)
 pcv3,measure,Pneumoccocal conjugate vaccines (PCV3) immunization coverage among 1-year-olds (%)
-perctestedanc,measure,Women accessing antenatal care (ANC) services who were tested for syphilis (%)
-perctreatedanc,measure,Antenatal care attendees positive for syphilis who received treatment (%)
+pretermbirth_number,measure,Preterm birth (number)
+pretermbirth_rate,measure,Preterm birth rate (per 100 live births)
+prison_a1_capacity,measure,Official prison capacity (count)
+prison_a2_prisioners_n,measure,Number of prisoners
+prison_a2_prisioners_per100kpop,measure,Number of prisoners (per 100 000 inhabitants)
+prison_a4_newprisoners_per100kpop,measure,Number of people newly-admitted to prison (per 100 000 inhabitants)
+prison_b9_1_dentists_ratio,measure,Dentists in prisons (FTEs per 1000 prisoners)
+prison_b9_1_nurses_ratio,measure,Nurses in prisons (FTEs per 1000 prisoners)
+prison_b9_1_phychiatrists_ratio,measure,Psychiatrists in prisons (FTEs per 1000 prisoners)
+prison_b9_1_physicians_ratio,measure,Physicians in prisons (FTEs per 1000 prisoners)
+prison_b9_staff_ratio,measure,Healthcare staff in prisons (FTEs per 1000 prisoners)
+prison_d3_deaths_covid_mrate,measure,In-prison COVID-19 mortality rate (per 100 000 incarcerated persons per year)
+prison_d3_deaths_drug_mrate,measure,In-prison drug overdose mortality rate (per 100 000 incarcerated persons per year)
+prison_d3_deaths_suicide_mrate,measure,In-prison suicide mortality rate (per 100 000 incarcerated persons per year)
+prison_d3_deaths_tot,measure,In-prison total deaths
+prison_d4_cancer_diag_tot,measure,In-prison cancer diagnosis (number of diagnoses)
+prison_d4_cardiovasc_diag_tot,measure,In-prison cardiovascular disease diagnosis (number of diagnoses)
+prison_d4_covid_tot,measure,In-prison COVID-19 diagnosis (number of diagnoses)
+prison_d4_diabetes_diag_tot,measure,In-prison diabetes mellitus diagnosis (number of diagnoses)
+prison_d4_hepb_diag_tot,measure,In-prison Hepatitis B diagnosis (number of diagnoses)
+prison_d4_hepc_diag_tot,measure,In-prison Hepatitis C diagnosis (number of diagnoses)
+prison_d4_hiv_diag_tot,measure,In-prison HIV diagnosis (number of diagnoses)
+prison_d4_mdrtb_diag_tot,measure,In-prison MDR-TB diagnosis (number of diagnoses)
+prison_d4_mh_diag_tot,measure,In-prison mental disorder diagnosis (number of diagnoses)
+prison_d4_sti_diag_tot,measure,In-prison STIs diagnosis (number of diagnoses)
+prison_d4_sud_diag_tot,measure,In-prison active drug use diagnosis (number of diagnoses)
+prison_d4_tb_diag_tot,measure,In-prison TB diagnosis (number of diagnoses)
+prison_f1_alcohol_tot,measure,"In-prison people who drink/drank alcohol (number of prisoners, in the last 12 months)"
+prison_f1_bmi25_tot,measure,In-prison people who have BMI >= 25 (number of prisoners who are overweight)
+prison_f1_bmi30_tot,measure,In-prison people who have BMI >= 30 (number of prisoners who are obese)
+prison_f1_drugusers_tot,measure,"In-prison people who use/have used drugs (number of prisoners, in the last 12 months)"
+prison_f1_exercise_tot,measure,In-prison people who regularly exercise for a minimum of 150 minutes/week (number of prisoners)
+prison_f1_injectdrugusers_tot,measure,"In-prison people who inject/have injected drugs (number of prisoners, over the last 12 months)"
+prison_f1_tobacco_tot,measure,In-prison people who currently use tobacco  (number of prisoners)
+pwid_pse_num,measure,People who inject drugs: Population size estimates (number)
 r_ad_val_average,measure,Average - taxes as a % of cigarette price - ad valorem excise
 r_ad_val_estimate,measure,Most sold brand of cigarettes - taxes as a % of price - ad valorem excise
-r_group,measure,Raise taxes on tobacco
+r_afford_gdp,measure,Affordability - percentage of GDP per capita required to purchase 2000 cigarettes of the most sold brand
+r_afford_price_dispersion,measure,Tobacco tax structure: Price dispersion: Share of cheapest brand price in premium brand price (%) (the higher the % the smaller the gap)
 r_imp_duty_average,measure,Average - taxes as a % of cigarette price - import duties
 r_imp_duty_estimate,measure,Most sold brand of cigarettes - taxes as a % of price - import duties
 r_other_average,measure,Average - taxes as a % of cigarette price - other taxes
 r_other_estimate,measure,Most sold brand of cigarettes - taxes as a % of price - other taxes
-r_price_average_curr,measure,Average -  cigarette price in currency
-r_price_average_ppp,measure,Average -  cigarette price in international dollars
-r_price_average_usd,measure,Average -  cigarette price in US$ at official exchange rates
-r_price_lowest_estimate,measure,Cheapest brand of cigarettes - price in currency reported
-r_price_lowest_ppp,measure,Cheapest brand of cigarettes - price in international dollars
-r_price_lowest_usd,measure,Cheapest brand of cigarettes - price in US$ at official exchange rates
+r_price_lowest_cost_estimate,measure,Cheapest brand of cigarettes - price in currency reported
+r_price_lowest_cost_ppp,measure,Cheapest brand of cigarettes - price in PPP$
+r_price_lowest_cost_usd,measure,Cheapest brand of cigarettes - price in US$ at official exchange rates
 r_price_mp_estimate,measure,Most sold brand of cigarettes - price in currency reported
-r_price_mp_ppp,measure,Most sold brand of cigarettes - price in international dollars
-r_price_mp_usd,measure,Most sold brand of cigarettes - price in US$ at official exchange rates
+r_price_mp_estimate_ppp,measure,Most sold brand of cigarettes - price in PPP$
+r_price_mp_estimate_usd,measure,Most sold brand of cigarettes - price in US$ at official exchange rates
+r_price_premium_estimate,measure,Premium brand of cigarettes - price in currency reported
 r_price_premium_ppp,measure,Premium brand of cigarettes - price in international dollars
 r_price_premium_usd,measure,Premium brand of cigarettes - price in US$ at official exchange rates
 r_sp_excise_average,measure,Average - taxes as a % of cigarette price - specific excise
@@ -333,23 +474,43 @@ r_total_tax_average,measure,Average - taxes as a % of cigarette price - total ta
 r_total_tax_estimate,measure,Most sold brand of cigarettes - taxes as a % of price - total tax
 r_vat_average,measure,Average - taxes as a % of cigarette price - value added tax
 r_vat_estimate,measure,Most sold brand of cigarettes - taxes as a % of price - value added tax
-ratecs,measure,Congenital syphilis rate per 100 000 live births
+radon_q501_1,measure,Reference level for dwellings (Bq/m3)
+radon_q502_1,measure,Reference level for buildings with high public occupancy (Bq/m3)
+radon_q503_1,measure,Reference level for workplaces (Bq/m3)
+rev_excise,measure,Annual tax revenues - total excise (specific and ad valorem)
+rev_govt_total,measure,Annual tax revenues - total revenues
+rev_imp_other,measure,Annual tax revenues - import duties and all other taxes (excluding corporate taxes on tobacco companies)
+rev_import,measure,Tobacco tax revenues - import duties
+rev_other,measure,Tobacco tax revenues - other
+rev_vat,measure,Annual tax revenues - value added tax (vat) and other sales taxes
 rotac,measure,Rotavirus vaccines completed dose (RotaC) immunization coverage among 1-year-olds (%)
 rs_1845,measure,Population
-rs_194,measure,Number of registered vehicles
 rs_196,measure,Estimated number of road traffic deaths
 rs_198,measure,Estimated road traffic death rate (per 100 000 population)
-rs_208,measure,Attribution of road traffic deaths to alcohol (%)
 rs_576,measure,Gross national income per capita (Atlas method)
 rsud_44,measure,"Treatment slots for alcohol and drug use disorders, outpatient, per 10 000"
+sa_0000001401,measure,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average"
+sa_0000001401_archived,measure,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average"
+sa_0000001405,measure,"Alcohol, tourist consumption (in litres of pure alcohol)"
+sa_0000001405_archived,measure,"Alcohol, tourist consumption (in litres of pure alcohol)"
+sa_0000001406,measure,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)"
+sa_0000001406_archived,measure,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol)"
 sa_0000001463,measure,"Alcoholic psychosis, incidence, per 100,000"
+sa_0000001463_archived,measure,"Alcoholic psychosis, incidence, per 100,000"
+sa_0000001464_archived,measure,"Cautions and arrests for drink-driving, per 100,000 population"
 sa_0000001465,measure,"Hospital discharges, alcohol-related injuries and poisoning, per 100,000"
 sa_0000001466,measure,"Hospital discharges, alcoholic liver disease, per 100,000"
 sa_0000001468,measure,"Treatment admissions (inpatient), alcohol dependence, per 100,000"
 sa_0000001469,measure,"Treatment admissions (inpatient), alcoholic psychosis, per 100,000"
+sa_0000001470,measure,"Alcohol-related road traffic crashes, per 100,000 population"
+sa_0000001471_archived,measure,Alcohol-related road traffic crashes (% of all traffic crashes)
+sa_0000001474,measure,Alcoholic excise tax revenue as a per cent of government revenue
+sa_0000001475,measure,Annual revenues from alcohol excise tax in millions US$
 sa_0000001476,measure,Alcohol expenditure as a per cent of total household expenditure
+sa_0000001476_archived,measure,Alcohol expenditure as a per cent of total household expenditure
 sa_0000001519,measure,Minimum legal drinking age
 sa_0000001650,measure,"Standard drink measures, in grams per unit"
+sa_0000001650_archived,measure,"Standard drink measures, in grams per unit"
 sa_0000001676,measure,Production in 1000s hectolitres
 sa_0000001677,measure,Imports in 1000s hectolitres
 sa_0000001678,measure,Sales of beer in 1000s hectolitres
@@ -358,35 +519,63 @@ sa_0000001684,measure,Sales of wine in 1000s hectolitres
 sa_0000001685,measure,Sales of spirits in 1000s hectolitres
 sa_0000001686,measure,Exports of wine (grape) in 1000s hectolitres
 sa_0000001687,measure,Exports of spirits in 1000s hectolitres
-sa_0000001688,measure,Total (recorded+unrecorded) alcohol per capita (15+) consumption
-sa_0000001695,measure,"Cautions and arrests for public drunkenness, per 100,000 population"
+sa_0000001688_archived,measure,Total (recorded+unrecorded) alcohol per capita (15+) consumption
+sa_0000001695_archived,measure,"Cautions and arrests for public drunkenness, per 100,000 population"
 sa_0000001696,measure,Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities)
+sa_0000001696_archived,measure,Alcohol-related road traffic crashes with fatalities (% of all road traffic crashes with fatalities)
 sa_0000001707,measure,Persons with alcohol use disorders receiving treatment (%)
 sa_0000001711,measure,"Public funds designated for alcohol research/monitoring programmes, in Euros"
-sa_0000001740,measure,Alcohol-attributable Years of Life Lost (YLL) score
+sa_0000001744_archived,measure,"Alcohol, regional prevalence of alcohol dependence (%)"
+sa_0000001745,measure,"Alcohol, regional prevalence of alcohol use disorders (%)"
+sa_0000001745_archived,measure,"Alcohol, regional prevalence of alcohol use disorders (%)"
 sa_0000001746,measure,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025"
+sa_0000001746_archived,measure,"Alcohol, total  (recorded + unrecorded) per capita (15+) consumption with 95%CI, projections to 2025"
+sa_0000001747,measure,"Alcohol, recorded per capita (15+) consumption (in litres of pure alcohol), three-year average"
+sa_0000001748,measure,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI"
+sa_0000001748_archived,measure,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol) with 95%CI"
+sa_0000001752,measure,"Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016"
+sa_0000001752_archived,measure,"Alcohol, total (recorded + unrecorded) per capita (15+) consumption, projected estimates for 2016"
 sa_0000001788,measure,"Alcohol-related road traffic crashes with fatalities, per 100,000  population"
-sa_0000001789,measure,Alcohol-related crimes (% of all crimes)
-sdgairbod,measure,Mortality rate attributed to household and ambient air pollution (per 100 000 population)
-sdgairboda,measure,Age-standardized mortality rate attributed to household and ambient air pollution (per 100 000 population)
+sa_0000001788_archived,measure,"Alcohol-related road traffic crashes with fatalities, per 100,000  population"
+sa_0000001789_archived,measure,Alcohol-related crimes (% of all crimes)
+sa_0000001821,measure,"Alcohol, unrecorded per capita (15+) consumption (in litres of pure alcohol), three-year average"
+sa_0000001823,measure,"Alcohol, tourist consumption (in litres of pure alcohol), three-year average"
+sa_0000001829,measure,Average price 500 mls Beer in US$
+sa_0000001830,measure,Average price 750 mls Wine in US$
+sa_0000001831,measure,Average price 500 mls Spirits in US$
 sdgcodcompleteness,measure,Completeness of cause-of-death data (%)
 sdgconflict,measure,Estimated direct deaths from major conflicts (per 100 000 population)
 sdgdisaster,measure,Average death rate due to natural disasters (per 100 000 population)
-sdgfp,measure,Married or in-union women of reproductive age who have their need for family planning satisfied with modern methods (%)
-sdghephbsagprv,measure,Hepatitis B surface antigen (HBsAg) prevalence among children under 5 years (%)
-sdghiv,measure,New HIV infections (per 1000 uninfected population)
+sdghealthfacilitiesessentialmeds,measure,Proportion of health facilities with a core set of relevant essential medicines available and affordable on a sustainable basis
 sdgihr,measure,Average of 13 International Health Regulations core capacity scores
-sdgmalaria,measure,Malaria incidence (per 1 000 population at risk)
+sdgihr2018,measure,"Average of 13 International Health Regulations core capacity scores, SPAR version, 1st edition"
+sdgihr2021,measure,"Average of 15 International Health Regulations core capacity scores, SPAR version, 2nd edition"
+sdgipv12m,measure,Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current or former intimate partner in the previous 12 months
+sdgipvlt,measure,Proportion of ever-partnered women and girls aged 15–49 years subjected to physical and/or sexual violence by a current or former intimate partner in their lifetime
 sdgntdtreatment,measure,Reported number of people requiring interventions against NTDs
 sdgoda,measure,"Total net official development assistance to medical research and basic health sectors per capita (constant 2014 US$), by recipient"
 sdgoda01,measure,"Total net official development assistance to medical research and basic health sectors per capita (US$), by recipient country"
-sdgpollutingfuels,measure,Proportion of population with primary reliance on clean fuels and technologies (%)
+sdgodaws,measure,Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan (constant 2023 US$ millions)
 sdgshp,measure,Skilled health professionals density (per 10 000 population)
-sdgwshbod,measure,Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population)
-se_dev_ontrk,measure,"Children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development and learning (%)"
+sg_reg_census,measure,Proportion of countries that have conducted at least one population and housing census in the last 10 years (%)
+shs_1,measure,Percentage of children under 15 years exposed to second-hand smoke
+shs_10,measure,Second-hand smoke attributable DALYs ('000) in children under 5 years
+shs_11,measure,Second-hand smoke  attributable DALYs per 100'000 children under 5 years
+shs_2,measure,Percentage of women (15+ years) exposed to second-hand smoke
+shs_3,measure,Percentage of men (15+ years) exposed to second-hand smoke
+shs_4,measure,Second-hand smoke attributable deaths
+shs_5,measure,Second-hand smoke attributable DALYs ('000)
+shs_6,measure,Second-hand smoke attributable deaths per 100'000 capita
+shs_7,measure,Second-hand smoke attributable DALYs per 100'000 capita
+shs_8,measure,Second-hand smoke attributable deaths ('000) in children under 5 years
+shs_9,measure,Second-hand smoke  attributable deaths per 100'000 children under 5 years
 si_pov_day1,measure,Proportion of population below the international poverty line of US$1.90 per day (%)
-sp_dyn_mrbf15,measure,Proportion of women aged 20-24 years who were married or in a union by age 15 (%)
-sp_dyn_mrbf18,measure,Proportion of women aged 20-24 years who were married or in a union by age 18 (%)
+sti_chlamydia_cases_num,measure,Reported cases of chlamydia (number)
+sti_urethral_cases_num,measure,Reported cases of urethral discharge among men (number)
+sud_servicecapacityindex,measure,Service Capacity Index for Substance Use Disorders (SCI-SUD)
+sw_condomuse_percent,measure,Sex workers: Condom use (percent)
+sw_pse_num,measure,Sex workers: Population size estimate (number)
+sw_syphilisprev_percent,measure,Sex workers: Syphilis prevalence (percent)
 tb_1,measure,Tuberculosis treatment coverage
 tb_c_dst_rlt_new_pct,measure,New cases tested for RR-/MDR-TB (%)
 tb_c_dst_rlt_ret_pct,measure,Previously treated cases tested for RR-/MDR-TB (%)
@@ -395,7 +584,6 @@ tb_c_lab_dst_5m,measure,Laboratories providing drug susceptibility testing (DST)
 tb_c_lab_sm_100k,measure,Laboratories providing tuberculosis diagnostic services using sputum smear microscopy (per 100 000 population)
 tb_c_mdr_tsr,measure,Treatment success rate for patients treated for MDR-TB (%)
 tb_c_mdr_tx,measure,Cases started on MDR-TB treatment
-tb_c_new_snep_tsr,measure,Treatment success rate for new pulmonary smear-negative and extrapulmonary tuberculosis cases
 tb_c_new_tsr,measure,Treatment success rate: new TB cases
 tb_c_newinc,measure,Tuberculosis - new and relapse cases
 tb_c_notified,measure,Total number of notified TB cases
@@ -404,151 +592,91 @@ tb_c_tbhiv_tsr,measure,Treatment success rate: HIV-positive TB cases
 tb_c_xdr_tsr,measure,Treatment success rate: XDR-TB cases
 tb_conf_mdr_tx_pct,measure,Confirmed cases of MDR-TB started treatment for MDR-TB (%)
 tb_e_inc_num,measure,Number of incident tuberculosis cases
+tb_e_inc_num_014,measure,Number of incident tuberculosis cases in children aged 0 - 14
+tb_e_inc_rr_num,measure,Estimated number of MDR/RR-TB incident cases
 tb_e_inc_tbhiv_100k,measure,Incidence of tuberculosis (per 100 000 population) (HIV-positive cases)
 tb_e_inc_tbhiv_num,measure,"Number of incident tuberculosis cases,  (HIV-positive cases)"
-tb_e_mdr_num,measure,Estimated MDR-TB cases among notified pulmonary TB cases
 tb_e_mort_exc_tbhiv_num,measure,"Number of deaths due to tuberculosis, excluding HIV"
 tb_e_prev_num,measure,Number of prevalent tuberculosis cases
-tb_e_rr_in_notified_pulm,measure,Estimated MDR/RR-TB cases among notified pulmonary TB cases
 tb_hiv_art_pct,measure,HIV-positive TB patients on ART (antiretroviral therapy) (%)
 tb_hiv_cpt_pct,measure,HIV-positive TB patients on CPT (co-trimoxazole preventive therapy) (%)
 tb_hivtest_pct,measure,TB patients with known HIV status (%)
 tb_hivtest_pos_pct,measure,Tested TB patients HIV-positive (%)
 tb_mdr,measure,Confirmed cases of MDR-TB
-tb_new_clindx,measure,"New or unknown treatment history cases: Pulmonary, clinically diagnosed"
-tb_new_ep,measure,New cases: extrapulmonary
 tb_new_labconf,measure,"New or unknown treatment history cases: Pulmonary, bacteriologically confirmed"
 tb_new_oth,measure,New cases: other
 tb_new_sn,measure,New cases: pulmonary smear-negative
-tb_new_snsuoth,measure,"New cases: Pulmonary, smear-negative/unknown/not done and other new cases"
-tb_new_sp,measure,"New cases: Pulmonary, smear-positive"
 tb_new_su,measure,New cases: pulmonary smear unknown/not done
-tb_newret_oth,measure,Treatment history unknown
-tb_ret_nrel,measure,"Previously treated  cases, excluding relapse"
 tb_ret_oth,measure,Retreatment cases: other
-tb_ret_rel,measure,Relapse cases (pre-2013 definition)
-tb_ret_rel_clindx,measure,"Relapse cases: Pulmonary, clinically diagnosed"
-tb_ret_rel_ep,measure,Relapse cases: extrapulmonary
-tb_ret_rel_labconf,measure,"Relapse cases: Pulmonary, bacteriologically confirmed"
 tb_ret_tad,measure,Retreatment cases: treatment after default (pulmonary smear and/or culture positive)
 tb_ret_taf,measure,Retreatment cases: treatment after failure (pulmonary smear and/or culture positive)
 tb_rr_mdr,measure,Confirmed cases of RR-/MDR-TB
 tb_tot_newrel,measure,Tuberculosis - new and relapse cases
-totenv_5,measure,Deaths attributable to the environment (%)
-totenv_6,measure,Disability-adjusted life years (DALYs) attributable to the environment (%)
-uhc_availability_score,measure,Data availability for UHC index of essential service coverage (%)
-uhc_data_avail_code,measure,Data availability for UHC index of essential service coverage (ranking)
+tg_condomuse_percent,measure,Transgender: Condom use (percent)
+tg_pse_num,measure,Transgender: Population size estimate (number)
+tg_syphilisprev_percent,measure,Transgender: Syphilis prevalence (percent)
+totenv_10,measure,Total environment  attributable DALYs per 100'000 children under 5 years
+totenv_11,measure,Deaths attributable to the environment in children under 5 years (%)
+totenv_12,measure,DALYs attributable to the environment in children under 5 years (%)
+totenv_7,measure,Total environment attributable deaths ('000) in children under 5 years
+totenv_8,measure,Total environment  attributable deaths per 100'000 children under 5 years
+totenv_9,measure,Total environment attributable DALYs ('000) in children under 5 years
+uhc_availability_score,measure,Primary data availability for UHC Service Coverage Index (SDG 3.8.1) (%)
 uhc_ihr,measure,Compliance with international health regulations
-uhc_index_reported,measure,UHC index of essential service coverage (%)
+uhc_index_reported,measure,UHC Service Coverage Index (SDG 3.8.1)
+uhc_sci_capacity,measure,UHC Service Coverage sub-index on service capacity and access
+uhc_sci_infect,measure,UHC Service Coverage sub-index on infectious diseases
+uhc_sci_ncd,measure,UHC Service Coverage sub-index on noncommunicable diseases
+uhc_sci_rmnch,measure,"UHC Service Coverage sub-index on reproductive, maternal, newborn and child health"
+unicef_pncmother,measure,Women age 15-49 years who received a health check within 2 days after delivery of their most recent live birth in the last 2 years (%)
+unicef_pncnewborn,measure,Proportion of newborns who have postnatal contact with a health provider within 2 days of delivery (%)
 uv_1,measure,UV radiation
 uv_2,measure,UV radiation attributable deaths
 uv_3,measure,UV radiation attributable DALYs ('000)
 uv_4,measure,UV radiation attributable deaths per 100'000 capita
 uv_5,measure,UV radiation attributable DALYs per 100'000 capita
-violence_homicidenum,measure,Estimates of number of homicides
+vaccinepreventable_wildpolio,measure,Number of reported cases of poliomyelitis by wild poliovirus (WPV)
 w16_number_hw_a,measure,How many health warnings are approved by the law for cigarette packaging?
+w16_number_hw_b,measure,How many health warnings are approved by the law for other smoked tobacco packaging?
 w16_number_hw_c,measure,How many health warnings are approved by the law for smokeless tobacco packaging?
+w23_emissions_front_back_a,measure,Cigarette packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+w23_emissions_front_back_b,measure,Other smoked tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
+w23_emissions_front_back_c,measure,Smokeless tobacco packaging and labelling must display qualitative information on constituents and emissions on one or more of the principal display areas
 w2_pc_front_back_a,measure,Percentage of principal display area mandated to be covered by health warnings - front and back of cigarette packaging
+w2_pc_front_back_b,measure,Percentage of principal display area mandated to be covered by health warnings - front and back of other smoked tobacco packaging
 w2_pc_front_back_c,measure,Percentage of principal display area mandated to be covered by health warnings - front and back of smokeless tobacco packaging
 w3_pc_front_a,measure,Percentage of principal display area mandated to be covered by health warnings - front of cigarette packaging
+w3_pc_front_b,measure,Percentage of principal display area mandated to be covered by health warnings - front of other smoked tobacco packaging
 w3_pc_front_c,measure,Percentage of principal display area mandated to be covered by health warnings - front of smokeless tobacco packaging
 w4_pc_back_a,measure,Percentage of principal display area mandated to be covered by health warnings - back of cigarette packaging
+w4_pc_back_b,measure,Percentage of principal display area mandated to be covered by health warnings - back of other smoked tobacco packaging
 w4_pc_back_c,measure,Percentage of principal display area mandated to be covered by health warnings - back of smokeless tobacco packaging
-w_group,measure,Warn about the dangers of tobacco
-w_mm_group,measure,Anti-tobacco mass media campaigns
-whosis_000003,measure,Neonatal mortality rate (per 1000 live births)
-whosis_000005,measure,Low-birth-weight newborns (%)
-whosis_000006,measure,Infants exclusively breastfed for the first six months of life (%)
-whosis_000014,measure,Stillbirth rate (per 1000 total births)
-whs10_1,measure,Most recent census (year)
-whs10_10,measure,International Statistical Classification of Diseases and Related Health Problems (ICD)
-whs10_2,measure,Number of cause-of-death registration years available
-whs10_3,measure,Number of national population surveys - child anthropometry
-whs10_4,measure,Number of national population surveys - child mortality
-whs10_5,measure,Number of national population surveys - maternal mortality
-whs10_6,measure,Number of national population surveys -  HIV prevalence
-whs10_7,measure,Number of national population surveys -  adult health
-whs10_8,measure,Civil registration coverage of cause-of-death (%)
 whs10_9,measure,Ill-defined causes in cause-of-death registration (%)
 whs2_138,measure,Deaths due to HIV/AIDS (per 100 000 population)
-whs2_164,measure,Distribution of causes of death among children aged <5 years (%) - Malaria
-whs2_165,measure,Distribution of causes of death among children aged <5 years (%) - Pneumonia
-whs2_166,measure,Distribution of causes of death among children aged <5 years (%) - Injuries
-whs2_167,measure,Distribution of causes of death among children aged <5 years (%) - Diarrhoea
-whs2_168,measure,Distribution of causes of death among children aged <5 years (%) - Measles
-whs2_170,measure,Distribution of causes of death among children aged <5 years (%) - HIV/AIDS
-whs2_171,measure,Distribution of causes of death among children aged <5 years (%) - Other diseases
-whs2_514,measure,Distribution of causes of death among children aged <5 years (%) - Prematurity
-whs2_515,measure,Distribution of causes of death among children aged <5 years (%) - Neonatal sepsis
-whs2_516,measure,Distribution of causes of death among children aged <5 years (%) - Congenital anomalies
-whs2_523,measure,Distribution of causes of death among children aged <5 years (%) - Birth asphyxia
-whs3_40,measure,Cholera - number of reported cases
 whs3_41,measure,Diphtheria - number of reported cases
 whs3_42,measure,Japanese encephalitis - number of reported cases
 whs3_43,measure,Pertussis - number of reported cases
-whs3_45,measure,Leprosy - number of reported cases
+whs3_45,measure,Number of new leprosy cases
 whs3_46,measure,Total tetanus - number of reported cases
-whs3_47,measure,Meningitis - number of reported cases
 whs3_49,measure,Poliomyelitis - number of reported cases
 whs3_50,measure,Yellow fever - number of reported cases
-whs3_51,measure,H5N1 influenza - number of reported cases
-whs3_52,measure,Plague - number of reported cases
 whs3_53,measure,Mumps - number of reported cases
-whs3_54,measure,Number of reported cases of tuberculosis (DOTS)
 whs3_55,measure,Congenital Rubella Syndrome - number of reported cases
 whs3_56,measure,Neonatal tetanus - number of reported cases
 whs3_57,measure,Rubella - number of reported cases
 whs3_62,measure,Measles - number of reported cases
 whs4_100,measure,Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
-whs4_108,measure,Children aged <5 years with ARI symptoms who took antibiotic treatment (%)
 whs4_111,measure,Antenatal care coverage - at least one visit (%)
+whs4_115,measure,Births by caesarean section (%)
 whs4_117,measure,Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
-whs4_124,measure,Children aged 6-59 months who received vitamin A supplementation (%)
 whs4_128,measure,Neonates protected at birth against neonatal tetanus (PAB) (%)
 whs4_129,measure,Hib (Hib3) immunization coverage among 1-year-olds (%)
-whs4_154,measure,Antenatal care coverage - at least four visits (%)
 whs4_543,measure,BCG immunization coverage among 1-year-olds (%)
+whs4_544,measure,Polio (Pol3) immunization coverage among 1-year-olds (%)
 whs6_101,measure,Median availability of selected generic medicines (%) - Private
+whs6_102,measure,Hospital beds (per 10 000 population)
 whs6_116,measure,Median consumer price ratio of selected generic medicines - Private
-whs6_123,measure,Number of dentistry personnel
-whs6_125,measure,Physicians density (per 10 000 population)
-whs6_127,measure,Number of nursing and midwifery personnel
-whs6_140,measure,Number of community health workers
-whs6_144,measure,Dentistry personnel density (per 10 000 population)
-whs6_148,measure,Nursing and midwifery personnel density (per 10 000 population)
-whs6_150,measure,Community health workers density (per 10 000 population)
-whs6_517,measure,Number of pharmaceutical personnel
-whs6_518,measure,Number of environment and public health workers
-whs6_519,measure,Density of pharmaceutical personnel (per 10 000 population)
-whs6_520,measure,Density of environment and public health workers (per 10 000 population)
-whs7_103,measure,Private prepaid plans as a percentage of private expenditure on health
-whs7_104,measure,Per capita government expenditure on health at average exchange rate (US$)
-whs7_105,measure,Per capita total expenditure on health (PPP int. $)
-whs7_108,measure,Per capita government expenditure on health (PPP int. $)
-whs7_113,measure,General government expenditure on health as a percentage of total government expenditure
-whs7_120,measure,External resources for health as a percentage of total expenditure on health
-whs7_134,measure,Social security expenditure on health as a percentage of general government expenditure on health
-whs7_139,measure,Out-of-pocket expenditure as a percentage of private expenditure on health
-whs7_143,measure,Total expenditure on health as a percentage of gross domestic product
-whs7_147,measure,Private expenditure on health as a percentage of total expenditure on health
-whs7_149,measure,General government expenditure on health as a percentage of total expenditure on health
-whs7_150,measure,Out-of-pocket expenditure as a percentage of total expenditure on health
-whs7_156,measure,Per capita total expenditure on health at average exchange rate (US$)
 whs8_110,measure,Measles-containing-vaccine first-dose (MCV1) immunization coverage among 1-year-olds (%)
-whs9_85,measure,Literacy rate among adults aged >= 15 years (%)
-whs9_86,measure,Population (in thousands) total
-whs9_88,measure,Population median age (years)
-whs9_89,measure,Population proportion under 15 (%)
-whs9_90,measure,Population living on <$1 (PPP int. $) a day (%)
-whs9_92,measure,Population proportion over 60 (%)
-whs9_93,measure,Gross national income per capita (PPP int. $)
-whs9_95,measure,Total fertility rate (per woman)
-whs9_96,measure,Population living in urban areas (%)
-whs9_97,measure,Annual population growth rate (%)
-whs9_cbr,measure,Crude birth rate (per 1000 population)
-whs9_cdr,measure,Crude death rate (per 1000 population)
-whs9_cs,measure,Cellular subscribers (per 100 population)
-wsh_1,measure,"Water, sanitation and hygiene attributable deaths"
 wsh_2,measure,"Water, sanitation and hygiene attributable deaths ('000) in children under 5 years"
 wsh_3,measure,"Water, sanitation and hygiene attributable deaths per 100'000 capita"
 wsh_4,measure,"Water, sanitation and hygiene  attributable deaths per 100'000 children under 5 years"
@@ -556,4 +684,5 @@ wsh_5,measure,"Water, sanitation and hygiene attributable DALYs ('000)"
 wsh_6,measure,"Water, sanitation and hygiene attributable DALYs ('000) in children under 5 years"
 wsh_7,measure,"Water, sanitation and hygiene attributable DALYs per 100'000 capita"
 wsh_8,measure,"Water, sanitation and hygiene  attributable DALYs per 100'000 children under 5 years"
+wsh_domestic_waste_safely_treated,measure,SDG 6.3.1 Proportion of safely treated domestic wastewater flows (%)
 year,time,Year
