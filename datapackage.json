@@ -3,7 +3,7 @@
         "name": "English",
         "id": "en-US"
     },
-    "created": "2025-10-05T07:47:23.299Z",
+    "created": "2025-10-21T07:27:04.034Z",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -544,6 +544,85 @@
                     "sex"
                 ]
             }
+        },
+        {
+            "name": "ddf--datapoints--sdgsuicide--by--country--year--agegroup--sex",
+            "path": "ddf--datapoints--sdgsuicide--by--country--year--agegroup--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agegroup"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "sdgsuicide"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "agegroup",
+                    "sex"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--violence_homicidenum--by--country--year--sex",
+            "path": "ddf--datapoints--violence_homicidenum--by--country--year--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "violence_homicidenum"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "sex"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--violence_homiciderate--by--country--year--sex",
+            "path": "ddf--datapoints--violence_homiciderate--by--country--year--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "violence_homiciderate"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "sex"
+                ]
+            }
         }
     ],
     "ddfSchema": {
@@ -654,6 +733,18 @@
             },
             {
                 "primaryKey": [
+                    "agegroup",
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "sdgsuicide",
+                "resources": [
+                    "ddf--datapoints--sdgsuicide--by--country--year--agegroup--sex"
+                ]
+            },
+            {
+                "primaryKey": [
                     "country",
                     "sex",
                     "year"
@@ -672,6 +763,28 @@
                 "value": "sa_0000001452",
                 "resources": [
                     "ddf--datapoints--sa_0000001452--by--country--year--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "violence_homicidenum",
+                "resources": [
+                    "ddf--datapoints--violence_homicidenum--by--country--year--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "violence_homiciderate",
+                "resources": [
+                    "ddf--datapoints--violence_homiciderate--by--country--year--sex"
                 ]
             },
             {

@@ -22,5 +22,8 @@ ncd_chol_meantotalchol_c,"Mean total cholesterol,  crude",measure
 rs_196,Estimated number of road traffic deaths,measure
 rs_198,Estimated road traffic death rate (per 100 000 population),measure
 sa_0000001452,"Age-standardized death rates, road traffic accidents, per 100,000",measure
+sdgsuicide,Crude suicide rates (per 100 000 population),measure
 sex,Sex,entity_domain
+violence_homicidenum,Estimates of number of homicides,measure
+violence_homiciderate,Estimates of rates of homicides per 100 000 population,measure
 year,Year,time

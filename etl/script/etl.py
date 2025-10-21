@@ -42,6 +42,9 @@ INDICATORS_CONFIG = {
     "RS_196": {},
     "RS_198": {},
     "SA_0000001452": {},
+    "SDGSUICIDE": {},
+    "VIOLENCE_HOMICIDENUM": {},
+    "VIOLENCE_HOMICIDERATE": {},
 }
 
 
