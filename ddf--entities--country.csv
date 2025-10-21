@@ -1,248 +1,235 @@
 country,name
-abw,
-afg,Afganistan
+abw,Aruba
+afg,Afghanistan
 ago,Angola
-aia,
+aia,Anguilla
 alb,Albania
 and,Andorra
-ant,
-are,Emiratos A�rabes Unidos
+are,United Arab Emirates
 arg,Argentina
 arm,Armenia
-asm,
-atg,Antigua y Barbuda
+asm,American Samoa
+atg,Antigua and Barbuda
 aus,Australia
 aut,Austria
 aze,Azerbaijan
 bdi,Burundi
-bel,Belgica
+bel,Belgium
 ben,Benin
-bes,
+bes,"Bonaire, Saint Eustatius and Saba"
 bfa,Burkina Faso
 bgd,Bangladesh
 bgr,Bulgaria
-bhr,Bahrein
+bhr,Bahrain
 bhs,Bahamas
-bih,Bosnia y Herzegovina
+bih,Bosnia and Herzegovina
 blr,Belarus
-blz,Belice
-bmu,
-bol,Bolivia (Estado Plurinacional de)
-bra,Brasil
+blz,Belize
+bmu,Bermuda
+bol,Bolivia (Plurinational State of)
+bra,Brazil
 brb,Barbados
 brn,Brunei Darussalam
 btn,Bhutan
 bwa,Botswana
-caf,Republica Centroafricana
+caf,Central African Republic
 can,Canada
-che,Suiza
+che,Switzerland
+chi,Channel islands
 chl,Chile
 chn,China
-civ,Côte d'Ivoire
-cmr,Camerun
-cod,Republica Democratica del Congo
-cog,Congo (el)
-cok,Islas Cook
+civ,Cote d'Ivoire
+cmr,Cameroon
+cod,Democratic Republic of the Congo
+cog,Congo
+cok,Cook Islands
 col,Colombia
-com,Comoras
+com,Comoros
 cpv,Cabo Verde
 cri,Costa Rica
 cub,Cuba
-cuw,
-cym,
-cyp,Chipre
-cze,Republica Checa
-deu,Alemania
+cuw,Curaçao
+cym,Cayman Islands
+cyp,Cyprus
+cze,Czechia
+deu,Germany
 dji,Djibouti
 dma,Dominica
-dnk,Dinamarca
-dom,Republica Dominicana
-dza,Argelia
+dnk,Denmark
+dom,Dominican Republic
+dza,Algeria
 ecu,Ecuador
-egy,Egipto
+egy,Egypt
 eri,Eritrea
-esp,Espana
+esp,Spain
 est,Estonia
-eth,Etiopia
-fin,Finlandia
+eth,Ethiopia
+fin,Finland
 fji,Fiji
-flk,
-fra,Francia
-fro,
-fsm,Micronesia (Estados Federados de)
+flk,Falkland Islands (Malvinas)
+fra,France
+fro,Faroe Islands
+fsm,Micronesia (Federated States of)
 gab,Gabon
-gbr,Reino Unido de Gran Bretana e Irlanda del Norte
+gbr,United Kingdom of Great Britain and Northern Ireland
 geo,Georgia
 gha,Ghana
-gib,
+gib,Gibraltar
 gin,Guinea
-glp,
+glp,Guadeloupe
 gmb,Gambia
 gnb,Guinea-Bissau
-gnq,Guinea Ecuatorial
-grc,Grecia
-grd,Granada
-grl,
+gnq,Equatorial Guinea
+grc,Greece
+grd,Grenada
+grl,Greenland
 gtm,Guatemala
-guf,
-gum,
+guf,French Guiana
+gum,Guam
 guy,Guyana
-hkg,
+hkg,"China, Hong Kong Special Administrative Region"
 hnd,Honduras
-hrv,Croacia
+hrv,Croatia
 hti,Haiti
-hun,Hungria
+hun,Hungary
 idn,Indonesia
+imn,Isle of Man
 ind,India
-irl,Irlanda
-irn,Iran (Republica Islamica del)
+irl,Ireland
+irn,Iran (Islamic Republic of)
 irq,Iraq
-isl,Islandia
+isl,Iceland
 isr,Israel
-ita,Italia
+ita,Italy
 jam,Jamaica
-jor,Jordania
+jor,Jordan
 jpn,Japan
-kaz,Kazajstan
+kaz,Kazakhstan
 ken,Kenya
-kgz,Kirguistan
-khm,Camboya
+kgz,Kyrgyzstan
+khm,Cambodia
 kir,Kiribati
-kna,Saint Kitts y Nevis
-kor,Republica de Corea
+kna,Saint Kitts and Nevis
+kor,Republic of Korea
 kwt,Kuwait
-lao,Republica Democratica Popular Lao
-lbn,Libano
+lao,Lao People's Democratic Republic
+lbn,Lebanon
 lbr,Liberia
-lby,Libia
-lca,Santa Lucia
-lie,
+lby,Libya
+lca,Saint Lucia
+lie,Liechtenstein
 lka,Sri Lanka
 lso,Lesotho
-ltu,Lituania
-lux,Luxemburgo
-lva,Letonia
-mac,
-mar,Marruecos
+ltu,Lithuania
+lux,Luxembourg
+lva,Latvia
+mac,"China, Macao Special Administrative Region"
+mar,Morocco
 mco,Monaco
-mda,la Republica de Moldova
+mda,Republic of Moldova
 mdg,Madagascar
-mdv,Maldivas
-me1,
+mdv,Maldives
+me1,The former state union Serbia and Montenegro
 mex,Mexico
-mhl,Islas Marshall
-mkd,ex Republica Yugoslava de Macedonia
+mhl,Marshall Islands
+mkd,North Macedonia
 mli,Mali
 mlt,Malta
 mmr,Myanmar
 mne,Montenegro
 mng,Mongolia
-mnp,
+mnp,Northern Mariana Islands
 moz,Mozambique
 mrt,Mauritania
-msr,
-mtq,
-mus,Mauricio
+msr,Montserrat
+mtq,Martinique
+mus,Mauritius
 mwi,Malawi
-mys,Malasia
-myt,
-na,
+mys,Malaysia
+myt,Mayotte
 nam,Namibia
-ncl,
+ncl,New Caledonia
 ner,Niger
-nfk,
 nga,Nigeria
 nic,Nicaragua
 niu,Niue
-nld,Paises Bajos
-nor,Noruega
+nld,Netherlands (Kingdom of the)
+nor,Norway
 npl,Nepal
 nru,Nauru
-nzl,Nueva Zelandia
+nzl,New Zealand
 omn,Oman
 pak,Pakistan
 pan,Panama
-pcn,
 per,Peru
-phl,Filipinas
+phl,Philippines
 plw,Palau
-png,Papua Nueva Guinea
-pol,Polonia
-pri,
-prk,Republica Popular Democratica de Corea
+png,Papua New Guinea
+pol,Poland
+pri,Puerto Rico
+prk,Democratic People's Republic of Korea
+prs,Pristina
 prt,Portugal
 pry,Paraguay
-pse,
-pyf,
+pse,"occupied Palestinian territory, including east Jerusalem"
+pyf,French Polynesia
 qat,Qatar
-reu,
-rou,Rumania
-rus,Federacion de Rusia
+reu,Reunion
+rou,Romania
+rus,Russian Federation
 rwa,Rwanda
-sau,Arabia Saudita
-scg,
-sdf,
+sau,Saudi Arabia
 sdn,Sudan
+sdn736,Sudan (former)
 sen,Senegal
-sgp,Singapur
-shn,
-slb,Islas Salomon
-sle,Sierra Leona
+sgp,Singapore
+shn,Saint Helena
+slb,Solomon Islands
+sle,Sierra Leone
 slv,El Salvador
 smr,San Marino
 som,Somalia
-spm,
+spm,Saint Pierre and Miquelon
 srb,Serbia
-ssd,Sudan del Sur
-stp,Santo Tome y Principe
+ssd,South Sudan
+stp,Sao Tome and Principe
 sur,Suriname
-svk,Eslovaquia
-svn,Eslovenia
-swe,Suecia
+svk,Slovakia
+svn,Slovenia
+swe,Sweden
 swz,Eswatini
-sxm,
+sxm,Sint Maarten (Dutch part)
 syc,Seychelles
-syr,Republica Arabe Siria
-tca,
-tcd,Chad (el)
-tgo,Togo (el)
-tha,Tailandia
-tjk,Tayikistan
-tkl,
+syr,Syrian Arab Republic
+tca,Turks and Caicos Islands
+tcd,Chad
+tgo,Togo
+tha,Thailand
+tjk,Tajikistan
+tkl,Tokelau
 tkm,Turkmenistan
 tls,Timor-Leste
 ton,Tonga
-tto,Trinidad y Tabago
-tun,Tunez
-tur,Turquia
+tto,Trinidad and Tobago
+tun,Tunisia
+tur,Türkiye
 tuv,Tuvalu
-tza,Republica Unida de Tanzania
+tza,United Republic of Tanzania
 uga,Uganda
-ukr,Ucrania
+ukr,Ukraine
 ury,Uruguay
-usa,Estados Unidos de America
+usa,United States of America
 uzb,Uzbekistan
-vct,San Vicente y las Granadinas
-ven,Venezuela (Republica Bolivariana de)
-vgb,
-vir,
+vct,Saint Vincent and the Grenadines
+ven,Venezuela (Bolivarian Republic of)
+vgb,British Virgin Islands
+vir,Virgin Islands (USA)
 vnm,Viet Nam
 vut,Vanuatu
-wlf,
+wlf,Wallis and Futuna Islands
 wsm,Samoa
-x10,
-x11,
-x12,
-x13,
-xod,
-xx1,
-xx4,
-xx5,
-xx6,
-xx7,
-xx8,
-xx9,
+xkx,Kosovo (in accordance with UN Security Council resolution 1244 (1999))
 yem,Yemen
-zaf,Sudafrica
+zaf,South Africa
 zmb,Zambia
 zwe,Zimbabwe

@@ -2,26 +2,22 @@
 
 """download all source files from gho API."""
 
-import xmltodict
 import requests
-import os
-import pandas as pd
-import asyncio
-import os, signal
 from concurrent.futures import ProcessPoolExecutor
+import json
 
 
-pool_size = 2
+pool_size = 5
 
 
 def download(i):
-    url = 'http://apps.who.int/gho/athena/data/data-coded.csv?target=GHO/{}'.format(i)
+    url = f"https://ghoapi.azureedge.net/api/{i}"
     res = requests.get(url)
     if res.status_code != 200:
         print("failed to download: {}, code: {}".format(i, res.status_code))
         return (False, i)
-    with open('../source/{}.csv'.format(i), 'wb') as f:
-        f.write(res.content)
+    with open("../source/{}.json".format(i), "w") as f:
+        json.dump(res.json(), f)
     return (True, i)
 
 
@@ -32,19 +28,15 @@ def run_download(todos):
 
 
 def main():
-    inds = 'http://apps.who.int/gho/athena/api/GHO/'
-    xml = requests.get(inds)
-    xml = xml.content
+    inds = "https://ghoapi.azureedge.net/api/Indicator"
+    json_data = requests.get(inds).json()["value"]
 
-    indi = xmltodict.parse(xml)
+    # IndicatorCode - use for filename and concept id
+    # IndicatorName - use for concept name
+    # Language - only use English data
+    indi_list = [x["IndicatorCode"] for x in json_data if x["Language"] == "EN"]
 
-    indi_list = []
-
-    for i in indi['GHO']['Metadata']['Dimension']['Code']:
-        # print(i)
-        indi_list.append(i['@Label'])
-
-    print('{} files to be downloaded.'.format(len(indi_list)) )
+    print("{} files to be downloaded.".format(len(indi_list)))
 
     result = run_download(indi_list)
     for status, i in result:
@@ -52,6 +44,6 @@ def main():
             print(i)
 
 
-if __name__ == '__main__':
-    print('Downloading source files...')
+if __name__ == "__main__":
+    print("Downloading source files...")
     main()
