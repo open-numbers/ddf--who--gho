@@ -45,6 +45,11 @@ INDICATORS_CONFIG = {
     "SDGSUICIDE": {},
     "VIOLENCE_HOMICIDENUM": {},
     "VIOLENCE_HOMICIDERATE": {},
+    "M_Est_tob_curr_std": {},
+    "WHOSIS_000003": {},
+    "CM_03": {},
+    "MDG_0000000007": {},
+    "CM_01": {},
 }
 
 

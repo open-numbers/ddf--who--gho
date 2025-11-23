@@ -1,6 +1,8 @@
 concept,name,concept_type
 agegroup,Agegroup,entity_domain
 childcause,Childcause,entity_domain
+cm_01,Number of under-five deaths,measure
+cm_03,Number of neonatal deaths,measure
 country,Country,entity_domain
 gbdchildcauses,Gbdchildcauses,entity_domain
 ghed_che_pc_us_sha2011,Current health expenditure (CHE) per capita in US$,measure
@@ -12,6 +14,8 @@ ghed_oopsche_sha2011,Out-of-pocket expenditure as percentage of current health e
 ghed_pvt_dche_sha2011,Domestic private health expenditure (PVT-D) as percentage of current health expenditure (CHE) (%),measure
 hiv_0000000026,Number of new HIV infections,measure
 hiv_artcoverage,Estimated antiretroviral therapy coverage among people living with HIV (%),measure
+m_est_tob_curr_std,Estimate of current tobacco use prevalence (%) (age-standardized rate),measure
+mdg_0000000007,Under-five mortality rate (probability of dying by age 5 per 1000 live births),measure
 mdg_0000000026,Maternal mortality ratio (per 100 000 live births),measure
 mdg_0000000029,Prevalence of HIV among adults aged 15 to 49 (%),measure
 mort_100,"Number of deaths in children aged <5 years, by cause",measure
@@ -26,4 +30,6 @@ sdgsuicide,Crude suicide rates (per 100 000 population),measure
 sex,Sex,entity_domain
 violence_homicidenum,Estimates of number of homicides,measure
 violence_homiciderate,Estimates of rates of homicides per 100 000 population,measure
+wealthquintile,Wealthquintile,entity_domain
+whosis_000003,Neonatal mortality rate (per 1000 live births),measure
 year,Year,time

@@ -3,7 +3,7 @@
         "name": "English",
         "id": "en-US"
     },
-    "created": "2025-10-21T07:27:04.034Z",
+    "created": "2025-11-23T04:12:33.848Z",
     "resources": [
         {
             "name": "ddf--concepts",
@@ -106,6 +106,85 @@
                     }
                 ],
                 "primaryKey": [
+                    "sex"
+                ]
+            }
+        },
+        {
+            "name": "ddf--entities--wealthquintile",
+            "path": "ddf--entities--wealthquintile.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "wealthquintile"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": [
+                    "wealthquintile"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cm_01--by--country--year--agegroup--sex--wealthquintile",
+            "path": "ddf--datapoints--cm_01--by--country--year--agegroup--sex--wealthquintile.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agegroup"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "wealthquintile"
+                    },
+                    {
+                        "name": "cm_01"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "agegroup",
+                    "sex",
+                    "wealthquintile"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--cm_03--by--country--year--agegroup--sex",
+            "path": "ddf--datapoints--cm_03--by--country--year--agegroup--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agegroup"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "cm_03"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "agegroup",
                     "sex"
                 ]
             }
@@ -296,6 +375,64 @@
                 "primaryKey": [
                     "country",
                     "year"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--m_est_tob_curr_std--by--country--year--sex",
+            "path": "ddf--datapoints--m_est_tob_curr_std--by--country--year--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "m_est_tob_curr_std"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "sex"
+                ]
+            }
+        },
+        {
+            "name": "ddf--datapoints--mdg_0000000007--by--country--year--agegroup--sex--wealthquintile",
+            "path": "ddf--datapoints--mdg_0000000007--by--country--year--agegroup--sex--wealthquintile.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agegroup"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "wealthquintile"
+                    },
+                    {
+                        "name": "mdg_0000000007"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "agegroup",
+                    "sex",
+                    "wealthquintile"
                 ]
             }
         },
@@ -623,6 +760,35 @@
                     "sex"
                 ]
             }
+        },
+        {
+            "name": "ddf--datapoints--whosis_000003--by--country--year--agegroup--sex",
+            "path": "ddf--datapoints--whosis_000003--by--country--year--agegroup--sex.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "country"
+                    },
+                    {
+                        "name": "year"
+                    },
+                    {
+                        "name": "agegroup"
+                    },
+                    {
+                        "name": "sex"
+                    },
+                    {
+                        "name": "whosis_000003"
+                    }
+                ],
+                "primaryKey": [
+                    "country",
+                    "year",
+                    "agegroup",
+                    "sex"
+                ]
+            }
         }
     ],
     "ddfSchema": {
@@ -691,6 +857,15 @@
                 "resources": [
                     "ddf--entities--sex"
                 ]
+            },
+            {
+                "primaryKey": [
+                    "wealthquintile"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--wealthquintile"
+                ]
             }
         ],
         "datapoints": [
@@ -724,6 +899,44 @@
                     "agegroup",
                     "country",
                     "sex",
+                    "wealthquintile",
+                    "year"
+                ],
+                "value": "cm_01",
+                "resources": [
+                    "ddf--datapoints--cm_01--by--country--year--agegroup--sex--wealthquintile"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "agegroup",
+                    "country",
+                    "sex",
+                    "wealthquintile",
+                    "year"
+                ],
+                "value": "mdg_0000000007",
+                "resources": [
+                    "ddf--datapoints--mdg_0000000007--by--country--year--agegroup--sex--wealthquintile"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "agegroup",
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "cm_03",
+                "resources": [
+                    "ddf--datapoints--cm_03--by--country--year--agegroup--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "agegroup",
+                    "country",
+                    "sex",
                     "year"
                 ],
                 "value": "ncd_bmi_meanc",
@@ -741,6 +954,29 @@
                 "value": "sdgsuicide",
                 "resources": [
                     "ddf--datapoints--sdgsuicide--by--country--year--agegroup--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "agegroup",
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "whosis_000003",
+                "resources": [
+                    "ddf--datapoints--whosis_000003--by--country--year--agegroup--sex"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "country",
+                    "sex",
+                    "year"
+                ],
+                "value": "m_est_tob_curr_std",
+                "resources": [
+                    "ddf--datapoints--m_est_tob_curr_std--by--country--year--sex"
                 ]
             },
             {
